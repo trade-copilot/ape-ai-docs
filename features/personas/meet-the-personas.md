@@ -10,7 +10,7 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ## 💰 Money - The General Trader
 
-![Money Persona](../../screenshots/ios/persona-money.jpg)
+![Money Persona](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/persona-money.jpg)
 
 ### **"Adapt and thrive. Trade what works."**
 
@@ -85,7 +85,7 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ## 🦧 Sage - The Value Investor
 
-![Sage Persona](../../screenshots/ios/persona-sage.jpg)
+![Sage Persona](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/persona-sage.jpg)
 
 ### **"Build wealth slowly, quality over speed."**
 
@@ -164,7 +164,7 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ## 📊 Maverick - The Momentum Trader
 
-![Maverick Persona](../../screenshots/ios/persona-maverick.jpg)
+![Maverick Persona](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/persona-maverick.jpg)
 
 ### **"Catch the wave, ride the momentum."**
 
@@ -243,7 +243,7 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ## 🚀 Blitz - The Day Trader
 
-![Blitz Persona](../../screenshots/ios/persona-blitz.jpg)
+![Blitz Persona](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/persona-blitz.jpg)
 
 ### **"Fast money, intraday moves, let's get it."**
 
@@ -418,12 +418,12 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 **Learn More:**
 - [What Are Personas? →](what-are-personas.md) - Persona basics
-- [AI Chat Basics →](../chat/basics.md) - See personas in action
+- [AI Chat Basics →](../Chat/basics.md) - See personas in action
 
 **Try Workflows:**
-- [Premarket Day Trading Routine](../../workflows/advanced/premarket-routine.md) - Blitz style
-- [Momentum Trade Entry](../../workflows/advanced/momentum-entry.md) - Maverick style
-- [My First Stock Research](../../workflows/beginner/first-research.md) - Sage style
+- [Premarket Day Trading Routine](../../Workflows/Advanced/premarket-routine.md) - Blitz style
+- [Momentum Trade Entry](../../Workflows/Advanced/momentum-entry.md) - Maverick style
+- [My First Stock Research](../../Workflows/Beginner/first-research.md) - Sage style
 
 ---
 

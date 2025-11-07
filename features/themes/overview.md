@@ -99,7 +99,7 @@ Natural language stock screener. Find stocks by describing what you want.
 3. Or scroll to **"Your Themes"** section
 4. Tap a theme to view stocks in it
 
-![iOS Themes](../../screenshots/ios/themes-section.jpg)
+![iOS Themes](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/themes-section.jpg)
 
 ---
 
@@ -109,7 +109,7 @@ Natural language stock screener. Find stocks by describing what you want.
 3. Browse suggested themes
 4. Click any theme to open
 
-![Web Themes Page](../../screenshots/web/themes-page.jpg)
+![Web Themes Page](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/themes-page.jpg)
 
 ---
 
@@ -127,7 +127,7 @@ Natural language stock screener. Find stocks by describing what you want.
 
 **Tap any stock →** Go to full ticker page
 
-![Theme Stock List](../../screenshots/both/theme-stock-list.jpg)
+![Theme Stock List](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/theme-stock-list.jpg)
 
 ---
 
@@ -163,7 +163,7 @@ Natural language stock screener. Find stocks by describing what you want.
 
 **AI looks at all stocks in your theme and gives recommendations.**
 
-![Ask AI About Theme](../../screenshots/both/ask-ai-theme.jpg)
+![Ask AI About Theme](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/ask-ai-theme.jpg)
 
 ---
 
@@ -368,7 +368,7 @@ Buy 1 from each sector
 - Show: All stocks, top 10, top 25
 - View: List, grid, chart
 
-![Theme Settings](../../screenshots/both/theme-settings.jpg)
+![Theme Settings](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/theme-settings.jpg)
 
 ---
 
@@ -456,8 +456,8 @@ A: Not yet, but theme sharing coming in future update!
 - [Creating Themes →](creating.md) - Step-by-step creation guide
 
 **Use Themes in Workflows:**
-- [Getting AI Trade Ideas →](../../workflows/portfolio/ai-ideas.md) - Generate ideas from themes
-- [Swing Trade Entry Timing →](../../workflows/advanced/swing-entry.md) - Find setups with themes
+- [Getting AI Trade Ideas →](../../Workflows/Portfolio/ai-ideas.md) - Generate ideas from themes
+- [Swing Trade Entry Timing →](../../Workflows/Advanced/swing-entry.md) - Find setups with themes
 
 ---
 

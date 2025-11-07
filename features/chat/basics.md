@@ -28,14 +28,14 @@ AI Chat is your personal trading assistant powered by artificial intelligence. T
 2. Tap **Chat tab** (bottom left)
 3. You'll see the chat interface
 
-![iOS Chat Tab](../../screenshots/ios/chat-tab.jpg)
+![iOS Chat Tab](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/chat-tab.jpg)
 
 ### Web
 1. Go to app.Ape AI.com
 2. Click **Chat** in left sidebar
 3. Chat interface opens
 
-![Web Chat](../../screenshots/web/chat-interface.jpg)
+![Web Chat](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/chat-interface.jpg)
 
 ---
 
@@ -49,7 +49,7 @@ AI Chat is your personal trading assistant powered by artificial intelligence. T
 - **Bottom:** Text input + icons (Prompts, History, Voice, Send)
 - **Quick Action Cards:** Swipeable prompts at top
 
-![iOS Chat Interface](../../screenshots/ios/chat-interface-full.jpg)
+![iOS Chat Interface](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/chat-interface-full.jpg)
 
 **🌐 Web Layout:**
 - **Top:** Persona indicator
@@ -57,7 +57,7 @@ AI Chat is your personal trading assistant powered by artificial intelligence. T
 - **Bottom:** Text input box
 - **Sidebar:** Prompts button (or Ctrl+P)
 
-![Web Chat Interface](../../screenshots/web/chat-full.jpg)
+![Web Chat Interface](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/chat-full.jpg)
 
 ---
 
@@ -111,7 +111,7 @@ AI Chat is your personal trading assistant powered by artificial intelligence. T
 2. Type your question
 3. Press **Enter** or click Send
 
-![Typing in Chat](../../screenshots/both/chat-typing.jpg)
+![Typing in Chat](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/chat-typing.jpg)
 
 ### Use Quick Prompts
 
@@ -142,7 +142,7 @@ Instead of typing, use pre-built prompts:
 
 ### Persona-Based Responses
 
-Your AI adapts to your [chosen persona](../personas/what-are-personas.md):
+Your AI adapts to your [chosen persona](../Personas/what-are-personas.md):
 
 **Example:** "Should I buy TSLA?"
 
@@ -204,7 +204,7 @@ AI remembers your conversation:
 ### Text Analysis
 Most common - AI writes detailed analysis.
 
-![Text Response](../../screenshots/both/chat-text-response.jpg)
+![Text Response](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/chat-text-response.jpg)
 
 ### Trade Setups
 Structured trade recommendations:
@@ -241,7 +241,7 @@ When learning:
 2. Or click History icon
 3. Select conversation to continue
 
-![Chat History](../../screenshots/both/chat-history.jpg)
+![Chat History](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/chat-history.jpg)
 
 ### Start New Chat
 - Fresh conversation, no context from previous
@@ -321,7 +321,7 @@ AI finds setups, you execute from chat.
 
 ### Ask Maverick (Portfolio)
 AI specifically for portfolio questions.
-[Learn more →](../portfolio/ask-maverick.md)
+[Learn more →](../Portfolio/ask-maverick.md)
 
 ---
 
@@ -355,12 +355,12 @@ A: Yes, conversations are private to your account.
 - [Execute Trades →](execute-trades.md) - Trade from chat
 
 **Try Workflows:**
-- [My First Stock Research →](../../workflows/beginner/first-research.md)
-- [Premarket Routine →](../../workflows/advanced/premarket-routine.md)
+- [My First Stock Research →](../../Workflows/Beginner/first-research.md)
+- [Premarket Routine →](../../Workflows/Advanced/premarket-routine.md)
 
 **Learn About Personas:**
-- [What Are Personas? →](../personas/what-are-personas.md)
-- [Meet the Personas →](../personas/meet-the-personas.md)
+- [What Are Personas? →](../Personas/what-are-personas.md)
+- [Meet the Personas →](../Personas/meet-the-personas.md)
 
 ---
 

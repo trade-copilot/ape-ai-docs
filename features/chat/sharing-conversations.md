@@ -35,14 +35,14 @@ Share AI insights with friends and fellow apes. One tap to generate a shareable 
 2. Ask AI any question
 3. Wait for response to complete
 
-![iOS Chat with Share Button](../../screenshots/ios/chat-with-share-button.png)
+![iOS Chat with Share Button](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/chat-with-share-button.png)
 
 ### Step 2: Tap Share Button
 1. Look for **share icon** (top right corner)
 2. Tap the **share button**
 3. Share dialog appears
 
-![iOS Share Dialog](../../screenshots/ios/share-conversation-dialog.png)
+![iOS Share Dialog](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/share-conversation-dialog.png)
 
 The share dialog shows:
 - **Title:** "Share Conversation"
@@ -59,7 +59,7 @@ The share dialog shows:
    - **Mail** - Send via email
    - **Other apps** - WhatsApp, Telegram, etc.
 
-![iOS Share Sheet](../../screenshots/ios/ios-share-sheet.png)
+![iOS Share Sheet](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/ios-share-sheet.png)
 
 ✅ **Done!** Anyone with the link can view the conversation.
 
@@ -72,14 +72,14 @@ The share dialog shows:
 2. Ask AI any question
 3. Wait for response to complete
 
-![Web Chat with Share Button](../../screenshots/web/chat-with-share-button.png)
+![Web Chat with Share Button](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/chat-with-share-button.png)
 
 ### Step 2: Click Share Button
 1. Look for **"Share"** button (top right)
 2. Click the **Share** button
 3. Share dialog appears
 
-![Web Share Dialog](../../screenshots/web/share-dialog.png)
+![Web Share Dialog](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/share-dialog.png)
 
 The share dialog shows:
 - **Title:** "Share Conversation"
@@ -93,7 +93,7 @@ The share dialog shows:
 2. Link **automatically copied** to clipboard
 3. Notification confirms: "Copied to clipboard"
 
-![Web Share Link Copied](../../screenshots/web/share-link-copied.png)
+![Web Share Link Copied](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/share-link-copied.png)
 
 4. **Paste the link** wherever you want:
    - Discord
@@ -349,8 +349,8 @@ Share multiple AI conversations about same stock:
 - [Custom Prompts →](custom-prompts.md) - Create your templates
 
 **Try These Workflows:**
-- [My First Stock Research →](../../workflows/beginner/first-research.md)
-- [Daily Trading Routine →](../../workflows/intermediate/daily-routine.md)
+- [My First Stock Research →](../../Workflows/Beginner/first-research.md)
+- [Daily Trading Routine →](../../Workflows/intermediate/daily-routine.md)
 
 ---
 

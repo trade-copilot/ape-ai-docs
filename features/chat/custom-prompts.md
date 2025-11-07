@@ -55,7 +55,7 @@ Create and save your own AI prompts for questions you ask repeatedly.
 4. Name your prompt
 5. Tap **Save**
 
-![Save Custom Prompt iOS](../../screenshots/ios/save-custom-prompt.jpg)
+![Save Custom Prompt iOS](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/save-custom-prompt.jpg)
 
 **Method 2: Create from Prompts Menu**
 1. In Chat, tap **Prompts icon** (bottom toolbar)
@@ -64,7 +64,7 @@ Create and save your own AI prompts for questions you ask repeatedly.
 4. Name it
 5. Tap **Save**
 
-![Create Custom Prompt iOS](../../screenshots/ios/create-custom-prompt.jpg)
+![Create Custom Prompt iOS](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/create-custom-prompt.jpg)
 
 ---
 
@@ -78,7 +78,7 @@ Create and save your own AI prompts for questions you ask repeatedly.
 5. Name your prompt
 6. Click **Save**
 
-![Save Custom Prompt Web](../../screenshots/web/save-custom-prompt.jpg)
+![Save Custom Prompt Web](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/save-custom-prompt.jpg)
 
 **Method 2: Create from Prompts Menu**
 1. In Chat, click **Prompts icon** or press **Ctrl+P**
@@ -87,7 +87,7 @@ Create and save your own AI prompts for questions you ask repeatedly.
 4. Name it
 5. Click **Save**
 
-![Create Custom Prompt Web](../../screenshots/web/create-custom-prompt.jpg)
+![Create Custom Prompt Web](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/create-custom-prompt.jpg)
 
 ---
 
@@ -181,7 +181,7 @@ Create and save your own AI prompts for questions you ask repeatedly.
 2. Tab to **"Custom"**
 3. Browse your prompts
 
-![Custom Prompts List](../../screenshots/both/custom-prompts-list.jpg)
+![Custom Prompts List](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/custom-prompts-list.jpg)
 
 ---
 
@@ -428,8 +428,8 @@ A: Old chat messages stay the same, but future uses will use the new version.
 - [Execute Trades →](execute-trades.md) - Trade from chat
 
 **Try These Workflows:**
-- [Premarket Routine →](../../workflows/advanced/premarket-routine.md) - Uses custom prompts
-- [Morning Market Check →](../../workflows/daily/morning.md) - Build morning routine
+- [Premarket Routine →](../../Workflows/Advanced/premarket-routine.md) - Uses custom prompts
+- [Morning Market Check →](../../Workflows/daily/morning.md) - Build morning routine
 
 ---
 

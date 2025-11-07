@@ -30,7 +30,7 @@ Build your own stock lists using natural language. No complex filters needed.
 2. Swipe to **"Themes"** section
 3. Tap **"+ Create New Theme"** button
 
-![iOS Create Theme Button](../../screenshots/ios/create-theme-button.jpg)
+![iOS Create Theme Button](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/create-theme-button.jpg)
 
 ---
 
@@ -42,7 +42,7 @@ Build your own stock lists using natural language. No complex filters needed.
 **Example:**
 > "Tech stocks under $100 with positive earnings growth"
 
-![iOS Theme Description](../../screenshots/ios/theme-description-input.jpg)
+![iOS Theme Description](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/theme-description-input.jpg)
 
 ---
 
@@ -60,7 +60,7 @@ Build your own stock lists using natural language. No complex filters needed.
 3. Stocks matching your criteria appear
 4. Theme saved to your collection
 
-![iOS Theme Created](../../screenshots/ios/theme-created-success.jpg)
+![iOS Theme Created](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/theme-created-success.jpg)
 
 ---
 
@@ -70,7 +70,7 @@ Build your own stock lists using natural language. No complex filters needed.
 1. Go to **Themes** page (left sidebar)
 2. Click **"+ Create New Theme"** button (top right)
 
-![Web Create Theme Button](../../screenshots/web/create-theme-button.jpg)
+![Web Create Theme Button](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/create-theme-button.jpg)
 
 ---
 
@@ -87,7 +87,7 @@ Build your own stock lists using natural language. No complex filters needed.
 3. View results immediately
 4. Refine if needed
 
-![Web Theme Creation Form](../../screenshots/web/theme-creation-form.jpg)
+![Web Theme Creation Form](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/theme-creation-form.jpg)
 
 ---
 
@@ -401,7 +401,7 @@ Build your own stock lists using natural language. No complex filters needed.
 4. Update criteria
 5. Click **"Save Changes"**
 
-![Edit Theme](../../screenshots/both/edit-theme.jpg)
+![Edit Theme](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/edit-theme.jpg)
 
 ---
 
@@ -577,8 +577,8 @@ A: Yes! "Cryptocurrency-related stocks" or "Bitcoin exposure companies"
 - [Suggested Themes →](suggested.md) - Pre-built themes to try
 
 **Use Themes in Trading:**
-- [Getting AI Trade Ideas →](../../workflows/portfolio/ai-ideas.md) - Generate from themes
-- [Swing Trade Entry Timing →](../../workflows/advanced/swing-entry.md) - Find setups
+- [Getting AI Trade Ideas →](../../Workflows/Portfolio/ai-ideas.md) - Generate from themes
+- [Swing Trade Entry Timing →](../../Workflows/Advanced/swing-entry.md) - Find setups
 
 ---
 

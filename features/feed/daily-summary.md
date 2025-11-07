@@ -76,7 +76,7 @@ AI-generated market recap. Know everything in 60 seconds.
 >
 > **Setup:** Tech breakouts if SPY clears $451. Otherwise range-bound day.
 
-![Morning Summary](../../screenshots/both/morning-summary.jpg)
+![Morning Summary](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/morning-summary.jpg)
 
 ---
 
@@ -141,7 +141,7 @@ AI-generated market recap. Know everything in 60 seconds.
 >
 > **Tomorrow:** Watch for SPY to hold $452 support. Tech momentum likely continues.
 
-![Evening Summary](../../screenshots/both/evening-summary.jpg)
+![Evening Summary](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/evening-summary.jpg)
 
 ---
 
@@ -153,7 +153,7 @@ AI-generated market recap. Know everything in 60 seconds.
 3. Swipe right to view
 4. Tap card to expand full summary
 
-![iOS Daily Summary](../../screenshots/ios/daily-summary-card.jpg)
+![iOS Daily Summary](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/daily-summary-card.jpg)
 
 ---
 
@@ -163,7 +163,7 @@ AI-generated market recap. Know everything in 60 seconds.
 3. Featured prominently
 4. Click to expand full details
 
-![Web Daily Summary](../../screenshots/web/daily-summary-home.jpg)
+![Web Daily Summary](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/daily-summary-home.jpg)
 
 ---
 
@@ -259,7 +259,7 @@ AI-generated market recap. Know everything in 60 seconds.
 
 **You'll get push notification when new summary is ready.**
 
-![Daily Summary Notifications](../../screenshots/ios/daily-summary-notification.jpg)
+![Daily Summary Notifications](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/daily-summary-notification.jpg)
 
 ---
 
@@ -469,8 +469,8 @@ A: No. Markets closed = no daily summary. Returns Monday morning.
 - [Trending Stocks →](trending.md) - What's hot
 
 **Use Summary in Workflows:**
-- [Morning Market Check →](../../workflows/daily/morning.md) - Start here
-- [Premarket Routine →](../../workflows/advanced/premarket-routine.md) - Day trader morning
+- [Morning Market Check →](../../Workflows/daily/morning.md) - Start here
+- [Premarket Routine →](../../Workflows/Advanced/premarket-routine.md) - Day trader morning
 
 ---
 

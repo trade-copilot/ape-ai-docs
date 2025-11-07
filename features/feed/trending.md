@@ -44,7 +44,7 @@ See what's hot right now. Catch momentum before everyone else.
 
 **AMD spiking 200%?** Something's happening. Check it out!
 
-![Most Searched](../../screenshots/both/trending-most-searched.jpg)
+![Most Searched](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/trending-most-searched.jpg)
 
 ---
 
@@ -130,7 +130,7 @@ See what's hot right now. Catch momentum before everyone else.
 
 **GME spiking in WSB mentions?** You know what that means. Proceed with caution. 😅
 
-![Social Trending](../../screenshots/both/trending-social.jpg)
+![Social Trending](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/trending-social.jpg)
 
 ---
 
@@ -183,7 +183,7 @@ See what's hot right now. Catch momentum before everyone else.
 4. Swipe left/right to see more in each category
 5. Tap any stock to view ticker page
 
-![iOS Trending](../../screenshots/ios/trending-section.jpg)
+![iOS Trending](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/trending-section.jpg)
 
 ---
 
@@ -193,7 +193,7 @@ See what's hot right now. Catch momentum before everyone else.
 3. Or scroll down in main feed
 4. Click any ticker to open ticker page
 
-![Web Trending](../../screenshots/web/trending-sidebar.jpg)
+![Web Trending](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/trending-sidebar.jpg)
 
 ---
 
@@ -222,7 +222,7 @@ See what's hot right now. Catch momentum before everyone else.
    - Research top 3
    - Plan potential trades
 
-![Morning Trending Routine](../../screenshots/both/morning-trending-flow.jpg)
+![Morning Trending Routine](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/morning-trending-flow.jpg)
 
 ---
 
@@ -483,8 +483,8 @@ A: It's a tool, not a strategy. Use it to find ideas, then do your own analysis.
 - [Banana Bites →](banana-bites.md) - Learn while you scroll
 
 **Use Trending in Workflows:**
-- [Following WSB Trends →](../../workflows/trader/wsb-trends.md) - Trade social momentum
-- [Premarket Routine →](../../workflows/advanced/premarket-routine.md) - Use Pre-Market Movers
+- [Following WSB Trends →](../../Workflows/Trader/wsb-trends.md) - Trade social momentum
+- [Premarket Routine →](../../Workflows/Advanced/premarket-routine.md) - Use Pre-Market Movers
 
 ---
 

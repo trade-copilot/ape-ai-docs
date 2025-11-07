@@ -39,7 +39,7 @@ Advanced AI-powered portfolio insights and analytics.
 - Portfolio → AI Tools → Risk Analysis
 - Or ask Maverick: "Analyze my portfolio risk"
 
-![Risk Analysis Dashboard](../../screenshots/both/risk-analysis-tool.jpg)
+![Risk Analysis Dashboard](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/risk-analysis-tool.jpg)
 
 ---
 
@@ -88,7 +88,7 @@ Advanced AI-powered portfolio insights and analytics.
 - Portfolio → AI Tools → Performance Attribution
 - Or ask Maverick: "Why am I up/down this month?"
 
-![Performance Attribution](../../screenshots/both/performance-attribution.jpg)
+![Performance Attribution](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/performance-attribution.jpg)
 
 ---
 
@@ -136,7 +136,7 @@ Advanced AI-powered portfolio insights and analytics.
 - Portfolio → AI Tools → Find Opportunities
 - Or ask Maverick: "What opportunities am I missing?"
 
-![Opportunity Scanner](../../screenshots/both/opportunity-scanner.jpg)
+![Opportunity Scanner](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/opportunity-scanner.jpg)
 
 ---
 
@@ -178,7 +178,7 @@ Advanced AI-powered portfolio insights and analytics.
 **Access:**
 - Portfolio → AI Tools → Correlation Matrix
 
-![Correlation Matrix](../../screenshots/both/correlation-matrix.jpg)
+![Correlation Matrix](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/correlation-matrix.jpg)
 
 ---
 
@@ -218,7 +218,7 @@ XOM      0.10  0.08  0.05  0.03  0.25  1.00
 **Access:**
 - Portfolio → AI Tools → Sector Optimizer
 
-![Sector Optimizer](../../screenshots/both/sector-optimizer.jpg)
+![Sector Optimizer](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/sector-optimizer.jpg)
 
 ---
 
@@ -263,7 +263,7 @@ XOM      0.10  0.08  0.05  0.03  0.25  1.00
 **Access:**
 - Portfolio → AI Tools → Tax Optimizer
 
-![Tax Optimizer](../../screenshots/both/tax-optimizer.jpg)
+![Tax Optimizer](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/tax-optimizer.jpg)
 
 ---
 
@@ -466,8 +466,8 @@ A: Advanced features. Beginners should focus on Ask Maverick first, then graduat
 - [Ask Maverick →](ask-maverick.md) - Portfolio AI chat
 
 **Apply in Workflows:**
-- [Portfolio Health Check →](../../workflows/portfolio/health-check.md) - Full review
-- [Getting AI Ideas →](../../workflows/portfolio/ai-ideas.md) - Find opportunities
+- [Portfolio Health Check →](../../Workflows/Portfolio/health-check.md) - Full review
+- [Getting AI Ideas →](../../Workflows/Portfolio/ai-ideas.md) - Find opportunities
 
 ---
 

@@ -48,7 +48,7 @@ A-F letter grades for every stock. Know at a glance if it's a buy.
 > - Low debt
 > - Strong moat (ecosystem lock-in)
 
-![Fundamental Grade](../../screenshots/both/fundamental-grade.jpg)
+![Fundamental Grade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/fundamental-grade.jpg)
 
 ---
 
@@ -76,7 +76,7 @@ A-F letter grades for every stock. Know at a glance if it's a buy.
 > - Uptrend intact ✅
 > - Minor concern: Extended short-term
 
-![Technical Grade](../../screenshots/both/technical-grade.jpg)
+![Technical Grade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/technical-grade.jpg)
 
 ---
 
@@ -103,7 +103,7 @@ A-F letter grades for every stock. Know at a glance if it's a buy.
 > - Twitter: #1 trending stock ticker
 > - Institutional buying: Heavy
 
-![Sentiment Grade](../../screenshots/both/sentiment-grade.jpg)
+![Sentiment Grade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/sentiment-grade.jpg)
 
 ---
 
@@ -131,7 +131,7 @@ A-F letter grades for every stock. Know at a glance if it's a buy.
 > - Business turnaround uncertain
 > - Small market cap = more volatile
 
-![Risk Grade](../../screenshots/both/risk-grade.jpg)
+![Risk Grade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/risk-grade.jpg)
 
 ---
 
@@ -155,7 +155,7 @@ A-F letter grades for every stock. Know at a glance if it's a buy.
 >
 > **Total: 3.76 = A-**
 
-![Overall Grade](../../screenshots/both/overall-grade-card.jpg)
+![Overall Grade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/overall-grade-card.jpg)
 
 ---
 
@@ -354,7 +354,7 @@ A-F letter grades for every stock. Know at a glance if it's a buy.
 >
 > **Overall:** World-class fundamentals. Minor concern on growth rate, but still excellent.
 
-![Expanded Grade Details](../../screenshots/both/expanded-grade-details.jpg)
+![Expanded Grade Details](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/expanded-grade-details.jpg)
 
 ---
 
@@ -517,8 +517,8 @@ A: Depends on strategy. Day traders might target Technical A with Fundamental F.
 - [Performance →](performance.md) - Returns & charts
 
 **Use in Workflows:**
-- [Understanding Snapshot Grades →](../../workflows/learning/snapshot-grades.md) - Deep dive learning
-- [My First Stock Research →](../../workflows/beginner/first-research.md) - Uses grades
+- [Understanding Snapshot Grades →](../../Workflows/learning/snapshot-grades.md) - Deep dive learning
+- [My First Stock Research →](../../Workflows/Beginner/first-research.md) - Uses grades
 
 ---
 

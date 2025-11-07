@@ -30,7 +30,7 @@ See which trading platforms work with Ape AI.
 
 [Learn more →](paper-trading.md)
 
-![Ape Paper Trading](../../screenshots/both/ape-paper-trading-card.jpg)
+![Ape Paper Trading](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/ape-paper-trading-card.jpg)
 
 ---
 
@@ -467,8 +467,8 @@ A: Depends on broker API support. Check with support.
 - [Ape Paper Trading →](paper-trading.md) - Start risk-free
 
 **After Connecting:**
-- [Portfolio Overview →](../portfolio/overview.md) - See your holdings
-- [Execute Trades →](../chat/execute-trades.md) - Trade from chat
+- [Portfolio Overview →](../Portfolio/overview.md) - See your holdings
+- [Execute Trades →](../Chat/execute-trades.md) - Trade from chat
 
 ---
 

@@ -20,7 +20,7 @@ Your account settings and preferences in one place.
 - Brokerages
 - Help & Support
 
-![iOS Profile Menu](../../screenshots/ios/profile-menu.jpg)
+![iOS Profile Menu](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/profile-menu.jpg)
 
 ---
 
@@ -33,7 +33,7 @@ Your account settings and preferences in one place.
 - Subscription
 - Sign out
 
-![Web Profile Menu](../../screenshots/web/profile-dropdown.jpg)
+![Web Profile Menu](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/profile-dropdown.jpg)
 
 ---
 
@@ -94,7 +94,7 @@ Your account settings and preferences in one place.
 - Enable/disable trading
 - Disconnect brokerages
 
-[Learn more →](../brokerage/connecting.md)
+[Learn more →](../Brokerage/connecting.md)
 
 ---
 
@@ -171,7 +171,7 @@ A: Settings → Privacy → Export Data. Coming soon!
 ## What's Next?
 
 - [Subscription Plans →](subscription.md) - Upgrade options
-- [Brokerages →](../brokerage/connecting.md) - Connect accounts
+- [Brokerages →](../Brokerage/connecting.md) - Connect accounts
 
 ---
 

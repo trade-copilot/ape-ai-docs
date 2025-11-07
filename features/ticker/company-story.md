@@ -85,7 +85,7 @@ Understand the business. What do they actually do?
 - Full story + key metrics
 - Links to competitors
 
-![Company Story Section](../../screenshots/both/company-story-section.jpg)
+![Company Story Section](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/company-story-section.jpg)
 
 ---
 

@@ -46,7 +46,7 @@ The fastest way to get help is through our Help Center, which opens a direct sup
 1. Open the Ape AI app
 2. Tap your **Profile icon** (top left of chat screen)
 
-![iOS Profile Page](../screenshots/ios/profile-page-with-help-center.png)
+![iOS Profile Page](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/profile-page-with-help-center.png)
 
 **Step 2: Tap Help Center**
 1. Scroll down to the **"Misc"** section
@@ -70,7 +70,7 @@ The fastest way to get help is through our Help Center, which opens a direct sup
 2. Click your **profile icon** (top right, shows your initial)
 3. Select **"Profile"** from the dropdown
 
-![Web Profile Page](../screenshots/web/profile-page-with-help-center.png)
+![Web Profile Page](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/profile-page-with-help-center.png)
 
 **Step 2: Click Help Center**
 1. On the profile page, look for **"Misc"** section on the right
@@ -284,8 +284,8 @@ A: Put "URGENT" in your email subject line and clearly explain why it's urgent.
 - [Troubleshooting →](troubleshooting.md) - Fix common issues yourself
 
 **Learn more:**
-- [Getting Started →](../getting-started/quick-start-ios.md) - Setup guides
-- [Feature Guides →](../features/chat/basics.md) - How to use features
+- [Getting Started →](../Getting Started/quick-start-ios.md) - Setup guides
+- [Feature Guides →](../Features/Chat/basics.md) - How to use features
 
 ---
 

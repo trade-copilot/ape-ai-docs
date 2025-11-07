@@ -37,7 +37,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 3. Type ticker
 4. Click result
 
-![Search for Ticker](../../screenshots/both/search-ticker.jpg)
+![Search for Ticker](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/search-ticker.jpg)
 
 ---
 
@@ -84,7 +84,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 > $465.20 +$15.20 (+3.38%)
 > [Small line chart showing today's movement]
 
-![Ticker Header](../../screenshots/both/ticker-header.jpg)
+![Ticker Header](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/ticker-header.jpg)
 
 ---
 
@@ -103,7 +103,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 7. **Bulls vs Bears** - Sentiment analysis
 8. **Options** - Options data (if applicable)
 
-![Ticker Tabs](../../screenshots/both/ticker-tabs.jpg)
+![Ticker Tabs](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/ticker-tabs.jpg)
 
 ---
 
@@ -123,7 +123,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 
 [Learn more about Snapshot Grades →](snapshot-grades.md)
 
-![Snapshot Grades](../../screenshots/both/snapshot-grades-card.jpg)
+![Snapshot Grades](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/snapshot-grades-card.jpg)
 
 ---
 
@@ -159,7 +159,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 - 🔔 **Set Alert** - Price alert
 - 📈 **Trade** - Execute trade (if connected)
 
-![Action Buttons](../../screenshots/both/ticker-action-buttons.jpg)
+![Action Buttons](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/ticker-action-buttons.jpg)
 
 ---
 
@@ -188,7 +188,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 
 **Persona-adapted:** Blitz sees technical, Sage sees fundamentals
 
-[Learn more →](../chat/basics.md)
+[Learn more →](../Chat/basics.md)
 
 ---
 
@@ -209,7 +209,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 > - Historical avg P/E: 45
 > - **Verdict:** Trading 67% above fair value. Wait for pullback.
 
-![Pricey or Cheap](../../screenshots/both/pricey-cheap-card.jpg)
+![Pricey or Cheap](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/pricey-cheap-card.jpg)
 
 ---
 
@@ -258,7 +258,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 - Volume overlay
 - Drawing tools
 
-![Performance Charts](../../screenshots/both/performance-chart.jpg)
+![Performance Charts](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/performance-chart.jpg)
 
 ---
 
@@ -350,7 +350,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 
 [Learn more →](bulls-bears.md)
 
-![Bulls vs Bears](../../screenshots/both/bulls-vs-bears.jpg)
+![Bulls vs Bears](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/bulls-vs-bears.jpg)
 
 ---
 
@@ -501,8 +501,8 @@ A: Yes! Shows extended hours data when applicable.
 - [Performance Analysis →](performance.md) - Charts & comparisons
 
 **Use in Workflows:**
-- [My First Stock Research →](../../workflows/beginner/first-research.md) - Uses ticker page
-- [Following WSB Trends →](../../workflows/trader/wsb-trends.md) - Research trending tickers
+- [My First Stock Research →](../../Workflows/Beginner/first-research.md) - Uses ticker page
+- [Following WSB Trends →](../../Workflows/Trader/wsb-trends.md) - Research trending tickers
 
 ---
 

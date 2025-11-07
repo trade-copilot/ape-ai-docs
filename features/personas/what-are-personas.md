@@ -148,7 +148,7 @@ After signup:
 3. Select **"Choose Persona"**
 4. Pick a different one
 
-![Persona Selection Screen](../../screenshots/both/persona-selection-screen.jpg)
+![Persona Selection Screen](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/persona-selection-screen.jpg)
 
 ---
 
@@ -268,8 +268,8 @@ A: Four: Money (balanced), Sage (value), Maverick (momentum), and Blitz (day tra
 - [Choosing Your Persona →](choosing.md) - Step-by-step selection guide
 
 **See It In Action:**
-- [AI Chat Basics](../chat/basics.md) - How personas change chat
-- [Quick Prompts](../chat/quick-prompts.md) - Persona-specific prompts
+- [AI Chat Basics](../Chat/basics.md) - How personas change chat
+- [Quick Prompts](../Chat/quick-prompts.md) - Persona-specific prompts
 
 ---
 

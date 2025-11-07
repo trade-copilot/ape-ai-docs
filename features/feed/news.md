@@ -39,7 +39,7 @@ Breaking financial news filtered for what actually matters to YOU.
 3. See **News Feed** section
 4. Scroll to read more
 
-![iOS News Feed](../../screenshots/ios/news-feed.jpg)
+![iOS News Feed](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/news-feed.jpg)
 
 ---
 
@@ -48,7 +48,7 @@ Breaking financial news filtered for what actually matters to YOU.
 2. Main feed shows news mixed with other content
 3. Or click **News** filter at top to see only news
 
-![Web News Feed](../../screenshots/web/news-feed.jpg)
+![Web News Feed](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/news-feed.jpg)
 
 ---
 
@@ -72,7 +72,7 @@ Breaking financial news filtered for what actually matters to YOU.
 > Stock: +8% pre-market
 > Key: Data center revenue up 112% YoY
 
-![Earnings News](../../screenshots/both/news-earnings.jpg)
+![Earnings News](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/news-earnings.jpg)
 
 ---
 
@@ -244,7 +244,7 @@ Breaking financial news filtered for what actually matters to YOU.
 - Analyst upgrades/downgrades
 - Breaking market news
 
-![iOS News Notifications](../../screenshots/ios/news-notifications-settings.jpg)
+![iOS News Notifications](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/news-notifications-settings.jpg)
 
 ---
 
@@ -350,7 +350,7 @@ Go to Chat tab, ask:
 - Send to Discord/Telegram
 - Text to friends
 
-![News Article Detail](../../screenshots/both/news-article-detail.jpg)
+![News Article Detail](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/news-article-detail.jpg)
 
 ---
 
@@ -389,7 +389,7 @@ Go to Chat tab, ask:
    - Company news ✅
    - Unusual activity ✅
 
-![News Settings](../../screenshots/both/news-settings.jpg)
+![News Settings](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/news-settings.jpg)
 
 ---
 
@@ -497,8 +497,8 @@ A: Coming soon! Bookmark feature in development.
 - [Trending Stocks →](trending.md) - What's hot
 
 **Use News in Workflows:**
-- [Morning Market Check →](../../workflows/daily/morning.md) - Start with news
-- [Following WSB Trends →](../../workflows/trader/wsb-trends.md) - Social + News
+- [Morning Market Check →](../../Workflows/daily/morning.md) - Start with news
+- [Following WSB Trends →](../../Workflows/Trader/wsb-trends.md) - Social + News
 
 ---
 

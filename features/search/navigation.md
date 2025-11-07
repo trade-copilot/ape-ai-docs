@@ -35,7 +35,7 @@ Get around Ape AI. iOS vs Web navigation explained.
 
 **Tap any tab to switch**
 
-![iOS Bottom Navigation](../../screenshots/ios/bottom-navigation.jpg)
+![iOS Bottom Navigation](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/bottom-navigation.jpg)
 
 ---
 
@@ -61,7 +61,7 @@ Get around Ape AI. iOS vs Web navigation explained.
 
 **Click any item to navigate**
 
-![Web Sidebar](../../screenshots/web/left-sidebar.jpg)
+![Web Sidebar](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/left-sidebar.jpg)
 
 ---
 
@@ -147,7 +147,7 @@ A: Yes, click collapse arrow on sidebar.
 ## What's Next?
 
 - [Stock Search →](stock-search.md) - Find stocks fast
-- [Profile Management →](../account/profile.md) - Account settings
+- [Profile Management →](../Account/profile.md) - Account settings
 
 ---
 

@@ -58,7 +58,7 @@ Your AI portfolio analyst. Get personalized advice on your holdings.
 3. Or swipe up on portfolio view
 4. Chat interface opens
 
-![iOS Ask Maverick](../../screenshots/ios/ask-maverick-button.jpg)
+![iOS Ask Maverick](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/ask-maverick-button.jpg)
 
 ---
 
@@ -68,7 +68,7 @@ Your AI portfolio analyst. Get personalized advice on your holdings.
 3. Or click chat icon in portfolio section
 4. Maverick chat opens
 
-![Web Ask Maverick](../../screenshots/web/ask-maverick-web.jpg)
+![Web Ask Maverick](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/ask-maverick-web.jpg)
 
 ---
 
@@ -90,7 +90,7 @@ Your AI portfolio analyst. Get personalized advice on your holdings.
 - Diversification analysis
 - Suggestions for improvement
 
-![Portfolio Health Response](../../screenshots/both/maverick-health-check.jpg)
+![Portfolio Health Response](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/maverick-health-check.jpg)
 
 ---
 
@@ -145,7 +145,7 @@ Your AI portfolio analyst. Get personalized advice on your holdings.
 - Trade recommendations
 - Expected risk reduction
 
-![Rebalancing Advice](../../screenshots/both/maverick-rebalancing.jpg)
+![Rebalancing Advice](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/maverick-rebalancing.jpg)
 
 ---
 
@@ -461,8 +461,8 @@ A: No! Maverick is AI, not perfect. Markets are unpredictable. Use as one input,
 - [AI Analysis Tools →](ai-tools.md) - Advanced features
 
 **Use in Workflows:**
-- [Portfolio Health Check →](../../workflows/portfolio/health-check.md) - Full review with Maverick
-- [Getting AI Ideas →](../../workflows/portfolio/ai-ideas.md) - Find new trades
+- [Portfolio Health Check →](../../Workflows/Portfolio/health-check.md) - Full review with Maverick
+- [Getting AI Ideas →](../../Workflows/Portfolio/ai-ideas.md) - Find new trades
 
 ---
 

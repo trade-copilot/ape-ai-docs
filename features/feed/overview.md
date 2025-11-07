@@ -75,7 +75,7 @@ Custom stock lists you created.
 - Collections
 - One-tap access
 
-[Learn more about Themes →](../themes/overview.md)
+[Learn more about Themes →](../Themes/overview.md)
 
 ---
 
@@ -86,7 +86,7 @@ Custom stock lists you created.
 2. Tap **Discover tab** (bottom navigation, middle icon)
 3. See your personalized feed
 
-![iOS Discover Tab](../../screenshots/ios/discover-tab.jpg)
+![iOS Discover Tab](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/discover-tab.jpg)
 
 **Bottom Navigation:**
 - 💬 Chat (left)
@@ -100,7 +100,7 @@ Custom stock lists you created.
 2. Look at the **Home/Dashboard** page
 3. Feed is the main content area
 
-![Web Feed](../../screenshots/web/feed-dashboard.jpg)
+![Web Feed](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/feed-dashboard.jpg)
 
 **Left Sidebar:**
 - 🏠 Home ← Feed is here
@@ -122,7 +122,7 @@ Swipe left/right through featured content:
 - Trending Themes
 - Hot Stocks
 
-![iOS Carousel](../../screenshots/ios/feed-carousel.jpg)
+![iOS Carousel](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/feed-carousel.jpg)
 
 **Middle Section: News Feed**
 Scrollable list of:
@@ -153,7 +153,7 @@ Vertical scroll with:
 - Popular Themes
 - Your Watchlist
 
-![Web Feed Layout](../../screenshots/web/feed-layout-full.jpg)
+![Web Feed Layout](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/feed-layout-full.jpg)
 
 ---
 
@@ -307,7 +307,7 @@ Share:
 2. Click **Customize Feed** (top right)
 3. Select preferences
 
-![Feed Settings](../../screenshots/both/feed-settings.jpg)
+![Feed Settings](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/feed-settings.jpg)
 
 ---
 
@@ -464,12 +464,12 @@ A: Yes! Educational content is free for all users.
 - [Trending Stocks →](trending.md) - What's hot right now
 
 **Related Features:**
-- [Create Themes →](../themes/creating.md) - Build custom stock lists
-- [Ticker Page →](../ticker/overview.md) - Deep dive on stocks
+- [Create Themes →](../Themes/creating.md) - Build custom stock lists
+- [Ticker Page →](../Ticker/overview.md) - Deep dive on stocks
 
 **Try These Workflows:**
-- [Morning Market Check →](../../workflows/daily/morning.md) - Start with Feed
-- [Following WSB Trends →](../../workflows/trader/wsb-trends.md) - Feed → Trade
+- [Morning Market Check →](../../Workflows/daily/morning.md) - Start with Feed
+- [Following WSB Trends →](../../Workflows/Trader/wsb-trends.md) - Feed → Trade
 
 ---
 

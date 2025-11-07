@@ -270,7 +270,7 @@ Bite-sized trading education. Learn while you scroll.
 3. Look for 🍌 icon
 4. Tap to read full Bite
 
-![iOS Banana Bites](../../screenshots/ios/banana-bites.jpg)
+![iOS Banana Bites](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/banana-bites.jpg)
 
 ---
 
@@ -280,7 +280,7 @@ Bite-sized trading education. Learn while you scroll.
 3. Or filter by **"Education"** to see only Bites
 4. Click to expand
 
-![Web Banana Bites](../../screenshots/web/banana-bites.jpg)
+![Web Banana Bites](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/banana-bites.jpg)
 
 ---
 
@@ -541,8 +541,8 @@ A: Not yet, but interactive quizzes coming in future updates!
 - [Trending Stocks →](trending.md) - What's hot
 
 **Apply Your Learning:**
-- [Paper Trading →](../brokerage/paper-trading.md) - Practice risk-free
-- [My First Stock Research →](../../workflows/beginner/first-research.md) - Use what you learned
+- [Paper Trading →](../Brokerage/paper-trading.md) - Practice risk-free
+- [My First Stock Research →](../../Workflows/Beginner/first-research.md) - Use what you learned
 
 ---
 

@@ -31,7 +31,7 @@ Pre-built stock lists for popular strategies. One tap to add.
 4. Tap **"See All"** to view complete list
 5. Tap any theme to add it
 
-![iOS Suggested Themes](../../screenshots/ios/suggested-themes.jpg)
+![iOS Suggested Themes](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/suggested-themes.jpg)
 
 ---
 
@@ -41,7 +41,7 @@ Pre-built stock lists for popular strategies. One tap to add.
 3. Browse all suggested themes
 4. Click **"+ Add Theme"** to add to your collection
 
-![Web Suggested Themes](../../screenshots/web/suggested-themes-page.jpg)
+![Web Suggested Themes](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/suggested-themes-page.jpg)
 
 ---
 
@@ -66,7 +66,7 @@ Pre-built stock lists for popular strategies. One tap to add.
 
 **Avg Market Cap:** $500B+
 
-![Tech Titans Theme](../../screenshots/both/theme-tech-titans.jpg)
+![Tech Titans Theme](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/theme-tech-titans.jpg)
 
 ---
 
@@ -395,7 +395,7 @@ Pre-built stock lists for popular strategies. One tap to add.
 3. Click **"Add Theme"** button
 4. Theme added to your collection
 
-![Add Suggested Theme](../../screenshots/both/add-suggested-theme.jpg)
+![Add Suggested Theme](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/add-suggested-theme.jpg)
 
 ---
 
@@ -529,8 +529,8 @@ A: Yes! Remove from "My Themes" anytime.
 - [Creating Themes →](creating.md) - Build your own
 
 **Use Themes in Trading:**
-- [Getting AI Trade Ideas →](../../workflows/portfolio/ai-ideas.md) - Generate setups
-- [Swing Trade Entry Timing →](../../workflows/advanced/swing-entry.md) - Find entries
+- [Getting AI Trade Ideas →](../../Workflows/Portfolio/ai-ideas.md) - Generate setups
+- [Swing Trade Entry Timing →](../../Workflows/Advanced/swing-entry.md) - Find entries
 
 ---
 

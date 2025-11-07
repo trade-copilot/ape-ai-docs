@@ -38,7 +38,7 @@ Step-by-step guide to linking your trading account to Ape AI.
 2. Tap **Portfolio tab** (bottom right)
 3. If no brokerages connected, you'll see **"Connect Brokerage"** button
 
-![iOS Portfolio Tab Empty](../../screenshots/ios/portfolio-empty.jpg)
+![iOS Portfolio Tab Empty](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/portfolio-empty.jpg)
 
 ---
 
@@ -48,7 +48,7 @@ Step-by-step guide to linking your trading account to Ape AI.
 3. **Ape Paper Trading** is at the TOP ⭐
 4. Tap it
 
-![Ape Paper Trading First](../../screenshots/ios/ape-paper-first.jpg)
+![Ape Paper Trading First](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/ape-paper-first.jpg)
 
 ---
 
@@ -57,7 +57,7 @@ Step-by-step guide to linking your trading account to Ape AI.
 2. Explains you get $100,000 virtual cash
 3. Tap **"Claim My Paper Trading Account"**
 
-![Claim Paper Account](../../screenshots/ios/claim-paper-account.jpg)
+![Claim Paper Account](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/claim-paper-account.jpg)
 
 ---
 
@@ -67,7 +67,7 @@ Step-by-step guide to linking your trading account to Ape AI.
 - Portfolio tab now shows your balance
 - Start trading risk-free!
 
-![Paper Account Active](../../screenshots/ios/paper-account-active.jpg)
+![Paper Account Active](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/paper-account-active.jpg)
 
 **Total time: 30 seconds**
 
@@ -110,7 +110,7 @@ Step-by-step guide to linking your trading account to Ape AI.
 2. Tap **"Brokerages"**
 3. Or: Portfolio tab → **"+ Add Brokerage"**
 
-![iOS Brokerages Menu](../../screenshots/ios/brokerages-menu.jpg)
+![iOS Brokerages Menu](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/brokerages-menu.jpg)
 
 ---
 
@@ -121,7 +121,7 @@ Step-by-step guide to linking your trading account to Ape AI.
 
 **Tip:** Use search bar if you have many to scroll through
 
-![Select Robinhood](../../screenshots/ios/select-robinhood.jpg)
+![Select Robinhood](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/select-robinhood.jpg)
 
 ---
 
@@ -133,7 +133,7 @@ Step-by-step guide to linking your trading account to Ape AI.
    - ❌ Cannot trade (unless you enable later)
 2. Tap **"Continue"**
 
-![Permissions Screen](../../screenshots/ios/permissions-review.jpg)
+![Permissions Screen](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/permissions-review.jpg)
 
 ---
 
@@ -143,7 +143,7 @@ Step-by-step guide to linking your trading account to Ape AI.
 3. Enter your broker username & password
 4. Complete 2FA if required
 
-![Robinhood OAuth](../../screenshots/ios/robinhood-oauth.jpg)
+![Robinhood OAuth](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/robinhood-oauth.jpg)
 
 **⚠️ Important:** You're logging into your broker, not giving Ape AI your password
 
@@ -154,7 +154,7 @@ Step-by-step guide to linking your trading account to Ape AI.
 2. Review permissions again
 3. Tap **"Allow"** or **"Authorize"**
 
-![Authorize Screen](../../screenshots/ios/authorize-Ape AI.jpg)
+![Authorize Screen](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/authorize-Ape AI.jpg)
 
 ---
 
@@ -164,7 +164,7 @@ Step-by-step guide to linking your trading account to Ape AI.
 3. Your portfolio starts syncing
 4. Positions appear in Portfolio tab
 
-![Connection Success](../../screenshots/ios/connection-success.jpg)
+![Connection Success](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/connection-success.jpg)
 
 ---
 
@@ -175,7 +175,7 @@ Step-by-step guide to linking your trading account to Ape AI.
    - Toggle **"Execute Trades"** ON
    - Confirm with Face ID/Touch ID
 
-![Enable Trading](../../screenshots/ios/enable-trading.jpg)
+![Enable Trading](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/enable-trading.jpg)
 
 **Total time: 3-5 minutes**
 
@@ -262,7 +262,7 @@ Step-by-step guide to linking your trading account to Ape AI.
 
 **One dashboard. All your trading.**
 
-![Multiple Accounts](../../screenshots/both/multiple-accounts.jpg)
+![Multiple Accounts](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/multiple-accounts.jpg)
 
 ---
 
@@ -402,7 +402,7 @@ Step-by-step guide to linking your trading account to Ape AI.
 - Historical data may be kept for records
 - Can reconnect anytime
 
-![Disconnect Broker](../../screenshots/both/disconnect-broker.jpg)
+![Disconnect Broker](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/disconnect-broker.jpg)
 
 ---
 
@@ -524,9 +524,9 @@ A: Your positions will appear in Portfolio tab. If they're showing, you're conne
 ## What's Next?
 
 **After Connecting:**
-- [Portfolio Overview →](../portfolio/overview.md) - See your holdings
-- [Ask Maverick →](../portfolio/ask-maverick.md) - AI portfolio analysis
-- [Execute Trades →](../chat/execute-trades.md) - Trade from chat
+- [Portfolio Overview →](../Portfolio/overview.md) - See your holdings
+- [Ask Maverick →](../Portfolio/ask-maverick.md) - AI portfolio analysis
+- [Execute Trades →](../Chat/execute-trades.md) - Trade from chat
 
 **Not Sure Yet?**
 - [Why Connect? →](why-connect.md) - Benefits explained

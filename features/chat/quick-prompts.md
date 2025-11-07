@@ -36,7 +36,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 3. **Swipe left/right** to see all options
 4. **Tap a card** to use it
 
-![iOS Quick Action Cards](../../screenshots/ios/quick-action-cards.jpg)
+![iOS Quick Action Cards](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/quick-action-cards.jpg)
 
 **Method 2: Prompts Button**
 1. In Chat tab
@@ -44,7 +44,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 3. See full list of prompts
 4. Tap one to use
 
-![iOS Prompts Button](../../screenshots/ios/prompts-button.jpg)
+![iOS Prompts Button](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/prompts-button.jpg)
 
 ---
 
@@ -56,7 +56,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 3. Browse all prompts
 4. Click to use
 
-![Web Prompts Icon](../../screenshots/web/prompts-icon.jpg)
+![Web Prompts Icon](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/prompts-icon.jpg)
 
 **Method 2: Keyboard Shortcut**
 1. In Chat
@@ -64,7 +64,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 3. Prompts menu opens
 4. Select with arrow keys or mouse
 
-![Web Prompts Ctrl+P](../../screenshots/web/prompts-ctrl-p.jpg)
+![Web Prompts Ctrl+P](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/prompts-ctrl-p.jpg)
 
 ---
 
@@ -85,7 +85,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 **Example result:**
 > "TSLA $470 calls exp Friday. Entry $5.50, target $8.00, stop $4.50. Setup: Breaking resistance with volume. Risk/reward 3:1."
 
-![Day Trade Options Setup Result](../../screenshots/both/prompt-day-trade-options.jpg)
+![Day Trade Options Setup Result](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/prompt-day-trade-options.jpg)
 
 ---
 
@@ -124,7 +124,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 **Example result:**
 > "TSLA at $465. Support: $460 (strong), $450 (critical). Resistance: $470 (immediate), $485 (major). Currently testing $470. Break above = target $485. Break below $460 = bail."
 
-![Support Resistance Result](../../screenshots/both/prompt-support-resistance.jpg)
+![Support Resistance Result](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/prompt-support-resistance.jpg)
 
 ---
 
@@ -171,7 +171,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 > Current: $465 - OVERVALUED
 > Verdict: Wait for pullback to $400-420 for better entry."
 
-![Pricey or Cheap Result](../../screenshots/both/prompt-pricey-cheap.jpg)
+![Pricey or Cheap Result](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/prompt-pricey-cheap.jpg)
 
 ---
 
@@ -386,8 +386,8 @@ A: Yes! Contact support with suggestions.
 - [Execute Trades →](execute-trades.md) - Trade from chat
 
 **Try Workflows:**
-- [Premarket Routine →](../../workflows/advanced/premarket-routine.md) - Uses multiple prompts
-- [My First Stock Research →](../../workflows/beginner/first-research.md) - Pricey or Cheap prompt
+- [Premarket Routine →](../../Workflows/Advanced/premarket-routine.md) - Uses multiple prompts
+- [My First Stock Research →](../../Workflows/Beginner/first-research.md) - Pricey or Cheap prompt
 
 ---
 

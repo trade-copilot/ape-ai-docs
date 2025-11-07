@@ -13,7 +13,7 @@ Step-by-step guide to selecting your AI trading personality.
 ### During Signup (First Time)
 After creating your account, you'll immediately be prompted to choose your persona.
 
-![Persona Selection Screen](../../screenshots/ios/persona-selection-screen.jpg)
+![Persona Selection Screen](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/persona-selection-screen.jpg)
 
 ### After Signup (Changing Persona)
 You can change your persona anytime in Settings.
@@ -33,7 +33,7 @@ You can change your persona anytime in Settings.
 
 You'll see 3 cards, each showing a persona:
 
-![Three Persona Cards](../../screenshots/ios/three-persona-cards.jpg)
+![Three Persona Cards](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/three-persona-cards.jpg)
 
 **Each card shows:**
 - Persona name and emoji
@@ -64,7 +64,7 @@ You'll see 3 cards, each showing a persona:
 
 **Tap the card** that matches your trading style.
 
-![Selected Persona](../../screenshots/ios/persona-selected.jpg)
+![Selected Persona](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/persona-selected.jpg)
 
 ### Step 5: Confirm
 
@@ -87,7 +87,7 @@ Not happy with your choice? Switch anytime!
 4. Select a different persona
 5. Tap **Save** or **Confirm**
 
-![Change Persona in Settings](../../screenshots/ios/change-persona-settings.jpg)
+![Change Persona in Settings](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/change-persona-settings.jpg)
 
 **Your AI adapts instantly!**
 
@@ -253,9 +253,9 @@ Explore the app with your persona:
 
 **2. Try a Workflow**
 Based on your persona:
-- **Blitz:** [Premarket Day Trading Routine](../../workflows/advanced/premarket-routine.md)
-- **Maverick:** [Swing Trade Entry Timing](../../workflows/advanced/swing-entry.md)
-- **Sage:** [My First Stock Research](../../workflows/beginner/first-research.md)
+- **Blitz:** [Premarket Day Trading Routine](../../Workflows/Advanced/premarket-routine.md)
+- **Maverick:** [Swing Trade Entry Timing](../../Workflows/Advanced/swing-entry.md)
+- **Sage:** [My First Stock Research](../../Workflows/Beginner/first-research.md)
 
 **3. Test It Out**
 Ask your AI questions:
@@ -310,8 +310,8 @@ A: Yes! It stays active until you manually change it.
 - [What Are Personas? →](what-are-personas.md) - How personas work
 
 **Use Your Persona:**
-- [AI Chat Basics →](../chat/basics.md) - Start asking questions
-- [Quick Prompts →](../chat/quick-prompts.md) - Persona-specific prompts
+- [AI Chat Basics →](../Chat/basics.md) - Start asking questions
+- [Quick Prompts →](../Chat/quick-prompts.md) - Persona-specific prompts
 
 ---
 

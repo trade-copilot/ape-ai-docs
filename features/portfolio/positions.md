@@ -41,7 +41,7 @@ Monitor your holdings, manage risk, know when to exit.
 - Your profit/loss ($ and %)
 - AI grade badge
 
-![iOS Position List](../../screenshots/ios/position-list.jpg)
+![iOS Position List](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/position-list.jpg)
 
 ---
 
@@ -53,7 +53,7 @@ Monitor your holdings, manage risk, know when to exit.
 - Bulls vs Bears
 - Performance charts
 
-![Position Detail](../../screenshots/ios/position-detail.jpg)
+![Position Detail](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/position-detail.jpg)
 
 ---
 
@@ -74,7 +74,7 @@ Monitor your holdings, manage risk, know when to exit.
   - Total P&L
   - AI Grade
 
-![Web Position Table](../../screenshots/web/position-table.jpg)
+![Web Position Table](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/position-table.jpg)
 
 ---
 
@@ -123,7 +123,7 @@ Monitor your holdings, manage risk, know when to exit.
 - Quick health check
 - A = Strong, F = Weak
 
-![Position Metrics](../../screenshots/both/position-metrics-explained.jpg)
+![Position Metrics](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/position-metrics-explained.jpg)
 
 ---
 
@@ -194,7 +194,7 @@ Monitor your holdings, manage risk, know when to exit.
 - Sort by % Loss → See your losers, consider cutting
 - Sort by AI Grade → See which holdings are strongest
 
-![Sort Positions](../../screenshots/both/sort-positions.jpg)
+![Sort Positions](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/sort-positions.jpg)
 
 ---
 
@@ -298,7 +298,7 @@ Monitor your holdings, manage risk, know when to exit.
 **📊 Rebalancing Suggestions**
 > "Tech is 55% of your portfolio. Consider trimming to reduce concentration risk."
 
-![AI Position Alerts](../../screenshots/both/ai-position-alerts.jpg)
+![AI Position Alerts](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/ai-position-alerts.jpg)
 
 ---
 
@@ -329,7 +329,7 @@ Monitor your holdings, manage risk, know when to exit.
 - **IV** (Implied Volatility) - Current IV
 - **Greeks** - Delta, Theta, Gamma, Vega
 
-![Options Position](../../screenshots/both/options-position-card.jpg)
+![Options Position](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/options-position-card.jpg)
 
 ---
 
@@ -370,7 +370,7 @@ Monitor your holdings, manage risk, know when to exit.
 - Your entry point marked
 - Resistance/support levels
 
-![Position Charts](../../screenshots/both/position-performance-chart.jpg)
+![Position Charts](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/position-performance-chart.jpg)
 
 ---
 
@@ -537,12 +537,12 @@ A: Possible reasons:
 - [AI Analysis Tools →](ai-tools.md) - Advanced portfolio analysis
 
 **Learn Workflows:**
-- [Portfolio Health Check →](../../workflows/portfolio/health-check.md) - Review your positions
-- [Getting AI Ideas →](../../workflows/portfolio/ai-ideas.md) - Find new positions
+- [Portfolio Health Check →](../../Workflows/Portfolio/health-check.md) - Review your positions
+- [Getting AI Ideas →](../../Workflows/Portfolio/ai-ideas.md) - Find new positions
 
 **Understand Stocks:**
-- [Ticker Page Overview →](../ticker/overview.md) - Deep dive on holdings
-- [AI Snapshot Grades →](../ticker/snapshot-grades.md) - How AI grades stocks
+- [Ticker Page Overview →](../Ticker/overview.md) - Deep dive on holdings
+- [AI Snapshot Grades →](../Ticker/snapshot-grades.md) - How AI grades stocks
 
 ---
 
