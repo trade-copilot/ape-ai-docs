@@ -461,8 +461,8 @@ A: No! Maverick is AI, not perfect. Markets are unpredictable. Use as one input,
 - [AI Analysis Tools →](ai-tools.md) - Advanced features
 
 **Use in Workflows:**
-- [Portfolio Health Check →](../../Workflows/Portfolio/health-check.md) - Full review with Maverick
-- [Getting AI Ideas →](../../Workflows/Portfolio/ai-ideas.md) - Find new trades
+- [Portfolio Health Check →](../../Use-Cases/Portfolio/health-check.md) - Full review with Maverick
+- [Getting AI Ideas →](../../Use-Cases/Portfolio/ai-ideas.md) - Find new trades
 
 ---
 

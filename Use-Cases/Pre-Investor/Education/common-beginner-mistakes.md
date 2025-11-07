@@ -1113,7 +1113,7 @@ Date: ___________
 - [Building Your Investment Philosophy →](building-investment-philosophy.md)
 
 **Ready to start investing (with mistakes avoided)?**
-- [Your First $100 in ETFs →](../../../Workflows/Investor/Beginner/first-100-etfs.md)
+- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs.md)
 - [Paper Trading: Practice Without Risk →](../Getting Started/paper-trading-practice.md)
 
 ---

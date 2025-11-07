@@ -349,8 +349,8 @@ Share multiple AI conversations about same stock:
 - [Custom Prompts →](custom-prompts.md) - Create your templates
 
 **Try These Workflows:**
-- [My First Stock Research →](../../Workflows/Beginner/first-research.md)
-- [Daily Trading Routine →](../../Workflows/intermediate/daily-routine.md)
+- [My First Stock Research →](../../Use-Cases/Beginner/first-research.md)
+- [Daily Trading Routine →](../../Use-Cases/intermediate/daily-routine.md)
 
 ---
 

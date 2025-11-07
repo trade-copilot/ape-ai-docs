@@ -1022,8 +1022,8 @@ a beginner like me choose for my first investment?
 - [Market Hours: When Can You Trade? →](market-hours-explained.md)
 
 **After money arrives (Days 3-5):**
-- [Your First $100 in Stocks →](../../../Workflows/Investor/Beginner/first-100-stocks.md)
-- [Your First $100 in ETFs →](../../../Workflows/Investor/Beginner/first-100-etfs.md)
+- [Your First $100 in Stocks →](../../../Use-Cases/Investor/Beginner/first-100-stocks.md)
+- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs.md)
 
 ---
 

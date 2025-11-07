@@ -1094,8 +1094,8 @@ Every order (market, limit, stop) has a time-in-force setting that determines ho
 - [Paper Trading: Practice Risk-Free →](paper-trading-practice.md)
 
 **Making your first trade:**
-- [Your First $100 in ETFs →](../../../Workflows/Investor/Beginner/first-100-etfs.md)
-- [Your First $100 in Stocks →](../../../Workflows/Investor/Beginner/first-100-stocks.md)
+- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs.md)
+- [Your First $100 in Stocks →](../../../Use-Cases/Investor/Beginner/first-100-stocks.md)
 
 ---
 

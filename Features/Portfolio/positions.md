@@ -537,8 +537,8 @@ A: Possible reasons:
 - [AI Analysis Tools →](ai-tools.md) - Advanced portfolio analysis
 
 **Learn Workflows:**
-- [Portfolio Health Check →](../../Workflows/Portfolio/health-check.md) - Review your positions
-- [Getting AI Ideas →](../../Workflows/Portfolio/ai-ideas.md) - Find new positions
+- [Portfolio Health Check →](../../Use-Cases/Portfolio/health-check.md) - Review your positions
+- [Getting AI Ideas →](../../Use-Cases/Portfolio/ai-ideas.md) - Find new positions
 
 **Understand Stocks:**
 - [Ticker Page Overview →](../Ticker/overview.md) - Deep dive on holdings

@@ -517,8 +517,8 @@ A: Depends on strategy. Day traders might target Technical A with Fundamental F.
 - [Performance →](performance.md) - Returns & charts
 
 **Use in Workflows:**
-- [Understanding Snapshot Grades →](../../Workflows/learning/snapshot-grades.md) - Deep dive learning
-- [My First Stock Research →](../../Workflows/Beginner/first-research.md) - Uses grades
+- [Understanding Snapshot Grades →](../../Use-Cases/learning/snapshot-grades.md) - Deep dive learning
+- [My First Stock Research →](../../Use-Cases/Beginner/first-research.md) - Uses grades
 
 ---
 

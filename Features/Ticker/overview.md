@@ -501,8 +501,8 @@ A: Yes! Shows extended hours data when applicable.
 - [Performance Analysis →](performance.md) - Charts & comparisons
 
 **Use in Workflows:**
-- [My First Stock Research →](../../Workflows/Beginner/first-research.md) - Uses ticker page
-- [Following WSB Trends →](../../Workflows/Trader/wsb-trends.md) - Research trending tickers
+- [My First Stock Research →](../../Use-Cases/Beginner/first-research.md) - Uses ticker page
+- [Following WSB Trends →](../../Use-Cases/Trader/wsb-trends.md) - Research trending tickers
 
 ---
 

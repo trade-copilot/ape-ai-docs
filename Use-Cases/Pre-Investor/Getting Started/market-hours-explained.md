@@ -723,8 +723,8 @@ Sunday 8 PM:
 
 **Now that you understand market hours:**
 - [Paper Trading: Practice Risk-Free →](paper-trading-practice.md)
-- [Your First $100 in ETFs →](../../../Workflows/Investor/Beginner/first-100-etfs.md)
-- [Your First $100 in Stocks →](../../../Workflows/Investor/Beginner/first-100-stocks.md)
+- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs.md)
+- [Your First $100 in Stocks →](../../../Use-Cases/Investor/Beginner/first-100-stocks.md)
 
 **Continue learning:**
 - [Investing vs Trading vs Gambling →](../education/investing-vs-trading-vs-gambling.md)

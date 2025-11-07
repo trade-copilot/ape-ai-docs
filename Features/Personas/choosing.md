@@ -253,9 +253,9 @@ Explore the app with your persona:
 
 **2. Try a Workflow**
 Based on your persona:
-- **Blitz:** [Premarket Day Trading Routine](../../Workflows/Advanced/premarket-routine.md)
-- **Maverick:** [Swing Trade Entry Timing](../../Workflows/Advanced/swing-entry.md)
-- **Sage:** [My First Stock Research](../../Workflows/Beginner/first-research.md)
+- **Blitz:** [Premarket Day Trading Routine](../../Use-Cases/Advanced/premarket-routine.md)
+- **Maverick:** [Swing Trade Entry Timing](../../Use-Cases/Advanced/swing-entry.md)
+- **Sage:** [My First Stock Research](../../Use-Cases/Beginner/first-research.md)
 
 **3. Test It Out**
 Ask your AI questions:

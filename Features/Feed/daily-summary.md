@@ -469,8 +469,8 @@ A: No. Markets closed = no daily summary. Returns Monday morning.
 - [Trending Stocks →](trending.md) - What's hot
 
 **Use Summary in Workflows:**
-- [Morning Market Check →](../../Workflows/daily/morning.md) - Start here
-- [Premarket Routine →](../../Workflows/Advanced/premarket-routine.md) - Day trader morning
+- [Morning Market Check →](../../Use-Cases/daily/morning.md) - Start here
+- [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine.md) - Day trader morning
 
 ---
 

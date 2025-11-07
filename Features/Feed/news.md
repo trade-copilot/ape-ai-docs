@@ -497,8 +497,8 @@ A: Coming soon! Bookmark feature in development.
 - [Trending Stocks →](trending.md) - What's hot
 
 **Use News in Workflows:**
-- [Morning Market Check →](../../Workflows/daily/morning.md) - Start with news
-- [Following WSB Trends →](../../Workflows/Trader/wsb-trends.md) - Social + News
+- [Morning Market Check →](../../Use-Cases/daily/morning.md) - Start with news
+- [Following WSB Trends →](../../Use-Cases/Trader/wsb-trends.md) - Social + News
 
 ---
 

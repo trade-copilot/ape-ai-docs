@@ -456,8 +456,8 @@ A: Not yet, but theme sharing coming in future update!
 - [Creating Themes →](creating.md) - Step-by-step creation guide
 
 **Use Themes in Workflows:**
-- [Getting AI Trade Ideas →](../../Workflows/Portfolio/ai-ideas.md) - Generate ideas from themes
-- [Swing Trade Entry Timing →](../../Workflows/Advanced/swing-entry.md) - Find setups with themes
+- [Getting AI Trade Ideas →](../../Use-Cases/Portfolio/ai-ideas.md) - Generate ideas from themes
+- [Swing Trade Entry Timing →](../../Use-Cases/Advanced/swing-entry.md) - Find setups with themes
 
 ---
 

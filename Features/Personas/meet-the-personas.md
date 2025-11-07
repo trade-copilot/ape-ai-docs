@@ -421,9 +421,9 @@ Get to know the 4 AI trading personalities that power Ape AI.
 - [AI Chat Basics →](../Chat/basics.md) - See personas in action
 
 **Try Workflows:**
-- [Premarket Day Trading Routine](../../Workflows/Advanced/premarket-routine.md) - Blitz style
-- [Momentum Trade Entry](../../Workflows/Advanced/momentum-entry.md) - Maverick style
-- [My First Stock Research](../../Workflows/Beginner/first-research.md) - Sage style
+- [Premarket Day Trading Routine](../../Use-Cases/Advanced/premarket-routine.md) - Blitz style
+- [Momentum Trade Entry](../../Use-Cases/Advanced/momentum-entry.md) - Maverick style
+- [My First Stock Research](../../Use-Cases/Beginner/first-research.md) - Sage style
 
 ---
 

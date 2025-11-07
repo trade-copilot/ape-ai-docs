@@ -577,8 +577,8 @@ A: Yes! "Cryptocurrency-related stocks" or "Bitcoin exposure companies"
 - [Suggested Themes →](suggested.md) - Pre-built themes to try
 
 **Use Themes in Trading:**
-- [Getting AI Trade Ideas →](../../Workflows/Portfolio/ai-ideas.md) - Generate from themes
-- [Swing Trade Entry Timing →](../../Workflows/Advanced/swing-entry.md) - Find setups
+- [Getting AI Trade Ideas →](../../Use-Cases/Portfolio/ai-ideas.md) - Generate from themes
+- [Swing Trade Entry Timing →](../../Use-Cases/Advanced/swing-entry.md) - Find setups
 
 ---
 

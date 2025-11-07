@@ -923,9 +923,9 @@ Date: January 1, 2024
 ### Next Steps
 
 **Start investing:**
-- [Your First $100 in ETFs →](../../../Workflows/Investor/Beginner/first-100-etfs.md)
-- [Your First $100 in Stocks →](../../../Workflows/Investor/Beginner/first-100-stocks.md)
-- [Build a Diversified Portfolio →](../../../Workflows/Investor/Beginner/build-portfolio.md)
+- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs.md)
+- [Your First $100 in Stocks →](../../../Use-Cases/Investor/Beginner/first-100-stocks.md)
+- [Build a Diversified Portfolio →](../../../Use-Cases/Investor/Beginner/build-portfolio.md)
 
 **Practice first (recommended):**
 - [Paper Trading on Ape AI →](../Getting Started/paper-trading-practice.md)
@@ -988,4 +988,4 @@ make sense? Here it is: [paste your statement]
 
 **You've got this.** 🚀
 
-**Now go invest:** [Your First $100 in ETFs →](../../../Workflows/Investor/Beginner/first-100-etfs.md)
+**Now go invest:** [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs.md)

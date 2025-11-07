@@ -386,8 +386,8 @@ A: Yes! Contact support with suggestions.
 - [Execute Trades →](execute-trades.md) - Trade from chat
 
 **Try Workflows:**
-- [Premarket Routine →](../../Workflows/Advanced/premarket-routine.md) - Uses multiple prompts
-- [My First Stock Research →](../../Workflows/Beginner/first-research.md) - Pricey or Cheap prompt
+- [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine.md) - Uses multiple prompts
+- [My First Stock Research →](../../Use-Cases/Beginner/first-research.md) - Pricey or Cheap prompt
 
 ---
 

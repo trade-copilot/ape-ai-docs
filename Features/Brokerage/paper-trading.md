@@ -181,8 +181,8 @@ Maverick analyzes your paper trades just like real ones!
 - Understand profit/loss
 
 **Resources:**
-- [Learning Options Trading](../../Workflows/learning/options-learning.md)
-- [Learning with Paper Trading Workflow](../../Workflows/Beginner/paper-trading.md)
+- [Learning Options Trading](../../Use-Cases/learning/options-learning.md)
+- [Learning with Paper Trading Workflow](../../Use-Cases/Beginner/paper-trading.md)
 
 ---
 
@@ -333,12 +333,12 @@ Use Ape AI to learn:
 ## 🚀 What's Next?
 
 **Start Trading:**
-- [Learning with Paper Trading Workflow](../../Workflows/Beginner/paper-trading.md) - Step-by-step guide
-- [My First Stock Research](../../Workflows/Beginner/first-research.md) - Find what to trade
+- [Learning with Paper Trading Workflow](../../Use-Cases/Beginner/paper-trading.md) - Step-by-step guide
+- [My First Stock Research](../../Use-Cases/Beginner/first-research.md) - Find what to trade
 
 **Learn Strategies:**
-- [Premarket Day Trading Routine](../../Workflows/Advanced/premarket-routine.md)
-- [Swing Trade Entry Timing](../../Workflows/Advanced/swing-entry.md)
+- [Premarket Day Trading Routine](../../Use-Cases/Advanced/premarket-routine.md)
+- [Swing Trade Entry Timing](../../Use-Cases/Advanced/swing-entry.md)
 
 **Connect Real Brokerages (When Ready):**
 - [Supported Brokerages](supported.md)

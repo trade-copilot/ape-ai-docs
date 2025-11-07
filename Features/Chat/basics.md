@@ -355,8 +355,8 @@ A: Yes, conversations are private to your account.
 - [Execute Trades →](execute-trades.md) - Trade from chat
 
 **Try Workflows:**
-- [My First Stock Research →](../../Workflows/Beginner/first-research.md)
-- [Premarket Routine →](../../Workflows/Advanced/premarket-routine.md)
+- [My First Stock Research →](../../Use-Cases/Beginner/first-research.md)
+- [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine.md)
 
 **Learn About Personas:**
 - [What Are Personas? →](../Personas/what-are-personas.md)

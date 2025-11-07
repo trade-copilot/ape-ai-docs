@@ -466,8 +466,8 @@ A: Advanced features. Beginners should focus on Ask Maverick first, then graduat
 - [Ask Maverick →](ask-maverick.md) - Portfolio AI chat
 
 **Apply in Workflows:**
-- [Portfolio Health Check →](../../Workflows/Portfolio/health-check.md) - Full review
-- [Getting AI Ideas →](../../Workflows/Portfolio/ai-ideas.md) - Find opportunities
+- [Portfolio Health Check →](../../Use-Cases/Portfolio/health-check.md) - Full review
+- [Getting AI Ideas →](../../Use-Cases/Portfolio/ai-ideas.md) - Find opportunities
 
 ---
 

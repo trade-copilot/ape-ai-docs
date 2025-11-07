@@ -428,8 +428,8 @@ A: Old chat messages stay the same, but future uses will use the new version.
 - [Execute Trades →](execute-trades.md) - Trade from chat
 
 **Try These Workflows:**
-- [Premarket Routine →](../../Workflows/Advanced/premarket-routine.md) - Uses custom prompts
-- [Morning Market Check →](../../Workflows/daily/morning.md) - Build morning routine
+- [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine.md) - Uses custom prompts
+- [Morning Market Check →](../../Use-Cases/daily/morning.md) - Build morning routine
 
 ---
 

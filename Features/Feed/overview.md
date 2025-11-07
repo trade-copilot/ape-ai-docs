@@ -468,8 +468,8 @@ A: Yes! Educational content is free for all users.
 - [Ticker Page →](../Ticker/overview.md) - Deep dive on stocks
 
 **Try These Workflows:**
-- [Morning Market Check →](../../Workflows/daily/morning.md) - Start with Feed
-- [Following WSB Trends →](../../Workflows/Trader/wsb-trends.md) - Feed → Trade
+- [Morning Market Check →](../../Use-Cases/daily/morning.md) - Start with Feed
+- [Following WSB Trends →](../../Use-Cases/Trader/wsb-trends.md) - Feed → Trade
 
 ---
 

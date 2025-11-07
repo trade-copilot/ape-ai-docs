@@ -518,8 +518,8 @@ A: Yes. Multiple confirmation steps, authentication required, you review everyth
 - [How to Connect →](../Brokerage/connecting.md)
 
 **Try These Workflows:**
-- [My First Day Trade →](../../Workflows/Trader/first-day-trade.md) - Execute from chat
-- [Premarket Routine →](../../Workflows/Advanced/premarket-routine.md) - Morning setups
+- [My First Day Trade →](../../Use-Cases/Trader/first-day-trade.md) - Execute from chat
+- [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine.md) - Morning setups
 
 ---
 

@@ -483,8 +483,8 @@ A: It's a tool, not a strategy. Use it to find ideas, then do your own analysis.
 - [Banana Bites →](banana-bites.md) - Learn while you scroll
 
 **Use Trending in Workflows:**
-- [Following WSB Trends →](../../Workflows/Trader/wsb-trends.md) - Trade social momentum
-- [Premarket Routine →](../../Workflows/Advanced/premarket-routine.md) - Use Pre-Market Movers
+- [Following WSB Trends →](../../Use-Cases/Trader/wsb-trends.md) - Trade social momentum
+- [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine.md) - Use Pre-Market Movers
 
 ---
 

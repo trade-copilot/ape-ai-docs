@@ -790,8 +790,8 @@ Example:
 - [Common Beginner Mistakes →](common-beginner-mistakes.md)
 
 **Ready to build your portfolio?**
-- [Your First $100 in ETFs →](../../../Workflows/Investor/Beginner/first-100-etfs.md)
-- [Build a Diversified Portfolio →](../../../Workflows/Investor/Beginner/build-portfolio.md)
+- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs.md)
+- [Build a Diversified Portfolio →](../../../Use-Cases/Investor/Beginner/build-portfolio.md)
 
 ---
 

@@ -529,8 +529,8 @@ A: Yes! Remove from "My Themes" anytime.
 - [Creating Themes →](creating.md) - Build your own
 
 **Use Themes in Trading:**
-- [Getting AI Trade Ideas →](../../Workflows/Portfolio/ai-ideas.md) - Generate setups
-- [Swing Trade Entry Timing →](../../Workflows/Advanced/swing-entry.md) - Find entries
+- [Getting AI Trade Ideas →](../../Use-Cases/Portfolio/ai-ideas.md) - Generate setups
+- [Swing Trade Entry Timing →](../../Use-Cases/Advanced/swing-entry.md) - Find entries
 
 ---
 

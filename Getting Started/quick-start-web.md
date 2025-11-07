@@ -204,8 +204,8 @@ Note: Persona selection is currently iOS-only but coming to web soon!
 - [What Are Themes?](../Features/Themes/overview.md)
 
 **Try a Workflow:**
-- [My First Stock Research](../Workflows/Beginner/first-research.md)
-- [Premarket Day Trading Routine](../Workflows/Advanced/premarket-routine.md)
+- [My First Stock Research](../Use-Cases/Beginner/first-research.md)
+- [Premarket Day Trading Routine](../Use-Cases/Advanced/premarket-routine.md)
 
 ---
 

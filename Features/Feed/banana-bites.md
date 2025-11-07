@@ -542,7 +542,7 @@ A: Not yet, but interactive quizzes coming in future updates!
 
 **Apply Your Learning:**
 - [Paper Trading →](../Brokerage/paper-trading.md) - Practice risk-free
-- [My First Stock Research →](../../Workflows/Beginner/first-research.md) - Use what you learned
+- [My First Stock Research →](../../Use-Cases/Beginner/first-research.md) - Use what you learned
 
 ---
 

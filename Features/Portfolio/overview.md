@@ -511,8 +511,8 @@ A: Yes! Dividend income shown in realized P&L.
 - [AI Analysis Tools →](ai-tools.md) - Advanced portfolio analysis
 
 **Improve Your Portfolio:**
-- [Portfolio Health Check →](../../Workflows/Portfolio/health-check.md) - Review your holdings
-- [Getting AI Ideas →](../../Workflows/Portfolio/ai-ideas.md) - Find new opportunities
+- [Portfolio Health Check →](../../Use-Cases/Portfolio/health-check.md) - Review your holdings
+- [Getting AI Ideas →](../../Use-Cases/Portfolio/ai-ideas.md) - Find new opportunities
 
 ---
 

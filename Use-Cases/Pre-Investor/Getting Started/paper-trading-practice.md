@@ -759,9 +759,9 @@ Sage will:
 ### After You're Comfortable with Paper Trading
 
 **Next workflows:**
-- [Your First $100 in ETFs →](../../../Workflows/Investor/Beginner/first-100-etfs.md)
-- [Your First $100 in Stocks →](../../../Workflows/Investor/Beginner/first-100-stocks.md)
-- [Build a Diversified Portfolio →](../../../Workflows/Investor/Beginner/build-portfolio.md)
+- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs.md)
+- [Your First $100 in Stocks →](../../../Use-Cases/Investor/Beginner/first-100-stocks.md)
+- [Build a Diversified Portfolio →](../../../Use-Cases/Investor/Beginner/build-portfolio.md)
 
 **Continue learning:**
 - [Investing vs Trading vs Gambling →](../education/investing-vs-trading-vs-gambling.md)

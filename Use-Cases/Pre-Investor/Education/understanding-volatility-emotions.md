@@ -693,7 +693,7 @@ My portfolio is down from $10,000 to $8,500. What should I do?
 - [Building Your Investment Philosophy →](building-investment-philosophy.md)
 
 **Ready to start investing with emotional discipline?**
-- [Your First $100 in ETFs →](../../../Workflows/Investor/Beginner/first-100-etfs.md)
+- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs.md)
 - [Paper Trading: Practice Handling Volatility →](../Getting Started/paper-trading-practice.md)
 
 ---

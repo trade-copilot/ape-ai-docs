@@ -702,7 +702,7 @@ retire at age 65. How much will I have at retirement?
 - [Building Your Investment Philosophy →](building-investment-philosophy.md)
 
 **Ready to start building wealth?**
-- [Your First $100 in ETFs →](../../../Workflows/Investor/Beginner/first-100-etfs.md)
+- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs.md)
 - [Paper Trading: Practice First →](../Getting Started/paper-trading-practice.md)
 
 ---
