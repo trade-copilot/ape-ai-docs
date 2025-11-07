@@ -19,7 +19,7 @@ Get started with Ape AI on your desktop in 5 minutes.
 3. Verify your email (check your inbox)
 4. Log back in
 
-![Web Signup](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/signup.jpg)
+![Web Signup](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/signup.jpg)
 
 **Or sign in with:**
 - Google
@@ -32,7 +32,7 @@ Get started with Ape AI on your desktop in 5 minutes.
 
 Once logged in, you'll see the main dashboard:
 
-![Web Dashboard](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/dashboard.jpg)
+![Web Dashboard](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/dashboard.jpg)
 
 **Main sections:**
 
@@ -58,7 +58,7 @@ Let's try the AI Chat:
 5. Wait for the AI to respond
 6. Read the analysis!
 
-![Web Chat](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/chat.jpg)
+![Web Chat](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/chat.jpg)
 
 **Or type your own question:**
 - Click in the text box at bottom
@@ -82,11 +82,11 @@ Let's look up a stock:
 2. Type a ticker symbol (e.g., **"NVDA"**)
 3. Click the result or press Enter
 
-![Web Stock Search](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/search.jpg)
+![Web Stock Search](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/search.jpg)
 
 **You'll see the ticker page:**
 
-![Web Ticker Page](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/ticker-page.jpg)
+![Web Ticker Page](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ticker-page.jpg)
 
 **Key sections:**
 - **Price Chart** - Interactive, multiple timeframes
@@ -108,7 +108,7 @@ Check what's hot:
 1. Click **Home** in the left sidebar
 2. Scroll through the page
 
-![Web Home/Feed](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/home-feed.jpg)
+![Web Home/Feed](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/home-feed.jpg)
 
 **You'll see:**
 - **Market Indices** (SPY, QQQ, IWM, DIA)
@@ -127,7 +127,7 @@ Track your investments:
 1. Click **Portfolio** in the left sidebar
 2. Click **Connect** a brokerage
 
-![Web Portfolio](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/portfolio.jpg)
+![Web Portfolio](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/portfolio.jpg)
 
 **Two options:**
 
@@ -160,7 +160,7 @@ Themes are like custom stock screeners:
 5. Name your theme
 6. Save and track it!
 
-![Create Theme](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/web/create-theme.jpg)
+![Create Theme](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/create-theme.jpg)
 
 ---
 

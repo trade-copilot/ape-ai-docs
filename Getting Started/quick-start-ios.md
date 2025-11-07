@@ -32,7 +32,7 @@ Get started with Ape AI on your iPhone in 5 minutes.
 
 This is important! Your persona determines how the AI assists you.
 
-![Persona Selection](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/persona-selection.jpg)
+![Persona Selection](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-selection.jpg)
 
 **Pick the one that matches your style:**
 
@@ -50,7 +50,7 @@ Tap your choice, then tap **Continue**.
 
 The app has **3 main tabs** at the bottom:
 
-![Bottom Navigation](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/bottom-nav.jpg)
+![Bottom Navigation](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/bottom-nav.jpg)
 
 ### 1. Chat 💬
 Your AI trading assistant. Ask anything!
@@ -84,7 +84,7 @@ Let's try the AI Chat:
 4. Wait a few seconds for the AI to respond
 5. Read the analysis!
 
-![Chat with Quick Actions](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/chat-quick-actions.jpg)
+![Chat with Quick Actions](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/chat-quick-actions.jpg)
 
 **Or type your own question:**
 - Tap the text input at bottom
@@ -102,7 +102,7 @@ Let's research a stock:
 2. Type a ticker symbol (e.g., **"AAPL"**)
 3. Tap the result to view the ticker page
 
-![Stock Search](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/search.jpg)
+![Stock Search](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/search.jpg)
 
 **You'll see:**
 - Price chart (swipe timeframes)
@@ -112,7 +112,7 @@ Let's research a stock:
 - Company Story
 - Performance comparison
 
-![Ticker Page](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/ticker-page.jpg)
+![Ticker Page](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/ticker-page.jpg)
 
 **Tap any Snapshot Grade card to expand** and see the full AI analysis.
 
@@ -125,7 +125,7 @@ Want to track your investments?
 1. Tap the **Portfolio** tab
 2. Tap **Connect** a brokerage
 
-![Portfolio](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/ios/portfolio.jpg)
+![Portfolio](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/portfolio.jpg)
 
 **Two options:**
 
