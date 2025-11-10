@@ -1092,14 +1092,14 @@ Or:
 ### Ongoing Portfolio Management
 
 **Related Workflows:**
-- [Portfolio Analysis with AI →](portfolio-analysis.md)
-- [Rebalancing Strategy →](portfolio-rebalance.md)
-- [Discover Themes →](discover-themes.md)
+- [Portfolio Analysis with AI →](portfolio-analysis)
+- [Rebalancing Strategy →](portfolio-rebalance)
+- [Discover Themes →](discover-themes)
 
 **Advanced Skills:**
-- [Tax-Efficient Investing →](../../Features/Portfolio/tax-strategy.md)
-- [Asset Allocation →](../../Features/Portfolio/asset-allocation.md)
-- [Risk Management →](../../Features/trading/risk-management.md)
+- [Tax-Efficient Investing →](../../Features/Portfolio/tax-strategy)
+- [Asset Allocation →](../../Features/Portfolio/asset-allocation)
+- [Risk Management →](../../Features/trading/risk-management)
 
 ### Ask Sage or Money
 

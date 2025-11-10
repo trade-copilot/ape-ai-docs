@@ -689,10 +689,10 @@ By the end of this workflow, you should have:
 Now that you've mastered multi-account management:
 
 ### Related Workflows:
-- **[Asset Location Optimization](./asset-location-optimization.md)** - Determine what goes where
-- **[Rebalancing Your Portfolio](../Beginner/rebalancing-your-portfolio.md)** - Apply across accounts
-- **[Monthly Portfolio Review](./monthly-portfolio-review.md)** - Track all accounts
-- **[Tax-Loss Harvesting](./tax-loss-harvesting.md)** - Coordinate across accounts
+- **[Asset Location Optimization](./asset-location-optimization)** - Determine what goes where
+- **[Rebalancing Your Portfolio](../Beginner/rebalancing-your-portfolio)** - Apply across accounts
+- **[Monthly Portfolio Review](./monthly-portfolio-review)** - Track all accounts
+- **[Tax-Loss Harvesting](./tax-loss-harvesting)** - Coordinate across accounts
 
 ### Continue Learning:
 - Use portfolio aggregation tools (Personal Capital, Empower)

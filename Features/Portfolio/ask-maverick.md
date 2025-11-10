@@ -90,7 +90,7 @@ Your AI portfolio analyst. Get personalized advice on your holdings.
 - Diversification analysis
 - Suggestions for improvement
 
-![Portfolio Health Response](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/maverick-health-check.jpg)
+![Portfolio Health Response](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/maverick-health-check.jpg)
 
 ---
 
@@ -145,7 +145,7 @@ Your AI portfolio analyst. Get personalized advice on your holdings.
 - Trade recommendations
 - Expected risk reduction
 
-![Rebalancing Advice](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/maverick-rebalancing.jpg)
+![Rebalancing Advice](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/maverick-rebalancing.jpg)
 
 ---
 
@@ -456,13 +456,13 @@ A: No! Maverick is AI, not perfect. Markets are unpredictable. Use as one input,
 ## What's Next?
 
 **Explore Portfolio Features:**
-- [Portfolio Overview →](overview.md) - Your holdings dashboard
-- [Tracking Positions →](positions.md) - Manage holdings
-- [AI Analysis Tools →](ai-tools.md) - Advanced features
+- [Portfolio Overview →](overview) - Your holdings dashboard
+- [Tracking Positions →](positions) - Manage holdings
+- [AI Analysis Tools →](ai-tools) - Advanced features
 
 **Use in Workflows:**
-- [Portfolio Health Check →](../../Use-Cases/Portfolio/health-check.md) - Full review with Maverick
-- [Getting AI Ideas →](../../Use-Cases/Portfolio/ai-ideas.md) - Find new trades
+- [Portfolio Health Check →](../../Use-Cases/Portfolio/health-check) - Full review with Maverick
+- [Getting AI Ideas →](../../Use-Cases/Portfolio/ai-ideas) - Find new trades
 
 ---
 

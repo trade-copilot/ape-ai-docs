@@ -1062,14 +1062,14 @@ Improved After-Tax Returns ✓
 ### Ongoing Portfolio Management
 
 **Related Workflows:**
-- [Monthly Portfolio Review →](monthly-review.md)
-- [Rebalancing Strategy →](portfolio-rebalance.md)
-- [Tax-Loss Harvesting →](../../Features/Portfolio/tax-strategy.md)
+- [Monthly Portfolio Review →](monthly-review)
+- [Rebalancing Strategy →](portfolio-rebalance)
+- [Tax-Loss Harvesting →](../../Features/Portfolio/tax-strategy)
 
 **Advanced Skills:**
-- [Asset Allocation →](../../Features/Portfolio/asset-allocation.md)
-- [Risk Management →](../../Features/trading/risk-management.md)
-- [Portfolio Construction →](../../Features/Portfolio/construction.md)
+- [Asset Allocation →](../../Features/Portfolio/asset-allocation)
+- [Risk Management →](../../Features/trading/risk-management)
+- [Portfolio Construction →](../../Features/Portfolio/construction)
 
 ### Ask Sage or Money
 

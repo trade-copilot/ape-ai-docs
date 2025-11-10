@@ -660,14 +660,14 @@ How do I set up automatic monthly investments?
 ## Related Workflows
 
 **Next Steps:**
-- [Portfolio Rebalancing Strategy →](../Advanced/portfolio-rebalance.md)
-- [Set Up Automatic Investing →](../Beginner/auto-invest.md)
-- [Research ETF Performance →](../Beginner/etf-research.md)
+- [Portfolio Rebalancing Strategy →](../Advanced/portfolio-rebalance)
+- [Set Up Automatic Investing →](../Beginner/auto-invest)
+- [Research ETF Performance →](../Beginner/etf-research)
 
 **Related Skills:**
-- [Understanding ETF Holdings →](../../Features/tickers/etf-analysis.md)
-- [Dividend Reinvestment →](../../Features/Portfolio/dividend-strategy.md)
-- [Tax-Efficient Investing →](../../Features/Portfolio/tax-strategy.md)
+- [Understanding ETF Holdings →](../../Features/tickers/etf-analysis)
+- [Dividend Reinvestment →](../../Features/Portfolio/dividend-strategy)
+- [Tax-Efficient Investing →](../../Features/Portfolio/tax-strategy)
 
 ---
 

@@ -697,13 +697,13 @@ retire at age 65. How much will I have at retirement?
 ### Continue Your Education
 
 **Next workflows:**
-- [Understanding Volatility and Emotions →](understanding-volatility-emotions.md)
-- [Common Beginner Mistakes →](common-beginner-mistakes.md)
-- [Building Your Investment Philosophy →](building-investment-philosophy.md)
+- [Understanding Volatility and Emotions →](understanding-volatility-emotions)
+- [Common Beginner Mistakes →](common-beginner-mistakes)
+- [Building Your Investment Philosophy →](building-investment-philosophy)
 
 **Ready to start building wealth?**
-- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs.md)
-- [Paper Trading: Practice First →](../Getting Started/paper-trading-practice.md)
+- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs)
+- [Paper Trading: Practice First →](../Getting Started/paper-trading-practice)
 
 ---
 
@@ -735,4 +735,4 @@ retire at age 65. How much will I have at retirement?
 
 **You've got this.** 🚀
 
-**Next:** [Understanding Volatility and Emotions: How to Stay Calm →](understanding-volatility-emotions.md)
+**Next:** [Understanding Volatility and Emotions: How to Stay Calm →](understanding-volatility-emotions)

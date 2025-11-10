@@ -29,7 +29,7 @@ Ape AI offers **one premium plan** with everything you need to trade smarter.
 - **Monthly:** $25/month
 - **Annual:** $240/year (save $60 = 20% off)
 
-![Super Ape Benefits](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/super-ape-benefits.jpg)
+![Super Ape Benefits](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/super-ape-benefits.jpg)
 
 ---
 
@@ -244,9 +244,9 @@ A: If you trade actively or value your time, absolutely. Avoiding one bad trade 
 - 🌐 Web: Profile → Subscription → Upgrade
 
 **Want to learn more?**
-- [Profile Settings →](profile.md) - Manage your account
-- [Why Connect Brokerage →](../Brokerage/why-connect.md) - Unlock trade execution
-- [Execute Trades from Chat →](../Chat/execute-trades.md) - See how it works
+- [Profile Settings →](profile) - Manage your account
+- [Why Connect Brokerage →](../Brokerage/why-connect) - Unlock trade execution
+- [Execute Trades from Chat →](../Chat/execute-trades) - See how it works
 
 ---
 

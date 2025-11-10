@@ -85,7 +85,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 **Example result:**
 > "TSLA $470 calls exp Friday. Entry $5.50, target $8.00, stop $4.50. Setup: Breaking resistance with volume. Risk/reward 3:1."
 
-![Day Trade Options Setup Result](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/prompt-day-trade-options.jpg)
+![Day Trade Options Setup Result](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/prompt-day-trade-options.jpg)
 
 ---
 
@@ -124,7 +124,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 **Example result:**
 > "TSLA at $465. Support: $460 (strong), $450 (critical). Resistance: $470 (immediate), $485 (major). Currently testing $470. Break above = target $485. Break below $460 = bail."
 
-![Support Resistance Result](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/prompt-support-resistance.jpg)
+![Support Resistance Result](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/prompt-support-resistance.jpg)
 
 ---
 
@@ -171,7 +171,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 > Current: $465 - OVERVALUED
 > Verdict: Wait for pullback to $400-420 for better entry."
 
-![Pricey or Cheap Result](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/prompt-pricey-cheap.jpg)
+![Pricey or Cheap Result](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/prompt-pricey-cheap.jpg)
 
 ---
 
@@ -298,7 +298,7 @@ Future features:
 - Share prompts with community
 - Import prompt libraries
 
-[Learn more about Custom Prompts →](custom-prompts.md)
+[Learn more about Custom Prompts →](custom-prompts)
 
 ---
 
@@ -381,13 +381,13 @@ A: Yes! Contact support with suggestions.
 ## What's Next?
 
 **Explore Chat Features:**
-- [Chat Basics →](basics.md) - How to use AI Chat
-- [Custom Prompts →](custom-prompts.md) - Create your own
-- [Execute Trades →](execute-trades.md) - Trade from chat
+- [Chat Basics →](basics) - How to use AI Chat
+- [Custom Prompts →](custom-prompts) - Create your own
+- [Execute Trades →](execute-trades) - Trade from chat
 
 **Try Workflows:**
-- [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine.md) - Uses multiple prompts
-- [My First Stock Research →](../../Use-Cases/Beginner/first-research.md) - Pricey or Cheap prompt
+- [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine) - Uses multiple prompts
+- [My First Stock Research →](../../Use-Cases/Beginner/first-research) - Pricey or Cheap prompt
 
 ---
 

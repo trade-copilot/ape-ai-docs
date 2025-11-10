@@ -1056,14 +1056,14 @@ What are the key earnings this week?
 ### Master Earnings Trading
 
 **Related Workflows:**
-- [Swing Trading Routine →](swing-trading-routine.md)
-- [Weekend Research →](weekend-research.md)
-- [First Options Trade →](first-options-trade.md) (earnings plays with options)
+- [Swing Trading Routine →](swing-trading-routine)
+- [Weekend Research →](weekend-research)
+- [First Options Trade →](first-options-trade) (earnings plays with options)
 
 **Advanced Skills:**
-- [Options Strategies →](../../Features/trading/options-strategies.md)
-- [Risk Management →](../../Features/trading/risk-management.md)
-- [Technical Analysis →](../../Features/trading/technical-analysis.md)
+- [Options Strategies →](../../Features/trading/options-strategies)
+- [Risk Management →](../../Features/trading/risk-management)
+- [Technical Analysis →](../../Features/trading/technical-analysis)
 
 ### Ask Maverick
 

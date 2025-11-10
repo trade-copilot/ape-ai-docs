@@ -1110,11 +1110,11 @@ Date: ___________
 ### Final Pre-Investor Education
 
 **Last educational workflow:**
-- [Building Your Investment Philosophy →](building-investment-philosophy.md)
+- [Building Your Investment Philosophy →](building-investment-philosophy)
 
 **Ready to start investing (with mistakes avoided)?**
-- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs.md)
-- [Paper Trading: Practice Without Risk →](../Getting Started/paper-trading-practice.md)
+- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs)
+- [Paper Trading: Practice Without Risk →](../Getting Started/paper-trading-practice)
 
 ---
 
@@ -1144,4 +1144,4 @@ Date: ___________
 
 **You've got this.** 🚀
 
-**Next (final education workflow):** [Building Your Investment Philosophy →](building-investment-philosophy.md)
+**Next (final education workflow):** [Building Your Investment Philosophy →](building-investment-philosophy)

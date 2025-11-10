@@ -111,7 +111,7 @@ AI Chat is your personal trading assistant powered by artificial intelligence. T
 2. Type your question
 3. Press **Enter** or click Send
 
-![Typing in Chat](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/chat-typing.jpg)
+![Typing in Chat](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/chat-typing.jpg)
 
 ### Use Quick Prompts
 
@@ -127,7 +127,7 @@ Instead of typing, use pre-built prompts:
 - Or press **Ctrl+P**
 - Select a prompt from the list
 
-[More on Quick Prompts →](quick-prompts.md)
+[More on Quick Prompts →](quick-prompts)
 
 ### Voice Input (iOS)
 
@@ -142,7 +142,7 @@ Instead of typing, use pre-built prompts:
 
 ### Persona-Based Responses
 
-Your AI adapts to your [chosen persona](../Personas/what-are-personas.md):
+Your AI adapts to your [chosen persona](../Personas/what-are-personas):
 
 **Example:** "Should I buy TSLA?"
 
@@ -204,7 +204,7 @@ AI remembers your conversation:
 ### Text Analysis
 Most common - AI writes detailed analysis.
 
-![Text Response](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/chat-text-response.jpg)
+![Text Response](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/chat-text-response.jpg)
 
 ### Trade Setups
 Structured trade recommendations:
@@ -241,7 +241,7 @@ When learning:
 2. Or click History icon
 3. Select conversation to continue
 
-![Chat History](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/chat-history.jpg)
+![Chat History](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/chat-history.jpg)
 
 ### Start New Chat
 - Fresh conversation, no context from previous
@@ -309,19 +309,19 @@ Make chatting faster on web:
 
 ### Quick Prompts
 Pre-built questions for common scenarios.
-[Learn more →](quick-prompts.md)
+[Learn more →](quick-prompts)
 
 ### Custom Prompts
 Write your own prompts and save them.
-[Learn more →](custom-prompts.md)
+[Learn more →](custom-prompts)
 
 ### Execute Trades from Chat
 AI finds setups, you execute from chat.
-[Learn more →](execute-trades.md)
+[Learn more →](execute-trades)
 
 ### Ask Maverick (Portfolio)
 AI specifically for portfolio questions.
-[Learn more →](../Portfolio/ask-maverick.md)
+[Learn more →](../Portfolio/ask-maverick)
 
 ---
 
@@ -350,17 +350,17 @@ A: Yes, conversations are private to your account.
 ## What's Next?
 
 **Explore Chat Features:**
-- [Quick Prompts →](quick-prompts.md) - Pre-built questions
-- [Custom Prompts →](custom-prompts.md) - Create your own
-- [Execute Trades →](execute-trades.md) - Trade from chat
+- [Quick Prompts →](quick-prompts) - Pre-built questions
+- [Custom Prompts →](custom-prompts) - Create your own
+- [Execute Trades →](execute-trades) - Trade from chat
 
 **Try Workflows:**
-- [My First Stock Research →](../../Use-Cases/Beginner/first-research.md)
-- [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine.md)
+- [My First Stock Research →](../../Use-Cases/Beginner/first-research)
+- [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine)
 
 **Learn About Personas:**
-- [What Are Personas? →](../Personas/what-are-personas.md)
-- [Meet the Personas →](../Personas/meet-the-personas.md)
+- [What Are Personas? →](../Personas/what-are-personas)
+- [Meet the Personas →](../Personas/meet-the-personas)
 
 ---
 

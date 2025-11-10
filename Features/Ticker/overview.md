@@ -37,7 +37,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 3. Type ticker
 4. Click result
 
-![Search for Ticker](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/search-ticker.jpg)
+![Search for Ticker](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/search-ticker.jpg)
 
 ---
 
@@ -84,7 +84,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 > $465.20 +$15.20 (+3.38%)
 > [Small line chart showing today's movement]
 
-![Ticker Header](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/ticker-header.jpg)
+![Ticker Header](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ticker-header.jpg)
 
 ---
 
@@ -103,7 +103,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 7. **Bulls vs Bears** - Sentiment analysis
 8. **Options** - Options data (if applicable)
 
-![Ticker Tabs](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/ticker-tabs.jpg)
+![Ticker Tabs](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ticker-tabs.jpg)
 
 ---
 
@@ -121,9 +121,9 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 
 **Overall Grade:** Combined score
 
-[Learn more about Snapshot Grades →](snapshot-grades.md)
+[Learn more about Snapshot Grades →](snapshot-grades)
 
-![Snapshot Grades](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/snapshot-grades-card.jpg)
+![Snapshot Grades](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/snapshot-grades-card.jpg)
 
 ---
 
@@ -159,7 +159,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 - 🔔 **Set Alert** - Price alert
 - 📈 **Trade** - Execute trade (if connected)
 
-![Action Buttons](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/ticker-action-buttons.jpg)
+![Action Buttons](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ticker-action-buttons.jpg)
 
 ---
 
@@ -188,7 +188,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 
 **Persona-adapted:** Blitz sees technical, Sage sees fundamentals
 
-[Learn more →](../Chat/basics.md)
+[Learn more →](../Chat/basics)
 
 ---
 
@@ -209,7 +209,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 > - Historical avg P/E: 45
 > - **Verdict:** Trading 67% above fair value. Wait for pullback.
 
-![Pricey or Cheap](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/pricey-cheap-card.jpg)
+![Pricey or Cheap](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/pricey-cheap-card.jpg)
 
 ---
 
@@ -224,7 +224,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 - Major milestones
 - Current stage
 
-[Learn more →](company-story.md)
+[Learn more →](company-story)
 
 ---
 
@@ -258,7 +258,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 - Volume overlay
 - Drawing tools
 
-![Performance Charts](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/performance-chart.jpg)
+![Performance Charts](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/performance-chart.jpg)
 
 ---
 
@@ -279,7 +279,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 >
 > **TSLA is outperforming all benchmarks.** 🚀
 
-[Learn more →](performance.md)
+[Learn more →](performance)
 
 ---
 
@@ -348,9 +348,9 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 
 **Visual:** Bull vs Bear gauge
 
-[Learn more →](bulls-bears.md)
+[Learn more →](bulls-bears)
 
-![Bulls vs Bears](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/bulls-vs-bears.jpg)
+![Bulls vs Bears](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/bulls-vs-bears.jpg)
 
 ---
 
@@ -495,14 +495,14 @@ A: Yes! Shows extended hours data when applicable.
 ## What's Next?
 
 **Deep Dive on Ticker Features:**
-- [AI Snapshot Grades →](snapshot-grades.md) - How stocks are graded
-- [Bulls vs Bears →](bulls-bears.md) - Sentiment analysis
-- [Company Story →](company-story.md) - Business deep dive
-- [Performance Analysis →](performance.md) - Charts & comparisons
+- [AI Snapshot Grades →](snapshot-grades) - How stocks are graded
+- [Bulls vs Bears →](bulls-bears) - Sentiment analysis
+- [Company Story →](company-story) - Business deep dive
+- [Performance Analysis →](performance) - Charts & comparisons
 
 **Use in Workflows:**
-- [My First Stock Research →](../../Use-Cases/Beginner/first-research.md) - Uses ticker page
-- [Following WSB Trends →](../../Use-Cases/Trader/wsb-trends.md) - Research trending tickers
+- [My First Stock Research →](../../Use-Cases/Beginner/first-research) - Uses ticker page
+- [Following WSB Trends →](../../Use-Cases/Trader/wsb-trends) - Research trending tickers
 
 ---
 

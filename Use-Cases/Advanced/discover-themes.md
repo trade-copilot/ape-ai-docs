@@ -1048,14 +1048,14 @@ Only suitable for believers in AI revolution.
 ### Continue Exploring Themes
 
 **Related Workflows:**
-- [Portfolio Analysis →](portfolio-analysis.md)
-- [Monthly Review →](monthly-review.md)
-- [Weekend Research →](../Trader/weekend-research.md)
+- [Portfolio Analysis →](portfolio-analysis)
+- [Monthly Review →](monthly-review)
+- [Weekend Research →](../Trader/weekend-research)
 
 **Advanced Skills:**
-- [Thematic Portfolio Construction →](../../Features/Portfolio/thematic-investing.md)
-- [Sector Rotation →](../../Features/trading/sector-rotation.md)
-- [Trend Following →](../../Features/trading/trend-following.md)
+- [Thematic Portfolio Construction →](../../Features/Portfolio/thematic-investing)
+- [Sector Rotation →](../../Features/trading/sector-rotation)
+- [Trend Following →](../../Features/trading/trend-following)
 
 ### Ask Sage or Maverick
 

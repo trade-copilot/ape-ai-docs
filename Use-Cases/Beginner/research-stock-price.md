@@ -631,7 +631,7 @@ Compare to current market cap
 
 **If Stock is Cheap and Quality:**
 ```
-Ready to buy? → [First $100 in Stocks](first-100-stocks.md)
+Ready to buy? → [First $100 in Stocks](first-100-stocks)
 ```
 
 **If Expensive but Love the Story:**
@@ -649,9 +649,9 @@ risk/reward if I buy now?"
 ### Keep Researching
 
 **Expand your analysis:**
-- [Understanding Company Fundamentals →](../../Features/tickers/fundamental-analysis.md)
-- [Reading Financial Statements →](../../Features/tickers/financial-statements.md)
-- [Bagholder Risks Analysis →](../../Features/tickers/risk-analysis.md)
+- [Understanding Company Fundamentals →](../../Features/tickers/fundamental-analysis)
+- [Reading Financial Statements →](../../Features/tickers/financial-statements)
+- [Bagholder Risks Analysis →](../../Features/tickers/risk-analysis)
 
 ---
 

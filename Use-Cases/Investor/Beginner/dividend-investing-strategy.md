@@ -1040,10 +1040,10 @@ By the end of this workflow, you should have:
 Now that you've started building your dividend portfolio:
 
 ### Related Workflows:
-- **[Rebalancing Your Portfolio](./rebalancing-your-portfolio.md)** - Learn when and how to rebalance
-- **[Monthly Portfolio Review](../intermediate/monthly-portfolio-review.md)** - Track dividend growth
-- **[Tax-Loss Harvesting Strategy](../intermediate/tax-loss-harvesting.md)** - Optimize taxes
-- **[Understanding Stock Fundamentals](./understanding-stock-fundamentals.md)** - Deeper analysis skills
+- **[Rebalancing Your Portfolio](./rebalancing-your-portfolio)** - Learn when and how to rebalance
+- **[Monthly Portfolio Review](../intermediate/monthly-portfolio-review)** - Track dividend growth
+- **[Tax-Loss Harvesting Strategy](../intermediate/tax-loss-harvesting)** - Optimize taxes
+- **[Understanding Stock Fundamentals](./understanding-stock-fundamentals)** - Deeper analysis skills
 
 ### Continue Learning:
 - Read company earnings reports when your dividend stocks report quarterly

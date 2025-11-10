@@ -828,13 +828,13 @@ Is this optimal? Should I adjust?
 ### Continue Building Your Wealth
 
 **Optimize your strategy:**
-- [Tax-Efficient Investing Strategies →](../intermediate/tax-efficient-investing.md)
-- [Maximize Your 401(k) and IRA →](../intermediate/maximize-retirement-accounts.md)
-- [Monthly Portfolio Review →](../intermediate/monthly-portfolio-review.md)
+- [Tax-Efficient Investing Strategies →](../intermediate/tax-efficient-investing)
+- [Maximize Your 401(k) and IRA →](../intermediate/maximize-retirement-accounts)
+- [Monthly Portfolio Review →](../intermediate/monthly-portfolio-review)
 
 **Learn more:**
-- [Understanding Stock Fundamentals →](understanding-stock-fundamentals.md)
-- [Build a Diversified Portfolio →](build-diversified-portfolio.md)
+- [Understanding Stock Fundamentals →](understanding-stock-fundamentals)
+- [Build a Diversified Portfolio →](build-diversified-portfolio)
 
 ---
 
@@ -889,4 +889,4 @@ Automatic investing + Time + Compound interest = Millionaire
 
 **Do this today:** Set up your first automatic investment. Even if it's just $100/month. Start the journey to millions.
 
-**Next:** [Understanding Stock Fundamentals →](understanding-stock-fundamentals.md)
+**Next:** [Understanding Stock Fundamentals →](understanding-stock-fundamentals)

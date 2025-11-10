@@ -819,10 +819,10 @@ By the end of this workflow, you should have:
 Now that you've mastered reading earnings reports:
 
 ### Related Workflows:
-- **[Understanding Stock Fundamentals](../Beginner/understanding-stock-fundamentals.md)** - Apply earnings analysis
-- **[Value Investing with Sage](../Beginner/value-investing-with-sage.md)** - Find undervalued companies
-- **[Growth Stock Selection](../Beginner/growth-stock-selection.md)** - Analyze growth metrics
-- **[Monthly Portfolio Review](./monthly-portfolio-review.md)** - Track earnings for your holdings
+- **[Understanding Stock Fundamentals](../Beginner/understanding-stock-fundamentals)** - Apply earnings analysis
+- **[Value Investing with Sage](../Beginner/value-investing-with-sage)** - Find undervalued companies
+- **[Growth Stock Selection](../Beginner/growth-stock-selection)** - Analyze growth metrics
+- **[Monthly Portfolio Review](./monthly-portfolio-review)** - Track earnings for your holdings
 
 ### Continue Learning:
 - Read 10-Ks for companies you own (quarterly discipline)

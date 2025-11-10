@@ -693,13 +693,13 @@ Next review: First Saturday of [Next Month]
 ### Advanced Portfolio Management
 
 **Optimize your strategy:**
-- [Tax-Loss Harvesting Strategy →](tax-loss-harvesting.md)
-- [Rebalancing Strategies Deep Dive →](rebalancing-strategies.md)
-- [Portfolio Performance Attribution →](performance-attribution.md)
+- [Tax-Loss Harvesting Strategy →](tax-loss-harvesting)
+- [Rebalancing Strategies Deep Dive →](rebalancing-strategies)
+- [Portfolio Performance Attribution →](performance-attribution)
 
 **Continue learning:**
-- [Sector Analysis and Rotation →](sector-analysis.md)
-- [Risk-Adjusted Returns (Sharpe Ratio) →](risk-adjusted-returns.md)
+- [Sector Analysis and Rotation →](sector-analysis)
+- [Risk-Adjusted Returns (Sharpe Ratio) →](risk-adjusted-returns)
 
 ---
 
@@ -734,4 +734,4 @@ Next review: First Saturday of [Next Month]
 
 **You've got this.** 🚀
 
-**Next:** [Tax-Loss Harvesting Strategy →](tax-loss-harvesting.md)
+**Next:** [Tax-Loss Harvesting Strategy →](tax-loss-harvesting)

@@ -181,7 +181,7 @@ Create and save your own AI prompts for questions you ask repeatedly.
 2. Tab to **"Custom"**
 3. Browse your prompts
 
-![Custom Prompts List](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/custom-prompts-list.jpg)
+![Custom Prompts List](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/custom-prompts-list.jpg)
 
 ---
 
@@ -423,13 +423,13 @@ A: Old chat messages stay the same, but future uses will use the new version.
 ## What's Next?
 
 **Explore More Chat Features:**
-- [Chat Basics →](basics.md) - How to use AI Chat
-- [Quick Prompts →](quick-prompts.md) - Pre-built prompts
-- [Execute Trades →](execute-trades.md) - Trade from chat
+- [Chat Basics →](basics) - How to use AI Chat
+- [Quick Prompts →](quick-prompts) - Pre-built prompts
+- [Execute Trades →](execute-trades) - Trade from chat
 
 **Try These Workflows:**
-- [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine.md) - Uses custom prompts
-- [Morning Market Check →](../../Use-Cases/daily/morning.md) - Build morning routine
+- [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine) - Uses custom prompts
+- [Morning Market Check →](../../Use-Cases/daily/morning) - Build morning routine
 
 ---
 

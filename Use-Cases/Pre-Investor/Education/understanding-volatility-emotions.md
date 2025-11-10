@@ -689,12 +689,12 @@ My portfolio is down from $10,000 to $8,500. What should I do?
 ### Continue Your Education
 
 **Next workflows:**
-- [Common Beginner Mistakes →](common-beginner-mistakes.md)
-- [Building Your Investment Philosophy →](building-investment-philosophy.md)
+- [Common Beginner Mistakes →](common-beginner-mistakes)
+- [Building Your Investment Philosophy →](building-investment-philosophy)
 
 **Ready to start investing with emotional discipline?**
-- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs.md)
-- [Paper Trading: Practice Handling Volatility →](../Getting Started/paper-trading-practice.md)
+- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs)
+- [Paper Trading: Practice Handling Volatility →](../Getting Started/paper-trading-practice)
 
 ---
 
@@ -728,4 +728,4 @@ My portfolio is down from $10,000 to $8,500. What should I do?
 
 **You've got this.** 🚀
 
-**Next:** [Common Beginner Mistakes to Avoid →](common-beginner-mistakes.md)
+**Next:** [Common Beginner Mistakes to Avoid →](common-beginner-mistakes)

@@ -28,7 +28,7 @@ By the end of this workflow, you'll have:
 ### 1. Ape AI Account
 - Downloaded the app (iOS) or signed up (Web)
 - Completed onboarding
-- [Quick Start Guide →](../../Getting Started/quick-start-ios.md)
+- [Quick Start Guide →](../../Getting Started/quick-start-ios)
 
 ### 2. Choose Your Path
 
@@ -36,7 +36,7 @@ By the end of this workflow, you'll have:
 - **Pros:** No real money risk, learn safely
 - **Cons:** Not real profits (but also not real losses!)
 - **Best for:** Complete beginners who want to practice
-- [Set up Paper Trading →](../../Features/Brokerage/paper-trading.md)
+- [Set up Paper Trading →](../../Features/Brokerage/paper-trading)
 
 **Path B: Real Money (Small Amount)**
 - **Pros:** Real profits, real learning
@@ -46,7 +46,7 @@ By the end of this workflow, you'll have:
 
 ### 3. Connected Brokerage
 - Follow the connection guide for your choice
-- [Connect Brokerage →](../../Features/Brokerage/connecting.md)
+- [Connect Brokerage →](../../Features/Brokerage/connecting)
 
 ---
 
@@ -396,16 +396,16 @@ By the end of this workflow, you'll have:
 ### Skills to Learn Next
 
 **1. Understanding Stop Losses**
-- [How to protect losses →](risk-management-basics.md)
+- [How to protect losses →](risk-management-basics)
 
 **2. Reading AI Analysis**
-- [Understanding technical terms →](understanding-ai-analysis.md)
+- [Understanding technical terms →](understanding-ai-analysis)
 
 **3. Position Sizing**
-- [How much to invest per trade →](position-sizing-guide.md)
+- [How much to invest per trade →](position-sizing-guide)
 
 **4. Options Basics** (After mastering shares)
-- [Your First Options Trade →](../Trader/first-options-trade.md)
+- [Your First Options Trade →](../Trader/first-options-trade)
 
 ---
 
@@ -472,7 +472,7 @@ By the end of this workflow, you'll have:
 - **Fix:** Ask: "Give me exact entry price for AAPL"
 
 **Cause 3:** Brokerage not connected
-- **Fix:** [Connect brokerage →](../../Features/Brokerage/connecting.md)
+- **Fix:** [Connect brokerage →](../../Features/Brokerage/connecting)
 
 ---
 
@@ -558,14 +558,14 @@ A: After 5+ successful single trades, yes. Start with 1!
 ## What's Next?
 
 **Continue Learning:**
-- [Trade Execution Guide →](../../Features/Chat/execute-trades.md) - Deep dive
-- [My First Stock Research →](first-research.md) - How to analyze
-- [Understanding Risk →](risk-management-basics.md) - Protect your money
+- [Trade Execution Guide →](../../Features/Chat/execute-trades) - Deep dive
+- [My First Stock Research →](first-research) - How to analyze
+- [Understanding Risk →](risk-management-basics) - Protect your money
 
 **Level Up:**
-- [Day Trading from Chat →](../Trader/day-trade-from-chat.md) - Faster trades
-- [Swing Trading from Chat →](../Trader/swing-trade-from-chat.md) - Bigger gains
-- [Your First Options Trade →](../Trader/first-options-trade.md) - Advanced
+- [Day Trading from Chat →](../Trader/day-trade-from-chat) - Faster trades
+- [Swing Trading from Chat →](../Trader/swing-trade-from-chat) - Bigger gains
+- [Your First Options Trade →](../Trader/first-options-trade) - Advanced
 
 **Join Community:**
 - Share your first trade story

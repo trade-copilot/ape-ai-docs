@@ -40,7 +40,7 @@ If you haven't already:
 3. Enter email and password
 4. Verify email
 
-![Signup](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/signup.jpg)
+![Signup](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/signup.jpg)
 
 ---
 
@@ -50,7 +50,7 @@ When prompted to select a persona:
 
 **Select: 🏦 Sage (Long-Term Investor)**
 
-![Persona Selection](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/persona-selection.jpg)
+![Persona Selection](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/persona-selection.jpg)
 
 **Why Sage for learning?**
 - Focuses on fundamentals
@@ -78,7 +78,7 @@ Here's where the magic happens!
 3. **"Ape Paper Trading"** is listed FIRST
 4. Click **"Claim Account"** or **"Connect"**
 
-![Ape Paper Trading - First in List](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/ape-paper-trading-first.jpg)
+![Ape Paper Trading - First in List](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ape-paper-trading-first.jpg)
 
 ---
 
@@ -90,7 +90,7 @@ Follow the prompts:
 2. **Accept terms** - Review and accept
 3. **Account created!** - You now have virtual money
 
-![Paper Trading Account Created](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/paper-account-created.jpg)
+![Paper Trading Account Created](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/paper-account-created.jpg)
 
 **You receive virtual money to trade with!** (Amount varies, typically $25,000-$100,000)
 
@@ -107,7 +107,7 @@ Let's start simple with a stock purchase.
 2. Ask AI: *"What are good beginner-friendly stocks to learn with?"*
 3. AI will suggest stable, well-known companies (e.g., AAPL, MSFT, GOOGL)
 
-![AI Suggests Learning Stocks](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/ai-learning-stocks.jpg)
+![AI Suggests Learning Stocks](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ai-learning-stocks.jpg)
 
 **Or pick one you know:**
 - AAPL (Apple)
@@ -145,7 +145,7 @@ Let's start simple with a stock purchase.
 5. **Review** the order
 6. **Submit**
 
-![Place Paper Trade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/paper-trade-execution.jpg)
+![Place Paper Trade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/paper-trade-execution.jpg)
 
 **Congrats! You just placed your first trade!** 🎉
 
@@ -159,7 +159,7 @@ Let's start simple with a stock purchase.
 3. Monitor daily P/L (profit/loss)
 4. Watch how the stock moves
 
-![Portfolio with Paper Position](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/portfolio-paper-position.jpg)
+![Portfolio with Paper Position](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/portfolio-paper-position.jpg)
 
 ---
 
@@ -194,7 +194,7 @@ Let's ask AI for a learning-friendly options setup:
 1. Go to **Chat**
 2. Ask: *"What's a simple options trade for a beginner to learn with? I have a paper trading account."*
 
-![AI Options for Beginners](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/ai-options-beginner.jpg)
+![AI Options for Beginners](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ai-options-beginner.jpg)
 
 **AI might suggest:**
 - Buy a call on AAPL (bullish bet)
@@ -217,7 +217,7 @@ Let's ask AI for a learning-friendly options setup:
 5. **Buy** 1 contract (start with 1!)
 6. **Review** and **Submit**
 
-![Options Chain](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/options-chain-paper.jpg)
+![Options Chain](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/options-chain-paper.jpg)
 
 **You now own an options contract!**
 
@@ -233,7 +233,7 @@ Go back to Ape AI Chat:
 - *"What happens if it drops to $170?"*
 - *"When should I sell this option?"*
 
-![AI Explains Your Option](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/ai-explain-option.jpg)
+![AI Explains Your Option](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ai-explain-option.jpg)
 
 **The AI will teach you** how your trade works and what to expect.
 
@@ -248,7 +248,7 @@ Go back to Ape AI Chat:
 2. Check the **Options tab**
 3. See your position P/L update in real-time
 
-![Options Position Tracking](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/options-position-tracking.jpg)
+![Options Position Tracking](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/options-position-tracking.jpg)
 
 **Watch how it changes:**
 - Stock goes up → Call value increases
@@ -269,7 +269,7 @@ Use the **Ask Maverick** feature in Portfolio:
 - *"What did I learn from this trade?"*
 - *"What should I do differently next time?"*
 
-![Ask Maverick Portfolio Questions](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/ask-maverick-questions.jpg)
+![Ask Maverick Portfolio Questions](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ask-maverick-questions.jpg)
 
 Maverick will analyze your paper trades and give feedback!
 
@@ -363,17 +363,17 @@ Learned: Options move faster than stocks!
 ## What's Next?
 
 **Continue Learning:**
-- [Understanding Snapshot Grades](../learning/snapshot-grades.md)
-- [My First Stock Research](first-research.md)
-- [Learning Options Trading Guide](../learning/options-learning.md)
+- [Understanding Snapshot Grades](../learning/snapshot-grades)
+- [My First Stock Research](first-research)
+- [Learning Options Trading Guide](../learning/options-learning)
 
 **When you're ready:**
-- [Connect Real Brokerage](../../Features/Brokerage/connecting.md)
-- [Portfolio Health Check](../Portfolio/health-check.md)
+- [Connect Real Brokerage](../../Features/Brokerage/connecting)
+- [Portfolio Health Check](../Portfolio/health-check)
 
 **Keep Practicing:**
-- [Morning Market Check](../daily/morning.md)
-- [Premarket Day Trading Routine](../Advanced/premarket-routine.md)
+- [Morning Market Check](../daily/morning)
+- [Premarket Day Trading Routine](../Advanced/premarket-routine)
 
 ---
 
@@ -381,7 +381,7 @@ Learned: Options move faster than stocks!
 
 - [Paper Trading FAQ](../../Support/faq.md#paper-trading)
 - [Options Basics](../../resources/glossary.md#options)
-- [Contact Support](../../Support/contact.md)
+- [Contact Support](../../Support/contact)
 
 ---
 

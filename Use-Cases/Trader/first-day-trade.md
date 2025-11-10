@@ -46,7 +46,7 @@ Tap **"Day Trade Options Setup"** or ask:
 > - Volume strong, breaking resistance
 > - Risk/reward: 2.5:1"
 
-![Day Trade Setup](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/day-trade-setup-example.jpg)
+![Day Trade Setup](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/day-trade-setup-example.jpg)
 
 ---
 
@@ -92,7 +92,7 @@ Tap **"Day Trade Options Setup"** or ask:
 
 **Order placed! ✅**
 
-![Execute Entry](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/execute-day-trade-entry.jpg)
+![Execute Entry](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/execute-day-trade-entry.jpg)
 
 ---
 
@@ -145,7 +145,7 @@ Tap **"Day Trade Options Setup"** or ask:
 
 **Profit:** Bought at $466, sold at $472 = +$600 on 100 shares! (+1.3%)
 
-![Close Position](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/close-day-trade-profit.jpg)
+![Close Position](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/close-day-trade-profit.jpg)
 
 ---
 
@@ -291,12 +291,12 @@ A: $5,000 minimum (PDT rule if <$25K). But use paper trading first!
 ## What's Next?
 
 **More Day Trading:**
-- [Premarket Routine →](../Advanced/premarket-routine.md) - Morning prep
-- [Following WSB Trends →](wsb-trends.md) - Social momentum trades
+- [Premarket Routine →](../Advanced/premarket-routine) - Morning prep
+- [Following WSB Trends →](wsb-trends) - Social momentum trades
 
 **Continue Learning:**
-- [Paper Trading →](../Beginner/paper-trading.md) - Practice more
-- [Options Learning →](../learning/options-learning.md) - Options day trading
+- [Paper Trading →](../Beginner/paper-trading) - Practice more
+- [Options Learning →](../learning/options-learning) - Options day trading
 
 ---
 

@@ -430,9 +430,9 @@ Sage will:
 3. ✅ Share your goal with someone (Accountability!)
 
 **Next week:**
-- [Understanding Stocks vs Bonds vs ETFs →](understanding-assets.md)
-- [How to Choose a Brokerage →](choosing-brokerage.md)
-- [Opening Your First Account →](opening-account.md)
+- [Understanding Stocks vs Bonds vs ETFs →](understanding-assets)
+- [How to Choose a Brokerage →](choosing-brokerage)
+- [Opening Your First Account →](opening-account)
 
 **This month:**
 - Start paper trading on Ape AI
@@ -492,4 +492,4 @@ Sage will:
 
 **Remember:** Every wealthy person was once a beginner who took the first step. Today is your day to take that step. Let's go! 🚀
 
-**Next step:** [Understanding Stocks, Bonds, ETFs, and Cash →](understanding-assets.md)
+**Next step:** [Understanding Stocks, Bonds, ETFs, and Cash →](understanding-assets)

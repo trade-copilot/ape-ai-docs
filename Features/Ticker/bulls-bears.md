@@ -31,7 +31,7 @@ Bears 🐻 ←――――――●――――――→ Bulls 🐂
 
 **Example:** 65% Bullish = More bulls than bears, positive sentiment
 
-![Bulls vs Bears Gauge](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/bulls-bears-gauge.jpg)
+![Bulls vs Bears Gauge](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/bulls-bears-gauge.jpg)
 
 ---
 
@@ -128,7 +128,7 @@ Bears 🐻 ←――――――●――――――→ Bulls 🐂
 - Full sentiment breakdown
 - Recent changes shown
 
-![Bulls vs Bears Location](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/bulls-bears-section.jpg)
+![Bulls vs Bears Location](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/bulls-bears-section.jpg)
 
 ---
 
@@ -147,9 +147,9 @@ A: Use all data. Sentiment is one piece of puzzle.
 
 ## What's Next?
 
-- [Ticker Overview →](overview.md) - All ticker features
-- [Snapshot Grades →](snapshot-grades.md) - AI stock grades
-- [Company Story →](company-story.md) - Business overview
+- [Ticker Overview →](overview) - All ticker features
+- [Snapshot Grades →](snapshot-grades) - AI stock grades
+- [Company Story →](company-story) - Business overview
 
 ---
 

@@ -48,7 +48,7 @@ A-F letter grades for every stock. Know at a glance if it's a buy.
 > - Low debt
 > - Strong moat (ecosystem lock-in)
 
-![Fundamental Grade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/fundamental-grade.jpg)
+![Fundamental Grade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/fundamental-grade.jpg)
 
 ---
 
@@ -76,7 +76,7 @@ A-F letter grades for every stock. Know at a glance if it's a buy.
 > - Uptrend intact ✅
 > - Minor concern: Extended short-term
 
-![Technical Grade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/technical-grade.jpg)
+![Technical Grade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/technical-grade.jpg)
 
 ---
 
@@ -103,7 +103,7 @@ A-F letter grades for every stock. Know at a glance if it's a buy.
 > - Twitter: #1 trending stock ticker
 > - Institutional buying: Heavy
 
-![Sentiment Grade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/sentiment-grade.jpg)
+![Sentiment Grade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/sentiment-grade.jpg)
 
 ---
 
@@ -131,7 +131,7 @@ A-F letter grades for every stock. Know at a glance if it's a buy.
 > - Business turnaround uncertain
 > - Small market cap = more volatile
 
-![Risk Grade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/risk-grade.jpg)
+![Risk Grade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/risk-grade.jpg)
 
 ---
 
@@ -155,7 +155,7 @@ A-F letter grades for every stock. Know at a glance if it's a buy.
 >
 > **Total: 3.76 = A-**
 
-![Overall Grade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/overall-grade-card.jpg)
+![Overall Grade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/overall-grade-card.jpg)
 
 ---
 
@@ -354,7 +354,7 @@ A-F letter grades for every stock. Know at a glance if it's a buy.
 >
 > **Overall:** World-class fundamentals. Minor concern on growth rate, but still excellent.
 
-![Expanded Grade Details](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/expanded-grade-details.jpg)
+![Expanded Grade Details](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/expanded-grade-details.jpg)
 
 ---
 
@@ -511,14 +511,14 @@ A: Depends on strategy. Day traders might target Technical A with Fundamental F.
 ## What's Next?
 
 **Explore More Ticker Features:**
-- [Ticker Page Overview →](overview.md) - All ticker page features
-- [Bulls vs Bears →](bulls-bears.md) - Sentiment deep dive
-- [Company Story →](company-story.md) - Business overview
-- [Performance →](performance.md) - Returns & charts
+- [Ticker Page Overview →](overview) - All ticker page features
+- [Bulls vs Bears →](bulls-bears) - Sentiment deep dive
+- [Company Story →](company-story) - Business overview
+- [Performance →](performance) - Returns & charts
 
 **Use in Workflows:**
-- [Understanding Snapshot Grades →](../../Use-Cases/learning/snapshot-grades.md) - Deep dive learning
-- [My First Stock Research →](../../Use-Cases/Beginner/first-research.md) - Uses grades
+- [Understanding Snapshot Grades →](../../Use-Cases/learning/snapshot-grades) - Deep dive learning
+- [My First Stock Research →](../../Use-Cases/Beginner/first-research) - Uses grades
 
 ---
 

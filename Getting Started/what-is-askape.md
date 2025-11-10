@@ -133,13 +133,13 @@ Try Ape AI with full features for free.
 Choose your path:
 
 **📱 iPhone User?**
-[Download on iOS →](quick-start-ios.md)
+[Download on iOS →](quick-start-ios)
 
 **🌐 Desktop User?**
-[Start on Web →](quick-start-web.md)
+[Start on Web →](quick-start-web)
 
 **🤔 Still have questions?**
-[Check FAQ →](../Support/faq.md)
+[Check FAQ →](../Support/faq)
 
 ---
 

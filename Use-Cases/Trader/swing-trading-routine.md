@@ -873,14 +873,14 @@ Action: Can add 1 small position only
 ### Improve Your Swing Trading
 
 **Related Workflows:**
-- [Weekend Research Routine →](weekend-research.md) - Deep dive for Sunday prep
-- [Earnings Season Trading →](earnings-prep.md) - Trade earnings setups
-- [Managing Options Positions →](managing-options.md) - Add options to swings
+- [Weekend Research Routine →](weekend-research) - Deep dive for Sunday prep
+- [Earnings Season Trading →](earnings-prep) - Trade earnings setups
+- [Managing Options Positions →](managing-options) - Add options to swings
 
 **Advanced Topics:**
-- [Portfolio Rebalancing →](../Advanced/portfolio-rebalance.md)
-- [Risk Management Systems →](../../Features/trading/risk-management.md)
-- [Technical Analysis Guide →](../../Features/trading/technical-analysis.md)
+- [Portfolio Rebalancing →](../Advanced/portfolio-rebalance)
+- [Risk Management Systems →](../../Features/trading/risk-management)
+- [Technical Analysis Guide →](../../Features/trading/technical-analysis)
 
 ### Ask Maverick
 

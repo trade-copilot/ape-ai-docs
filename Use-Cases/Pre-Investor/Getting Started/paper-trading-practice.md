@@ -759,14 +759,14 @@ Sage will:
 ### After You're Comfortable with Paper Trading
 
 **Next workflows:**
-- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs.md)
-- [Your First $100 in Stocks →](../../../Use-Cases/Investor/Beginner/first-100-stocks.md)
-- [Build a Diversified Portfolio →](../../../Use-Cases/Investor/Beginner/build-portfolio.md)
+- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs)
+- [Your First $100 in Stocks →](../../../Use-Cases/Investor/Beginner/first-100-stocks)
+- [Build a Diversified Portfolio →](../../../Use-Cases/Investor/Beginner/build-portfolio)
 
 **Continue learning:**
-- [Investing vs Trading vs Gambling →](../education/investing-vs-trading-vs-gambling.md)
-- [Risk Management 101 →](../education/risk-management-101.md)
-- [Power of Compound Interest →](../education/power-of-compound-interest.md)
+- [Investing vs Trading vs Gambling →](../education/investing-vs-trading-vs-gambling)
+- [Risk Management 101 →](../education/risk-management-101)
+- [Power of Compound Interest →](../education/power-of-compound-interest)
 
 ---
 
@@ -818,4 +818,4 @@ Sage will:
 
 **Next step:** [Make your first paper trade on Ape AI right now →](https://askape.com)
 
-**Then continue to:** [Investing vs Trading vs Gambling →](../education/investing-vs-trading-vs-gambling.md)
+**Then continue to:** [Investing vs Trading vs Gambling →](../education/investing-vs-trading-vs-gambling)

@@ -85,7 +85,7 @@ Understand the business. What do they actually do?
 - Full story + key metrics
 - Links to competitors
 
-![Company Story Section](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/company-story-section.jpg)
+![Company Story Section](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/company-story-section.jpg)
 
 ---
 
@@ -104,8 +104,8 @@ A: Basic info here. Full financials in Financials tab.
 
 ## What's Next?
 
-- [Ticker Overview →](overview.md) - All ticker features
-- [Performance →](performance.md) - Price charts & returns
+- [Ticker Overview →](overview) - All ticker features
+- [Performance →](performance) - Price charts & returns
 
 ---
 

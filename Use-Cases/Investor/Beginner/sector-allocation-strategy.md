@@ -944,11 +944,11 @@ By the end of this workflow, you should have:
 Now that you've mastered sector allocation:
 
 ### Related Workflows:
-- **[Rebalancing Your Portfolio](./rebalancing-your-portfolio.md)** - Learn when and how to rebalance
-- **[Build Diversified Portfolio](./build-diversified-portfolio.md)** - Overall portfolio construction
-- **[Monthly Portfolio Review](../intermediate/monthly-portfolio-review.md)** - Monitor sector drift
-- **[Value Investing with Sage](./value-investing-with-sage.md)** - Find undervalued sectors
-- **[Growth Stock Selection](./growth-stock-selection.md)** - Focus on growth sectors
+- **[Rebalancing Your Portfolio](./rebalancing-your-portfolio)** - Learn when and how to rebalance
+- **[Build Diversified Portfolio](./build-diversified-portfolio)** - Overall portfolio construction
+- **[Monthly Portfolio Review](../intermediate/monthly-portfolio-review)** - Monitor sector drift
+- **[Value Investing with Sage](./value-investing-with-sage)** - Find undervalued sectors
+- **[Growth Stock Selection](./growth-stock-selection)** - Focus on growth sectors
 
 ### Continue Learning:
 - Follow sector rotation strategies (Fidelity Sector Select, SPDR Sector Reports)

@@ -830,11 +830,11 @@ By the end of this workflow, you should have:
 Now that you've mastered rebalancing:
 
 ### Related Workflows:
-- **[Sector Allocation Strategy](./sector-allocation-strategy.md)** - Rebalance across sectors
-- **[Build Diversified Portfolio](./build-diversified-portfolio.md)** - Set initial allocation
-- **[Monthly Portfolio Review](../intermediate/monthly-portfolio-review.md)** - Track drift monthly
-- **[Tax-Loss Harvesting Strategy](../intermediate/tax-loss-harvesting.md)** - Combine with rebalancing
-- **[Asset Location Optimization](../intermediate/asset-location-optimization.md)** - Where to hold what
+- **[Sector Allocation Strategy](./sector-allocation-strategy)** - Rebalance across sectors
+- **[Build Diversified Portfolio](./build-diversified-portfolio)** - Set initial allocation
+- **[Monthly Portfolio Review](../intermediate/monthly-portfolio-review)** - Track drift monthly
+- **[Tax-Loss Harvesting Strategy](../intermediate/tax-loss-harvesting)** - Combine with rebalancing
+- **[Asset Location Optimization](../intermediate/asset-location-optimization)** - Where to hold what
 
 ### Continue Learning:
 - Read Vanguard's research on rebalancing best practices

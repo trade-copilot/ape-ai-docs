@@ -414,16 +414,16 @@ Get to know the 4 AI trading personalities that power Ape AI.
 ## What's Next?
 
 **Ready to Choose?**
-- [Choosing Your Persona →](choosing.md) - Step-by-step selection guide
+- [Choosing Your Persona →](choosing) - Step-by-step selection guide
 
 **Learn More:**
-- [What Are Personas? →](what-are-personas.md) - Persona basics
-- [AI Chat Basics →](../Chat/basics.md) - See personas in action
+- [What Are Personas? →](what-are-personas) - Persona basics
+- [AI Chat Basics →](../Chat/basics) - See personas in action
 
 **Try Workflows:**
-- [Premarket Day Trading Routine](../../Use-Cases/Advanced/premarket-routine.md) - Blitz style
-- [Momentum Trade Entry](../../Use-Cases/Advanced/momentum-entry.md) - Maverick style
-- [My First Stock Research](../../Use-Cases/Beginner/first-research.md) - Sage style
+- [Premarket Day Trading Routine](../../Use-Cases/Advanced/premarket-routine) - Blitz style
+- [Momentum Trade Entry](../../Use-Cases/Advanced/momentum-entry) - Maverick style
+- [My First Stock Research](../../Use-Cases/Beginner/first-research) - Sage style
 
 ---
 

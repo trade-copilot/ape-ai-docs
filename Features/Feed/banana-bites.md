@@ -535,14 +535,14 @@ A: Not yet, but interactive quizzes coming in future updates!
 ## What's Next?
 
 **Explore More Feed Features:**
-- [Feed Overview →](overview.md) - All Feed components
-- [Personalized News →](news.md) - Breaking news
-- [Daily Summary →](daily-summary.md) - Market recap
-- [Trending Stocks →](trending.md) - What's hot
+- [Feed Overview →](overview) - All Feed components
+- [Personalized News →](news) - Breaking news
+- [Daily Summary →](daily-summary) - Market recap
+- [Trending Stocks →](trending) - What's hot
 
 **Apply Your Learning:**
-- [Paper Trading →](../Brokerage/paper-trading.md) - Practice risk-free
-- [My First Stock Research →](../../Use-Cases/Beginner/first-research.md) - Use what you learned
+- [Paper Trading →](../Brokerage/paper-trading) - Practice risk-free
+- [My First Stock Research →](../../Use-Cases/Beginner/first-research) - Use what you learned
 
 ---
 

@@ -785,13 +785,13 @@ Example:
 ### Continue Your Education
 
 **Next workflows:**
-- [Power of Compound Interest →](power-of-compound-interest.md)
-- [Understanding Volatility and Emotions →](understanding-volatility-emotions.md)
-- [Common Beginner Mistakes →](common-beginner-mistakes.md)
+- [Power of Compound Interest →](power-of-compound-interest)
+- [Understanding Volatility and Emotions →](understanding-volatility-emotions)
+- [Common Beginner Mistakes →](common-beginner-mistakes)
 
 **Ready to build your portfolio?**
-- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs.md)
-- [Build a Diversified Portfolio →](../../../Use-Cases/Investor/Beginner/build-portfolio.md)
+- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs)
+- [Build a Diversified Portfolio →](../../../Use-Cases/Investor/Beginner/build-portfolio)
 
 ---
 
@@ -842,4 +842,4 @@ Money will:
 
 **You've got this.** 🚀
 
-**Next:** [The Power of Compound Interest: Why Time Matters →](power-of-compound-interest.md)
+**Next:** [The Power of Compound Interest: Why Time Matters →](power-of-compound-interest)

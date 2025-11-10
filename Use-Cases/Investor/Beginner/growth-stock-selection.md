@@ -1146,11 +1146,11 @@ By the end of this workflow, you should have:
 Now that you've mastered growth stock selection:
 
 ### Related Workflows:
-- **[Value Investing with Sage](./value-investing-with-sage.md)** - Balance growth with value
-- **[Sector Allocation Strategy](./sector-allocation-strategy.md)** - Diversify across sectors
-- **[Rebalancing Your Portfolio](./rebalancing-your-portfolio.md)** - Manage winners and trim
-- **[Monthly Portfolio Review](../intermediate/monthly-portfolio-review.md)** - Track growth metrics
-- **[Understanding Stock Fundamentals](./understanding-stock-fundamentals.md)** - Deepen analysis
+- **[Value Investing with Sage](./value-investing-with-sage)** - Balance growth with value
+- **[Sector Allocation Strategy](./sector-allocation-strategy)** - Diversify across sectors
+- **[Rebalancing Your Portfolio](./rebalancing-your-portfolio)** - Manage winners and trim
+- **[Monthly Portfolio Review](../intermediate/monthly-portfolio-review)** - Track growth metrics
+- **[Understanding Stock Fundamentals](./understanding-stock-fundamentals)** - Deepen analysis
 
 ### Continue Learning:
 - Read **"One Up On Wall Street"** by Peter Lynch (growth investing classic)

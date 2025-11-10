@@ -75,7 +75,7 @@ The **Portfolio** is your command center for tracking investments.
 - Today's change ($  and %)
 - All-time P&L ($ and %)
 
-![Portfolio Summary](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/portfolio-summary.jpg)
+![Portfolio Summary](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/portfolio-summary.jpg)
 
 ---
 
@@ -119,7 +119,7 @@ The **Portfolio** is your command center for tracking investments.
 
 **Tap/click to view full ticker page**
 
-![Position Card](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/position-card.jpg)
+![Position Card](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/position-card.jpg)
 
 ---
 
@@ -155,7 +155,7 @@ The **Portfolio** is your command center for tracking investments.
 - Green bars = Profitable positions
 - Red bars = Losing positions
 
-![Portfolio Charts](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/portfolio-charts.jpg)
+![Portfolio Charts](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/portfolio-charts.jpg)
 
 ---
 
@@ -273,7 +273,7 @@ The **Portfolio** is your command center for tracking investments.
 - View all accounts together
 - Or select one account to view
 
-![Multiple Accounts View](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/multi-account-portfolio.jpg)
+![Multiple Accounts View](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/multi-account-portfolio.jpg)
 
 ---
 
@@ -334,7 +334,7 @@ The **Portfolio** is your command center for tracking investments.
 - "Am I too concentrated?"
 - "Which holding is riskiest?"
 
-[Learn more about Ask Maverick →](ask-maverick.md)
+[Learn more about Ask Maverick →](ask-maverick)
 
 ---
 
@@ -387,7 +387,7 @@ The **Portfolio** is your command center for tracking investments.
 
 **Great for:** Screenshots, showing friends, public settings
 
-![Privacy Mode](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/privacy-mode.jpg)
+![Privacy Mode](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/privacy-mode.jpg)
 
 ---
 
@@ -506,13 +506,13 @@ A: Yes! Dividend income shown in realized P&L.
 ## What's Next?
 
 **Explore Portfolio Features:**
-- [Tracking Positions →](positions.md) - Manage your holdings
-- [Ask Maverick →](ask-maverick.md) - Portfolio AI assistant
-- [AI Analysis Tools →](ai-tools.md) - Advanced portfolio analysis
+- [Tracking Positions →](positions) - Manage your holdings
+- [Ask Maverick →](ask-maverick) - Portfolio AI assistant
+- [AI Analysis Tools →](ai-tools) - Advanced portfolio analysis
 
 **Improve Your Portfolio:**
-- [Portfolio Health Check →](../../Use-Cases/Portfolio/health-check.md) - Review your holdings
-- [Getting AI Ideas →](../../Use-Cases/Portfolio/ai-ideas.md) - Find new opportunities
+- [Portfolio Health Check →](../../Use-Cases/Portfolio/health-check) - Review your holdings
+- [Getting AI Ideas →](../../Use-Cases/Portfolio/ai-ideas) - Find new opportunities
 
 ---
 

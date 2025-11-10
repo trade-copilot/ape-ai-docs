@@ -21,7 +21,7 @@ Before trading options, you should:
 - ✅ Only risk money you can afford to lose completely
 - ✅ Have completed options approval with your broker
 
-**Start with paper trading first!** → [Learning Options with Paper Trading](../Trader/learning-options-paper.md)
+**Start with paper trading first!** → [Learning Options with Paper Trading](../Trader/learning-options-paper)
 
 ---
 
@@ -650,9 +650,9 @@ winners more room.
 - Build slowly
 
 **Learn More:**
-- [Options Greeks Explained →](../../Features/trading/options-greeks.md)
-- [Options Strategies →](../../Features/trading/options-strategies.md)
-- [Managing Options Positions →](../Trader/managing-options.md)
+- [Options Greeks Explained →](../../Features/trading/options-greeks)
+- [Options Strategies →](../../Features/trading/options-strategies)
+- [Managing Options Positions →](../Trader/managing-options)
 
 **Ask Maverick:**
 ```

@@ -1305,9 +1305,9 @@ Sage will walk you through:
 3. ✅ Set up security (2FA, biometric login)
 
 **Next week:**
-- [Funding Your Account: How Much to Start? →](funding-account.md)
-- [Understanding Order Types: Market vs Limit →](understanding-order-types.md)
-- [Paper Trading: Practice Before Real Money →](paper-trading-practice.md)
+- [Funding Your Account: How Much to Start? →](funding-account)
+- [Understanding Order Types: Market vs Limit →](understanding-order-types)
+- [Paper Trading: Practice Before Real Money →](paper-trading-practice)
 
 **This month:**
 - Make your first real investment
@@ -1384,4 +1384,4 @@ Thousands of people open their first brokerage account every day. You're about t
 
 **You've got this.** 🚀
 
-**Next:** [Funding Your Account: How Much Should You Start With? →](funding-account.md)
+**Next:** [Funding Your Account: How Much Should You Start With? →](funding-account)

@@ -59,7 +59,7 @@ Your FREE virtual trading account. Real market conditions, zero risk.
 2. Click **Portfolio** in left sidebar
 3. Scroll to **Brokerages** section
 
-![Portfolio Brokerages Section](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/portfolio-brokerages.jpg)
+![Portfolio Brokerages Section](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/portfolio-brokerages.jpg)
 
 ---
 
@@ -67,7 +67,7 @@ Your FREE virtual trading account. Real market conditions, zero risk.
 
 You'll see **"Ape Paper Trading"** at the TOP of the brokerage list.
 
-![Ape Paper Trading First](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/ape-paper-first.jpg)
+![Ape Paper Trading First](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ape-paper-first.jpg)
 
 **Why it's first:** We want you to practice risk-free before connecting real brokerages!
 
@@ -83,7 +83,7 @@ You'll see **"Ape Paper Trading"** at the TOP of the brokerage list.
 1. Click the **"Ape Paper Trading"** card
 2. Click **"Claim Account"** or **"Connect"**
 
-![Claim Paper Account](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/claim-paper-account.jpg)
+![Claim Paper Account](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/claim-paper-account.jpg)
 
 ---
 
@@ -94,7 +94,7 @@ You'll see **"Ape Paper Trading"** at the TOP of the brokerage list.
 3. You receive your virtual money
 4. Ready to trade!
 
-![Paper Account Created](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/paper-account-success.jpg)
+![Paper Account Created](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/paper-account-success.jpg)
 
 **That's it! You now have a paper trading account.** 🎉
 
@@ -110,7 +110,7 @@ You'll see **"Ape Paper Trading"** at the TOP of the brokerage list.
 3. View positions (stocks & options)
 4. Track daily P/L
 
-![Paper Portfolio View](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/paper-portfolio-view.jpg)
+![Paper Portfolio View](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/paper-portfolio-view.jpg)
 
 ---
 
@@ -127,7 +127,7 @@ You'll see **"Ape Paper Trading"** at the TOP of the brokerage list.
 4. Execute the trade there
 5. Position syncs back to Ape AI Portfolio
 
-![Trade Flow](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/trade-flow-diagram.jpg)
+![Trade Flow](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/trade-flow-diagram.jpg)
 
 ---
 
@@ -144,7 +144,7 @@ You'll see **"Ape Paper Trading"** at the TOP of the brokerage list.
    - *"What did I learn from this trade?"*
    - *"Am I too concentrated in tech?"*
 
-![Ask Maverick Paper Analysis](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/maverick-paper-analysis.jpg)
+![Ask Maverick Paper Analysis](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/maverick-paper-analysis.jpg)
 
 Maverick analyzes your paper trades just like real ones!
 
@@ -181,8 +181,8 @@ Maverick analyzes your paper trades just like real ones!
 - Understand profit/loss
 
 **Resources:**
-- [Learning Options Trading](../../Use-Cases/learning/options-learning.md)
-- [Learning with Paper Trading Workflow](../../Use-Cases/Beginner/paper-trading.md)
+- [Learning Options Trading](../../Use-Cases/learning/options-learning)
+- [Learning with Paper Trading Workflow](../../Use-Cases/Beginner/paper-trading)
 
 ---
 
@@ -241,7 +241,7 @@ Lesson: Don't buy options right before known events.
 3. **Ask Maverick**: *"What's my win rate in paper trading?"*
 4. **AI Analysis Tools**: Get insights on paper portfolio
 
-![Paper Portfolio Analytics](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/paper-analytics.jpg)
+![Paper Portfolio Analytics](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/paper-analytics.jpg)
 
 ---
 
@@ -333,16 +333,16 @@ Use Ape AI to learn:
 ## 🚀 What's Next?
 
 **Start Trading:**
-- [Learning with Paper Trading Workflow](../../Use-Cases/Beginner/paper-trading.md) - Step-by-step guide
-- [My First Stock Research](../../Use-Cases/Beginner/first-research.md) - Find what to trade
+- [Learning with Paper Trading Workflow](../../Use-Cases/Beginner/paper-trading) - Step-by-step guide
+- [My First Stock Research](../../Use-Cases/Beginner/first-research) - Find what to trade
 
 **Learn Strategies:**
-- [Premarket Day Trading Routine](../../Use-Cases/Advanced/premarket-routine.md)
-- [Swing Trade Entry Timing](../../Use-Cases/Advanced/swing-entry.md)
+- [Premarket Day Trading Routine](../../Use-Cases/Advanced/premarket-routine)
+- [Swing Trade Entry Timing](../../Use-Cases/Advanced/swing-entry)
 
 **Connect Real Brokerages (When Ready):**
-- [Supported Brokerages](supported.md)
-- [Connecting Your Brokerage](connecting.md)
+- [Supported Brokerages](supported)
+- [Connecting Your Brokerage](connecting)
 
 ---
 
@@ -371,8 +371,8 @@ A: Minimum 1-3 months. Be consistently profitable first!
 ## 📞 Need Help?
 
 - [Paper Trading FAQ](../../Support/faq.md#paper-trading)
-- [Troubleshooting](../../Support/troubleshooting.md)
-- [Contact Support](../../Support/contact.md)
+- [Troubleshooting](../../Support/troubleshooting)
+- [Contact Support](../../Support/contact)
 
 ---
 

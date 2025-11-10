@@ -916,16 +916,16 @@ Bullish, bearish, or neutral?
 ### Monday Morning Execution
 
 **After your weekend research:**
-- [Premarket Swing Trading Routine →](swing-trading-routine.md)
-- [Daily Trading Routine →](first-day-trade.md)
-- [Managing Multiple Positions →](managing-positions.md)
+- [Premarket Swing Trading Routine →](swing-trading-routine)
+- [Daily Trading Routine →](first-day-trade)
+- [Managing Multiple Positions →](managing-positions)
 
 ### Improve Your Research
 
 **Related Skills:**
-- [Fundamental Analysis →](../../Features/tickers/fundamental-analysis.md)
-- [Technical Analysis →](../../Features/trading/technical-analysis.md)
-- [Risk Management →](../../Features/trading/risk-management.md)
+- [Fundamental Analysis →](../../Features/tickers/fundamental-analysis)
+- [Technical Analysis →](../../Features/trading/technical-analysis)
+- [Risk Management →](../../Features/trading/risk-management)
 
 ### Ask Sage or Maverick
 

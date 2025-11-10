@@ -186,7 +186,7 @@ Common reasons users contact support:
 - Data not loading
 - Login problems
 
-**Tip:** Check the [FAQ](faq.md) and [Troubleshooting](troubleshooting.md) pages first - your answer might already be there!
+**Tip:** Check the [FAQ](faq) and [Troubleshooting](troubleshooting) pages first - your answer might already be there!
 
 ---
 
@@ -280,12 +280,12 @@ A: Put "URGENT" in your email subject line and clearly explain why it's urgent.
 ## What's Next?
 
 **Need immediate answers?**
-- [FAQ →](faq.md) - Common questions answered
-- [Troubleshooting →](troubleshooting.md) - Fix common issues yourself
+- [FAQ →](faq) - Common questions answered
+- [Troubleshooting →](troubleshooting) - Fix common issues yourself
 
 **Learn more:**
-- [Getting Started →](../Getting Started/quick-start-ios.md) - Setup guides
-- [Feature Guides →](../Features/Chat/basics.md) - How to use features
+- [Getting Started →](../Getting Started/quick-start-ios) - Setup guides
+- [Feature Guides →](../Features/Chat/basics) - How to use features
 
 ---
 

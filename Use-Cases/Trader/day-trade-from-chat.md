@@ -30,7 +30,7 @@ By the end of this workflow, you'll know how to:
 **1. Connected Brokerage**
 - Connected brokerage account (or Ape Paper Trading)
 - Sufficient buying power for day trading
-- [How to connect →](../../Features/Brokerage/connecting.md)
+- [How to connect →](../../Features/Brokerage/connecting)
 
 **2. Trading Permissions Enabled**
 - Enable "Execute from Chat" in Settings
@@ -42,7 +42,7 @@ By the end of this workflow, you'll know how to:
 
 **4. Persona Setup**
 - Set persona to **Blitz** (day trader focused)
-- [How to change →](../../Features/Personas/choosing.md)
+- [How to change →](../../Features/Personas/choosing)
 
 ---
 
@@ -547,13 +547,13 @@ A: Yes! Exact same process, just different UI.
 - Build stop loss discipline
 
 **Then Try:**
-- [Swing Trading from Chat →](swing-trade-from-chat.md) - Multi-day holds
-- [Options Strategies from Chat →](options-strategies-chat.md) - Spreads & advanced
-- [Premarket Routine →](premarket-routine.md) - Expand pre-market research
+- [Swing Trading from Chat →](swing-trade-from-chat) - Multi-day holds
+- [Options Strategies from Chat →](options-strategies-chat) - Spreads & advanced
+- [Premarket Routine →](premarket-routine) - Expand pre-market research
 
 **Related Features:**
-- [Execute Trades Feature Guide →](../../Features/Chat/execute-trades.md)
-- [Quick Prompts →](../../Features/Chat/quick-prompts.md)
+- [Execute Trades Feature Guide →](../../Features/Chat/execute-trades)
+- [Quick Prompts →](../../Features/Chat/quick-prompts)
 - [Blitz Persona →](../../Features/Personas/meet-the-personas.md#blitz)
 
 ---

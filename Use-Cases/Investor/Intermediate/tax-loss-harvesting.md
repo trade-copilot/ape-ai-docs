@@ -769,10 +769,10 @@ By the end of this workflow, you should have:
 Now that you've mastered tax-loss harvesting:
 
 ### Related Workflows:
-- **[Asset Location Optimization](./asset-location-optimization.md)** - Which accounts for which assets
-- **[Portfolio Rebalancing](../Beginner/rebalancing-your-portfolio.md)** - Combine with harvesting
-- **[Monthly Portfolio Review](./monthly-portfolio-review.md)** - Track loss opportunities
-- **[Multi-Account Portfolio Management](./multi-account-portfolio-management.md)** - Coordinate across accounts
+- **[Asset Location Optimization](./asset-location-optimization)** - Which accounts for which assets
+- **[Portfolio Rebalancing](../Beginner/rebalancing-your-portfolio)** - Combine with harvesting
+- **[Monthly Portfolio Review](./monthly-portfolio-review)** - Track loss opportunities
+- **[Multi-Account Portfolio Management](./multi-account-portfolio-management)** - Coordinate across accounts
 
 ### Continue Learning:
 - Read IRS Pub 550 (Investment Income and Expenses)

@@ -72,7 +72,7 @@ Breaking financial news filtered for what actually matters to YOU.
 > Stock: +8% pre-market
 > Key: Data center revenue up 112% YoY
 
-![Earnings News](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/news-earnings.jpg)
+![Earnings News](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/news-earnings.jpg)
 
 ---
 
@@ -350,7 +350,7 @@ Go to Chat tab, ask:
 - Send to Discord/Telegram
 - Text to friends
 
-![News Article Detail](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/news-article-detail.jpg)
+![News Article Detail](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/news-article-detail.jpg)
 
 ---
 
@@ -389,7 +389,7 @@ Go to Chat tab, ask:
    - Company news ✅
    - Unusual activity ✅
 
-![News Settings](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/news-settings.jpg)
+![News Settings](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/news-settings.jpg)
 
 ---
 
@@ -491,14 +491,14 @@ A: Coming soon! Bookmark feature in development.
 ## What's Next?
 
 **Explore More Feed Features:**
-- [Feed Overview →](overview.md) - What's in the Feed
-- [Daily Summary →](daily-summary.md) - AI market recap
-- [Banana Bites →](banana-bites.md) - Educational content
-- [Trending Stocks →](trending.md) - What's hot
+- [Feed Overview →](overview) - What's in the Feed
+- [Daily Summary →](daily-summary) - AI market recap
+- [Banana Bites →](banana-bites) - Educational content
+- [Trending Stocks →](trending) - What's hot
 
 **Use News in Workflows:**
-- [Morning Market Check →](../../Use-Cases/daily/morning.md) - Start with news
-- [Following WSB Trends →](../../Use-Cases/Trader/wsb-trends.md) - Social + News
+- [Morning Market Check →](../../Use-Cases/daily/morning) - Start with news
+- [Following WSB Trends →](../../Use-Cases/Trader/wsb-trends) - Social + News
 
 ---
 

@@ -67,7 +67,7 @@ Master options trading risk-free using Ape AI's paper trading account.
 - Basic understanding of options (calls/puts)
 
 ✅ **Knowledge Requirements**
-- Read [First Options Trade →](first-options-trade.md) guide
+- Read [First Options Trade →](first-options-trade) guide
 - Understand what calls and puts are
 - Know basic options terminology
 - Comfortable with risk of 100% loss
@@ -869,7 +869,7 @@ Maverick can:
 - Edgewonk (statistical analysis)
 
 **Options Education:**
-- Ape AI's [Options Greeks Explained →](../../Features/trading/options-greeks.md)
+- Ape AI's [Options Greeks Explained →](../../Features/trading/options-greeks)
 - Tastytrade free options courses
 - CBOE options education
 
@@ -887,14 +887,14 @@ Maverick can:
 **After your first 20 paper trades:**
 
 **Expand your skills:**
-- [Options Greeks Deep Dive →](../../Features/trading/options-greeks.md)
-- [Options Strategies Guide →](../../Features/trading/options-strategies.md)
-- [Managing Options Positions →](managing-options.md)
+- [Options Greeks Deep Dive →](../../Features/trading/options-greeks)
+- [Options Strategies Guide →](../../Features/trading/options-strategies)
+- [Managing Options Positions →](managing-options)
 
 **Test new strategies:**
-- [Earnings Season Trading →](earnings-prep.md)
-- [Swing Trading Options →](swing-trading-routine.md)
-- [Weekend Research Routine →](weekend-research.md)
+- [Earnings Season Trading →](earnings-prep)
+- [Swing Trading Options →](swing-trading-routine)
+- [Weekend Research Routine →](weekend-research)
 
 ### Ask Maverick for Guidance
 

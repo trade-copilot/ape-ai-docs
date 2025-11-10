@@ -1017,13 +1017,13 @@ a beginner like me choose for my first investment?
 ### Immediate Next Steps
 
 **While money is transferring (Days 1-3):**
-- [Paper Trading: Practice Risk-Free →](paper-trading-practice.md)
-- [Understanding Order Types: Market vs Limit →](understanding-order-types.md)
-- [Market Hours: When Can You Trade? →](market-hours-explained.md)
+- [Paper Trading: Practice Risk-Free →](paper-trading-practice)
+- [Understanding Order Types: Market vs Limit →](understanding-order-types)
+- [Market Hours: When Can You Trade? →](market-hours-explained)
 
 **After money arrives (Days 3-5):**
-- [Your First $100 in Stocks →](../../../Use-Cases/Investor/Beginner/first-100-stocks.md)
-- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs.md)
+- [Your First $100 in Stocks →](../../../Use-Cases/Investor/Beginner/first-100-stocks)
+- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs)
 
 ---
 
@@ -1076,4 +1076,4 @@ Sage will:
 
 **You've got this.** 🚀
 
-**Next:** [Understanding Order Types: Market vs Limit Orders →](understanding-order-types.md)
+**Next:** [Understanding Order Types: Market vs Limit Orders →](understanding-order-types)

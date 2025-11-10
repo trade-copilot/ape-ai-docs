@@ -23,7 +23,7 @@ Step-by-step guide to linking your trading account to Ape AI.
 - ✅ 2FA device (if your broker uses it)
 - ✅ 5 minutes
 
-**Check if your broker is supported:** [See Supported Brokerages →](supported.md)
+**Check if your broker is supported:** [See Supported Brokerages →](supported)
 
 ---
 
@@ -262,7 +262,7 @@ Step-by-step guide to linking your trading account to Ape AI.
 
 **One dashboard. All your trading.**
 
-![Multiple Accounts](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/multiple-accounts.jpg)
+![Multiple Accounts](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/multiple-accounts.jpg)
 
 ---
 
@@ -322,7 +322,7 @@ Step-by-step guide to linking your trading account to Ape AI.
 - Need to enable trading permissions
 
 **Solutions:**
-- Check [Supported Brokerages](supported.md) for your broker's feature list
+- Check [Supported Brokerages](supported) for your broker's feature list
 - Enable trading in Settings if you want execution
 - Contact Ape AI support for clarification
 
@@ -402,7 +402,7 @@ Step-by-step guide to linking your trading account to Ape AI.
 - Historical data may be kept for records
 - Can reconnect anytime
 
-![Disconnect Broker](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/disconnect-broker.jpg)
+![Disconnect Broker](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/disconnect-broker.jpg)
 
 ---
 
@@ -524,13 +524,13 @@ A: Your positions will appear in Portfolio tab. If they're showing, you're conne
 ## What's Next?
 
 **After Connecting:**
-- [Portfolio Overview →](../Portfolio/overview.md) - See your holdings
-- [Ask Maverick →](../Portfolio/ask-maverick.md) - AI portfolio analysis
-- [Execute Trades →](../Chat/execute-trades.md) - Trade from chat
+- [Portfolio Overview →](../Portfolio/overview) - See your holdings
+- [Ask Maverick →](../Portfolio/ask-maverick) - AI portfolio analysis
+- [Execute Trades →](../Chat/execute-trades) - Trade from chat
 
 **Not Sure Yet?**
-- [Why Connect? →](why-connect.md) - Benefits explained
-- [Ape Paper Trading →](paper-trading.md) - Start risk-free
+- [Why Connect? →](why-connect) - Benefits explained
+- [Ape Paper Trading →](paper-trading) - Start risk-free
 
 ---
 

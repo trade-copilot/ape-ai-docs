@@ -44,7 +44,7 @@ See what's hot right now. Catch momentum before everyone else.
 
 **AMD spiking 200%?** Something's happening. Check it out!
 
-![Most Searched](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/trending-most-searched.jpg)
+![Most Searched](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/trending-most-searched.jpg)
 
 ---
 
@@ -130,7 +130,7 @@ See what's hot right now. Catch momentum before everyone else.
 
 **GME spiking in WSB mentions?** You know what that means. Proceed with caution. 😅
 
-![Social Trending](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/trending-social.jpg)
+![Social Trending](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/trending-social.jpg)
 
 ---
 
@@ -222,7 +222,7 @@ See what's hot right now. Catch momentum before everyone else.
    - Research top 3
    - Plan potential trades
 
-![Morning Trending Routine](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/morning-trending-flow.jpg)
+![Morning Trending Routine](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/morning-trending-flow.jpg)
 
 ---
 
@@ -477,14 +477,14 @@ A: It's a tool, not a strategy. Use it to find ideas, then do your own analysis.
 ## What's Next?
 
 **Explore More Feed Features:**
-- [Feed Overview →](overview.md) - All Feed components
-- [Personalized News →](news.md) - Breaking news
-- [Daily Summary →](daily-summary.md) - Market recap
-- [Banana Bites →](banana-bites.md) - Learn while you scroll
+- [Feed Overview →](overview) - All Feed components
+- [Personalized News →](news) - Breaking news
+- [Daily Summary →](daily-summary) - Market recap
+- [Banana Bites →](banana-bites) - Learn while you scroll
 
 **Use Trending in Workflows:**
-- [Following WSB Trends →](../../Use-Cases/Trader/wsb-trends.md) - Trade social momentum
-- [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine.md) - Use Pre-Market Movers
+- [Following WSB Trends →](../../Use-Cases/Trader/wsb-trends) - Trade social momentum
+- [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine) - Use Pre-Market Movers
 
 ---
 

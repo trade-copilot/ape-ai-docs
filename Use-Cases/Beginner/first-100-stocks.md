@@ -349,14 +349,14 @@ What's the difference between stocks and ETFs?
 ## Related Workflows
 
 **Next Steps:**
-- [Invest Your First $100 in ETFs →](first-100-etfs.md) - Diversification strategy
-- [Research a Stock's Valuation →](research-stock-price.md) - Deep analysis skills
-- [Set Up Paper Trading →](paper-trading.md) - Practice before investing more
+- [Invest Your First $100 in ETFs →](first-100-etfs) - Diversification strategy
+- [Research a Stock's Valuation →](research-stock-price) - Deep analysis skills
+- [Set Up Paper Trading →](paper-trading) - Practice before investing more
 
 **Related Skills:**
-- [Reading Snapshot Grades →](../../Features/tickers/snapshot-grades.md)
-- [Understanding Company Analysis →](../../Features/tickers/company-analysis.md)
-- [Portfolio Monitoring →](../../Features/Portfolio/overview.md)
+- [Reading Snapshot Grades →](../../Features/tickers/snapshot-grades)
+- [Understanding Company Analysis →](../../Features/tickers/company-analysis)
+- [Portfolio Monitoring →](../../Features/Portfolio/overview)
 
 ---
 

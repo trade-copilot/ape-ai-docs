@@ -817,10 +817,10 @@ By the end of this workflow, you should have:
 Now that you've mastered asset location:
 
 ### Related Workflows:
-- **[Tax-Loss Harvesting](./tax-loss-harvesting.md)** - Combine with asset location for max tax savings
-- **[Multi-Account Portfolio Management](./multi-account-portfolio-management.md)** - Coordinate across accounts
-- **[Rebalancing Your Portfolio](../Beginner/rebalancing-your-portfolio.md)** - Rebalance across accounts
-- **[Monthly Portfolio Review](./monthly-portfolio-review.md)** - Monitor tax efficiency
+- **[Tax-Loss Harvesting](./tax-loss-harvesting)** - Combine with asset location for max tax savings
+- **[Multi-Account Portfolio Management](./multi-account-portfolio-management)** - Coordinate across accounts
+- **[Rebalancing Your Portfolio](../Beginner/rebalancing-your-portfolio)** - Rebalance across accounts
+- **[Monthly Portfolio Review](./monthly-portfolio-review)** - Monitor tax efficiency
 
 ### Continue Learning:
 - Read "The Bogleheads' Guide to Tax-Efficient Investing"

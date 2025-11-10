@@ -658,13 +658,13 @@ or gambling? Should I proceed?
 ### Continue Your Education
 
 **Next workflows:**
-- [Risk Management 101 →](risk-management-101.md)
-- [Power of Compound Interest →](power-of-compound-interest.md)
-- [Understanding Volatility and Emotions →](understanding-volatility-emotions.md)
+- [Risk Management 101 →](risk-management-101)
+- [Power of Compound Interest →](power-of-compound-interest)
+- [Understanding Volatility and Emotions →](understanding-volatility-emotions)
 
 **Ready to start investing (not gambling)?**
-- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs.md)
-- [Paper Trading: Practice First →](../Getting Started/paper-trading-practice.md)
+- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs)
+- [Paper Trading: Practice First →](../Getting Started/paper-trading-practice)
 
 ---
 
@@ -704,4 +704,4 @@ or gambling? Should I proceed?
 
 **You've got this.** 🚀
 
-**Next:** [Risk Management 101: Protect Your Money →](risk-management-101.md)
+**Next:** [Risk Management 101: Protect Your Money →](risk-management-101)

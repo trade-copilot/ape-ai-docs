@@ -824,11 +824,11 @@ By the end of this workflow, you should have:
 Now that you've mastered international diversification:
 
 ### Related Workflows:
-- **[Build Diversified Portfolio](./build-diversified-portfolio.md)** - Overall portfolio construction
-- **[Sector Allocation Strategy](./sector-allocation-strategy.md)** - Diversify within U.S. stocks
-- **[Rebalancing Your Portfolio](./rebalancing-your-portfolio.md)** - Maintain international allocation
-- **[Monthly Portfolio Review](../intermediate/monthly-portfolio-review.md)** - Track international performance
-- **[Asset Location Optimization](../intermediate/asset-location-optimization.md)** - Where to hold international stocks
+- **[Build Diversified Portfolio](./build-diversified-portfolio)** - Overall portfolio construction
+- **[Sector Allocation Strategy](./sector-allocation-strategy)** - Diversify within U.S. stocks
+- **[Rebalancing Your Portfolio](./rebalancing-your-portfolio)** - Maintain international allocation
+- **[Monthly Portfolio Review](../intermediate/monthly-portfolio-review)** - Track international performance
+- **[Asset Location Optimization](../intermediate/asset-location-optimization)** - Where to hold international stocks
 
 ### Continue Learning:
 - Follow international market news (FT.com, Bloomberg, Reuters)

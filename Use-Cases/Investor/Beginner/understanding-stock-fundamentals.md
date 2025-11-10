@@ -853,13 +853,13 @@ Sage, compare Nike vs Adidas fundamentals.
 ### Continue Your Research Education
 
 **Practice researching:**
-- [Research a Stock's Valuation →](research-stock-valuation.md)
-- [Your First $100 in Stocks →](first-100-stocks.md)
+- [Research a Stock's Valuation →](research-stock-valuation)
+- [Your First $100 in Stocks →](first-100-stocks)
 
 **Intermediate topics:**
-- [Sector Analysis and Rotation →](../intermediate/sector-analysis.md)
-- [Reading Earnings Reports →](../intermediate/reading-earnings-reports.md)
-- [Discovering Undervalued Stocks →](../intermediate/value-investing-basics.md)
+- [Sector Analysis and Rotation →](../intermediate/sector-analysis)
+- [Reading Earnings Reports →](../intermediate/reading-earnings-reports)
+- [Discovering Undervalued Stocks →](../intermediate/value-investing-basics)
 
 ---
 
@@ -920,4 +920,4 @@ to evaluate if this is a good investment.
 
 **You've got this.** 🚀
 
-**Next:** [Research a Stock's Valuation in Detail →](research-stock-valuation.md)
+**Next:** [Research a Stock's Valuation in Detail →](research-stock-valuation)

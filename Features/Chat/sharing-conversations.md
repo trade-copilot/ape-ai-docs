@@ -344,13 +344,13 @@ Share multiple AI conversations about same stock:
 ## What's Next?
 
 **Explore More Chat Features:**
-- [Chat Basics →](basics.md) - Learn to chat with AI
-- [Quick Prompts →](quick-prompts.md) - Pre-built questions
-- [Custom Prompts →](custom-prompts.md) - Create your templates
+- [Chat Basics →](basics) - Learn to chat with AI
+- [Quick Prompts →](quick-prompts) - Pre-built questions
+- [Custom Prompts →](custom-prompts) - Create your templates
 
 **Try These Workflows:**
-- [My First Stock Research →](../../Use-Cases/Beginner/first-research.md)
-- [Daily Trading Routine →](../../Use-Cases/intermediate/daily-routine.md)
+- [My First Stock Research →](../../Use-Cases/Beginner/first-research)
+- [Daily Trading Routine →](../../Use-Cases/intermediate/daily-routine)
 
 ---
 

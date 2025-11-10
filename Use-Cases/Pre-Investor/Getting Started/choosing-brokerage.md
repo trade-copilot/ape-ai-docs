@@ -586,12 +586,12 @@ You can't buy stocks directly from companies. You need a middleman (broker) to e
 ## What's Next?
 
 **After choosing your brokerage:**
-- [Opening Your First Brokerage Account →](opening-account.md)
-- [Funding Your Account →](funding-account.md)
-- [Understanding Order Types →](order-types.md)
+- [Opening Your First Brokerage Account →](opening-account)
+- [Funding Your Account →](funding-account)
+- [Understanding Order Types →](order-types)
 
 **Start paper trading right now:**
-- [Paper Trading: Your Risk-Free Practice Ground →](../education/paper-trading-practice.md)
+- [Paper Trading: Your Risk-Free Practice Ground →](../education/paper-trading-practice)
 
 ### Ask Money for Guidance
 
@@ -625,4 +625,4 @@ Money will:
 
 **Remember:** Start with Ape AI paper trading (free, zero risk). When ready for real money, Fidelity and Robinhood are best for beginners. You can always switch later! 🚀
 
-**Next step:** [Opening Your First Brokerage Account →](opening-account.md)
+**Next step:** [Opening Your First Brokerage Account →](opening-account)

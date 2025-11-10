@@ -123,7 +123,7 @@ Monitor your holdings, manage risk, know when to exit.
 - Quick health check
 - A = Strong, F = Weak
 
-![Position Metrics](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/position-metrics-explained.jpg)
+![Position Metrics](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/position-metrics-explained.jpg)
 
 ---
 
@@ -194,7 +194,7 @@ Monitor your holdings, manage risk, know when to exit.
 - Sort by % Loss → See your losers, consider cutting
 - Sort by AI Grade → See which holdings are strongest
 
-![Sort Positions](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/sort-positions.jpg)
+![Sort Positions](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/sort-positions.jpg)
 
 ---
 
@@ -298,7 +298,7 @@ Monitor your holdings, manage risk, know when to exit.
 **📊 Rebalancing Suggestions**
 > "Tech is 55% of your portfolio. Consider trimming to reduce concentration risk."
 
-![AI Position Alerts](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/ai-position-alerts.jpg)
+![AI Position Alerts](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ai-position-alerts.jpg)
 
 ---
 
@@ -311,7 +311,7 @@ Monitor your holdings, manage risk, know when to exit.
 - "Show me all losing positions"
 - "Which holdings have earnings soon?"
 
-[Learn more →](ask-maverick.md)
+[Learn more →](ask-maverick)
 
 ---
 
@@ -329,7 +329,7 @@ Monitor your holdings, manage risk, know when to exit.
 - **IV** (Implied Volatility) - Current IV
 - **Greeks** - Delta, Theta, Gamma, Vega
 
-![Options Position](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/options-position-card.jpg)
+![Options Position](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/options-position-card.jpg)
 
 ---
 
@@ -370,7 +370,7 @@ Monitor your holdings, manage risk, know when to exit.
 - Your entry point marked
 - Resistance/support levels
 
-![Position Charts](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/position-performance-chart.jpg)
+![Position Charts](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/position-performance-chart.jpg)
 
 ---
 
@@ -533,16 +533,16 @@ A: Possible reasons:
 ## What's Next?
 
 **Improve Position Management:**
-- [Ask Maverick →](ask-maverick.md) - Get AI advice on positions
-- [AI Analysis Tools →](ai-tools.md) - Advanced portfolio analysis
+- [Ask Maverick →](ask-maverick) - Get AI advice on positions
+- [AI Analysis Tools →](ai-tools) - Advanced portfolio analysis
 
 **Learn Workflows:**
-- [Portfolio Health Check →](../../Use-Cases/Portfolio/health-check.md) - Review your positions
-- [Getting AI Ideas →](../../Use-Cases/Portfolio/ai-ideas.md) - Find new positions
+- [Portfolio Health Check →](../../Use-Cases/Portfolio/health-check) - Review your positions
+- [Getting AI Ideas →](../../Use-Cases/Portfolio/ai-ideas) - Find new positions
 
 **Understand Stocks:**
-- [Ticker Page Overview →](../Ticker/overview.md) - Deep dive on holdings
-- [AI Snapshot Grades →](../Ticker/snapshot-grades.md) - How AI grades stocks
+- [Ticker Page Overview →](../Ticker/overview) - Deep dive on holdings
+- [AI Snapshot Grades →](../Ticker/snapshot-grades) - How AI grades stocks
 
 ---
 

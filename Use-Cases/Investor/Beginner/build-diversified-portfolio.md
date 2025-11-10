@@ -798,13 +798,13 @@ Review allocation annually (shift more to bonds)
 ### Continue Your Investor Journey
 
 **Enhance your portfolio:**
-- [Set Up Automatic Investing (DCA) →](automatic-investing-dca.md)
-- [Understanding Stock Fundamentals →](understanding-stock-fundamentals.md)
-- [Monthly Portfolio Review →](../intermediate/monthly-portfolio-review.md)
+- [Set Up Automatic Investing (DCA) →](automatic-investing-dca)
+- [Understanding Stock Fundamentals →](understanding-stock-fundamentals)
+- [Monthly Portfolio Review →](../intermediate/monthly-portfolio-review)
 
 **Learn more:**
-- [Research Individual Stocks →](research-stock-valuation.md)
-- [Tax-Efficient Investing →](../intermediate/tax-efficient-investing.md)
+- [Research Individual Stocks →](research-stock-valuation)
+- [Tax-Efficient Investing →](../intermediate/tax-efficient-investing)
 
 ---
 
@@ -858,4 +858,4 @@ Money will:
 
 **You've got this.** 🚀
 
-**Next:** [Set Up Automatic Investing (Dollar-Cost Averaging) →](automatic-investing-dca.md)
+**Next:** [Set Up Automatic Investing (Dollar-Cost Averaging) →](automatic-investing-dca)

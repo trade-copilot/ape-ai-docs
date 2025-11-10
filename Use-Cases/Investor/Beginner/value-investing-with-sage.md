@@ -1177,11 +1177,11 @@ By the end of this workflow, you should have:
 Now that you've mastered value investing basics:
 
 ### Related Workflows:
-- **[Growth Stock Selection](./growth-stock-selection.md)** - Learn the opposite: buying growth at any price
-- **[Dividend Investing Strategy](./dividend-investing-strategy.md)** - Many value stocks pay dividends
-- **[Understanding Stock Fundamentals](./understanding-stock-fundamentals.md)** - Deepen your analysis skills
-- **[Monthly Portfolio Review](../intermediate/monthly-portfolio-review.md)** - Track your value holdings
-- **[Rebalancing Your Portfolio](./rebalancing-your-portfolio.md)** - Sell when stocks reach fair value
+- **[Growth Stock Selection](./growth-stock-selection)** - Learn the opposite: buying growth at any price
+- **[Dividend Investing Strategy](./dividend-investing-strategy)** - Many value stocks pay dividends
+- **[Understanding Stock Fundamentals](./understanding-stock-fundamentals)** - Deepen your analysis skills
+- **[Monthly Portfolio Review](../intermediate/monthly-portfolio-review)** - Track your value holdings
+- **[Rebalancing Your Portfolio](./rebalancing-your-portfolio)** - Sell when stocks reach fair value
 
 ### Continue Learning:
 - Read **"The Intelligent Investor"** by Benjamin Graham (the value investing bible)

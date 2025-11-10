@@ -1090,12 +1090,12 @@ Every order (market, limit, stop) has a time-in-force setting that determines ho
 ### Immediate Next Steps
 
 **Before your first trade:**
-- [Market Hours: When Can You Trade? →](market-hours-explained.md)
-- [Paper Trading: Practice Risk-Free →](paper-trading-practice.md)
+- [Market Hours: When Can You Trade? →](market-hours-explained)
+- [Paper Trading: Practice Risk-Free →](paper-trading-practice)
 
 **Making your first trade:**
-- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs.md)
-- [Your First $100 in Stocks →](../../../Use-Cases/Investor/Beginner/first-100-stocks.md)
+- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs)
+- [Your First $100 in Stocks →](../../../Use-Cases/Investor/Beginner/first-100-stocks)
 
 ---
 
@@ -1154,4 +1154,4 @@ Sage will:
 
 **You've got this.** 🚀
 
-**Next:** [Market Hours Explained: When Can You Trade? →](market-hours-explained.md)
+**Next:** [Market Hours Explained: When Can You Trade? →](market-hours-explained)

@@ -679,9 +679,9 @@ Low Return
 3. ✅ Ask Sage in Ape AI: "Which assets should I invest in based on my age and goals?"
 
 **This week:**
-- [How to Choose a Brokerage →](choosing-brokerage.md)
-- [Opening Your First Account →](opening-account.md)
-- [Funding Your Account →](funding-account.md)
+- [How to Choose a Brokerage →](choosing-brokerage)
+- [Opening Your First Account →](opening-account)
+- [Funding Your Account →](funding-account)
 
 **Next steps:**
 - Learn about brokerages and accounts
@@ -720,4 +720,4 @@ Sage will:
 
 **Remember:** Stocks and ETFs are for growing wealth. Bonds and cash are for stability. Young investors should focus on growth. Older investors should balance growth and stability. Start simple with ETFs! 📊
 
-**Next:** [How to Choose a Brokerage →](choosing-brokerage.md)
+**Next:** [How to Choose a Brokerage →](choosing-brokerage)

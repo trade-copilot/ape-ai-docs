@@ -401,7 +401,7 @@ Build your own stock lists using natural language. No complex filters needed.
 4. Update criteria
 5. Click **"Save Changes"**
 
-![Edit Theme](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/edit-theme.jpg)
+![Edit Theme](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/edit-theme.jpg)
 
 ---
 
@@ -573,12 +573,12 @@ A: Yes! "Cryptocurrency-related stocks" or "Bitcoin exposure companies"
 ## What's Next?
 
 **Learn More About Themes:**
-- [Themes Overview →](overview.md) - How themes work
-- [Suggested Themes →](suggested.md) - Pre-built themes to try
+- [Themes Overview →](overview) - How themes work
+- [Suggested Themes →](suggested) - Pre-built themes to try
 
 **Use Themes in Trading:**
-- [Getting AI Trade Ideas →](../../Use-Cases/Portfolio/ai-ideas.md) - Generate from themes
-- [Swing Trade Entry Timing →](../../Use-Cases/Advanced/swing-entry.md) - Find setups
+- [Getting AI Trade Ideas →](../../Use-Cases/Portfolio/ai-ideas) - Generate from themes
+- [Swing Trade Entry Timing →](../../Use-Cases/Advanced/swing-entry) - Find setups
 
 ---
 

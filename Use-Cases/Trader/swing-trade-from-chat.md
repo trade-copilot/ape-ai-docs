@@ -30,15 +30,15 @@ By the end of this workflow, you'll know how to:
 **1. Connected Brokerage**
 - Connected brokerage or Ape Paper Trading
 - Buying power for swing positions
-- [How to connect →](../../Features/Brokerage/connecting.md)
+- [How to connect →](../../Features/Brokerage/connecting)
 
 **2. Trading Permissions**
 - Enable "Execute from Chat" in Settings
-- [Setup guide →](../../Features/Chat/execute-trades.md)
+- [Setup guide →](../../Features/Chat/execute-trades)
 
 **3. Persona Setup**
 - Set persona to **Maverick** (swing trader)
-- [Change persona →](../../Features/Personas/choosing.md)
+- [Change persona →](../../Features/Personas/choosing)
 
 **4. Time Commitment**
 - Check positions 1-2x per day
@@ -590,14 +590,14 @@ A: Normal! Some swings take 2 weeks. Be patient if setup intact.
 - Learn to hold through noise
 
 **Then Explore:**
-- [Day Trading from Chat →](day-trade-from-chat.md) - Faster paced
-- [Options Strategies from Chat →](options-strategies-chat.md) - Advanced spreads
-- [Weekend Research Routine →](weekend-research.md) - Deep dive planning
+- [Day Trading from Chat →](day-trade-from-chat) - Faster paced
+- [Options Strategies from Chat →](options-strategies-chat) - Advanced spreads
+- [Weekend Research Routine →](weekend-research) - Deep dive planning
 
 **Related:**
-- [Execute Trades Feature →](../../Features/Chat/execute-trades.md)
+- [Execute Trades Feature →](../../Features/Chat/execute-trades)
 - [Maverick Persona →](../../Features/Personas/meet-the-personas.md#maverick)
-- [Quick Prompts →](../../Features/Chat/quick-prompts.md)
+- [Quick Prompts →](../../Features/Chat/quick-prompts)
 
 ---
 

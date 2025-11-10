@@ -30,7 +30,7 @@ You're scrolling through Twitter and see **$TSLA** trending. Everyone's talking 
 3. Type **"TSLA"**
 4. Click the result or press Enter
 
-![Search for TSLA - iOS and Web](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/search-tsla.jpg)
+![Search for TSLA - iOS and Web](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/search-tsla.jpg)
 
 ---
 
@@ -38,7 +38,7 @@ You're scrolling through Twitter and see **$TSLA** trending. Everyone's talking 
 
 You'll land on the ticker page. First thing: **check the 4 grades**.
 
-![TSLA Snapshot Grades](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/tsla-snapshot-grades.jpg)
+![TSLA Snapshot Grades](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/tsla-snapshot-grades.jpg)
 
 **The 4 Grades:**
 1. **Fundamental** (A-F) - Company health, earnings, growth
@@ -65,7 +65,7 @@ Scroll down to the **Company Story** section. Tap/click the first card:
 
 **"How It Makes Money"**
 
-![How It Makes Money - TSLA](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/tsla-how-it-makes-money.jpg)
+![How It Makes Money - TSLA](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/tsla-how-it-makes-money.jpg)
 
 This explains:
 - Tesla's business model (EVs, energy, AI)
@@ -80,7 +80,7 @@ This explains:
 
 This is the key valuation question! Scroll to the **"Pricey or Cheap"** card and tap/click to expand.
 
-![Pricey or Cheap - TSLA](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/tsla-pricey-or-cheap.jpg)
+![Pricey or Cheap - TSLA](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/tsla-pricey-or-cheap.jpg)
 
 **What you'll learn:**
 - Is the stock overvalued or undervalued?
@@ -111,7 +111,7 @@ Let's get AI analysis on the valuation.
 3. Select **"Pricey or Cheap"**
 4. Type "TSLA" when asked
 
-![AI Valuation Analysis](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/tsla-ai-valuation.jpg)
+![AI Valuation Analysis](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/tsla-ai-valuation.jpg)
 
 **The AI will tell you:**
 - Current valuation metrics
@@ -128,7 +128,7 @@ Let's get AI analysis on the valuation.
 
 Go back to the ticker page (if you're in Chat) and scroll to **Bulls vs Bears** section.
 
-![Bulls vs Bears - TSLA](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/tsla-bulls-bears.jpg)
+![Bulls vs Bears - TSLA](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/tsla-bulls-bears.jpg)
 
 **You'll see:**
 - **Analyst breakdown**: % Buy, Hold, Sell
@@ -144,7 +144,7 @@ Go back to the ticker page (if you're in Chat) and scroll to **Bulls vs Bears** 
 
 Scroll to Company Story and tap **"Bagholder Risks"**
 
-![Bagholder Risks - TSLA](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/tsla-bagholder-risks.jpg)
+![Bagholder Risks - TSLA](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/tsla-bagholder-risks.jpg)
 
 **This tells you:**
 - What could go wrong long-term
@@ -165,7 +165,7 @@ Scroll to Company Story and tap **"Bagholder Risks"**
 
 Scroll down to **Performance Comparison**
 
-![Performance vs SPY](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/tsla-performance.jpg)
+![Performance vs SPY](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/tsla-performance.jpg)
 
 **You'll see:**
 - TSLA's return vs S&P 500 over time
@@ -206,7 +206,7 @@ After your research, you should know:
 2. **Check multiple sources** - Ape AI is one tool, not the only tool
 3. **Read the risks** - Don't just focus on the upside
 4. **Compare to alternatives** - Check Related Companies on the ticker page
-5. **Start small** - First investment? Use [Paper Trading](../../Features/Brokerage/paper-trading.md) first!
+5. **Start small** - First investment? Use [Paper Trading](../../Features/Brokerage/paper-trading) first!
 
 ---
 
@@ -233,19 +233,19 @@ After your research, you should know:
 - 🌐 Web: Click the star icon
 
 **Practice with paper trading:**
-- [Get Ape Paper Trading Account](../../Features/Brokerage/paper-trading.md)
+- [Get Ape Paper Trading Account](../../Features/Brokerage/paper-trading)
 - Place a practice trade
 - Watch how it performs
 
 **Research more stocks:**
 - Try the same process with other tickers
-- Use [Themes](../../Features/Themes/creating.md) to find similar stocks
+- Use [Themes](../../Features/Themes/creating) to find similar stocks
 - Ask AI: *"What are stocks similar to TSLA?"*
 
 **Learn more about analysis:**
-- [Understanding Snapshot Grades](../learning/snapshot-grades.md)
-- [Bulls vs Bears Explained](../../Features/Ticker/bulls-bears.md)
-- [Company Story Deep Dive](../../Features/Ticker/company-story.md)
+- [Understanding Snapshot Grades](../learning/snapshot-grades)
+- [Bulls vs Bears Explained](../../Features/Ticker/bulls-bears)
+- [Company Story Deep Dive](../../Features/Ticker/company-story)
 
 ---
 
@@ -262,13 +262,13 @@ After your research, you should know:
 ## Questions?
 
 **Still not sure about something?**
-- [FAQ](../../Support/faq.md)
-- [Contact Support](../../Support/contact.md)
+- [FAQ](../../Support/faq)
+- [Contact Support](../../Support/contact)
 - Ask in [Discord community](https://discord.gg/Ape AI)
 
 **Want to try another workflow?**
-- [Finding My First Investment](first-investment.md) - Build a long-term portfolio
-- [Learning with Paper Trading](paper-trading.md) - Practice risk-free
+- [Finding My First Investment](first-investment) - Build a long-term portfolio
+- [Learning with Paper Trading](paper-trading) - Practice risk-free
 
 ---
 

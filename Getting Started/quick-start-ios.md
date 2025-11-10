@@ -32,7 +32,7 @@ Get started with Ape AI on your iPhone in 5 minutes.
 
 This is important! Your persona determines how the AI assists you.
 
-![Persona Selection](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-selection.jpg)
+![Persona Selection](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-blitz.png)
 
 **Pick the one that matches your style:**
 
@@ -50,7 +50,7 @@ Tap your choice, then tap **Continue**.
 
 The app has **3 main tabs** at the bottom:
 
-![Bottom Navigation](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/bottom-nav.jpg)
+![Bottom Navigation](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/bottom-navigation.png)
 
 ### 1. Chat 💬
 Your AI trading assistant. Ask anything!
@@ -84,7 +84,7 @@ Let's try the AI Chat:
 4. Wait a few seconds for the AI to respond
 5. Read the analysis!
 
-![Chat with Quick Actions](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/chat-quick-actions.jpg)
+![Chat with Quick Actions](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/chat-quick-prompts.jpg)
 
 **Or type your own question:**
 - Tap the text input at bottom
@@ -102,7 +102,7 @@ Let's research a stock:
 2. Type a ticker symbol (e.g., **"AAPL"**)
 3. Tap the result to view the ticker page
 
-![Stock Search](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/search.jpg)
+![Stock Search](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/discover-tab.png)
 
 **You'll see:**
 - Price chart (swipe timeframes)
@@ -112,7 +112,7 @@ Let's research a stock:
 - Company Story
 - Performance comparison
 
-![Ticker Page](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/ticker-page.jpg)
+![Ticker Page](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/ticker-detail-aapl.png)
 
 **Tap any Snapshot Grade card to expand** and see the full AI analysis.
 
@@ -125,7 +125,7 @@ Want to track your investments?
 1. Tap the **Portfolio** tab
 2. Tap **Connect** a brokerage
 
-![Portfolio](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/portfolio.jpg)
+![Portfolio](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/portfolio-tab-overview.png)
 
 **Two options:**
 
@@ -166,29 +166,29 @@ Perfect for beginners! Practice with virtual money.
 Now that you're set up:
 
 **Complete Your Profile:**
-- [Choose Your Persona](../Features/Personas/choosing.md) (if you haven't)
-- [Connect a Brokerage](../Features/Brokerage/connecting.md)
+- [Choose Your Persona](../Features/Personas/choosing) (if you haven't)
+- [Connect a Brokerage](../Features/Brokerage/connecting)
 
 **Learn the Features:**
-- [AI Chat Basics](../Features/Chat/basics.md)
-- [Understanding Snapshot Grades](../Features/Ticker/snapshot-grades.md)
-- [What Are Themes?](../Features/Themes/overview.md)
+- [AI Chat Basics](../Features/Chat/basics)
+- [Understanding Snapshot Grades](../Features/Ticker/snapshot-grades)
+- [What Are Themes?](../Features/Themes/overview)
 
 **Try a Workflow:**
-- [My First Stock Research](../Use-Cases/Beginner/first-research.md)
-- [Premarket Day Trading Routine](../Use-Cases/Advanced/premarket-routine.md)
+- [My First Stock Research](../Use-Cases/Beginner/first-research)
+- [Premarket Day Trading Routine](../Use-Cases/Advanced/premarket-routine)
 
 ---
 
 ## ❓ Need Help?
 
-- [iOS-Specific Features](../platforms/ios-guide.md)
-- [FAQ](../Support/faq.md)
-- [Troubleshooting](../Support/troubleshooting.md)
-- [Contact Support](../Support/contact.md)
+- [iOS-Specific Features](../platforms/ios-guide)
+- [FAQ](../Support/faq)
+- [Troubleshooting](../Support/troubleshooting)
+- [Contact Support](../Support/contact)
 
 ---
 
 **Welcome to the ape army! 🦍🚀**
 
-Ready to find some alpha on the web instead? → [Web Quick Start](quick-start-web.md)
+Ready to find some alpha on the web instead? → [Web Quick Start](quick-start-web)

@@ -57,13 +57,13 @@ You need a connected brokerage account.
 - TD Ameritrade
 - E*TRADE
 - Interactive Brokers
-- Others (check [Supported Brokerages →](../Brokerage/supported.md))
+- Others (check [Supported Brokerages →](../Brokerage/supported))
 
 **Paper Trading:**
 - Ape Paper Trading Account works too!
 - Practice risk-free
 
-[Learn how to connect →](../Brokerage/connecting.md)
+[Learn how to connect →](../Brokerage/connecting)
 
 ---
 
@@ -83,7 +83,7 @@ You need a connected brokerage account.
 4. Enable **"Execute Trades from Chat"**
 5. Confirm
 
-![Enable Trading Permissions](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/enable-trading-permissions.jpg)
+![Enable Trading Permissions](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/enable-trading-permissions.jpg)
 
 **Why this matters:** Safety. We want you to explicitly enable trading to avoid accidental orders.
 
@@ -114,7 +114,7 @@ AI responds with a recommendation:
 >
 > Reasoning: TSLA breaking resistance at $470 with volume. Strong intraday momentum. Target $478 by EOD."
 
-![AI Trade Setup](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/ai-trade-setup.jpg)
+![AI Trade Setup](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ai-trade-setup.jpg)
 
 ---
 
@@ -125,7 +125,7 @@ You'll see an **"Execute Trade"** button below AI's recommendation.
 **📱 iOS:** Tap the button
 **🌐 Web:** Click the button
 
-![Execute Trade Button](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/execute-trade-button.jpg)
+![Execute Trade Button](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/execute-trade-button.jpg)
 
 ---
 
@@ -148,7 +148,7 @@ Order preview screen opens with all details pre-filled:
 - Order type (market vs limit)
 - Price (if limit order)
 
-![Order Preview](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/order-preview.jpg)
+![Order Preview](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/order-preview.jpg)
 
 ---
 
@@ -170,7 +170,7 @@ Order preview screen opens with all details pre-filled:
 - iOS: Face ID / Touch ID
 - Web: Re-enter password or 2FA
 
-![Order Confirmation](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/order-confirmation.jpg)
+![Order Confirmation](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/order-confirmation.jpg)
 
 ---
 
@@ -185,7 +185,7 @@ Order preview screen opens with all details pre-filled:
 **AI Chat also updates:**
 > "✅ Order placed: Bought 1 TSLA $470 call exp 11/10 at $5.50. Good luck! 🚀"
 
-![Order Success](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/order-success.jpg)
+![Order Success](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/order-success.jpg)
 
 ---
 
@@ -201,7 +201,7 @@ Order preview screen opens with all details pre-filled:
 - Quantity: 10 shares
 - Order: Limit at $878
 
-![Stock Order](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/stock-order-execute.jpg)
+![Stock Order](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/stock-order-execute.jpg)
 
 ---
 
@@ -219,7 +219,7 @@ Order preview screen opens with all details pre-filled:
 - Quantity: 1 contract
 - Price: $3.50 limit
 
-![Options Order](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/options-order-execute.jpg)
+![Options Order](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/options-order-execute.jpg)
 
 ---
 
@@ -234,7 +234,7 @@ Order preview screen opens with all details pre-filled:
 - All details pre-filled
 - Review and confirm
 
-![Spread Order](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/spread-order-execute.jpg)
+![Spread Order](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/spread-order-execute.jpg)
 
 **Note:** Multi-leg strategies may require options approval level 2+ with your broker.
 
@@ -317,7 +317,7 @@ After trade fills:
 - Get comfortable with the flow
 - Then graduate to real money
 
-[Learn about Paper Trading →](../Brokerage/paper-trading.md)
+[Learn about Paper Trading →](../Brokerage/paper-trading)
 
 ---
 
@@ -378,7 +378,7 @@ After trade fills:
 - Prevents accidental large orders
 - Safety guardrails
 
-![Security Features](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/trading-security.jpg)
+![Security Features](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/trading-security.jpg)
 
 ---
 
@@ -465,7 +465,7 @@ A: Only if:
 A: Yes! Change quantity, order type, price before placing.
 
 **Q: What brokerages support this?**
-A: Most major brokers. See [Supported Brokerages →](../Brokerage/supported.md)
+A: Most major brokers. See [Supported Brokerages →](../Brokerage/supported)
 
 **Q: Is this safe?**
 A: Yes. Multiple confirmation steps, authentication required, you review everything.
@@ -477,7 +477,7 @@ A: Yes. Multiple confirmation steps, authentication required, you review everyth
 ### "Execute Trade" Button Not Showing
 
 **Possible reasons:**
-1. No brokerage connected → [Connect one](../Brokerage/connecting.md)
+1. No brokerage connected → [Connect one](../Brokerage/connecting)
 2. Trading permissions disabled → Enable in Settings
 3. AI response wasn't a specific trade setup → Ask for specific entry
 4. Your brokerage doesn't support this feature → Check supported list
@@ -508,18 +508,18 @@ A: Yes. Multiple confirmation steps, authentication required, you review everyth
 ## What's Next?
 
 **Learn More About Chat:**
-- [Chat Basics →](basics.md) - How to use AI Chat
-- [Quick Prompts →](quick-prompts.md) - Pre-built prompts
-- [Custom Prompts →](custom-prompts.md) - Create your own
+- [Chat Basics →](basics) - How to use AI Chat
+- [Quick Prompts →](quick-prompts) - Pre-built prompts
+- [Custom Prompts →](custom-prompts) - Create your own
 
 **Connect Your Brokerage:**
-- [Why Connect? →](../Brokerage/why-connect.md)
-- [Supported Brokerages →](../Brokerage/supported.md)
-- [How to Connect →](../Brokerage/connecting.md)
+- [Why Connect? →](../Brokerage/why-connect)
+- [Supported Brokerages →](../Brokerage/supported)
+- [How to Connect →](../Brokerage/connecting)
 
 **Try These Workflows:**
-- [My First Day Trade →](../../Use-Cases/Trader/first-day-trade.md) - Execute from chat
-- [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine.md) - Morning setups
+- [My First Day Trade →](../../Use-Cases/Trader/first-day-trade) - Execute from chat
+- [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine) - Morning setups
 
 ---
 

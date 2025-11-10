@@ -37,7 +37,7 @@ Unlock the full power of Ape AI by connecting your trading account.
 
 **Even if you have accounts at multiple brokers, see everything in Ape AI.**
 
-![Portfolio View](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/portfolio-connected.jpg)
+![Portfolio View](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/portfolio-connected.jpg)
 
 ---
 
@@ -52,7 +52,7 @@ Unlock the full power of Ape AI by connecting your trading account.
 
 **AI sees your actual holdings and gives personalized advice.**
 
-[Learn about Ask Maverick →](../Portfolio/ask-maverick.md)
+[Learn about Ask Maverick →](../Portfolio/ask-maverick)
 
 ---
 
@@ -67,7 +67,7 @@ Unlock the full power of Ape AI by connecting your trading account.
 
 **No app switching. No manual entry.**
 
-[Learn about Trade Execution →](../Chat/execute-trades.md)
+[Learn about Trade Execution →](../Chat/execute-trades)
 
 ---
 
@@ -128,7 +128,7 @@ Unlock the full power of Ape AI by connecting your trading account.
 
 **Ape Paper Trading is ALWAYS the first option when connecting a brokerage.**
 
-[Learn about Paper Trading →](paper-trading.md)
+[Learn about Paper Trading →](paper-trading)
 
 ---
 
@@ -163,7 +163,7 @@ Unlock the full power of Ape AI by connecting your trading account.
 - Not shared with anyone
 - Used only to serve YOU
 
-![Security Features](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/brokerage-security.jpg)
+![Security Features](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/brokerage-security.jpg)
 
 ---
 
@@ -408,14 +408,14 @@ A: Depends on the broker. Most retirement accounts can be connected view-only.
 ## What's Next?
 
 **Ready to Connect?**
-- [Supported Brokerages →](supported.md) - See if yours is supported
-- [How to Connect →](connecting.md) - Step-by-step guide
-- [Ape Paper Trading →](paper-trading.md) - Start risk-free
+- [Supported Brokerages →](supported) - See if yours is supported
+- [How to Connect →](connecting) - Step-by-step guide
+- [Ape Paper Trading →](paper-trading) - Start risk-free
 
 **Learn What You'll Use:**
-- [Portfolio Overview →](../Portfolio/overview.md) - What you'll see
-- [Ask Maverick →](../Portfolio/ask-maverick.md) - Portfolio AI
-- [Execute Trades →](../Chat/execute-trades.md) - Trade from chat
+- [Portfolio Overview →](../Portfolio/overview) - What you'll see
+- [Ask Maverick →](../Portfolio/ask-maverick) - Portfolio AI
+- [Execute Trades →](../Chat/execute-trades) - Trade from chat
 
 ---
 

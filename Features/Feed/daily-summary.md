@@ -76,7 +76,7 @@ AI-generated market recap. Know everything in 60 seconds.
 >
 > **Setup:** Tech breakouts if SPY clears $451. Otherwise range-bound day.
 
-![Morning Summary](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/morning-summary.jpg)
+![Morning Summary](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/morning-summary.jpg)
 
 ---
 
@@ -141,7 +141,7 @@ AI-generated market recap. Know everything in 60 seconds.
 >
 > **Tomorrow:** Watch for SPY to hold $452 support. Tech momentum likely continues.
 
-![Evening Summary](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/evening-summary.jpg)
+![Evening Summary](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/evening-summary.jpg)
 
 ---
 
@@ -463,14 +463,14 @@ A: No. Markets closed = no daily summary. Returns Monday morning.
 ## What's Next?
 
 **Explore More Feed Features:**
-- [Feed Overview →](overview.md) - All Feed features
-- [Personalized News →](news.md) - Breaking news
-- [Banana Bites →](banana-bites.md) - Educational content
-- [Trending Stocks →](trending.md) - What's hot
+- [Feed Overview →](overview) - All Feed features
+- [Personalized News →](news) - Breaking news
+- [Banana Bites →](banana-bites) - Educational content
+- [Trending Stocks →](trending) - What's hot
 
 **Use Summary in Workflows:**
-- [Morning Market Check →](../../Use-Cases/daily/morning.md) - Start here
-- [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine.md) - Day trader morning
+- [Morning Market Check →](../../Use-Cases/daily/morning) - Start here
+- [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine) - Day trader morning
 
 ---
 

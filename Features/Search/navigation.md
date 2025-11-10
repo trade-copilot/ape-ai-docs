@@ -146,8 +146,8 @@ A: Yes, click collapse arrow on sidebar.
 
 ## What's Next?
 
-- [Stock Search →](stock-search.md) - Find stocks fast
-- [Profile Management →](../Account/profile.md) - Account settings
+- [Stock Search →](stock-search) - Find stocks fast
+- [Profile Management →](../Account/profile) - Account settings
 
 ---
 

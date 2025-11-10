@@ -722,13 +722,13 @@ Sunday 8 PM:
 ### Immediate Next Steps
 
 **Now that you understand market hours:**
-- [Paper Trading: Practice Risk-Free →](paper-trading-practice.md)
-- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs.md)
-- [Your First $100 in Stocks →](../../../Use-Cases/Investor/Beginner/first-100-stocks.md)
+- [Paper Trading: Practice Risk-Free →](paper-trading-practice)
+- [Your First $100 in ETFs →](../../../Use-Cases/Investor/Beginner/first-100-etfs)
+- [Your First $100 in Stocks →](../../../Use-Cases/Investor/Beginner/first-100-stocks)
 
 **Continue learning:**
-- [Investing vs Trading vs Gambling →](../education/investing-vs-trading-vs-gambling.md)
-- [Risk Management 101 →](../education/risk-management-101.md)
+- [Investing vs Trading vs Gambling →](../education/investing-vs-trading-vs-gambling)
+- [Risk Management 101 →](../education/risk-management-101)
 
 ---
 
@@ -783,4 +783,4 @@ Sage will:
 
 **You've got this.** 🚀
 
-**Next:** [Paper Trading: Your Risk-Free Practice Ground →](paper-trading-practice.md)
+**Next:** [Paper Trading: Your Risk-Free Practice Ground →](paper-trading-practice)

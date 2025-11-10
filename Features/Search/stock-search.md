@@ -19,7 +19,7 @@ Find any stock in seconds. Search by ticker or company name.
 
 **Results appear instantly** as you type
 
-![iOS Search](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/stock-search.jpg)
+![iOS Search](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/discover-tab.png)
 
 ---
 
@@ -32,7 +32,7 @@ Find any stock in seconds. Search by ticker or company name.
 
 **Press Enter** or click result
 
-![Web Search](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/stock-search.jpg)
+![Web Search](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/search-tsla.png)
 
 ---
 
@@ -90,8 +90,8 @@ A: Use Themes for that. Search is for specific stocks.
 
 ## What's Next?
 
-- [Navigation Guide →](navigation.md) - Get around the app
-- [Ticker Page →](../Ticker/overview.md) - What you see after searching
+- [Navigation Guide →](navigation) - Get around the app
+- [Ticker Page →](../Ticker/overview) - What you see after searching
 
 ---
 

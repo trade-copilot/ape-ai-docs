@@ -66,7 +66,7 @@ Pre-built stock lists for popular strategies. One tap to add.
 
 **Avg Market Cap:** $500B+
 
-![Tech Titans Theme](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/theme-tech-titans.jpg)
+![Tech Titans Theme](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/theme-tech-titans.jpg)
 
 ---
 
@@ -395,7 +395,7 @@ Pre-built stock lists for popular strategies. One tap to add.
 3. Click **"Add Theme"** button
 4. Theme added to your collection
 
-![Add Suggested Theme](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/both/add-suggested-theme.jpg)
+![Add Suggested Theme](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/add-suggested-theme.jpg)
 
 ---
 
@@ -525,12 +525,12 @@ A: Yes! Remove from "My Themes" anytime.
 ## What's Next?
 
 **Learn More About Themes:**
-- [Themes Overview →](overview.md) - How themes work
-- [Creating Themes →](creating.md) - Build your own
+- [Themes Overview →](overview) - How themes work
+- [Creating Themes →](creating) - Build your own
 
 **Use Themes in Trading:**
-- [Getting AI Trade Ideas →](../../Use-Cases/Portfolio/ai-ideas.md) - Generate setups
-- [Swing Trade Entry Timing →](../../Use-Cases/Advanced/swing-entry.md) - Find entries
+- [Getting AI Trade Ideas →](../../Use-Cases/Portfolio/ai-ideas) - Generate setups
+- [Swing Trade Entry Timing →](../../Use-Cases/Advanced/swing-entry) - Find entries
 
 ---
 

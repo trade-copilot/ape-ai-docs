@@ -253,9 +253,9 @@ Explore the app with your persona:
 
 **2. Try a Workflow**
 Based on your persona:
-- **Blitz:** [Premarket Day Trading Routine](../../Use-Cases/Advanced/premarket-routine.md)
-- **Maverick:** [Swing Trade Entry Timing](../../Use-Cases/Advanced/swing-entry.md)
-- **Sage:** [My First Stock Research](../../Use-Cases/Beginner/first-research.md)
+- **Blitz:** [Premarket Day Trading Routine](../../Use-Cases/Advanced/premarket-routine)
+- **Maverick:** [Swing Trade Entry Timing](../../Use-Cases/Advanced/swing-entry)
+- **Sage:** [My First Stock Research](../../Use-Cases/Beginner/first-research)
 
 **3. Test It Out**
 Ask your AI questions:
@@ -304,14 +304,14 @@ A: Yes! It stays active until you manually change it.
 ## What's Next?
 
 **Learn About Each Persona:**
-- [Meet the Personas →](meet-the-personas.md) - Deep dive on all 3
+- [Meet the Personas →](meet-the-personas) - Deep dive on all 3
 
 **Understand the System:**
-- [What Are Personas? →](what-are-personas.md) - How personas work
+- [What Are Personas? →](what-are-personas) - How personas work
 
 **Use Your Persona:**
-- [AI Chat Basics →](../Chat/basics.md) - Start asking questions
-- [Quick Prompts →](../Chat/quick-prompts.md) - Persona-specific prompts
+- [AI Chat Basics →](../Chat/basics) - Start asking questions
+- [Quick Prompts →](../Chat/quick-prompts) - Persona-specific prompts
 
 ---
 

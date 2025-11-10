@@ -885,11 +885,11 @@ By the end of this workflow, you should have:
 Now that you've set clear goals and created your plan:
 
 ### Related Workflows:
-- **[Build Diversified Portfolio](./build-diversified-portfolio.md)** - Implement your asset allocation
-- **[Automatic Investing (DCA)](./automatic-investing-dca.md)** - Set up automatic contributions
-- **[Monthly Portfolio Review](../intermediate/monthly-portfolio-review.md)** - Track progress toward goals
-- **[Rebalancing Your Portfolio](./rebalancing-your-portfolio.md)** - Maintain target allocation
-- **[Risk Management 101](../../Pre-Investor/Education/risk-management-101.md)** - Understand risk tolerance
+- **[Build Diversified Portfolio](./build-diversified-portfolio)** - Implement your asset allocation
+- **[Automatic Investing (DCA)](./automatic-investing-dca)** - Set up automatic contributions
+- **[Monthly Portfolio Review](../intermediate/monthly-portfolio-review)** - Track progress toward goals
+- **[Rebalancing Your Portfolio](./rebalancing-your-portfolio)** - Maintain target allocation
+- **[Risk Management 101](../../Pre-Investor/Education/risk-management-101)** - Understand risk tolerance
 
 ### Continue Learning:
 - Read "The Simple Path to Wealth" by JL Collins (goal-focused investing)

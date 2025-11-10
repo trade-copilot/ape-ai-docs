@@ -19,7 +19,7 @@ Get started with Ape AI on your desktop in 5 minutes.
 3. Verify your email (check your inbox)
 4. Log back in
 
-![Web Signup](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/signup.jpg)
+![Web Signup](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/app-loading.png)
 
 **Or sign in with:**
 - Google
@@ -32,7 +32,7 @@ Get started with Ape AI on your desktop in 5 minutes.
 
 Once logged in, you'll see the main dashboard:
 
-![Web Dashboard](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/dashboard.jpg)
+![Web Dashboard](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/home-dashboard.jpg)
 
 **Main sections:**
 
@@ -58,7 +58,7 @@ Let's try the AI Chat:
 5. Wait for the AI to respond
 6. Read the analysis!
 
-![Web Chat](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/chat.jpg)
+![Web Chat](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/chat-interface.png)
 
 **Or type your own question:**
 - Click in the text box at bottom
@@ -82,11 +82,11 @@ Let's look up a stock:
 2. Type a ticker symbol (e.g., **"NVDA"**)
 3. Click the result or press Enter
 
-![Web Stock Search](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/search.jpg)
+![Web Stock Search](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/search-modal.png)
 
 **You'll see the ticker page:**
 
-![Web Ticker Page](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ticker-page.jpg)
+![Web Ticker Page](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ticker-page-tsla.png)
 
 **Key sections:**
 - **Price Chart** - Interactive, multiple timeframes
@@ -108,7 +108,7 @@ Check what's hot:
 1. Click **Home** in the left sidebar
 2. Scroll through the page
 
-![Web Home/Feed](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/home-feed.jpg)
+![Web Home/Feed](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/home-dashboard.jpg)
 
 **You'll see:**
 - **Market Indices** (SPY, QQQ, IWM, DIA)
@@ -127,7 +127,7 @@ Track your investments:
 1. Click **Portfolio** in the left sidebar
 2. Click **Connect** a brokerage
 
-![Web Portfolio](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/portfolio.jpg)
+![Web Portfolio](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/portfolio-page.png)
 
 **Two options:**
 
@@ -160,7 +160,7 @@ Themes are like custom stock screeners:
 5. Name your theme
 6. Save and track it!
 
-![Create Theme](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/create-theme.jpg)
+![Create Theme](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/themes-page.png)
 
 ---
 
@@ -193,19 +193,19 @@ Bookmark frequently used:
 Now that you're set up:
 
 **Choose Your Persona:**
-- [What Are Personas?](../Features/Personas/what-are-personas.md)
-- [Meet the Personas](../Features/Personas/meet-the-personas.md)
+- [What Are Personas?](../Features/Personas/what-are-personas)
+- [Meet the Personas](../Features/Personas/meet-the-personas)
 
 Note: Persona selection is currently iOS-only but coming to web soon!
 
 **Learn the Features:**
-- [AI Chat Basics](../Features/Chat/basics.md)
-- [Understanding Snapshot Grades](../Features/Ticker/snapshot-grades.md)
-- [What Are Themes?](../Features/Themes/overview.md)
+- [AI Chat Basics](../Features/Chat/basics)
+- [Understanding Snapshot Grades](../Features/Ticker/snapshot-grades)
+- [What Are Themes?](../Features/Themes/overview)
 
 **Try a Workflow:**
-- [My First Stock Research](../Use-Cases/Beginner/first-research.md)
-- [Premarket Day Trading Routine](../Use-Cases/Advanced/premarket-routine.md)
+- [My First Stock Research](../Use-Cases/Beginner/first-research)
+- [Premarket Day Trading Routine](../Use-Cases/Advanced/premarket-routine)
 
 ---
 
@@ -215,16 +215,16 @@ The iOS app syncs with web! Use both:
 - **Web** for deep research and analysis
 - **iOS** for quick checks on-the-go
 
-→ [Download iOS App](quick-start-ios.md)
+→ [Download iOS App](quick-start-ios)
 
 ---
 
 ## ❓ Need Help?
 
-- [Web-Specific Features](../platforms/web-guide.md)
+- [Web-Specific Features](../platforms/web-guide)
 - [Keyboard Shortcuts Guide](../platforms/web-guide.md#keyboard-shortcuts)
-- [FAQ](../Support/faq.md)
-- [Troubleshooting](../Support/troubleshooting.md)
+- [FAQ](../Support/faq)
+- [Troubleshooting](../Support/troubleshooting)
 
 ---
 
@@ -235,4 +235,4 @@ Ready to find some alpha! Let's go →
 ---
 
 **Platform Comparison:**
-Not sure which to use? → [iOS vs Web Comparison](../platforms/comparison.md)
+Not sure which to use? → [iOS vs Web Comparison](../platforms/comparison)
