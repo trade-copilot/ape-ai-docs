@@ -31,7 +31,6 @@ Pre-built stock lists for popular strategies. One tap to add.
 4. Tap **"See All"** to view complete list
 5. Tap any theme to add it
 
-![iOS Suggested Themes](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/suggested-themes.jpg)
 
 ---
 
@@ -41,7 +40,6 @@ Pre-built stock lists for popular strategies. One tap to add.
 3. Browse all suggested themes
 4. Click **"+ Add Theme"** to add to your collection
 
-![Web Suggested Themes](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/suggested-themes-page.jpg)
 
 ---
 
@@ -66,7 +64,6 @@ Pre-built stock lists for popular strategies. One tap to add.
 
 **Avg Market Cap:** $500B+
 
-![Tech Titans Theme](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/theme-tech-titans.jpg)
 
 ---
 
@@ -395,7 +392,6 @@ Pre-built stock lists for popular strategies. One tap to add.
 3. Click **"Add Theme"** button
 4. Theme added to your collection
 
-![Add Suggested Theme](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/add-suggested-theme.jpg)
 
 ---
 

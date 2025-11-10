@@ -58,7 +58,6 @@ Your AI portfolio analyst. Get personalized advice on your holdings.
 3. Or swipe up on portfolio view
 4. Chat interface opens
 
-![iOS Ask Maverick](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/ask-maverick-button.jpg)
 
 ---
 
@@ -68,7 +67,6 @@ Your AI portfolio analyst. Get personalized advice on your holdings.
 3. Or click chat icon in portfolio section
 4. Maverick chat opens
 
-![Web Ask Maverick](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ask-maverick-web.jpg)
 
 ---
 
@@ -90,7 +88,6 @@ Your AI portfolio analyst. Get personalized advice on your holdings.
 - Diversification analysis
 - Suggestions for improvement
 
-![Portfolio Health Response](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/maverick-health-check.jpg)
 
 ---
 
@@ -145,7 +142,6 @@ Your AI portfolio analyst. Get personalized advice on your holdings.
 - Trade recommendations
 - Expected risk reduction
 
-![Rebalancing Advice](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/maverick-rebalancing.jpg)
 
 ---
 

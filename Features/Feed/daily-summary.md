@@ -76,7 +76,6 @@ AI-generated market recap. Know everything in 60 seconds.
 >
 > **Setup:** Tech breakouts if SPY clears $451. Otherwise range-bound day.
 
-![Morning Summary](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/morning-summary.jpg)
 
 ---
 
@@ -141,7 +140,6 @@ AI-generated market recap. Know everything in 60 seconds.
 >
 > **Tomorrow:** Watch for SPY to hold $452 support. Tech momentum likely continues.
 
-![Evening Summary](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/evening-summary.jpg)
 
 ---
 
@@ -153,7 +151,6 @@ AI-generated market recap. Know everything in 60 seconds.
 3. Swipe right to view
 4. Tap card to expand full summary
 
-![iOS Daily Summary](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/daily-summary-card.jpg)
 
 ---
 
@@ -163,7 +160,6 @@ AI-generated market recap. Know everything in 60 seconds.
 3. Featured prominently
 4. Click to expand full details
 
-![Web Daily Summary](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/daily-summary-home.jpg)
 
 ---
 
@@ -259,7 +255,6 @@ AI-generated market recap. Know everything in 60 seconds.
 
 **You'll get push notification when new summary is ready.**
 
-![Daily Summary Notifications](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/daily-summary-notification.jpg)
 
 ---
 

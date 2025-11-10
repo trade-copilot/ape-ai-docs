@@ -31,7 +31,6 @@ Bears 🐻 ←――――――●――――――→ Bulls 🐂
 
 **Example:** 65% Bullish = More bulls than bears, positive sentiment
 
-![Bulls vs Bears Gauge](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/bulls-bears-gauge.jpg)
 
 ---
 
@@ -128,7 +127,6 @@ Bears 🐻 ←――――――●――――――→ Bulls 🐂
 - Full sentiment breakdown
 - Recent changes shown
 
-![Bulls vs Bears Location](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/bulls-bears-section.jpg)
 
 ---
 

@@ -83,7 +83,6 @@ You need a connected brokerage account.
 4. Enable **"Execute Trades from Chat"**
 5. Confirm
 
-![Enable Trading Permissions](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/enable-trading-permissions.jpg)
 
 **Why this matters:** Safety. We want you to explicitly enable trading to avoid accidental orders.
 
@@ -114,7 +113,6 @@ AI responds with a recommendation:
 >
 > Reasoning: TSLA breaking resistance at $470 with volume. Strong intraday momentum. Target $478 by EOD."
 
-![AI Trade Setup](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ai-trade-setup.jpg)
 
 ---
 
@@ -125,7 +123,6 @@ You'll see an **"Execute Trade"** button below AI's recommendation.
 **📱 iOS:** Tap the button
 **🌐 Web:** Click the button
 
-![Execute Trade Button](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/execute-trade-button.jpg)
 
 ---
 
@@ -148,7 +145,6 @@ Order preview screen opens with all details pre-filled:
 - Order type (market vs limit)
 - Price (if limit order)
 
-![Order Preview](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/order-preview.jpg)
 
 ---
 
@@ -170,7 +166,6 @@ Order preview screen opens with all details pre-filled:
 - iOS: Face ID / Touch ID
 - Web: Re-enter password or 2FA
 
-![Order Confirmation](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/order-confirmation.jpg)
 
 ---
 
@@ -185,7 +180,6 @@ Order preview screen opens with all details pre-filled:
 **AI Chat also updates:**
 > "✅ Order placed: Bought 1 TSLA $470 call exp 11/10 at $5.50. Good luck! 🚀"
 
-![Order Success](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/order-success.jpg)
 
 ---
 
@@ -201,7 +195,6 @@ Order preview screen opens with all details pre-filled:
 - Quantity: 10 shares
 - Order: Limit at $878
 
-![Stock Order](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/stock-order-execute.jpg)
 
 ---
 
@@ -219,7 +212,6 @@ Order preview screen opens with all details pre-filled:
 - Quantity: 1 contract
 - Price: $3.50 limit
 
-![Options Order](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/options-order-execute.jpg)
 
 ---
 
@@ -234,7 +226,6 @@ Order preview screen opens with all details pre-filled:
 - All details pre-filled
 - Review and confirm
 
-![Spread Order](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/spread-order-execute.jpg)
 
 **Note:** Multi-leg strategies may require options approval level 2+ with your broker.
 
@@ -378,7 +369,6 @@ After trade fills:
 - Prevents accidental large orders
 - Safety guardrails
 
-![Security Features](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/trading-security.jpg)
 
 ---
 

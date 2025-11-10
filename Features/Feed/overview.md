@@ -86,7 +86,6 @@ Custom stock lists you created.
 2. Tap **Discover tab** (bottom navigation, middle icon)
 3. See your personalized feed
 
-![iOS Discover Tab](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/discover-tab.jpg)
 
 **Bottom Navigation:**
 - 💬 Chat (left)
@@ -100,7 +99,6 @@ Custom stock lists you created.
 2. Look at the **Home/Dashboard** page
 3. Feed is the main content area
 
-![Web Feed](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/feed-dashboard.jpg)
 
 **Left Sidebar:**
 - 🏠 Home ← Feed is here
@@ -122,7 +120,6 @@ Swipe left/right through featured content:
 - Trending Themes
 - Hot Stocks
 
-![iOS Carousel](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/feed-carousel.jpg)
 
 **Middle Section: News Feed**
 Scrollable list of:
@@ -153,7 +150,6 @@ Vertical scroll with:
 - Popular Themes
 - Your Watchlist
 
-![Web Feed Layout](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/feed-layout-full.jpg)
 
 ---
 
@@ -307,7 +303,6 @@ Share:
 2. Click **Customize Feed** (top right)
 3. Select preferences
 
-![Feed Settings](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/feed-settings.jpg)
 
 ---
 
