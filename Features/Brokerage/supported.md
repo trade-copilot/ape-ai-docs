@@ -30,6 +30,7 @@ See which trading platforms work with Ape AI.
 
 [Learn more →](paper-trading)
 
+![Ape Paper Trading](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ape-paper-trading-card.jpg)
 
 ---
 

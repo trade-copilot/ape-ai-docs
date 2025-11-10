@@ -36,6 +36,7 @@ The **Portfolio** is your command center for tracking investments.
 2. Tap **Portfolio tab** (bottom right, wallet icon)
 3. See your full portfolio view
 
+![iOS Portfolio Tab](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/portfolio-tab.jpg)
 
 **Bottom Navigation:**
 - 💬 Chat
@@ -49,6 +50,7 @@ The **Portfolio** is your command center for tracking investments.
 2. Click **Portfolio** (left sidebar)
 3. Full portfolio page opens
 
+![Web Portfolio Page](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/portfolio-page.jpg)
 
 **Left Sidebar:**
 - 🏠 Home
@@ -73,6 +75,7 @@ The **Portfolio** is your command center for tracking investments.
 - Today's change ($  and %)
 - All-time P&L ($ and %)
 
+![Portfolio Summary](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/portfolio-summary.jpg)
 
 ---
 
@@ -116,6 +119,7 @@ The **Portfolio** is your command center for tracking investments.
 
 **Tap/click to view full ticker page**
 
+![Position Card](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/position-card.jpg)
 
 ---
 
@@ -151,6 +155,7 @@ The **Portfolio** is your command center for tracking investments.
 - Green bars = Profitable positions
 - Red bars = Losing positions
 
+![Portfolio Charts](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/portfolio-charts.jpg)
 
 ---
 
@@ -268,6 +273,7 @@ The **Portfolio** is your command center for tracking investments.
 - View all accounts together
 - Or select one account to view
 
+![Multiple Accounts View](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/multi-account-portfolio.jpg)
 
 ---
 
@@ -381,6 +387,7 @@ The **Portfolio** is your command center for tracking investments.
 
 **Great for:** Screenshots, showing friends, public settings
 
+![Privacy Mode](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/privacy-mode.jpg)
 
 ---
 

@@ -35,6 +35,7 @@ By 9:30 AM market open, you'll have:
 3. Find **"Today's Recap"** section
 4. Click to expand
 
+![Today's Recap](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/todays-recap.jpg)
 
 **Look for:**
 - **Major catalysts** (earnings, Fed news, geopolitical events)
@@ -48,6 +49,7 @@ By 9:30 AM market open, you'll have:
 
 Scroll through the **Latest News** section.
 
+![News Feed](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/news-feed.jpg)
 
 **Scan for:**
 - Earnings announcements
@@ -75,6 +77,7 @@ Scroll through the **Latest News** section.
 3. Select **"Most Active"** from dropdown
 4. See the list
 
+![Most Active Stocks](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/most-active.jpg)
 
 **Add 3-5 high-volume stocks to your watchlist:**
 - Tap/click the **star icon** on each stock card
@@ -91,6 +94,7 @@ Scroll through the **Latest News** section.
 
 Switch the filter to see:
 
+![Top Gainers](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/top-gainers.jpg)
 
 **Top Gainers (gapping up):**
 - Potential long setups
@@ -120,6 +124,7 @@ For each stock on your watchlist:
 1. Click watchlist/favorites
 2. Open each in new tabs
 
+![Ticker Analysis](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ticker-analysis.jpg)
 
 **Quick check (2 minutes per stock):**
 
@@ -153,6 +158,7 @@ For your top 3-5 picks, let's get AI analysis:
 3. Select **"Major Support and Resistance"**
 4. Type ticker
 
+![AI Support Resistance](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ai-support-resistance.jpg)
 
 **The AI tells you:**
 - Key support levels (where to buy/set stop loss)
@@ -178,6 +184,7 @@ If you trade options, let's get AI suggestions:
 1. **Chat** sidebar
 2. Prompt: **"Day Trade Options Setup"**
 
+![Options Setups](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/options-setups.jpg)
 
 **The AI suggests:**
 - Tickers with good options setups

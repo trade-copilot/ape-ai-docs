@@ -35,6 +35,7 @@ Get around Ape AI. iOS vs Web navigation explained.
 
 **Tap any tab to switch**
 
+![iOS Bottom Navigation](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/bottom-navigation.jpg)
 
 ---
 
@@ -60,6 +61,7 @@ Get around Ape AI. iOS vs Web navigation explained.
 
 **Click any item to navigate**
 
+![Web Sidebar](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/left-sidebar.jpg)
 
 ---
 

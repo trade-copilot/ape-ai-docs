@@ -44,6 +44,7 @@ See what's hot right now. Catch momentum before everyone else.
 
 **AMD spiking 200%?** Something's happening. Check it out!
 
+![Most Searched](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/trending-most-searched.jpg)
 
 ---
 
@@ -129,6 +130,7 @@ See what's hot right now. Catch momentum before everyone else.
 
 **GME spiking in WSB mentions?** You know what that means. Proceed with caution. 😅
 
+![Social Trending](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/trending-social.jpg)
 
 ---
 
@@ -181,6 +183,7 @@ See what's hot right now. Catch momentum before everyone else.
 4. Swipe left/right to see more in each category
 5. Tap any stock to view ticker page
 
+![iOS Trending](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/trending-section.jpg)
 
 ---
 
@@ -190,6 +193,7 @@ See what's hot right now. Catch momentum before everyone else.
 3. Or scroll down in main feed
 4. Click any ticker to open ticker page
 
+![Web Trending](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/trending-sidebar.jpg)
 
 ---
 
@@ -218,6 +222,7 @@ See what's hot right now. Catch momentum before everyone else.
    - Research top 3
    - Plan potential trades
 
+![Morning Trending Routine](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/morning-trending-flow.jpg)
 
 ---
 

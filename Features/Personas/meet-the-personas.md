@@ -10,6 +10,7 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ## 💰 Money - The General Trader
 
+![Money Persona](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-money.jpg)
 
 ### **"Adapt and thrive. Trade what works."**
 
@@ -84,6 +85,7 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ## 🦧 Sage - The Value Investor
 
+![Sage Persona](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-sage.jpg)
 
 ### **"Build wealth slowly, quality over speed."**
 
@@ -162,6 +164,7 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ## 📊 Maverick - The Momentum Trader
 
+![Maverick Persona](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-maverick.jpg)
 
 ### **"Catch the wave, ride the momentum."**
 
@@ -240,6 +243,7 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ## 🚀 Blitz - The Day Trader
 
+![Blitz Persona](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-blitz.jpg)
 
 ### **"Fast money, intraday moves, let's get it."**
 

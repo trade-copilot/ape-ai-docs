@@ -99,6 +99,7 @@ Natural language stock screener. Find stocks by describing what you want.
 3. Or scroll to **"Your Themes"** section
 4. Tap a theme to view stocks in it
 
+![iOS Themes](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/themes-section.jpg)
 
 ---
 
@@ -108,6 +109,7 @@ Natural language stock screener. Find stocks by describing what you want.
 3. Browse suggested themes
 4. Click any theme to open
 
+![Web Themes Page](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/themes-page.jpg)
 
 ---
 
@@ -125,6 +127,7 @@ Natural language stock screener. Find stocks by describing what you want.
 
 **Tap any stock →** Go to full ticker page
 
+![Theme Stock List](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/theme-stock-list.jpg)
 
 ---
 
@@ -160,6 +163,7 @@ Natural language stock screener. Find stocks by describing what you want.
 
 **AI looks at all stocks in your theme and gives recommendations.**
 
+![Ask AI About Theme](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ask-ai-theme.jpg)
 
 ---
 
@@ -364,6 +368,7 @@ Buy 1 from each sector
 - Show: All stocks, top 10, top 25
 - View: List, grid, chart
 
+![Theme Settings](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/theme-settings.jpg)
 
 ---
 

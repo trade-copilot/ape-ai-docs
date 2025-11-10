@@ -28,12 +28,14 @@ AI Chat is your personal trading assistant powered by artificial intelligence. T
 2. Tap **Chat tab** (bottom left)
 3. You'll see the chat interface
 
+![iOS Chat Tab](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/chat-tab.jpg)
 
 ### Web
 1. Go to app.Ape AI.com
 2. Click **Chat** in left sidebar
 3. Chat interface opens
 
+![Web Chat](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/chat-interface.jpg)
 
 ---
 
@@ -47,6 +49,7 @@ AI Chat is your personal trading assistant powered by artificial intelligence. T
 - **Bottom:** Text input + icons (Prompts, History, Voice, Send)
 - **Quick Action Cards:** Swipeable prompts at top
 
+![iOS Chat Interface](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/chat-interface-full.jpg)
 
 **🌐 Web Layout:**
 - **Top:** Persona indicator
@@ -54,6 +57,7 @@ AI Chat is your personal trading assistant powered by artificial intelligence. T
 - **Bottom:** Text input box
 - **Sidebar:** Prompts button (or Ctrl+P)
 
+![Web Chat Interface](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/chat-full.jpg)
 
 ---
 
@@ -107,6 +111,7 @@ AI Chat is your personal trading assistant powered by artificial intelligence. T
 2. Type your question
 3. Press **Enter** or click Send
 
+![Typing in Chat](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/chat-typing.jpg)
 
 ### Use Quick Prompts
 
@@ -199,6 +204,7 @@ AI remembers your conversation:
 ### Text Analysis
 Most common - AI writes detailed analysis.
 
+![Text Response](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/chat-text-response.jpg)
 
 ### Trade Setups
 Structured trade recommendations:
@@ -235,6 +241,7 @@ When learning:
 2. Or click History icon
 3. Select conversation to continue
 
+![Chat History](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/chat-history.jpg)
 
 ### Start New Chat
 - Fresh conversation, no context from previous

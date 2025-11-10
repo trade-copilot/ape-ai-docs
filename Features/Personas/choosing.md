@@ -13,6 +13,7 @@ Step-by-step guide to selecting your AI trading personality.
 ### During Signup (First Time)
 After creating your account, you'll immediately be prompted to choose your persona.
 
+![Persona Selection Screen](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-selection-screen.jpg)
 
 ### After Signup (Changing Persona)
 You can change your persona anytime in Settings.
@@ -32,6 +33,7 @@ You can change your persona anytime in Settings.
 
 You'll see 3 cards, each showing a persona:
 
+![Three Persona Cards](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/three-persona-cards.jpg)
 
 **Each card shows:**
 - Persona name and emoji
@@ -62,6 +64,7 @@ You'll see 3 cards, each showing a persona:
 
 **Tap the card** that matches your trading style.
 
+![Selected Persona](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-selected.jpg)
 
 ### Step 5: Confirm
 
@@ -84,6 +87,7 @@ Not happy with your choice? Switch anytime!
 4. Select a different persona
 5. Tap **Save** or **Confirm**
 
+![Change Persona in Settings](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/change-persona-settings.jpg)
 
 **Your AI adapts instantly!**
 

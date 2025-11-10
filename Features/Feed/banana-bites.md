@@ -270,6 +270,7 @@ Bite-sized trading education. Learn while you scroll.
 3. Look for 🍌 icon
 4. Tap to read full Bite
 
+![iOS Banana Bites](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/banana-bites.jpg)
 
 ---
 
@@ -279,6 +280,7 @@ Bite-sized trading education. Learn while you scroll.
 3. Or filter by **"Education"** to see only Bites
 4. Click to expand
 
+![Web Banana Bites](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/banana-bites.jpg)
 
 ---
 

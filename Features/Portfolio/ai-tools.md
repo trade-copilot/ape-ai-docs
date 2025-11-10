@@ -39,6 +39,7 @@ Advanced AI-powered portfolio insights and analytics.
 - Portfolio → AI Tools → Risk Analysis
 - Or ask Maverick: "Analyze my portfolio risk"
 
+![Risk Analysis Dashboard](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/risk-analysis-tool.jpg)
 
 ---
 
@@ -87,6 +88,7 @@ Advanced AI-powered portfolio insights and analytics.
 - Portfolio → AI Tools → Performance Attribution
 - Or ask Maverick: "Why am I up/down this month?"
 
+![Performance Attribution](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/performance-attribution.jpg)
 
 ---
 
@@ -134,6 +136,7 @@ Advanced AI-powered portfolio insights and analytics.
 - Portfolio → AI Tools → Find Opportunities
 - Or ask Maverick: "What opportunities am I missing?"
 
+![Opportunity Scanner](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/opportunity-scanner.jpg)
 
 ---
 
@@ -175,6 +178,7 @@ Advanced AI-powered portfolio insights and analytics.
 **Access:**
 - Portfolio → AI Tools → Correlation Matrix
 
+![Correlation Matrix](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/correlation-matrix.jpg)
 
 ---
 
@@ -214,6 +218,7 @@ XOM      0.10  0.08  0.05  0.03  0.25  1.00
 **Access:**
 - Portfolio → AI Tools → Sector Optimizer
 
+![Sector Optimizer](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/sector-optimizer.jpg)
 
 ---
 
@@ -258,6 +263,7 @@ XOM      0.10  0.08  0.05  0.03  0.25  1.00
 **Access:**
 - Portfolio → AI Tools → Tax Optimizer
 
+![Tax Optimizer](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/tax-optimizer.jpg)
 
 ---
 

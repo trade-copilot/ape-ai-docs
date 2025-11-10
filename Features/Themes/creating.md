@@ -30,6 +30,7 @@ Build your own stock lists using natural language. No complex filters needed.
 2. Swipe to **"Themes"** section
 3. Tap **"+ Create New Theme"** button
 
+![iOS Create Theme Button](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/create-theme-button.jpg)
 
 ---
 
@@ -41,6 +42,7 @@ Build your own stock lists using natural language. No complex filters needed.
 **Example:**
 > "Tech stocks under $100 with positive earnings growth"
 
+![iOS Theme Description](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/theme-description-input.jpg)
 
 ---
 
@@ -58,6 +60,7 @@ Build your own stock lists using natural language. No complex filters needed.
 3. Stocks matching your criteria appear
 4. Theme saved to your collection
 
+![iOS Theme Created](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/theme-created-success.jpg)
 
 ---
 
@@ -67,6 +70,7 @@ Build your own stock lists using natural language. No complex filters needed.
 1. Go to **Themes** page (left sidebar)
 2. Click **"+ Create New Theme"** button (top right)
 
+![Web Create Theme Button](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/create-theme-button.jpg)
 
 ---
 
@@ -83,6 +87,7 @@ Build your own stock lists using natural language. No complex filters needed.
 3. View results immediately
 4. Refine if needed
 
+![Web Theme Creation Form](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/theme-creation-form.jpg)
 
 ---
 
@@ -396,6 +401,7 @@ Build your own stock lists using natural language. No complex filters needed.
 4. Update criteria
 5. Click **"Save Changes"**
 
+![Edit Theme](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/edit-theme.jpg)
 
 ---
 
