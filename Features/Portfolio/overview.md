@@ -36,7 +36,7 @@ The **Portfolio** is your command center for tracking investments.
 2. Tap **Portfolio tab** (bottom right, wallet icon)
 3. See your full portfolio view
 
-![iOS Portfolio Tab](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/portfolio-tab.jpg)
+![iOS Portfolio Tab](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/portfolio-tab-overview.png)
 
 **Bottom Navigation:**
 - 💬 Chat
@@ -50,7 +50,7 @@ The **Portfolio** is your command center for tracking investments.
 2. Click **Portfolio** (left sidebar)
 3. Full portfolio page opens
 
-![Web Portfolio Page](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/portfolio-page.jpg)
+![Web Portfolio Page](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/portfolio-page.png)
 
 **Left Sidebar:**
 - 🏠 Home

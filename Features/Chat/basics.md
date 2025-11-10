@@ -35,7 +35,7 @@ AI Chat is your personal trading assistant powered by artificial intelligence. T
 2. Click **Chat** in left sidebar
 3. Chat interface opens
 
-![Web Chat](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/chat-interface.jpg)
+![Web Chat](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/chat-interface.png)
 
 ---
 
@@ -49,7 +49,7 @@ AI Chat is your personal trading assistant powered by artificial intelligence. T
 - **Bottom:** Text input + icons (Prompts, History, Voice, Send)
 - **Quick Action Cards:** Swipeable prompts at top
 
-![iOS Chat Interface](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/chat-interface-full.jpg)
+![iOS Chat Interface](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/chat-interface-full.png)
 
 **🌐 Web Layout:**
 - **Top:** Persona indicator

@@ -109,7 +109,7 @@ Natural language stock screener. Find stocks by describing what you want.
 3. Browse suggested themes
 4. Click any theme to open
 
-![Web Themes Page](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/themes-page.jpg)
+![Web Themes Page](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/themes-page.png)
 
 ---
 

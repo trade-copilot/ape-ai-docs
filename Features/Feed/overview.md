@@ -86,7 +86,7 @@ Custom stock lists you created.
 2. Tap **Discover tab** (bottom navigation, middle icon)
 3. See your personalized feed
 
-![iOS Discover Tab](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/discover-tab.jpg)
+![iOS Discover Tab](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/discover-tab.png)
 
 **Bottom Navigation:**
 - 💬 Chat (left)
