@@ -122,7 +122,7 @@ Swipe left/right through featured content:
 - Trending Themes
 - Hot Stocks
 
-![iOS Carousel](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/feed-carousel.jpg)
+![iOS Carousel](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/feed-carousel.png)
 
 **Middle Section: News Feed**
 Scrollable list of:

@@ -39,7 +39,7 @@ Breaking financial news filtered for what actually matters to YOU.
 3. See **News Feed** section
 4. Scroll to read more
 
-![iOS News Feed](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/news-feed.jpg)
+![iOS News Feed](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/news-feed.png)
 
 ---
 

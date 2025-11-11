@@ -153,7 +153,7 @@ AI-generated market recap. Know everything in 60 seconds.
 3. Swipe right to view
 4. Tap card to expand full summary
 
-![iOS Daily Summary](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/daily-summary-card.jpg)
+![iOS Daily Summary](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/daily-summary-card.png)
 
 ---
 
