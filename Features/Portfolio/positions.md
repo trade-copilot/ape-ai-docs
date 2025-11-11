@@ -41,7 +41,7 @@ Monitor your holdings, manage risk, know when to exit.
 - Your profit/loss ($ and %)
 - AI grade badge
 
-![iOS Position List](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/position-list.jpg)
+![iOS Position List](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/position-list.png)
 
 ---
 

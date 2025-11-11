@@ -20,7 +20,7 @@ Your account settings and preferences in one place.
 - Brokerages
 - Help & Support
 
-![iOS Profile Menu](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/profile-menu.jpg)
+![iOS Profile Menu](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/profile-menu.png)
 
 ---
 

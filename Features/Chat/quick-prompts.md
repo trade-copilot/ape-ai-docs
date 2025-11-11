@@ -36,7 +36,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 3. **Swipe left/right** to see all options
 4. **Tap a card** to use it
 
-![iOS Quick Action Cards](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/quick-action-cards.jpg)
+![iOS Quick Action Cards](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/quick-action-cards.png)
 
 **Method 2: Prompts Button**
 1. In Chat tab
@@ -44,7 +44,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 3. See full list of prompts
 4. Tap one to use
 
-![iOS Prompts Button](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/prompts-button.jpg)
+![iOS Prompts Button](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/prompts-button.png)
 
 ---
 

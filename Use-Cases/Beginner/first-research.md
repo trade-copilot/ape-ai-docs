@@ -30,7 +30,7 @@ You're scrolling through Twitter and see **$TSLA** trending. Everyone's talking 
 3. Type **"TSLA"**
 4. Click the result or press Enter
 
-![Search for TSLA - iOS and Web](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/search-tsla.jpg)
+![Search for TSLA - iOS and Web](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/search-tsla.png)
 
 ---
 

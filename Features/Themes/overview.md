@@ -99,7 +99,7 @@ Natural language stock screener. Find stocks by describing what you want.
 3. Or scroll to **"Your Themes"** section
 4. Tap a theme to view stocks in it
 
-![iOS Themes](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/themes-section.jpg)
+![iOS Themes](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/themes-section.png)
 
 ---
 

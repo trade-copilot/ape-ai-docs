@@ -183,7 +183,7 @@ See what's hot right now. Catch momentum before everyone else.
 4. Swipe left/right to see more in each category
 5. Tap any stock to view ticker page
 
-![iOS Trending](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/trending-section.jpg)
+![iOS Trending](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/trending-section.png)
 
 ---
 
