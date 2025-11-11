@@ -38,7 +38,7 @@ Step-by-step guide to linking your trading account to Ape AI.
 2. Tap **Portfolio tab** (bottom right)
 3. If no brokerages connected, you'll see **"Connect Brokerage"** button
 
-![iOS Portfolio Tab Empty](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/portfolio-empty.jpg)
+![iOS Portfolio Tab Empty](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/portfolio-empty.png)
 
 ---
 

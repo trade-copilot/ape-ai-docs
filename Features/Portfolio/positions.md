@@ -53,7 +53,7 @@ Monitor your holdings, manage risk, know when to exit.
 - Bulls vs Bears
 - Performance charts
 
-![Position Detail](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/position-detail.jpg)
+![Position Detail](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/position-detail.png)
 
 ---
 
