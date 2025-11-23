@@ -33,7 +33,7 @@ See how the stock has performed. Compare to benchmarks.
 
 **Tap/click timeframe to switch**
 
-![Performance Charts](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/performance-chart-timeframes.jpg)
+<!-- TODO: Screenshot missing: performance-chart-timeframes.png -->
 
 ---
 
@@ -78,7 +78,7 @@ TSLA Performance (YTD):
 TSLA outperforming all benchmarks!
 ```
 
-![Benchmark Comparison](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/benchmark-comparison.jpg)
+<!-- TODO: Screenshot missing: benchmark-comparison.png -->
 
 ---
 

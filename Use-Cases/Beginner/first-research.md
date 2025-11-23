@@ -38,7 +38,7 @@ You're scrolling through Twitter and see **$TSLA** trending. Everyone's talking 
 
 You'll land on the ticker page. First thing: **check the 4 grades**.
 
-![TSLA Snapshot Grades](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/tsla-snapshot-grades.jpg)
+<!-- TODO: Screenshot missing: tsla-snapshot-grades.png -->
 
 **The 4 Grades:**
 1. **Fundamental** (A-F) - Company health, earnings, growth
@@ -65,7 +65,7 @@ Scroll down to the **Company Story** section. Tap/click the first card:
 
 **"How It Makes Money"**
 
-![How It Makes Money - TSLA](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/tsla-how-it-makes-money.jpg)
+<!-- TODO: Screenshot missing: tsla-how-it-makes-money.png -->
 
 This explains:
 - Tesla's business model (EVs, energy, AI)
@@ -80,7 +80,7 @@ This explains:
 
 This is the key valuation question! Scroll to the **"Pricey or Cheap"** card and tap/click to expand.
 
-![Pricey or Cheap - TSLA](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/tsla-pricey-or-cheap.jpg)
+<!-- TODO: Screenshot missing: tsla-pricey-or-cheap.png -->
 
 **What you'll learn:**
 - Is the stock overvalued or undervalued?
@@ -111,7 +111,7 @@ Let's get AI analysis on the valuation.
 3. Select **"Pricey or Cheap"**
 4. Type "TSLA" when asked
 
-![AI Valuation Analysis](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/tsla-ai-valuation.jpg)
+<!-- TODO: Screenshot missing: tsla-ai-valuation.png -->
 
 **The AI will tell you:**
 - Current valuation metrics
@@ -128,7 +128,7 @@ Let's get AI analysis on the valuation.
 
 Go back to the ticker page (if you're in Chat) and scroll to **Bulls vs Bears** section.
 
-![Bulls vs Bears - TSLA](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/tsla-bulls-bears.jpg)
+<!-- TODO: Screenshot missing: tsla-bulls-bears.png -->
 
 **You'll see:**
 - **Analyst breakdown**: % Buy, Hold, Sell
@@ -144,7 +144,7 @@ Go back to the ticker page (if you're in Chat) and scroll to **Bulls vs Bears** 
 
 Scroll to Company Story and tap **"Bagholder Risks"**
 
-![Bagholder Risks - TSLA](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/tsla-bagholder-risks.jpg)
+<!-- TODO: Screenshot missing: tsla-bagholder-risks.png -->
 
 **This tells you:**
 - What could go wrong long-term
@@ -165,7 +165,7 @@ Scroll to Company Story and tap **"Bagholder Risks"**
 
 Scroll down to **Performance Comparison**
 
-![Performance vs SPY](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/tsla-performance.jpg)
+<!-- TODO: Screenshot missing: tsla-performance.png -->
 
 **You'll see:**
 - TSLA's return vs S&P 500 over time

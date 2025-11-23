@@ -56,7 +56,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 3. Browse all prompts
 4. Click to use
 
-![Web Prompts Icon](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/prompts-icon.jpg)
+<!-- TODO: Screenshot missing: prompts-icon.png -->
 
 **Method 2: Keyboard Shortcut**
 1. In Chat
@@ -64,7 +64,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 3. Prompts menu opens
 4. Select with arrow keys or mouse
 
-![Web Prompts Ctrl+P](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/prompts-ctrl-p.jpg)
+<!-- TODO: Screenshot missing: prompts-ctrl-p.png -->
 
 ---
 
@@ -85,7 +85,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 **Example result:**
 > "TSLA $470 calls exp Friday. Entry $5.50, target $8.00, stop $4.50. Setup: Breaking resistance with volume. Risk/reward 3:1."
 
-![Day Trade Options Setup Result](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/prompt-day-trade-options.jpg)
+<!-- TODO: Screenshot missing: prompt-day-trade-options.png -->
 
 ---
 
@@ -124,7 +124,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 **Example result:**
 > "TSLA at $465. Support: $460 (strong), $450 (critical). Resistance: $470 (immediate), $485 (major). Currently testing $470. Break above = target $485. Break below $460 = bail."
 
-![Support Resistance Result](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/prompt-support-resistance.jpg)
+<!-- TODO: Screenshot missing: prompt-support-resistance.png -->
 
 ---
 
@@ -171,7 +171,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 > Current: $465 - OVERVALUED
 > Verdict: Wait for pullback to $400-420 for better entry."
 
-![Pricey or Cheap Result](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/prompt-pricey-cheap.jpg)
+<!-- TODO: Screenshot missing: prompt-pricey-cheap.png -->
 
 ---
 

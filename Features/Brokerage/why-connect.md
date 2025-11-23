@@ -37,7 +37,7 @@ Unlock the full power of Ape AI by connecting your trading account.
 
 **Even if you have accounts at multiple brokers, see everything in Ape AI.**
 
-![Portfolio View](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/portfolio-connected.jpg)
+<!-- TODO: Screenshot missing: portfolio-connected.png -->
 
 ---
 
@@ -163,7 +163,7 @@ Unlock the full power of Ape AI by connecting your trading account.
 - Not shared with anyone
 - Used only to serve YOU
 
-![Security Features](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/brokerage-security.jpg)
+<!-- TODO: Screenshot missing: brokerage-security.png -->
 
 ---
 

@@ -29,7 +29,7 @@ Ape AI offers **one premium plan** with everything you need to trade smarter.
 - **Monthly:** $25/month
 - **Annual:** $240/year (save $60 = 20% off)
 
-![Super Ape Benefits](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/super-ape-benefits.jpg)
+<!-- TODO: Screenshot missing: super-ape-benefits.png -->
 
 ---
 

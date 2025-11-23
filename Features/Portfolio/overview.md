@@ -75,7 +75,7 @@ The **Portfolio** is your command center for tracking investments.
 - Today's change ($  and %)
 - All-time P&L ($ and %)
 
-![Portfolio Summary](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/portfolio-summary.jpg)
+![Portfolio Summary](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/portfolio-summary.png)
 
 ---
 
@@ -119,7 +119,7 @@ The **Portfolio** is your command center for tracking investments.
 
 **Tap/click to view full ticker page**
 
-![Position Card](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/position-card.jpg)
+<!-- TODO: Screenshot missing: position-card.png -->
 
 ---
 
@@ -155,7 +155,7 @@ The **Portfolio** is your command center for tracking investments.
 - Green bars = Profitable positions
 - Red bars = Losing positions
 
-![Portfolio Charts](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/portfolio-charts.jpg)
+<!-- TODO: Screenshot missing: portfolio-charts.png -->
 
 ---
 
@@ -273,7 +273,7 @@ The **Portfolio** is your command center for tracking investments.
 - View all accounts together
 - Or select one account to view
 
-![Multiple Accounts View](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/multi-account-portfolio.jpg)
+<!-- TODO: Screenshot missing: multi-account-portfolio.png -->
 
 ---
 
@@ -387,7 +387,7 @@ The **Portfolio** is your command center for tracking investments.
 
 **Great for:** Screenshots, showing friends, public settings
 
-![Privacy Mode](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/privacy-mode.jpg)
+<!-- TODO: Screenshot missing: privacy-mode.png -->
 
 ---
 

@@ -46,7 +46,7 @@ Tap **"Day Trade Options Setup"** or ask:
 > - Volume strong, breaking resistance
 > - Risk/reward: 2.5:1"
 
-![Day Trade Setup](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/day-trade-setup-example.jpg)
+<!-- TODO: Screenshot missing: day-trade-setup-example.png -->
 
 ---
 
@@ -92,7 +92,7 @@ Tap **"Day Trade Options Setup"** or ask:
 
 **Order placed! ✅**
 
-![Execute Entry](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/execute-day-trade-entry.jpg)
+<!-- TODO: Screenshot missing: execute-day-trade-entry.png -->
 
 ---
 
@@ -145,7 +145,7 @@ Tap **"Day Trade Options Setup"** or ask:
 
 **Profit:** Bought at $466, sold at $472 = +$600 on 100 shares! (+1.3%)
 
-![Close Position](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/close-day-trade-profit.jpg)
+<!-- TODO: Screenshot missing: close-day-trade-profit.png -->
 
 ---
 

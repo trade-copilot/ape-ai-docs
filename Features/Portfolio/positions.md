@@ -74,7 +74,7 @@ Monitor your holdings, manage risk, know when to exit.
   - Total P&L
   - AI Grade
 
-![Web Position Table](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/position-table.jpg)
+<!-- TODO: Screenshot missing: position-table.png -->
 
 ---
 
@@ -123,7 +123,7 @@ Monitor your holdings, manage risk, know when to exit.
 - Quick health check
 - A = Strong, F = Weak
 
-![Position Metrics](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/position-metrics-explained.jpg)
+<!-- TODO: Screenshot missing: position-metrics-explained.png -->
 
 ---
 
@@ -194,7 +194,7 @@ Monitor your holdings, manage risk, know when to exit.
 - Sort by % Loss → See your losers, consider cutting
 - Sort by AI Grade → See which holdings are strongest
 
-![Sort Positions](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/sort-positions.jpg)
+<!-- TODO: Screenshot missing: sort-positions.png -->
 
 ---
 
@@ -298,7 +298,7 @@ Monitor your holdings, manage risk, know when to exit.
 **📊 Rebalancing Suggestions**
 > "Tech is 55% of your portfolio. Consider trimming to reduce concentration risk."
 
-![AI Position Alerts](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ai-position-alerts.jpg)
+<!-- TODO: Screenshot missing: ai-position-alerts.png -->
 
 ---
 
@@ -329,7 +329,7 @@ Monitor your holdings, manage risk, know when to exit.
 - **IV** (Implied Volatility) - Current IV
 - **Greeks** - Delta, Theta, Gamma, Vega
 
-![Options Position](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/options-position-card.jpg)
+<!-- TODO: Screenshot missing: options-position-card.png -->
 
 ---
 
@@ -370,7 +370,7 @@ Monitor your holdings, manage risk, know when to exit.
 - Your entry point marked
 - Resistance/support levels
 
-![Position Charts](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/position-performance-chart.jpg)
+<!-- TODO: Screenshot missing: position-performance-chart.png -->
 
 ---
 

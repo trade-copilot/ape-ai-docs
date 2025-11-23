@@ -148,7 +148,7 @@ After signup:
 3. Select **"Choose Persona"**
 4. Pick a different one
 
-![Persona Selection Screen](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/persona-selection-screen.jpg)
+![Persona Selection Screen](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/persona-selection-screen.png)
 
 ---
 

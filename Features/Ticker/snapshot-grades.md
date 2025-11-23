@@ -48,7 +48,7 @@ A-F letter grades for every stock. Know at a glance if it's a buy.
 > - Low debt
 > - Strong moat (ecosystem lock-in)
 
-![Fundamental Grade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/fundamental-grade.jpg)
+<!-- TODO: Screenshot missing: fundamental-grade.png -->
 
 ---
 
@@ -76,7 +76,7 @@ A-F letter grades for every stock. Know at a glance if it's a buy.
 > - Uptrend intact ✅
 > - Minor concern: Extended short-term
 
-![Technical Grade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/technical-grade.jpg)
+<!-- TODO: Screenshot missing: technical-grade.png -->
 
 ---
 
@@ -103,7 +103,7 @@ A-F letter grades for every stock. Know at a glance if it's a buy.
 > - Twitter: #1 trending stock ticker
 > - Institutional buying: Heavy
 
-![Sentiment Grade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/sentiment-grade.jpg)
+<!-- TODO: Screenshot missing: sentiment-grade.png -->
 
 ---
 
@@ -131,7 +131,7 @@ A-F letter grades for every stock. Know at a glance if it's a buy.
 > - Business turnaround uncertain
 > - Small market cap = more volatile
 
-![Risk Grade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/risk-grade.jpg)
+<!-- TODO: Screenshot missing: risk-grade.png -->
 
 ---
 
@@ -155,7 +155,7 @@ A-F letter grades for every stock. Know at a glance if it's a buy.
 >
 > **Total: 3.76 = A-**
 
-![Overall Grade](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/overall-grade-card.jpg)
+<!-- TODO: Screenshot missing: overall-grade-card.png -->
 
 ---
 
@@ -354,7 +354,7 @@ A-F letter grades for every stock. Know at a glance if it's a buy.
 >
 > **Overall:** World-class fundamentals. Minor concern on growth rate, but still excellent.
 
-![Expanded Grade Details](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/expanded-grade-details.jpg)
+<!-- TODO: Screenshot missing: expanded-grade-details.png -->
 
 ---
 

@@ -37,7 +37,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 3. Type ticker
 4. Click result
 
-![Search for Ticker](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/search-ticker.jpg)
+<!-- TODO: Screenshot missing: search-ticker.png -->
 
 ---
 
@@ -84,7 +84,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 > $465.20 +$15.20 (+3.38%)
 > [Small line chart showing today's movement]
 
-![Ticker Header](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ticker-header.jpg)
+<!-- TODO: Screenshot missing: ticker-header.png -->
 
 ---
 
@@ -103,7 +103,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 7. **Bulls vs Bears** - Sentiment analysis
 8. **Options** - Options data (if applicable)
 
-![Ticker Tabs](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ticker-tabs.jpg)
+<!-- TODO: Screenshot missing: ticker-tabs.png -->
 
 ---
 
@@ -123,7 +123,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 
 [Learn more about Snapshot Grades →](snapshot-grades)
 
-![Snapshot Grades](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/snapshot-grades-card.jpg)
+<!-- TODO: Screenshot missing: snapshot-grades-card.png -->
 
 ---
 
@@ -159,7 +159,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 - 🔔 **Set Alert** - Price alert
 - 📈 **Trade** - Execute trade (if connected)
 
-![Action Buttons](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ticker-action-buttons.jpg)
+<!-- TODO: Screenshot missing: ticker-action-buttons.png -->
 
 ---
 
@@ -209,7 +209,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 > - Historical avg P/E: 45
 > - **Verdict:** Trading 67% above fair value. Wait for pullback.
 
-![Pricey or Cheap](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/pricey-cheap-card.jpg)
+<!-- TODO: Screenshot missing: pricey-cheap-card.png -->
 
 ---
 
@@ -258,7 +258,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 - Volume overlay
 - Drawing tools
 
-![Performance Charts](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/performance-chart.jpg)
+<!-- TODO: Screenshot missing: performance-chart.png -->
 
 ---
 
@@ -350,7 +350,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 
 [Learn more →](bulls-bears)
 
-![Bulls vs Bears](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/bulls-vs-bears.jpg)
+![Bulls vs Bears](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/bulls-vs-bears.png)
 
 ---
 

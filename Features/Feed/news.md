@@ -48,7 +48,7 @@ Breaking financial news filtered for what actually matters to YOU.
 2. Main feed shows news mixed with other content
 3. Or click **News** filter at top to see only news
 
-![Web News Feed](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/news-feed.jpg)
+![Web News Feed](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/news-feed.png)
 
 ---
 
@@ -72,7 +72,7 @@ Breaking financial news filtered for what actually matters to YOU.
 > Stock: +8% pre-market
 > Key: Data center revenue up 112% YoY
 
-![Earnings News](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/news-earnings.jpg)
+<!-- TODO: Screenshot missing: news-earnings.png -->
 
 ---
 
@@ -244,7 +244,7 @@ Breaking financial news filtered for what actually matters to YOU.
 - Analyst upgrades/downgrades
 - Breaking market news
 
-![iOS News Notifications](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/news-notifications-settings.jpg)
+<!-- TODO: Screenshot missing: news-notifications-settings.png -->
 
 ---
 
@@ -350,7 +350,7 @@ Go to Chat tab, ask:
 - Send to Discord/Telegram
 - Text to friends
 
-![News Article Detail](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/news-article-detail.jpg)
+<!-- TODO: Screenshot missing: news-article-detail.png -->
 
 ---
 
@@ -389,7 +389,7 @@ Go to Chat tab, ask:
    - Company news ✅
    - Unusual activity ✅
 
-![News Settings](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/news-settings.jpg)
+<!-- TODO: Screenshot missing: news-settings.png -->
 
 ---
 

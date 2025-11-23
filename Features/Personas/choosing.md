@@ -87,7 +87,7 @@ Not happy with your choice? Switch anytime!
 4. Select a different persona
 5. Tap **Save** or **Confirm**
 
-![Change Persona in Settings](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/change-persona-settings.jpg)
+<!-- TODO: Screenshot missing: change-persona-settings.png -->
 
 **Your AI adapts instantly!**
 

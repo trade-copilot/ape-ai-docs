@@ -55,7 +55,7 @@ Create and save your own AI prompts for questions you ask repeatedly.
 4. Name your prompt
 5. Tap **Save**
 
-![Save Custom Prompt iOS](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/save-custom-prompt.jpg)
+<!-- TODO: Screenshot missing: save-custom-prompt.png -->
 
 **Method 2: Create from Prompts Menu**
 1. In Chat, tap **Prompts icon** (bottom toolbar)
@@ -64,7 +64,7 @@ Create and save your own AI prompts for questions you ask repeatedly.
 4. Name it
 5. Tap **Save**
 
-![Create Custom Prompt iOS](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/create-custom-prompt.jpg)
+<!-- TODO: Screenshot missing: create-custom-prompt.png -->
 
 ---
 
@@ -78,7 +78,7 @@ Create and save your own AI prompts for questions you ask repeatedly.
 5. Name your prompt
 6. Click **Save**
 
-![Save Custom Prompt Web](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/save-custom-prompt.jpg)
+<!-- TODO: Screenshot missing: save-custom-prompt.png -->
 
 **Method 2: Create from Prompts Menu**
 1. In Chat, click **Prompts icon** or press **Ctrl+P**
@@ -87,7 +87,7 @@ Create and save your own AI prompts for questions you ask repeatedly.
 4. Name it
 5. Click **Save**
 
-![Create Custom Prompt Web](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/create-custom-prompt.jpg)
+<!-- TODO: Screenshot missing: create-custom-prompt.png -->
 
 ---
 
@@ -181,7 +181,7 @@ Create and save your own AI prompts for questions you ask repeatedly.
 2. Tab to **"Custom"**
 3. Browse your prompts
 
-![Custom Prompts List](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/custom-prompts-list.jpg)
+<!-- TODO: Screenshot missing: custom-prompts-list.png -->
 
 ---
 

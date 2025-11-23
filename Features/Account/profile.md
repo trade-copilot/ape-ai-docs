@@ -33,7 +33,7 @@ Your account settings and preferences in one place.
 - Subscription
 - Sign out
 
-![Web Profile Menu](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/profile-dropdown.jpg)
+<!-- TODO: Screenshot missing: profile-dropdown.png -->
 
 ---
 

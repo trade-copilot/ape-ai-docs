@@ -100,7 +100,7 @@ Custom stock lists you created.
 2. Look at the **Home/Dashboard** page
 3. Feed is the main content area
 
-![Web Feed](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/feed-dashboard.jpg)
+<!-- TODO: Screenshot missing: feed-dashboard.png -->
 
 **Left Sidebar:**
 - 🏠 Home ← Feed is here
@@ -153,7 +153,7 @@ Vertical scroll with:
 - Popular Themes
 - Your Watchlist
 
-![Web Feed Layout](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/feed-layout-full.jpg)
+<!-- TODO: Screenshot missing: feed-layout-full.png -->
 
 ---
 
@@ -307,7 +307,7 @@ Share:
 2. Click **Customize Feed** (top right)
 3. Select preferences
 
-![Feed Settings](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/feed-settings.jpg)
+<!-- TODO: Screenshot missing: feed-settings.png -->
 
 ---
 

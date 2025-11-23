@@ -57,7 +57,7 @@ AI Chat is your personal trading assistant powered by artificial intelligence. T
 - **Bottom:** Text input box
 - **Sidebar:** Prompts button (or Ctrl+P)
 
-![Web Chat Interface](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/chat-full.jpg)
+![Web Chat Interface](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/chat-full.png)
 
 ---
 
@@ -111,7 +111,7 @@ AI Chat is your personal trading assistant powered by artificial intelligence. T
 2. Type your question
 3. Press **Enter** or click Send
 
-![Typing in Chat](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/chat-typing.jpg)
+<!-- TODO: Screenshot missing: chat-typing.png -->
 
 ### Use Quick Prompts
 
@@ -204,7 +204,7 @@ AI remembers your conversation:
 ### Text Analysis
 Most common - AI writes detailed analysis.
 
-![Text Response](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/chat-text-response.jpg)
+<!-- TODO: Screenshot missing: chat-text-response.png -->
 
 ### Trade Setups
 Structured trade recommendations:
@@ -241,7 +241,7 @@ When learning:
 2. Or click History icon
 3. Select conversation to continue
 
-![Chat History](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/chat-history.jpg)
+<!-- TODO: Screenshot missing: chat-history.png -->
 
 ### Start New Chat
 - Fresh conversation, no context from previous

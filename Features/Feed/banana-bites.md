@@ -280,7 +280,7 @@ Bite-sized trading education. Learn while you scroll.
 3. Or filter by **"Education"** to see only Bites
 4. Click to expand
 
-![Web Banana Bites](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/banana-bites.jpg)
+![Web Banana Bites](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/banana-bites.png)
 
 ---
 
