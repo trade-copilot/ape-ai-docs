@@ -5,7 +5,7 @@ Use AI to find swing trade setups and execute in seconds. Hold for days or weeks
 **⏱️ Time:** 2-7 days per trade
 **💰 Capital needed:** $1,000+ recommended
 **📱🌐 Platform:** Both iOS & Web
-**👤 Best for:** Maverick persona (Swing Traders)
+**👤 Best for:** Money Monty (generalist) and Maverick (momentum) personas
 **🎯 Skill level:** Beginner to Intermediate
 
 ---

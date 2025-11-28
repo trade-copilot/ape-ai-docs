@@ -6,7 +6,7 @@ Establish a disciplined monthly review routine to track performance, rebalance, 
 **💰 Cost:** Free (wealth preservation and growth)
 **📱 Platform:** Ape AI + Your brokerage
 **👤 Best for:** Investors with established portfolios ($1,000+)
-**🦍 Recommended Persona:** Money (balanced portfolio analysis and recommendations)
+**🦍 Recommended Persona:** Money Monty (balanced portfolio analysis and recommendations)
 
 ---
 
@@ -287,7 +287,7 @@ Visit Yahoo Finance, check S&P 500 (^GSPC):
 - Your return: +18.6%
 - **You're outperforming by 3.4%!**
 
-**Ask Money:**
+**Ask Money Monty:**
 ```
 Money, my portfolio returned +18.6% YTD while S&P 500
 returned +15.2%. I'm outperforming by 3.4%. Is this luck
@@ -378,7 +378,7 @@ Questions:
 
 ### Monthly Portfolio Review with Money
 
-**Ask Money to analyze your entire portfolio:**
+**Ask Money Monty to analyze your entire portfolio:**
 
 ```
 Money, analyze my portfolio for March 2024.
@@ -397,7 +397,7 @@ Target allocation: 70% stocks, 20% bonds, 10% cash.
 Am I on track? Any recommendations?
 ```
 
-**Money will provide:**
+**Money Monty will provide:**
 - Allocation analysis (drift from target)
 - Performance assessment
 - Rebalancing recommendations
@@ -416,7 +416,7 @@ while the S&P 500 is up 15.2%. Should I be worried?
 Should I sell it?
 ```
 
-Money will:
+Money Monty will:
 - Provide context (tech sector performance, Apple-specific news)
 - Evaluate fundamentals (still strong company?)
 - Recommend hold/sell decision
@@ -431,7 +431,7 @@ Money, my portfolio is up 18.6% YTD while S&P 500 is up
 15.2%. Why am I outperforming? Is this sustainable?
 ```
 
-Money will:
+Money Monty will:
 - Analyze your holdings vs S&P 500
 - Identify sources of outperformance
 - Assess if it's skill, luck, or higher risk
@@ -454,7 +454,7 @@ Money will:
 - Bad timing decisions
 
 **Action:**
-- Ask Money to diagnose the issue
+- Ask Money Monty to diagnose the issue
 - Consider simplifying to index funds
 - Check fees (switch to lower-cost funds if high)
 

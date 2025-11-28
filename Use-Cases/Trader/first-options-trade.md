@@ -5,8 +5,8 @@ Step-by-step guide to placing your first options trade using Ape AI.
 **⏱️ Time:** 20-30 minutes
 **💰 Risk Level:** High (options are leveraged)
 **📱 Platform:** iOS & Web
-**👤 Best for:** Traders ready for options
-**🦍 Recommended Persona:** Maverick (momentum/options focus)
+**👤 Best for:** Traders ready for options (not beginners)
+**🦍 Recommended Persona:** Maverick (momentum/options focus) or Money Monty (balanced). Blitz is advanced only.
 
 ---
 
@@ -141,12 +141,12 @@ AAPL $180 Call expiring 12/20
 
 ### Using the Quick Prompt
 
-**In Chat with Maverick:**
+**In Chat with Maverick or Money:**
 
 1. Look for quick prompt suggestions
-2. Tap **"Day Trade Options Setup"** (for short-term)
+2. Tap **"Options Strategy Suggestion"** or **"Swing Options Setup"**
    - OR -
-3. Type: "Options trade setup for [TICKER]"
+3. Type: "Options trade setup for [TICKER], timeframe 2-3 weeks"
 
 **Example prompt:**
 ```

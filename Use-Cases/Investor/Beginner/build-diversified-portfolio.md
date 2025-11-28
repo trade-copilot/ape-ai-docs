@@ -6,7 +6,7 @@ Create your first complete investment portfolio with proper diversification acro
 **💰 Cost:** $500-5,000+ (your initial investment)
 **📱 Platform:** Any brokerage + Ape AI
 **👤 Best for:** Beginners ready to build their first real portfolio
-**🦍 Recommended Persona:** Money (balanced portfolio construction guidance)
+**🦍 Recommended Persona:** Money Monty (balanced portfolio construction guidance)
 
 ---
 
@@ -121,7 +121,7 @@ Create your first complete investment portfolio with proper diversification acro
 
 ### Your Asset Allocation Decision
 
-**Ask Money:**
+**Ask Money Monty:**
 
 ```
 I'm [age] years old and planning to retire at [retirement age].
@@ -129,7 +129,7 @@ I have [low/medium/high] risk tolerance. What should my
 asset allocation be?
 ```
 
-Money will recommend something like:
+Money Monty will recommend something like:
 - 80% stocks (split between U.S. and international)
 - 15% bonds
 - 5% cash
@@ -585,7 +585,7 @@ Is this properly balanced for a 30-year-old?
 Am I missing any diversification?
 ```
 
-Money will review and provide recommendations.
+Money Monty will review and provide recommendations.
 
 ---
 
@@ -808,7 +808,7 @@ Review allocation annually (shift more to bonds)
 
 ---
 
-### Ask Money to Review Your Portfolio
+### Ask Money Monty to Review Your Portfolio
 
 **Open Ape AI and ask:**
 
@@ -822,7 +822,7 @@ I'm [age] years old and planning to retire at [retirement age].
 Is this well-diversified? What should I improve?
 ```
 
-Money will:
+Money Monty will:
 - Validate your allocations
 - Identify gaps or issues
 - Suggest improvements

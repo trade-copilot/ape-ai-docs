@@ -6,7 +6,7 @@ Learn how to select the right brokerage for your first investment account, inclu
 **💰 Cost:** Free (research only)
 **📱 Platform:** Any device
 **👤 Best for:** Beginners choosing their first brokerage
-**🦍 Recommended Persona:** Money (balanced, practical advice)
+**🦍 Recommended Persona:** Money Monty (balanced, practical advice)
 
 ---
 
@@ -593,7 +593,7 @@ You can't buy stocks directly from companies. You need a middleman (broker) to e
 **Start paper trading right now:**
 - [Paper Trading: Your Risk-Free Practice Ground →](../education/paper-trading-practice)
 
-### Ask Money for Guidance
+### Ask Money Monty for Guidance
 
 **In Ape AI, ask Money:**
 
@@ -603,7 +603,7 @@ $[amount/month] mostly in [stocks/ETFs/both]. Should I choose
 Fidelity, Schwab, or Robinhood?
 ```
 
-Money will:
+Money Monty will:
 - Recommend best brokerage for your situation
 - Explain pros and cons
 - Provide step-by-step setup guidance

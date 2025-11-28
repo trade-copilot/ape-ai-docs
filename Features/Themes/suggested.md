@@ -169,7 +169,7 @@ Pre-built stock lists for popular strategies. One tap to add.
 - NOK (Nokia)
 - PLTR (Palantir)
 
-**Best for:** Risk-takers, momentum traders, Blitz/Maverick personas
+**Best for:** Aggressive traders (advanced), Maverick; Blitz (advanced only)
 
 **Why it "works":** Massive volatility = opportunity (and risk)
 
@@ -216,7 +216,7 @@ Pre-built stock lists for popular strategies. One tap to add.
 - VRTX (Vertex Pharmaceuticals)
 - REGN (Regeneron)
 
-**Best for:** Growth traders, high-risk tolerance, Blitz/Maverick personas
+**Best for:** Growth traders, high‑risk tolerance, Maverick; Blitz (advanced only)
 
 **Why it works (sometimes):** FDA approvals = moon shots 🚀
 
@@ -277,7 +277,7 @@ Pre-built stock lists for popular strategies. One tap to add.
 - MSTR (MicroStrategy - holds Bitcoin)
 - HOOD (Robinhood - crypto trading)
 
-**Best for:** Crypto bulls, volatility traders, Blitz persona
+**Best for:** Crypto bulls, volatility traders; Blitz (advanced only)
 
 **Why it works:** When Bitcoin rallies, these rally harder
 
@@ -336,6 +336,18 @@ Pre-built stock lists for popular strategies. One tap to add.
 ---
 
 ## 🎭 Suggested Themes by Persona
+
+### Money Monty (Generalist) Sees: 💰
+
+**Themes suggested for you:**
+- AI & Machine Learning
+- EV Revolution
+- Value Plays
+- S&P 500 Leaders
+- Tech Titans
+- Earnings This Week
+
+**Goal:** Balanced risk/reward, catalysts + quality
 
 ### Blitz (Day Trader) Sees: 🚀
 

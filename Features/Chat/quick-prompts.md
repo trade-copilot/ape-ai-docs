@@ -70,26 +70,26 @@ Pre-built questions for common trading scenarios. Faster than typing!
 
 ## 🚀 Featured Quick Prompts
 
-### 1. Day Trade Options Setup 💰
-**What it does:** Finds intraday options trading opportunities
+### 1. Find Strong Catalyst Stocks 💥
+**What it does:** Surfaces stocks with credible near‑term catalysts (earnings, guidance, product launches, upgrades, macro).
 
 **AI provides:**
-- Stocks with good options setups today
-- Call or put recommendations
-- Strike prices and expirations
-- Entry/exit strategy
-- Risk/reward analysis
+- List of tickers with catalysts and why they matter
+- Directional context (bullish/bearish) and timeframe
+- Entry zones and risk considerations
 
-**Best for:** Blitz persona (day traders)
+**Best for:** Money Monty (generalist) and Maverick personas
 
 **Example result:**
-> "TSLA $470 calls exp Friday. Entry $5.50, target $8.00, stop $4.50. Setup: Breaking resistance with volume. Risk/reward 3:1."
-
-<!-- TODO: Screenshot missing: prompt-day-trade-options.png -->
+> "5 catalyst candidates: NVDA (AI demand), AMD (new GPUs), UBER (profitability focus), SHOP (e‑comm seasonality), ABNB (travel bookings). Entry near support; confirm volume."
 
 ---
 
 ### 2. Earnings Snapshot 📊
+
+---
+
+### 3. Major Support and Resistance 📈
 **What it does:** Summarizes latest earnings report for a stock
 
 **You'll be asked:** "Which ticker?"
@@ -119,7 +119,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 - Current price position
 - Key zones to watch
 
-**Best for:** Blitz & Maverick personas
+**Best for:** Money Monty, Maverick, and Blitz personas
 
 **Example result:**
 > "TSLA at $465. Support: $460 (strong), $450 (critical). Resistance: $470 (immediate), $485 (major). Currently testing $470. Break above = target $485. Break below $460 = bail."
@@ -128,27 +128,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 
 ---
 
-### 4. Options Expiring Before Earnings 📅
-**What it does:** Finds stocks with near-term earnings + options expiring before
-
-**AI provides:**
-- List of stocks with upcoming earnings
-- Options that expire BEFORE earnings
-- Why this matters (IV crush)
-- Potential strategies
-
-**Best for:** Options traders (Blitz)
-
-**Example result:**
-> "5 stocks with options expiring before earnings:
-> 1. AAPL - Earnings Nov 15, options exp Nov 10
-> 2. MSFT - Earnings Nov 20, options exp Nov 17
-> ...
-> Strategy: Sell options to capture IV premium before earnings announcement."
-
----
-
-### 5. Pricey or Cheap 💰
+### 4. Pricey or Cheap 💰
 **What it does:** Analyzes if a stock is overvalued or undervalued
 
 **You'll be asked:** "Which ticker?"
@@ -160,16 +140,30 @@ Pre-built questions for common trading scenarios. Faster than typing!
 - Fair value estimate
 - Buy/wait/sell assessment
 
-**Best for:** Sage persona (long-term investors)
+**Best for:** Sage persona (long‑term investors) and Money Monty
 
 **Example result:**
-> "TSLA valuation analysis:
-> P/E: 75 (vs industry avg 15) - EXPENSIVE
-> P/S: 8.5 (vs avg 2.0) - PRICEY
-> Historical P/E avg: 45
-> Fair value: $380-420
-> Current: $465 - OVERVALUED
-> Verdict: Wait for pullback to $400-420 for better entry."
+> "TSLA valuation analysis: P/E 75 (vs industry 15)—pricey; fair value $380–420. Consider waiting for pullback or DCA."
+
+---
+
+### 5. Options Expiring Before Earnings 📅
+**What it does:** Finds stocks with near-term earnings + options expiring before
+
+**AI provides:**
+- List of stocks with upcoming earnings
+- Options that expire BEFORE earnings
+- Why this matters (IV crush)
+- Potential strategies
+
+**Best for:** Options traders (advanced)
+
+**Example result:**
+> "5 stocks with options expiring before earnings:
+> 1. AAPL - Earnings Nov 15, options exp Nov 10
+> 2. MSFT - Earnings Nov 20, options exp Nov 17
+> ...
+> Strategy: Sell options to capture IV premium before earnings announcement."
 
 <!-- TODO: Screenshot missing: prompt-pricey-cheap.png -->
 
@@ -219,6 +213,13 @@ Pre-built questions for common trading scenarios. Faster than typing!
 
 Quick Prompts **change based on your persona**!
 
+### Money Monty (Generalist) Sees:
+- Find Strong Catalyst Stocks
+- Swing Trade Ideas
+- Pricey or Cheap
+- Major Support & Resistance
+- Momentum Stock Finder
+
 ### Blitz (Day Trader) Sees:
 - Day Trade Options Setup
 - Major Support and Resistance
@@ -247,10 +248,10 @@ Quick Prompts **change based on your persona**!
 ## 💡 How to Use Quick Prompts Effectively
 
 ### 1. Start Your Trading Day
-Morning routine:
+Morning routine (Money Monty/Maverick):
 - **"Today's Market Recap"** - Get market overview
-- **"Pre-Market Movers"** - See what's gapping
-- **"Day Trade Options Setup"** - Find setups
+- **"Pre‑Market Movers"** - See what's gapping
+- **"Find Strong Catalyst Stocks"** or **"Swing Trade Ideas"**
 
 ### 2. Research a Stock
 When you find an interesting ticker:
@@ -275,14 +276,14 @@ Educational prompts:
 
 **After using a prompt, you can ask follow-ups:**
 
-**Initial prompt:** "Day Trade Options Setup"
-**AI suggests:** "TSLA $470 calls"
+**Initial prompt:** "Find Strong Catalyst Stocks"
+**AI suggests:** "NVDA (AI demand), UBER (profitability focus), SHOP (seasonality)"
 
 **Follow-up questions:**
 - "What's the downside risk?"
 - "Should I wait for a pullback?"
-- "What if it doesn't break $470?"
-- "Compare this to AMD calls"
+- "What if volume fades?"
+- "Compare this to AMD"
 
 **AI remembers context** from the prompt!
 
@@ -304,25 +305,24 @@ Future features:
 
 ## 📊 Real Example Workflow
 
-**Scenario:** Morning prep for day trading
+**Scenario:** Morning prep for a generalist trader (Money Monty)
 
 **Step 1:** Use **"Today's Market Recap"**
-> AI: "Market bullish. SPY broke $450 resistance. Tech leading. Watch NVDA earnings after close."
+> AI: "Market modestly bullish. Tech leading; watch NVDA earnings after close."
 
-**Step 2:** Use **"Pre-Market Movers"**
-> AI: "TSLA +3% on delivery numbers. NVDA -2% on profit-taking. AMD +5% on analyst upgrade."
+**Step 2:** Use **"Find Strong Catalyst Stocks"**
+> AI: "NVDA (AI demand), UBER (profit focus), SHOP (seasonality)."
 
-**Step 3:** Use **"Day Trade Options Setup"**
-> AI: "AMD $180 calls exp Friday. Entry $3.50, target $5.00. Momentum strong."
+**Step 3:** Open a ticker page and review Snapshot Grades
 
-**Step 4:** Check stock details (search AMD)
+**Step 4:** Use **"Major Support and Resistance"** on your top pick
+> AI: "Entry near support; confirm volume on break above resistance."
 
-**Step 5:** Use **"Major Support and Resistance"** for AMD
-> AI: "AMD support at $175, resistance at $182. Currently $178. Break above $180 targets $185."
+**Step 5:** If long‑term, run **"Pricey or Cheap"** for valuation context
 
-**Step 6:** Make trade decision!
+**Step 6:** Size the position and plan the trade
 
-**Total time:** 5 minutes with Quick Prompts vs 30+ minutes manual research
+**Total time:** ~5 minutes with Quick Prompts vs 30+ minutes manual research
 
 ---
 

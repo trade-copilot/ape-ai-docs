@@ -6,7 +6,7 @@ Get AI-powered analysis and optimization recommendations for your entire portfol
 **💰 Risk Level:** N/A (analysis only)
 **📱 Platform:** iOS & Web
 **👤 Best for:** Anyone with 3+ holdings
-**🦍 Recommended Persona:** Sage (portfolio strategy) + Money (balanced view)
+**🦍 Recommended Persona:** Sage (portfolio strategy) + Money Monty (balanced view)
 
 ---
 
@@ -1071,7 +1071,7 @@ Improved After-Tax Returns ✓
 - [Risk Management →](../../Features/trading/risk-management)
 - [Portfolio Construction →](../../Features/Portfolio/construction)
 
-### Ask Sage or Money
+### Ask Sage or Money Monty
 
 ```
 How often should I rebalance my portfolio?

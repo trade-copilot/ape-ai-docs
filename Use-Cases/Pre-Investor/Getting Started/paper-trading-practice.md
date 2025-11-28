@@ -6,7 +6,7 @@ Learn to invest without risking real money. Practice strategies, make mistakes, 
 **💰 Cost:** Free (virtual money only)
 **📱 Platform:** Ape AI (iOS & Web) or broker platforms
 **👤 Best for:** Complete beginners who want to practice before risking real money
-**🦍 Recommended Persona:** Sage (patient teaching) or Money (balanced practice trades)
+**🦍 Recommended Persona:** Sage (patient teaching) or Money Monty (balanced practice trades)
 
 ---
 
@@ -265,7 +265,7 @@ placing the order step by step.
 
 **Steps:**
 1. Choose a company you know (Apple, Disney, Nike, Starbucks)
-2. Ask Money:
+2. Ask Money Monty:
    ```
    I want to buy [Company Name] stock in my paper account.
    Is now a good time? Should I use a market or limit order?
@@ -342,13 +342,13 @@ placing the order step by step.
 **Goal:** Create balanced portfolio like professional
 
 **Steps:**
-1. Ask Money:
+1. Ask Money Monty:
    ```
    I have $50,000 in paper money. Help me build a diversified
    portfolio with stocks, bonds, and cash. Give me a complete
    allocation.
    ```
-2. Money will recommend something like:
+2. Money Monty will recommend something like:
    - 60% stocks (VOO): $30,000
    - 30% bonds (BND): $15,000
    - 10% cash: $5,000
@@ -714,7 +714,7 @@ Sage will:
    - Do you panic sell?
    - Do you chase hot stocks?
    - Do you hold winners too long or sell too early?
-4. Ask Money:
+4. Ask Money Monty:
    ```
    I've been paper trading for 30 days. My performance is
    [X% gain/loss]. What can I improve?

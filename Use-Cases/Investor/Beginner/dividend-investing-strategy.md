@@ -384,7 +384,7 @@ Example with $10,000:
 
 **Prompt Template:**
 ```
-Hey Money, I'm building a dividend portfolio focused on [income now / long-term growth / balanced].
+Hey Money Monty, I'm building a dividend portfolio focused on [income now / long-term growth / balanced].
 
 I'm considering [TICKER]. Can you analyze:
 1. Current dividend yield and payout ratio
@@ -398,7 +398,7 @@ My goal is [your specific goal].
 
 **Example:**
 ```
-Hey Money, I'm building a dividend portfolio focused on reliable long-term growth.
+Hey Money Monty, I'm building a dividend portfolio focused on reliable long-term growth.
 
 I'm considering Johnson & Johnson (JNJ). Can you analyze:
 1. Current dividend yield and payout ratio
@@ -410,7 +410,7 @@ I'm considering Johnson & Johnson (JNJ). Can you analyze:
 My goal is to build a 10-stock dividend portfolio that will grow income 7-8% annually.
 ```
 
-**Money's Analysis Will Cover:**
+**Money Monty's Analysis Will Cover:**
 - Latest dividend metrics (yield, payout ratio, growth rate)
 - Comparison to industry peers
 - Business fundamentals affecting dividend sustainability
@@ -636,7 +636,7 @@ A company pays $5/share dividend but only earns $4/share. You don't notice becau
 - Always check payout ratio before buying
 - Look for <75% for non-REITs
 - If >100%, avoid completely (red flag)
-- Ask Money: "What's [TICKER]'s payout ratio and is the dividend sustainable?"
+- Ask Money Monty: "What's [TICKER]'s payout ratio and is the dividend sustainable?"
 
 ### Mistake #3: Lack of Diversification
 
@@ -769,7 +769,7 @@ Investors who held on lost both income AND capital.
 - Have a rule: Sell immediately if dividend is cut
 - Don't wait for "recovery" - redeploy to better opportunity
 - Use stop-loss orders to protect capital
-- Ask Money: "Should I sell [TICKER] after this dividend cut, or hold?"
+- Ask Money Monty: "Should I sell [TICKER] after this dividend cut, or hold?"
 
 ---
 
@@ -814,11 +814,11 @@ Before buying ANY dividend stock, verify:
 
 ## Using Ape AI for Dividend Investing
 
-### Best Prompts for Money Persona
+### Best Prompts for Money Monty
 
 **For Stock Analysis:**
 ```
-Hey Money, I'm considering [TICKER] for my dividend portfolio. Can you give me:
+Hey Money Monty, I'm considering [TICKER] for my dividend portfolio. Can you give me:
 1. Current dividend yield and payout ratio
 2. Dividend growth rate (last 5-10 years)
 3. Number of consecutive years of dividend payments/increases
@@ -832,7 +832,7 @@ I'm focused on [reliable income / dividend growth / balanced].
 
 **For Portfolio Review:**
 ```
-Hey Money, here's my current dividend portfolio:
+Hey Money Monty, here's my current dividend portfolio:
 
 [List your holdings with % allocation]
 
@@ -849,7 +849,7 @@ My goal is [your specific goal].
 
 **For Dividend Cut Risk Assessment:**
 ```
-Hey Money, I'm worried about [TICKER]'s dividend sustainability. Can you check:
+Hey Money Monty, I'm worried about [TICKER]'s dividend sustainability. Can you check:
 1. Latest payout ratio and trend
 2. Recent free cash flow coverage
 3. Any news about business struggles
@@ -860,7 +860,7 @@ Hey Money, I'm worried about [TICKER]'s dividend sustainability. Can you check:
 
 **For Finding New Opportunities:**
 ```
-Hey Money, I'm looking to add a new dividend stock to my portfolio. My criteria:
+Hey Money Monty, I'm looking to add a new dividend stock to my portfolio. My criteria:
 - Sector: [sector or "any"]
 - Yield: [range like 3-5%]
 - Dividend growth: [e.g., 7%+ annually]
@@ -1028,7 +1028,7 @@ By the end of this workflow, you should have:
 - [ ] Enabled DRIP (or decided to take cash for specific reasons)
 - [ ] Created a dividend tracking system (spreadsheet or app)
 - [ ] Set up monthly/quarterly review reminders
-- [ ] Used Money persona to analyze at least 2 dividend stocks
+- [ ] Used Money Monty persona to analyze at least 2 dividend stocks
 - [ ] Understand common dividend investing mistakes and how to avoid them
 
 **🎉 Congratulations!** You've built the foundation for a dividend portfolio that can grow income for decades!

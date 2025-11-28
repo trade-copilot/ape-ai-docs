@@ -26,7 +26,9 @@ A **persona** is your AI's trading personality and focus. When you choose a pers
 
 ## 🦍 The 4 Personas
 
-### 1. Money (General Trader) 💰
+Note: **Money** is the primary persona for the modern retail trader; **Blitz** is for experienced day traders.
+
+### 1. Money Monty (General Trader) 💰
 **"Adapt and thrive. Trade what works."**
 
 **Focus:**
@@ -42,7 +44,7 @@ A **persona** is your AI's trading personality and focus. When you choose a pers
 - Part-time traders
 - 2-5 trades per week
 
-**Typical questions Money helps with:**
+**Typical questions Money Monty helps with:**
 - "Find strong catalyst stocks"
 - "What stocks have improving fundamentals?"
 - "Show me solid momentum plays"
@@ -154,7 +156,7 @@ After signup:
 
 ## 🤔 Which Persona Should You Choose?
 
-### Choose **Money** if:
+### Choose **Money Monty** if:
 ✅ You want a balanced approach
 ✅ You mix technical and fundamental analysis
 ✅ You trade 2-5 times per week
@@ -208,7 +210,7 @@ Be honest about your trading style:
 
 ## 📊 Persona Comparison
 
-| Feature | Money 💰 | Sage 🦧 | Maverick 📊 | Blitz 🚀 |
+| Feature | Money Monty 💰 | Sage 🦧 | Maverick 📊 | Blitz 🚀 |
 |---------|----------|---------|-------------|----------|
 | **Timeframe** | Days-Weeks | Months-Years | Days-Weeks | Minutes-Hours |
 | **Analysis Type** | Balanced | Fundamental | Technical + Momentum | Technical |
@@ -224,7 +226,7 @@ Be honest about your trading style:
 
 ### Example Question: *"Is Tesla a good buy?"*
 
-**Money Response:**
+**Money Monty Response:**
 > "TSLA looks solid from both angles. Technical A+, fundamental B+. Entry $465-470. Target $490 in 10 days. Volume strong. Consider 2-3% position size. Risk/reward: 2.5:1."
 
 **Sage Response:**
@@ -255,7 +257,7 @@ A: Start with your primary style. Switch personas based on what you're focusing 
 A: No! They're designed for different styles. The best persona is the one that matches how YOU trade.
 
 **Q: How many personas are there?**
-A: Four: Money (balanced), Sage (value), Maverick (momentum), and Blitz (day trading).
+A: Four: Money Monty (balanced), Sage (value), Maverick (momentum), and Blitz (day trading).
 
 ---
 

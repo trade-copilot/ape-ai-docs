@@ -19,7 +19,7 @@ By the end of this workflow, you'll be able to:
 3. ✅ Read and interpret an income statement, balance sheet, and cash flow statement
 4. ✅ Identify red flags and positive signs in earnings reports
 5. ✅ Listen to earnings calls and extract key insights
-6. ✅ Use Money to analyze complex financial data quickly
+6. ✅ Use Money Monty to analyze complex financial data quickly
 7. ✅ Make informed investment decisions based on earnings
 
 ---
@@ -527,14 +527,14 @@ Net Change in Cash:        +$7 billion
 
 ---
 
-## Using Money to Analyze Earnings Reports
+## Using Money Monty to Analyze Earnings Reports
 
-**Instead of reading 100-page 10-K yourself, use Money!**
+**Instead of reading 100-page 10-K yourself, use Money Monty!**
 
 **Comprehensive Earnings Analysis:**
 
 ```
-Hey Money, I want to analyze [COMPANY]'s latest earnings report (Q[X] 20XX).
+Hey Money Monty, I want to analyze [COMPANY]'s latest earnings report (Q[X] 20XX).
 
 Can you provide:
 
@@ -580,7 +580,7 @@ Can you provide:
 Summarize in a clear, concise report I can read in 5 minutes.
 ```
 
-**Money will:**
+**Money Monty will:**
 - Read the full 10-K/10-Q for you
 - Extract key data
 - Highlight trends
@@ -590,7 +590,7 @@ Summarize in a clear, concise report I can read in 5 minutes.
 **Example Prompt for Specific Question:**
 
 ```
-Hey Money, [COMPANY] just reported Q2 earnings. Their revenue grew 15%, but the stock dropped 10% after earnings.
+Hey Money Monty, [COMPANY] just reported Q2 earnings. Their revenue grew 15%, but the stock dropped 10% after earnings.
 
 Why did the stock drop despite strong revenue growth? What did I miss?
 

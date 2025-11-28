@@ -770,13 +770,13 @@ Which sectors are significantly off target? What trades should I make to rebalan
 
 ---
 
-## Using Money to Analyze Sectors
+## Using Money Monty to Analyze Sectors
 
 ### Sector Health Check
 
 **Prompt:**
 ```
-Hey Money, can you give me a health check on the [SECTOR] sector?
+Hey Money Monty, can you give me a health check on the [SECTOR] sector?
 
 Analyze:
 1. Recent performance (YTD, 1-year, 3-year returns)
@@ -794,7 +794,7 @@ I want to understand if I should be overweight, neutral, or underweight this sec
 
 **Prompt:**
 ```
-Hey Money, I'm trying to decide between increasing my allocation to [SECTOR A] or [SECTOR B].
+Hey Money Monty, I'm trying to decide between increasing my allocation to [SECTOR A] or [SECTOR B].
 
 Can you compare:
 1. Recent performance trends
@@ -810,7 +810,7 @@ Help me decide where to allocate new capital.
 
 **Prompt:**
 ```
-Hey Money, I want to add exposure to the [SECTOR] sector.
+Hey Money Monty, I want to add exposure to the [SECTOR] sector.
 
 Can you suggest the top 5 stocks in this sector based on:
 1. Strong fundamentals (earnings growth, margins, ROE)
@@ -890,9 +890,9 @@ Staying overweight in expensive sectors just because "they always go up"
 - Overweight sectors trading below historical P/E
 - Underweight sectors trading above historical P/E
 
-**Ask Money:**
+**Ask Money Monty:**
 ```
-Hey Money, which sectors are cheap or expensive right now based on historical P/E ratios?
+Hey Money Monty, which sectors are cheap or expensive right now based on historical P/E ratios?
 
 For each sector:
 1. Current P/E ratio

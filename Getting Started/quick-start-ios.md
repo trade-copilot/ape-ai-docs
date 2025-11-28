@@ -36,13 +36,14 @@ This is important! Your persona determines how the AI assists you.
 
 **Pick the one that matches your style:**
 
-- **🚀 Blitz** - Day trader (fast-paced, intraday moves)
-- **📈 Maverick** - Swing trader (multi-day holds)
-- **🏦 Sage** - Long-term investor (fundamentals, buy & hold)
+- **💰 Money Monty** – Balanced generalist (primary), 2–5 trades/week
+- **📈 Maverick** – Momentum swing trader (days to weeks)
+- **🏦 Sage** – Long‑term investor (fundamentals, buy & hold)
+- **🚀 Blitz** – Experienced day trader (intraday, advanced only)
 
 Tap your choice, then tap **Continue**.
 
-> 💡 **Don't worry**—you can change your persona anytime in settings.
+> 💡 **Don’t worry**—you can change your persona anytime in settings.
 
 ---
 
@@ -80,15 +81,15 @@ Let's try the AI Chat:
 
 1. Tap the **Chat** tab (bottom left)
 2. You'll see **Quick Action cards**—swipe through them
-3. Tap **"Day Trade Options Setup"** (or any prompt)
+3. Tap **"Find Strong Catalyst Stocks"** or **"Swing Trade Ideas"**
 4. Wait a few seconds for the AI to respond
-5. Read the analysis!
+5. Review entries, risks, and timeframe
 
 ![Chat with Quick Actions](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/chat-quick-prompts.jpg)
 
 **Or type your own question:**
 - Tap the text input at bottom
-- Type: *"Is TSLA overvalued?"*
+- Type: *"What stocks have improving fundamentals this month?"*
 - Tap send (arrow icon)
 - Get your answer!
 

@@ -4,15 +4,15 @@ Ape AI is your AI-powered trading copilot for iOS and Web. Think of it as having
 
 ---
 
-## 🎯 Built for Retail Traders
+## 🎯 Built for the Modern Retail Trader
 
-Ape AI is designed for **real traders**, not institutions:
+Ape AI is designed for young, tech‑savvy, self‑directed traders who want quick, clear insights:
 
-- **Day traders** looking for quick setups 📈
+- **Generalist traders (primary)** balancing fundamentals and technicals 💰
 - **Swing traders** timing entries and exits 📊
-- **Long-term investors** building portfolios 💼
-- **Social traders** following WSB and Twitter trends 🚀
-- **First-time investors** learning to trade 🌱
+- **Long‑term investors** building quality positions 💼
+- **Momentum traders** who follow catalysts and trends ⚡
+- **Social/news‑driven traders** tracking Reddit, X, Discord, YouTube 🚀
 
 ---
 
@@ -21,24 +21,25 @@ Ape AI is designed for **real traders**, not institutions:
 ### 1. AI Trading Assistant
 Ask any question about stocks, get instant analysis, and find trade setups—all in natural language.
 
-**Example:** *"Find me day trade options setups"* → Get AI-powered trade ideas
+**Example:** *"Find strong catalyst stocks under $50"* → Get AI‑powered ideas with entries, risks, timeframe
 
-### 2. Persona-Based Experience
+### 2. Persona‑Based Experience
 Choose a trading persona that matches your style:
-- **Blitz** for day trading 🚀
-- **Maverick** for swing trading 📈
-- **Sage** for long-term investing 🏦
+- **Money Monty** for balanced, generalist trading (primary) 💰
+- **Maverick** for momentum‑driven swings 📈
+- **Sage** for long‑term investing 🏦
+- **Blitz** for experienced day traders only 🚀
 
-Your AI adapts to your chosen style.
+Your AI adapts to your chosen style, prioritizing clarity, speed, and confidence.
 
 ### 3. Social Intelligence
-We track WSB, Twitter, and financial news to surface what's trending before it's mainstream.
+We track Reddit (WSB, r/stocks, r/options), X/Twitter, Discord chatter, YouTube finance, and news to surface what’s trending before it’s mainstream.
 
 ### 4. Paper Trading (FREE)
 Learn and practice with the **Ape Paper Trading Account**—virtual money, real market conditions, zero risk.
 
 ### 5. AI Stock Analysis
-Every stock gets **4 AI grades**: Fundamental, Technical, Sentiment, and Risk. No more hours of research.
+Every stock gets **4 AI grades**: Fundamental, Technical, Sentiment, and Risk—built to cut through noise fast.
 
 ---
 
@@ -114,17 +115,17 @@ Try Ape AI with full features for free.
 ## 🎓 Who Is This For?
 
 ### Perfect for you if you:
-✅ Want to save time on research
-✅ Like using AI for trading ideas
-✅ Follow social media for stock trends
-✅ Want to learn to trade risk-free
-✅ Need portfolio analysis and insights
-✅ Trade on-the-go (mobile + desktop)
+✅ Want quick, clear insight without the overwhelm
+✅ Trade a few times per week and value risk‑aware ideas
+✅ Follow social + news and want signal over noise
+✅ Like using AI to speed up research and decisions
+✅ Want portfolio analysis and “what to do next”
+✅ Trade on‑the‑go (mobile + desktop)
 
 ### Might not be for you if you:
-❌ Never want to use AI
-❌ Only trade through broker platforms
-❌ Prefer traditional research methods only
+❌ You’re a full‑time scalper who only day trades
+❌ You never want to use AI in your process
+❌ You only use broker platforms and avoid research tools
 
 ---
 

@@ -1,6 +1,6 @@
 # AI Snapshot Grades
 
-A-F letter grades for every stock. Know at a glance if it's a buy.
+A-F letter grades for every stock. Cut through noise fast and know at a glance if it’s worth your time.
 
 **⏱️ Time to read:** 6 minutes
 **📱🌐 Platform:** Both iOS & Web
@@ -233,6 +233,20 @@ A-F letter grades for every stock. Know at a glance if it's a buy.
 ### Combining Grades for Strategies
 
 **Different strategies, different grade priorities:**
+
+---
+
+#### Generalist (Money Monty) 💰
+
+**Priority:** Technical + Fundamental > Sentiment > Risk
+
+**Ideal:**
+- Technical: B+ or better (clean setup)
+- Fundamental: B or better (quality bias)
+- Sentiment: B (not hated; social/context aware)
+- Risk: C+ or better (avoid landmines)
+
+**Example target:** Technical A-, Fundamental B, Sentiment B, Risk B- = **Good balanced trade idea**
 
 ---
 

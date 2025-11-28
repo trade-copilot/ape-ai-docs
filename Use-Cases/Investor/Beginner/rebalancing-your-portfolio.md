@@ -436,9 +436,9 @@ Am I on target now?
 - $3,000 in tax losses to offset gains
 - Can use losses to offset selling Stock A in future
 
-**Ask Money for Tax-Loss Harvesting Opportunities:**
+**Ask Money Monty for Tax-Loss Harvesting Opportunities:**
 ```
-Hey Money, I want to rebalance my portfolio while minimizing taxes.
+Hey Money Monty, I want to rebalance my portfolio while minimizing taxes.
 
 Current holdings:
 - VTI: $15,000 (cost basis: $12,000) - UP $3,000
@@ -660,9 +660,9 @@ Should I rebalance to match my age-appropriate target?
 - Tax-loss harvest when possible
 - Calculate tax cost before rebalancing
 
-**Ask Money:**
+**Ask Money Monty:**
 ```
-Hey Money, what will it cost me in taxes to rebalance my portfolio?
+Hey Money Monty, what will it cost me in taxes to rebalance my portfolio?
 
 Taxable account holdings:
 - VTI: Current value $15,000, Cost basis $10,000

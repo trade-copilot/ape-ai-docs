@@ -614,7 +614,7 @@ Automate your wealth building with systematic monthly investments. Set it once, 
 2. Check asset allocation (still at target?)
 3. Assess if contribution amount still appropriate
 4. Consider increasing contribution if income grew
-5. Ask Money to analyze portfolio
+5. Ask Money Monty to analyze portfolio
 
 **Example quarterly review:**
 

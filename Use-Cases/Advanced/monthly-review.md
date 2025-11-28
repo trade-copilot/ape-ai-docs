@@ -6,7 +6,7 @@ Conduct systematic monthly portfolio reviews to optimize performance and manage 
 **💰 Risk Level:** N/A (review only)
 **📱 Platform:** iOS & Web
 **👤 Best for:** All investors with portfolios
-**🦍 Recommended Persona:** Sage (analysis) + Money (balanced view)
+**🦍 Recommended Persona:** Sage (analysis) + Money Monty (balanced view)
 
 ---
 
@@ -1101,7 +1101,7 @@ Or:
 - [Asset Allocation →](../../Features/Portfolio/asset-allocation)
 - [Risk Management →](../../Features/trading/risk-management)
 
-### Ask Sage or Money
+### Ask Sage or Money Monty
 
 ```
 How do I know when rebalancing is urgent vs optional?

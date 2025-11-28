@@ -2,11 +2,13 @@
 
 Use AI to find intraday setups and execute trades in seconds. Perfect for Blitz traders who need speed.
 
+Note: Day trading is an advanced, high‑volatility workflow. Most traders should start with Money Monty (generalist) or Maverick (swing) and practice in paper first.
+
 **⏱️ Time:** 15-30 minutes per trade
 **💰 Capital needed:** $500+ (for options), $2,000+ (for shares)
 **📱🌐 Platform:** Both iOS & Web
-**👤 Best for:** Blitz persona (Day Traders)
-**🎯 Skill level:** Intermediate
+**👤 Best for:** Blitz persona (experienced day traders)
+**🎯 Skill level:** Advanced
 
 ---
 
@@ -41,7 +43,7 @@ By the end of this workflow, you'll know how to:
 - Or: Use Ape Paper Trading Account (no minimums)
 
 **4. Persona Setup**
-- Set persona to **Blitz** (day trader focused)
+- Set persona to **Blitz** (day trader focused; advanced)
 - [How to change →](../../Features/Personas/choosing)
 
 ---
@@ -69,16 +71,16 @@ By the end of this workflow, you'll know how to:
 
 ### Step 2: Find Specific Trade Setup (9:25 AM - 9:30 AM)
 
-**Use Quick Prompt: "Day Trade Options Setup"**
+**Use Quick Prompt: "Major Support and Resistance" or "Pre‑Market Movers"**
 
 **📱 iOS:**
 1. Tap **Prompts** button (bottom toolbar)
-2. Select **"Day Trade Options Setup"**
+2. Select **"Major Support and Resistance"** (or "Pre‑Market Movers")
 3. When asked, type: **AMD**
 
 **🌐 Web:**
 1. Press **Ctrl+P** (or click Prompts icon)
-2. Select **"Day Trade Options Setup"**
+2. Select **"Major Support and Resistance"** (or "Pre‑Market Movers")
 3. Type: **AMD**
 
 **AI Response Example:**

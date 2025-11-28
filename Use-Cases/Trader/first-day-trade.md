@@ -2,9 +2,11 @@
 
 Execute your first intraday trade with AI guidance. Start small, learn fast.
 
+Note: Day trading is advanced and not the default for most modern retail traders. If you’re earlier in your journey (0.5–3 years, time‑constrained, social‑influenced), start with Money Monty (generalist) or Maverick (swing) workflows first, and use paper trading.
+
 **⏱️ Complete in:** 20-30 minutes
 **📱🌐 Platform:** Both
-**👤 Best for:** New day traders (use paper trading first!)
+**👤 Best for:** Experienced day traders (use paper trading first!)
 
 ---
 
@@ -24,7 +26,7 @@ Execute your first intraday trade with AI guidance. Start small, learn fast.
 
 **Before you start:**
 - ✅ Have Ape Paper Trading Account (or real brokerage connected)
-- ✅ Selected Blitz persona (day trader focus)
+- ✅ Selected Blitz persona (day trader focus; advanced)
 - ✅ Market is open (9:30 AM - 4:00 PM ET)
 - ✅ Have 30 minutes to actively monitor
 
@@ -35,7 +37,7 @@ Execute your first intraday trade with AI guidance. Start small, learn fast.
 ### Step 1: Find a Day Trade Setup (5 min)
 
 **Go to Chat, use Quick Prompt:**
-Tap **"Day Trade Options Setup"** or ask:
+Tap **"Major Support and Resistance"** for your ticker, or ask:
 > "Find me a day trade stock setup right now"
 
 **AI might respond:**

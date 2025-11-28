@@ -52,19 +52,19 @@ Once logged in, you'll see the main dashboard:
 Let's try the AI Chat:
 
 1. Click **Chat** in the left sidebar (or press `/` then type)
-2. You'll see the chat interface with your chosen persona
-3. Click the **Prompt icon** (or press `Ctrl+P`) to see Quick Prompts
-4. Select **"Day Trade Options Setup"**
+2. You'll see the chat interface with your persona indicator
+3. Click the **Prompts** icon (or press `Ctrl+P`) to see Quick Prompts
+4. Select **"Find Strong Catalyst Stocks"** (or "Swing Trade Ideas")
 5. Wait for the AI to respond
-6. Read the analysis!
+6. Review entries, risks, and timeframe
 
 ![Web Chat](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/chat-interface.png)
 
 **Or type your own question:**
 - Click in the text box at bottom
-- Type: *"What are the best tech stocks under $100?"*
+- Type: *"What stocks have improving fundamentals this month?"*
 - Press Enter or click Send
-- Get personalized AI analysis!
+- Get personalized, persona‑aware analysis!
 
 **Keyboard Shortcuts:**
 - `Ctrl+P` - Open prompts

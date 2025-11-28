@@ -303,10 +303,10 @@ Can you suggest 10-15 stocks that fit these criteria with a brief explanation of
 
 From Sage's list, pick 3-5 stocks that interest you most. Now dig deeper.
 
-**Questions to Ask Money:**
+**Questions to Ask Money Monty:**
 
 ```
-Hey Money, I'm considering [TICKER] as a value investment. Can you analyze:
+Hey Money Monty, I'm considering [TICKER] as a value investment. Can you analyze:
 
 1. VALUATION:
    - Current P/E, P/B, P/S ratios
@@ -660,7 +660,7 @@ I want to understand what could unlock the value.
 
 **Check with Money:**
 ```
-Hey Money, [TICKER] looks statistically cheap (P/E of [X]), but I want to check for value trap signs.
+Hey Money Monty, [TICKER] looks statistically cheap (P/E of [X]), but I want to check for value trap signs.
 
 Can you analyze:
 1. Revenue trend last 5 years (growing, stable, or declining?)
@@ -687,7 +687,7 @@ Is this a value opportunity or a value trap?
 
 **Check with Money:**
 ```
-Hey Money, [TICKER] has a high dividend yield of [%]. Can you verify if it's sustainable?
+Hey Money Monty, [TICKER] has a high dividend yield of [%]. Can you verify if it's sustainable?
 
 1. What's the payout ratio?
 2. Does free cash flow cover the dividend?
@@ -741,7 +741,7 @@ Can you check:
 
 **Check with Money:**
 ```
-Hey Money, what's [TICKER]'s debt situation?
+Hey Money Monty, what's [TICKER]'s debt situation?
 
 1. Debt-to-equity ratio
 2. Interest coverage ratio (EBIT / Interest Expense)

@@ -70,10 +70,11 @@ AI Chat is your personal trading assistant powered by artificial intelligence. T
 - "Should I buy or sell [ticker]?"
 
 ### Trade Ideas
-- "Find me day trade setups"
 - "What are good swing trades this week?"
+- "Find strong catalyst stocks under $50"
 - "Show me undervalued stocks"
 - "What's hot in tech right now?"
+- "Find me day trade setups" (advanced)
 
 ### Strategy Questions
 - "What's a good entry point for [ticker]?"
@@ -146,16 +147,19 @@ Your AI adapts to your [chosen persona](../Personas/what-are-personas):
 
 **Example:** "Should I buy TSLA?"
 
-**Blitz (Day Trader):**
-> "TSLA at $465, momentum strong. Break above $470 targets $478. Consider calls exp Friday. Stop at $458."
+**Money Monty (Generalist):**
+> "TSLA looks solid from multiple angles. Technical strength with volume; fundamentals improving. Entry $465–470, target $490 in ~10 days. Risk: stretched valuation; size 2–3%."
 
 **Maverick (Momentum Trader):**
-> "TSLA breaking out with volume. Entry $465-470 range, target $490 in 7-10 days. Good swing setup."
+> "TSLA breaking out with volume. Entry $465–470, target $490 in 7–10 days. Good swing setup."
 
-**Sage (Long-Term):**
-> "TSLA Fundamental B-. Great company but valuation stretched (P/E 75). For long-term: Wait for pullback to $400-420."
+**Sage (Long‑Term):**
+> "TSLA Fundamental B-. Quality company, stretched valuation (P/E ~75). For long‑term: Wait for pullback to $400–420 or DCA."
 
-**Same question, different answers based on YOUR trading style!**
+**Blitz (Day Trader, advanced):**
+> "TSLA near $470. Break with volume → $478 intraday. Consider short‑dated calls; stop at $458."
+
+**Same question, persona‑specific answers—matching your style and timeframe.**
 
 ---
 

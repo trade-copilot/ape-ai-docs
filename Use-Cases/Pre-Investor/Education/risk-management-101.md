@@ -6,7 +6,7 @@ Learn how to manage risk so you can grow wealth without catastrophic losses. The
 **💰 Cost:** Free (knowledge that prevents disasters)
 **📱 Platform:** Any device
 **👤 Best for:** Beginners who want to invest safely and sleep well at night
-**🦍 Recommended Persona:** Sage (wisdom on protecting capital) or Money (balanced risk approach)
+**🦍 Recommended Persona:** Sage (wisdom on protecting capital) or Money Monty (balanced risk approach)
 
 ---
 
@@ -795,7 +795,7 @@ Example:
 
 ---
 
-### Ask Money for Your Risk Plan
+### Ask Money Monty for Your Risk Plan
 
 **Open Ape AI and ask Money:**
 
@@ -805,7 +805,7 @@ Help me create a risk management plan. What should my asset
 allocation be? How should I size positions?
 ```
 
-Money will:
+Money Monty will:
 - Recommend appropriate asset allocation
 - Suggest position sizing rules
 - Create diversification strategy

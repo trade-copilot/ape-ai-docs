@@ -31,7 +31,7 @@ You can change your persona anytime in Settings.
 
 ### Step 2: Choose Your Persona Screen
 
-You'll see 3 cards, each showing a persona:
+You'll see persona cards (3–4 depending on your app version):
 
 ![Three Persona Cards](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/three-persona-cards.png)
 
@@ -43,11 +43,16 @@ You'll see 3 cards, each showing a persona:
 
 ### Step 3: Read Each Option
 
-**Swipe or scroll** to read all three:
+**Swipe or scroll** to read each:
+
+#### 💰 Money Monty (Generalist Trader)
+- **Style:** Balanced fundamentals + technicals
+- **Best for:** 2–5 trades/week, broad strategies
+- **Focus:** Risk‑aware, catalyst‑driven ideas
 
 #### 🚀 Blitz (Day Trader)
-- **Style:** Fast-paced, intraday moves
-- **Best for:** Day traders, scalpers
+- **Style:** Fast‑paced, intraday moves (advanced)
+- **Best for:** Experienced day traders, scalpers
 - **Focus:** Technical setups, options plays
 
 #### 📈 Maverick (Momentum Trader)
@@ -107,28 +112,33 @@ Not happy with your choice? Switch anytime!
 
 **Question 1: How often will you trade?**
 - Every day, multiple times → **Blitz**
-- Few times per week → **Maverick**
+- 2–5 times per week → **Money Monty**
+- 5–15 times per week → **Maverick**
 - Monthly or less → **Sage**
 
 **Question 2: How long will you hold positions?**
 - Close everything daily → **Blitz**
-- Hold for days/weeks → **Maverick**
-- Hold for months/years → **Sage**
+- Days to weeks (balanced) → **Money Monty**
+- Days to weeks (momentum) → **Maverick**
+- Months to years → **Sage**
 
 **Question 3: What's your experience level?**
 - Experienced day trader → **Blitz**
 - Some trading experience → **Maverick**
+- Building skills / balanced → **Money Monty**
 - Beginner or first-time investor → **Sage**
 
 **Question 4: What matters most to you?**
 - Quick profits, technicals → **Blitz**
+- Balanced risk/reward, clarity → **Money Monty**
 - Catching trends, momentum → **Maverick**
 - Company quality, fundamentals → **Sage**
 
 **Question 5: How much time do you have?**
 - Watch markets all day → **Blitz**
-- Check few times daily → **Maverick**
-- Weekly check-ins → **Sage**
+- Check a few times daily → **Money Monty**
+- Check frequently (active) → **Maverick**
+- Weekly check‑ins → **Sage**
 
 ---
 
@@ -282,7 +292,7 @@ A: No! Your positions stay the same. Only the AI's advice style changes.
 A: One at a time, but you can switch based on what you're working on.
 
 **Q: Which persona do most users choose?**
-A: Beginners: Sage. Part-timers: Maverick. Full-time traders: Blitz.
+A: Beginners: Sage. Part‑time/balanced traders: Money. Active momentum traders: Maverick. Blitz is best for experienced day traders.
 
 **Q: Does it cost extra to switch?**
 A: No! All personas are included in your subscription.

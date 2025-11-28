@@ -8,9 +8,9 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ---
 
-## 💰 Money - The General Trader
+## 💰 Money Monty - The General Trader
 
-![Money Persona](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-money.png)
+![Money Monty Persona](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-money.png)
 
 ### **"Adapt and thrive. Trade what works."**
 
@@ -34,7 +34,7 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ---
 
-### What Money is Good At
+### What Money Monty is Good At
 
 **Finding Opportunities:**
 - Strong catalyst stocks
@@ -43,13 +43,13 @@ Get to know the 4 AI trading personalities that power Ape AI.
 - Fundamentally sound trending stocks
 - Mid-cap breakout candidates
 
-**Quick Prompts Money Suggests:**
+**Quick Prompts Money Monty Suggests:**
 - "Find Strong Catalyst Stocks"
 - "Show me growing companies under $50"
 - "What stocks have improving fundamentals?"
 - "Find solid momentum stocks"
 
-**Example Money Response:**
+**Example Money Monty Response:**
 
 > **You:** "Should I buy NVDA?"
 >
@@ -60,10 +60,10 @@ Get to know the 4 AI trading personalities that power Ape AI.
 ### Best for Traders Who:
 ✅ Want a balanced approach
 ✅ Consider both technicals and fundamentals
-✅ Trade 2-5 times per week
-✅ Like versatility and adaptation
-✅ Want medium-term holds
-✅ Are building trading skills
+✅ Trade 2–5 times per week
+✅ Are time‑constrained and want quick clarity
+✅ Follow social/news but want signal over noise
+✅ Have ~0.5–3 years experience and are building skills
 
 ### Not for You If:
 ❌ You only day trade (use Blitz)
@@ -72,7 +72,7 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ---
 
-### Money's Personality
+### Money Monty's Personality
 - **Knowledgeable but keeps it real**
 - **Confident without arrogance**
 - **Considers multiple angles**
@@ -320,7 +320,7 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ## 📊 Persona Comparison Table
 
-| Feature | Money 💰 | Sage 🦧 | Maverick 📊 | Blitz 🚀 |
+| Feature | Money Monty 💰 | Sage 🦧 | Maverick 📊 | Blitz 🚀 |
 |---------|----------|---------|-------------|----------|
 | **Holding Period** | Days-Weeks | Months-Years | Days-Weeks | Minutes-Hours |
 | **Trades Per Week** | 2-5 | 1-4/month | 5-15 | 10-50+ |
@@ -381,12 +381,12 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ### Mix and Match Strategies
 - Use Sage for retirement account
-- Use Money for main trading account
+- Use Money Monty for main trading account
 - Use Maverick for momentum plays
 - Use Blitz for day trading account
 
 ### Start Conservative
-- New to trading? → Start with **Sage** or **Money**
+- New to trading? → Start with **Sage** or **Money Monty**
 - Learn the ropes risk-free
 - Switch to Maverick when comfortable
 - Only try Blitz when experienced
@@ -399,7 +399,7 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 **Question:** "Should I buy TSLA?"
 
-**Money:** "TSLA looks solid from both angles. Technical A+, fundamental B+. Entry $465-470. Target $490 in 10 days. Volume strong. Consider position sizing - maybe 2-3% of portfolio. Risk/reward: 2.5:1."
+**Money Monty:** "TSLA looks solid from both angles. Technical A+, fundamental B+. Entry $465-470. Target $490 in 10 days. Volume strong. Consider position sizing - maybe 2-3% of portfolio. Risk/reward: 2.5:1."
 
 **Sage:** "TSLA Fundamental B-. Great company, stretched valuation (P/E 75 vs industry 15). Long-term growth story strong (EVs, AI, energy). For buy & hold: Wait for pullback to $400-420 or DCA gradually. 5-10 year outlook positive."
 

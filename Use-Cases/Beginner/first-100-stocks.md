@@ -6,7 +6,7 @@ Learn how to make your first stock investment using Ape AI's guided approach.
 **💰 Investment:** $100
 **📱 Platform:** iOS & Web
 **👤 Best for:** Complete beginners ready to invest
-**🦍 Recommended Persona:** Money (balanced approach)
+**🦍 Recommended Persona:** Money Monty (balanced approach)
 
 ---
 
@@ -42,7 +42,7 @@ Learn how to make your first stock investment using Ape AI's guided approach.
 
 ## Step 1: Set Your Investment Goals
 
-### Open Chat with Money Persona
+### Open Chat with Money Monty
 
 1. Go to **Chat** tab
 2. Make sure you have **Money** persona selected (good for balanced beginners)
@@ -58,7 +58,7 @@ I'm a complete beginner. What should I invest in?
 
 ### What Money Will Ask You
 
-Money will help you think through:
+Money Monty will help you think through:
 - **Time horizon:** How long until you need this money?
   - 1-3 years = Short-term
   - 3-5 years = Medium-term
@@ -80,7 +80,7 @@ Money will help you think through:
 
 ## Step 2: Get Stock Recommendations
 
-### Money's Typical Recommendations for $100
+### Money Monty's Typical Recommendations for $100
 
 **For Conservative Beginners:**
 Money might suggest:
@@ -171,7 +171,7 @@ Before buying, answer these questions:
 - If no → Do more research or ask Money to explain
 
 ✅ **Am I comfortable with the risks?**
-- If no → Ask Money for more conservative options
+- If no → Ask Money Monty for more conservative options
 
 ✅ **Can I hold this for 5+ years?**
 - If no → Stocks might not be right for your timeframe
@@ -186,7 +186,7 @@ Before buying, answer these questions:
 
 If you're not comfortable with the recommendations:
 
-**Ask Money to adjust:**
+**Ask Money Monty to adjust:**
 ```
 This feels too risky for me. Can you suggest
 more conservative options for my first $100?
@@ -205,7 +205,7 @@ stocks with higher upside for my first $100?
 
 ### Execute the Trade
 
-Once you've decided, Money will show **Trade Setup Cards**:
+Once you've decided, Money Monty will show **Trade Setup Cards**:
 
 **For Stock Orders:**
 - **Ticker:** e.g., AAPL
@@ -331,7 +331,7 @@ Recommended check-in frequency:
 
 ### Keep Learning
 
-**Ask Money:**
+**Ask Money Monty:**
 ```
 What should I add to my portfolio after my first $100 investment?
 ```
@@ -389,12 +389,12 @@ What's the difference between stocks and ETFs?
 - Your time horizon is years, not days
 - Consider not checking daily price
 
-**Ask Money:**
+**Ask Money Monty:**
 ```
 My stock dropped 5% on my first day. Should I be worried?
 ```
 
-Money will help put it in perspective!
+Money Monty will help put it in perspective!
 
 ---
 

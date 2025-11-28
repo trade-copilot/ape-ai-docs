@@ -177,9 +177,9 @@ Whether you're paying a fair price for the growth you're getting.
 **Stock C:**
 - P/E: 25, Growth: 50%, PEG: 0.5 → Exceptional value!
 
-**Ask Money:**
+**Ask Money Monty:**
 ```
-Hey Money, what's the PEG ratio for [TICKER]?
+Hey Money Monty, what's the PEG ratio for [TICKER]?
 
 Calculate:
 1. Current P/E ratio
@@ -259,9 +259,9 @@ A simple test for sustainable growth in software/SaaS companies.
 
 **Best used for:** SaaS, cloud software, subscription businesses
 
-**Ask Money:**
+**Ask Money Monty:**
 ```
-Hey Money, can you calculate the "Rule of 40" for [TICKER]?
+Hey Money Monty, can you calculate the "Rule of 40" for [TICKER]?
 
 1. What's the revenue growth rate (last 12 months)?
 2. What's the profit margin (or EBITDA margin)?
@@ -398,10 +398,10 @@ Explain why each is well-positioned for this theme.
 
 From the screening, pick 5-7 stocks for deeper analysis.
 
-**Questions to Ask Money:**
+**Questions to Ask Money Monty:**
 
 ```
-Hey Money, I'm considering [TICKER] as a growth investment. Please analyze:
+Hey Money Monty, I'm considering [TICKER] as a growth investment. Please analyze:
 
 1. GROWTH METRICS:
    - Revenue growth: Last 3 years and projected next 3 years
@@ -499,9 +499,9 @@ I want to make sure I'm not falling for hype.
 - ✅ Reasonable path to 3-5× revenue in 5-10 years
 - ✅ Market cap is < 20% of TAM
 
-**Ask Money:**
+**Ask Money Monty:**
 ```
-Hey Money, I'm concerned about overpaying for [TICKER]. Can you check:
+Hey Money Monty, I'm concerned about overpaying for [TICKER]. Can you check:
 
 1. What's the current P/E (or P/S if unprofitable)?
 2. What's the PEG ratio?
@@ -826,7 +826,7 @@ Be brutally honest - should I wait for a pullback or is this justified?
 
 **Check with Money:**
 ```
-Hey Money, [TICKER] is growing fast but not profitable. Can you assess:
+Hey Money Monty, [TICKER] is growing fast but not profitable. Can you assess:
 
 1. How much cash are they burning per quarter?
 2. How much cash do they have on hand?

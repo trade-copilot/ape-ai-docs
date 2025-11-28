@@ -740,11 +740,11 @@ Using expensive international funds (0.50-1.00% expense ratios)
 
 ---
 
-## Using Money to Find International Opportunities
+## Using Money Monty to Find International Opportunities
 
 **Find Top International Stocks:**
 ```
-Hey Money, I want to add individual international stocks to my portfolio.
+Hey Money Monty, I want to add individual international stocks to my portfolio.
 
 Can you suggest 5-7 of the best international stocks across:
 - Europe (developed markets)
@@ -762,7 +762,7 @@ Give me a diversified list with brief explanations.
 
 **Evaluate International ETF Options:**
 ```
-Hey Money, compare these international ETFs for me:
+Hey Money Monty, compare these international ETFs for me:
 
 - VEA (Vanguard Developed Markets)
 - VXUS (Vanguard Total International)
@@ -780,7 +780,7 @@ Which is best for a beginner wanting international exposure?
 
 **Assess Regional Opportunities:**
 ```
-Hey Money, which international region looks most attractive right now?
+Hey Money Monty, which international region looks most attractive right now?
 
 Compare:
 - Europe

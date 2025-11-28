@@ -910,7 +910,7 @@ My Investment Plan
 
 **Get personalized guidance:**
 
-**Ask Money (balanced perspective):**
+**Ask Money Monty (balanced perspective):**
 ```
 I'm funding my account with $1,000. What's a smart
 allocation for a beginner focused on long-term growth?

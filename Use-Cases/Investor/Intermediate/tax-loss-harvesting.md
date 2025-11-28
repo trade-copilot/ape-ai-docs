@@ -157,9 +157,9 @@ By the end of this workflow, you'll be able to:
 **Bonds:**
 - BND (Total Bond) → AGG (Aggregate Bond) = Similar but different, usually OK
 
-**Ask Money to Verify:**
+**Ask Money Monty to Verify:**
 ```
-Hey Money, I want to harvest a tax loss on [TICKER].
+Hey Money Monty, I want to harvest a tax loss on [TICKER].
 
 What's a good replacement that:
 1. Is similar enough to maintain my market exposure
@@ -302,7 +302,7 @@ I need to avoid the wash sale rule!
 
 **Using Ape AI Money:**
 ```
-Hey Money, help me identify tax-loss harvesting opportunities:
+Hey Money Monty, help me identify tax-loss harvesting opportunities:
 
 My current positions with losses:
 - [TICKER]: Bought at $[price], now $[current price], Loss: $[amount]
@@ -357,9 +357,9 @@ Which losses should I prioritize harvesting? And what are good replacement secur
 | JPMorgan (JPM) | Bank of America (BAC) OR Wells Fargo (WFC) | Banks |
 | ExxonMobil (XOM) | Chevron (CVX) OR ConocoPhillips (COP) | Energy |
 
-**Ask Money for Suggestions:**
+**Ask Money Monty for Suggestions:**
 ```
-Hey Money, I need to harvest a tax loss on [TICKER] (down $[amount]).
+Hey Money Monty, I need to harvest a tax loss on [TICKER] (down $[amount]).
 
 What's a good replacement stock/ETF that:
 1. Has similar exposure (sector, market cap, geography)

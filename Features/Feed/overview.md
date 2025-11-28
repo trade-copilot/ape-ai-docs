@@ -62,7 +62,7 @@ What's hot right now.
 - Most searched stocks
 - Top gainers/losers
 - High volume movers
-- Social media buzz
+- Social buzz across Reddit, X/Twitter, Discord, YouTube
 
 [Learn more about Trending →](trending)
 
@@ -169,11 +169,16 @@ The Feed learns what you care about:
 - Themes you create
 - Questions you ask AI
 - Your portfolio holdings
-- Your persona (Blitz, Maverick, Sage)
+- Your persona (Money Monty, Maverick, Sage, Blitz)
 
 ---
 
 ### Persona-Based Content
+
+**Money Monty (Generalist) sees more:**
+- Balanced ideas (catalysts, momentum, valuation)
+- Multi‑day opportunities with clear risk/reward
+- Sector/market context and sentiment shifts
 
 **Blitz (Day Trader) sees more:**
 - Intraday movers
