@@ -69,7 +69,7 @@ Let's try the AI Chat:
 * Click in the text box at bottom
 * Type: _"What stocks have improving fundamentals this month?"_
 * Press Enter or click Send
-* Get personalized, persona‑aware analysis!
+* Get personalized, companion‑aware analysis!
 
 **Keyboard Shortcuts:**
 
@@ -210,10 +210,10 @@ Bookmark frequently used:
 
 Now that you're set up:
 
-**Choose Your Persona:**
+**Choose Your Companion:**
 
-* [What Are Personas?](../Features/Personas/what-are-personas/)
-* [Meet the Personas](../Features/Personas/meet-the-personas/)
+* [What Are Companions?](../Features/Companions/what-are-companions/)
+* [Meet the Companions](../Features/Companions/meet-the-companions/)
 
 Note: Companion selection is currently iOS-only but coming to web soon!
 

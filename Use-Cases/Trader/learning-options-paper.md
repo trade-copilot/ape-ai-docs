@@ -6,7 +6,7 @@ Master options trading risk-free using Ape AI's paper trading account.
 **💰 Risk Level:** Zero (virtual money only)
 **📱 Platform:** iOS & Web
 **👤 Best for:** Anyone new to options trading
-**🦍 Recommended Persona:** Maverick (options/momentum focus)
+**🦍 Recommended Companion:** Maverick (options/momentum focus)
 
 ---
 

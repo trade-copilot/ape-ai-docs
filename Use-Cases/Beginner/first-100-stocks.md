@@ -6,7 +6,7 @@ Learn how to make your first stock investment using Ape AI's guided approach.
 **💰 Investment:** $100
 **📱 Platform:** iOS & Web
 **👤 Best for:** Complete beginners ready to invest
-**🦍 Recommended Persona:** Money Monty (balanced approach)
+**🦍 Recommended Companion:** Money Monty (balanced approach)
 
 ---
 

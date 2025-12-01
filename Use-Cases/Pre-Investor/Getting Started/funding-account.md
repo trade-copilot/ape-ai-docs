@@ -6,7 +6,7 @@ Learn how to transfer money to your brokerage, how much to invest first, and com
 **💰 Cost:** Free (no transfer fees at major brokers)
 **📱 Platform:** Any device
 **👤 Best for:** Complete beginners funding their first account
-**🦍 Recommended Persona:** Sage (wisdom on how much to invest)
+**🦍 Recommended Companion:** Sage (wisdom on how much to invest)
 
 ---
 
@@ -906,7 +906,7 @@ My Investment Plan
 
 ---
 
-### 5. Connect with Ape AI Personas
+### 5. Connect with Ape AI Companions
 
 **Get personalized guidance:**
 

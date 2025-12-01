@@ -6,7 +6,7 @@ Discover why investing matters and set clear financial goals before taking your 
 **💰 Cost:** Free (just reading)
 **📱 Platform:** Any device
 **👤 Best for:** Complete beginners who've never invested
-**🦍 Recommended Persona:** Sage (wisdom and long-term thinking)
+**🦍 Recommended Companion:** Sage (wisdom and long-term thinking)
 
 ---
 

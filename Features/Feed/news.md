@@ -18,7 +18,7 @@ Breaking financial news filtered for what actually matters to YOU.
 - Stocks in your portfolio
 - Stocks you search/view
 - Themes you create
-- Your trading style (persona)
+- Your trading style (companion)
 - Market sectors you follow
 
 **You won't see:**
@@ -179,7 +179,7 @@ Breaking financial news filtered for what actually matters to YOU.
 
 ---
 
-## 🎭 How News Changes by Persona
+## 🎭 How News Changes by Companion
 
 ### Blitz (Day Trader) 🚀
 

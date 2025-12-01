@@ -5,7 +5,7 @@ Use AI to find swing trade setups and execute in seconds. Hold for days or weeks
 **⏱️ Time:** 2-7 days per trade
 **💰 Capital needed:** $1,000+ recommended
 **📱🌐 Platform:** Both iOS & Web
-**👤 Best for:** Money Monty (generalist) and Maverick (momentum) personas
+**👤 Best for:** Money Monty (generalist) and Maverick (momentum) companions
 **🎯 Skill level:** Beginner to Intermediate
 
 ---
@@ -38,7 +38,7 @@ By the end of this workflow, you'll know how to:
 
 **3. Companion Setup**
 - Set companion to **Maverick** (swing trader)
-- [Change companion →](../../Features/Personas/choosing)
+- [Change companion →](../../Features/Companions/choosing)
 
 **4. Time Commitment**
 - Check positions 1-2x per day
@@ -56,7 +56,7 @@ By the end of this workflow, you'll know how to:
 **Open Chat and ask:**
 > "What are the best swing trade setups for this week?"
 
-**AI Response Example (Maverick Persona):**
+**AI Response Example (Maverick Companion):**
 > "Top 3 swing setups for the week:
 >
 > **1. NVDA - AI Momentum Play**
@@ -596,7 +596,7 @@ A: Normal! Some swings take 2 weeks. Be patient if setup intact.
 
 **Related:**
 - [Execute Trades Feature →](../../Features/Chat/execute-trades)
-- [Maverick Companion →](../../Features/Personas/meet-the-personas.md#maverick)
+- [Maverick Companion →](../../Features/Companions/meet-the-companions.md#maverick)
 - [Quick Prompts →](../../Features/Chat/quick-prompts)
 
 ---

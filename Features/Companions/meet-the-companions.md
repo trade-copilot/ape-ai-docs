@@ -1,16 +1,16 @@
-# Meet the Personas
+# Meet the Companions
 
 Get to know the 4 AI trading personalities that power Ape AI.
 
 **⏱️ Time to read:** 7 minutes
 **📱 Platform:** iOS & Web
-**👤 Best for:** Everyone choosing a persona
+**👤 Best for:** Everyone choosing a companion
 
 ---
 
 ## 💰 Money Monty - The General Trader
 
-![Money Monty Persona](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-money.png)
+![Money Monty Companion](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/companion-money.png)
 
 ### **"Adapt and thrive. Trade what works."**
 
@@ -85,7 +85,7 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ## 🦧 Sage - The Value Investor
 
-![Sage Persona](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-sage.png)
+![Sage Companion](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/companion-sage.png)
 
 ### **"Build wealth slowly, quality over speed."**
 
@@ -164,7 +164,7 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ## 📊 Maverick - The Momentum Trader
 
-![Maverick Persona](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-maverick.png)
+![Maverick Companion](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/companion-maverick.png)
 
 ### **"Catch the wave, ride the momentum."**
 
@@ -243,7 +243,7 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ## 🚀 Blitz - The Day Trader
 
-![Blitz Persona](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-blitz.png)
+![Blitz Companion](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/companion-blitz.png)
 
 ### **"Fast money, intraday moves, let's get it."**
 
@@ -375,7 +375,7 @@ Get to know the 4 AI trading personalities that power Ape AI.
 ## 💡 Pro Tips
 
 ### You Can Switch Anytime
-- Not happy? Change personas in Settings
+- Not happy? Change companions in Settings
 - Try different ones for different goals
 - Match companion to your current focus
 
@@ -417,8 +417,8 @@ Get to know the 4 AI trading personalities that power Ape AI.
 - [Choosing Your Companion →](choosing) - Step-by-step selection guide
 
 **Learn More:**
-- [What Are Personas? →](what-are-personas) - Companion basics
-- [AI Chat Basics →](../Chat/basics) - See personas in action
+- [What Are Companions? →](what-are-companions) - Companion basics
+- [AI Chat Basics →](../Chat/basics) - See companions in action
 
 **Try Workflows:**
 - [Premarket Day Trading Routine](../../Use-Cases/Advanced/premarket-routine) - Blitz style

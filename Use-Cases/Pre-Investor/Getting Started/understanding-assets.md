@@ -6,7 +6,7 @@ Learn the fundamental building blocks of investing before you buy anything.
 **💰 Cost:** Free (education)
 **📱 Platform:** Any device
 **👤 Best for:** Complete beginners learning the basics
-**🦍 Recommended Persona:** Sage (education and fundamentals)
+**🦍 Recommended Companion:** Sage (education and fundamentals)
 
 ---
 

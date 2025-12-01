@@ -47,7 +47,7 @@ Your account settings and preferences in one place.
 - Password (change)
 - Phone number (optional)
 
-**Persona:**
+**Companion:**
 - Choose Ape (Blitz, Maverick, Sage)
 - Change anytime
 
@@ -154,7 +154,7 @@ Your account settings and preferences in one place.
 
 ## ❓ FAQ
 
-**Q: Can I have multiple personas?**
+**Q: Can I have multiple companions?**
 A: One at a time. Switch anytime in Settings → Choose Ape.
 
 **Q: What happens if I change my email?**

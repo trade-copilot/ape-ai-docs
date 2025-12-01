@@ -24,7 +24,7 @@ Ask any question about stocks, get instant analysis, and find trade setups—all
 
 **Example:** _"Find strong catalyst stocks under $50"_ → Get AI‑powered ideas with entries, risks, timeframe
 
-### 2. Persona‑Based Experience
+### 2. Companion‑Based Experience
 
 Choose a trading companion that matches your style:
 
@@ -167,7 +167,7 @@ Choose your path:
 
 1. Pick your platform (iOS or Web)
 2. Sign up for free
-3. Choose your persona
+3. Choose your companion
 4. Ask your first question to the AI
 
 Let's find some alpha! 🦍🚀

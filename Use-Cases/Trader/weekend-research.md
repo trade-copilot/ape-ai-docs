@@ -6,7 +6,7 @@ Deep dive research to prepare for the week ahead and find high-probability swing
 **💰 Risk Level:** Zero (research only)
 **📱 Platform:** iOS & Web
 **👤 Best for:** Swing traders and active investors
-**🦍 Recommended Persona:** Sage (research) + Maverick (setups)
+**🦍 Recommended Companion:** Sage (research) + Maverick (setups)
 
 ---
 

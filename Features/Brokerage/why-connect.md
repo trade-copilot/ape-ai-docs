@@ -245,7 +245,7 @@ Unlock the full power of Ape AI by connecting your trading account.
 
 ---
 
-## 🎭 Benefits by Persona
+## 🎭 Benefits by Companion
 
 ### Blitz (Day Trader) 🚀
 

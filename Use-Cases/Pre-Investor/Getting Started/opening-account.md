@@ -6,7 +6,7 @@ A step-by-step guide to opening your first brokerage account with zero confusion
 **💰 Cost:** Free (no account minimums at most brokers)
 **📱 Platform:** Any device (easier on desktop/laptop)
 **👤 Best for:** Complete beginners opening their first account
-**🦍 Recommended Persona:** Sage (patient guidance through the process)
+**🦍 Recommended Companion:** Sage (patient guidance through the process)
 
 ---
 

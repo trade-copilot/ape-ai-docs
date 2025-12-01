@@ -295,7 +295,7 @@ Your AI portfolio analyst. Get personalized advice on your holdings.
 
 ---
 
-## 🎭 Maverick Adapts to Your Persona
+## 🎭 Maverick Adapts to Your Companion
 
 ### For Blitz (Day Trader) 🚀
 

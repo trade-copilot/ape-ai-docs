@@ -6,7 +6,7 @@ Understand the critical differences between investing, trading, and gambling so 
 **💰 Cost:** Free (knowledge that protects your money)
 **📱 Platform:** Any device
 **👤 Best for:** Complete beginners who need to understand what they're actually doing with their money
-**🦍 Recommended Persona:** Sage (wisdom and clear definitions)
+**🦍 Recommended Companion:** Sage (wisdom and clear definitions)
 
 ---
 

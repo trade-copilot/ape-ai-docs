@@ -454,7 +454,7 @@ Monitor your holdings, manage risk, know when to exit.
 
 ---
 
-## 🎭 Position Management by Persona
+## 🎭 Position Management by Companion
 
 ### Blitz (Day Trader) 🚀
 

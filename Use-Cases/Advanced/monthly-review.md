@@ -2,7 +2,7 @@
 
 Conduct systematic monthly portfolio reviews to optimize performance and manage risk.
 
-**⏱️ Time:** 45-60 minutes monthly **💰 Risk Level:** N/A (review only) **📱 Platform:** iOS & Web **👤 Best for:** All investors with portfolios **🦍 Recommended Persona:** Sage (analysis) + Money Monty (balanced view)
+**⏱️ Time:** 45-60 minutes monthly **💰 Risk Level:** N/A (review only) **📱 Platform:** iOS & Web **👤 Best for:** All investors with portfolios **🦍 Recommended Companion:** Sage (analysis) + Money Monty (balanced view)
 
 ***
 

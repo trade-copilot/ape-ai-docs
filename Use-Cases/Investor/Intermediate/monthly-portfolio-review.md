@@ -6,7 +6,7 @@ Establish a disciplined monthly review routine to track performance, rebalance, 
 **💰 Cost:** Free (wealth preservation and growth)
 **📱 Platform:** Ape AI + Your brokerage
 **👤 Best for:** Investors with established portfolios ($1,000+)
-**🦍 Recommended Persona:** Money Monty (balanced portfolio analysis and recommendations)
+**🦍 Recommended Companion:** Money Monty (balanced portfolio analysis and recommendations)
 
 ---
 

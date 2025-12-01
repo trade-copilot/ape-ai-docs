@@ -6,7 +6,7 @@ Find high-conviction investment ideas using Ape AI's thematic stock discovery.
 **💰 Risk Level:** Varies by theme
 **📱 Platform:** iOS & Web
 **👤 Best for:** Investors seeking thematic exposure
-**🦍 Recommended Persona:** Sage (research) + Maverick (momentum)
+**🦍 Recommended Companion:** Sage (research) + Maverick (momentum)
 
 ---
 

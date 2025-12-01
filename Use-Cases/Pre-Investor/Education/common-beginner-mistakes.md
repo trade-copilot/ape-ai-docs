@@ -6,7 +6,7 @@ Avoid the costly mistakes that destroy 90% of new investors. Learn what NOT to d
 **💰 Cost:** Free (knowledge that prevents thousands in losses)
 **📱 Platform:** Any device
 **👤 Best for:** Complete beginners who want to avoid expensive lessons
-**🦍 Recommended Persona:** Sage (wisdom from others' failures) or Money (practical mistake prevention)
+**🦍 Recommended Companion:** Sage (wisdom from others' failures) or Money (practical mistake prevention)
 
 ---
 

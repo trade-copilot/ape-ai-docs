@@ -46,11 +46,11 @@ If you haven't already:
 
 ## Step 2: Choose Sage Companion (Recommended for Learning)
 
-When prompted to select a persona:
+When prompted to select a companion:
 
 **Select: 🏦 Sage (Long-Term Investor)**
 
-<!-- TODO: Screenshot missing: persona-selection.png -->
+<!-- TODO: Screenshot missing: companion-selection.png -->
 
 **Why Sage for learning?**
 - Focuses on fundamentals

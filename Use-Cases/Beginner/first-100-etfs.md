@@ -6,7 +6,7 @@ Learn how to build instant diversification with your first ETF investment.
 **💰 Investment:** $100
 **📱 Platform:** iOS & Web
 **👤 Best for:** Beginners wanting diversification
-**🦍 Recommended Persona:** Sage (long-term focus)
+**🦍 Recommended Companion:** Sage (long-term focus)
 
 ---
 

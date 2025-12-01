@@ -6,7 +6,7 @@
 **Cost:** $0 to learn (plus investment capital when ready)
 **Platform:** Ape AI (askape.com) + Your brokerage
 **Best for:** Investors seeking balanced diversification across market sectors
-**Persona:** Sage (for allocation strategy) + Money (for sector analysis)
+**Companion:** Sage (for allocation strategy) + Money (for sector analysis)
 
 ---
 

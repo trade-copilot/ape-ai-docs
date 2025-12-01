@@ -6,7 +6,7 @@ Learn why the stock market goes up and down, how to manage your emotions, and wh
 **💰 Cost:** Free (knowledge that prevents emotional mistakes worth thousands)
 **📱 Platform:** Any device
 **👤 Best for:** Beginners who get nervous watching their portfolio fluctuate
-**🦍 Recommended Persona:** Sage (calm wisdom during market storms)
+**🦍 Recommended Companion:** Sage (calm wisdom during market storms)
 
 ---
 

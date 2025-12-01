@@ -6,7 +6,7 @@
 **Cost:** $0
 **Platform:** Ape AI (askape.com) + Company investor relations websites + EDGAR (SEC filings)
 **Best for:** Investors who want to analyze companies deeply before investing
-**Persona:** Money (for financial analysis) + Sage (for strategic insights)
+**Companion:** Money (for financial analysis) + Sage (for strategic insights)
 
 ---
 

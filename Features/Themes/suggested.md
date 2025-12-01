@@ -60,7 +60,7 @@ Pre-built stock lists for popular strategies. One tap to add.
 - NVDA (NVIDIA)
 - TSLA (Tesla)
 
-**Best for:** Long-term investors, tech bulls, Sage persona
+**Best for:** Long-term investors, tech bulls, Sage companion
 
 **Why it works:** These companies dominate their industries. Safe(r) bets for long-term growth.
 
@@ -87,7 +87,7 @@ Pre-built stock lists for popular strategies. One tap to add.
 - MMM (3M)
 - CAT (Caterpillar)
 
-**Best for:** Income investors, retirees, Sage persona
+**Best for:** Income investors, retirees, Sage companion
 
 **Why it works:** Consistent dividends + price appreciation. Low volatility.
 
@@ -108,7 +108,7 @@ Pre-built stock lists for popular strategies. One tap to add.
 - NIO (Nio)
 - XPEV (XPeng)
 
-**Best for:** Growth investors, thematic traders, Maverick persona
+**Best for:** Growth investors, thematic traders, Maverick companion
 
 **Why it works:** EV adoption growing. Long-term mega-trend.
 
@@ -129,7 +129,7 @@ Pre-built stock lists for popular strategies. One tap to add.
 - C3.AI (C3.ai - AI software)
 - PLTR (Palantir - data AI)
 
-**Best for:** Growth investors, tech traders, all personas
+**Best for:** Growth investors, tech traders, all companions
 
 **Why it works:** AI is the future. These companies are building it.
 
@@ -149,7 +149,7 @@ Pre-built stock lists for popular strategies. One tap to add.
 - ICLN (ETF - Clean Energy)
 - FSLR (First Solar)
 
-**Best for:** ESG investors, thematic traders, Sage persona
+**Best for:** ESG investors, thematic traders, Sage companion
 
 **Why it works:** Green energy transition is inevitable.
 
@@ -196,7 +196,7 @@ Pre-built stock lists for popular strategies. One tap to add.
 - XOM (ExxonMobil)
 - VZ (Verizon)
 
-**Best for:** Value investors, Sage persona, contrarians
+**Best for:** Value investors, Sage companion, contrarians
 
 **Why it works:** Buy quality at a discount. Wait for market to realize value.
 
@@ -231,7 +231,7 @@ Pre-built stock lists for popular strategies. One tap to add.
 **Examples:**
 - AAPL, MSFT, JNJ, JPM, V, UNH, HD, DIS, BA, etc.
 
-**Best for:** Beginners, conservative investors, Sage persona
+**Best for:** Beginners, conservative investors, Sage companion
 
 **Why it works:** Blue-chip stocks. Lowest risk in stock market.
 
@@ -245,7 +245,7 @@ Pre-built stock lists for popular strategies. One tap to add.
 
 **Why it matters:** These companies drive the market. When they move, SPY moves.
 
-**Best for:** Index investors, market followers, all personas
+**Best for:** Index investors, market followers, all companions
 
 ---
 
@@ -258,7 +258,7 @@ Pre-built stock lists for popular strategies. One tap to add.
 - Revenue growth > 30%
 - Positive momentum
 
-**Best for:** Aggressive traders, growth hunters, Maverick persona
+**Best for:** Aggressive traders, growth hunters, Maverick companion
 
 **Why it works:** Small caps can 10x faster than large caps
 
@@ -298,7 +298,7 @@ Pre-built stock lists for popular strategies. One tap to add.
 - KO (Coca-Cola)
 - CVX (Chevron)
 
-**Best for:** Value investors, Buffett followers, Sage persona
+**Best for:** Value investors, Buffett followers, Sage companion
 
 **Why it works:** Follow the best investor of all time
 
@@ -329,13 +329,13 @@ Pre-built stock lists for popular strategies. One tap to add.
 
 **Why it matters:** Insiders know the company best. If they're buying, they're bullish.
 
-**Best for:** Value investors, contrarian traders, all personas
+**Best for:** Value investors, contrarian traders, all companions
 
 **Updated:** Weekly (based on SEC filings)
 
 ---
 
-## 🎭 Suggested Themes by Persona
+## 🎭 Suggested Themes by Companion
 
 ### Money Monty (Generalist) Sees: 💰
 
@@ -527,7 +527,7 @@ A: Yes! Contact support with your idea.
 A: Yes! All users can access suggested themes.
 
 **Q: Which suggested theme is best?**
-A: Depends on your strategy and persona. Try a few!
+A: Depends on your strategy and companion. Try a few!
 
 **Q: Can I delete suggested themes after adding?**
 A: Yes! Remove from "My Themes" anytime.

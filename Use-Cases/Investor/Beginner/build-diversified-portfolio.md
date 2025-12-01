@@ -6,7 +6,7 @@ Create your first complete investment portfolio with proper diversification acro
 **💰 Cost:** $500-5,000+ (your initial investment)
 **📱 Platform:** Any brokerage + Ape AI
 **👤 Best for:** Beginners ready to build their first real portfolio
-**🦍 Recommended Persona:** Money Monty (balanced portfolio construction guidance)
+**🦍 Recommended Companion:** Money Monty (balanced portfolio construction guidance)
 
 ---
 

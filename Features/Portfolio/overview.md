@@ -277,7 +277,7 @@ The **Portfolio** is your command center for tracking investments.
 
 ---
 
-## 🎭 Portfolio by Persona
+## 🎭 Portfolio by Companion
 
 ### Blitz (Day Trader) View 🚀
 

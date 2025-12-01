@@ -191,7 +191,7 @@ Now that you're set up:
 
 **Complete Your Profile:**
 
-* [Choose Your Persona](../Features/Personas/choosing/) (if you haven't)
+* [Choose Your Companion](../Features/Companions/choosing/) (if you haven't)
 * [Connect a Brokerage](../Features/Brokerage/connecting/)
 
 **Learn the Features:**

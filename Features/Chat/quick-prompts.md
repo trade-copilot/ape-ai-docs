@@ -78,7 +78,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 - Directional context (bullish/bearish) and timeframe
 - Entry zones and risk considerations
 
-**Best for:** Money Monty (generalist) and Maverick personas
+**Best for:** Money Monty (generalist) and Maverick companions
 
 **Example result:**
 > "5 catalyst candidates: NVDA (AI demand), AMD (new GPUs), UBER (profitability focus), SHOP (e‑comm seasonality), ABNB (travel bookings). Entry near support; confirm volume."
@@ -101,7 +101,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 - Stock reaction
 - What it means for the stock
 
-**Best for:** All personas
+**Best for:** All companions
 
 **Example result:**
 > "NVDA Q3 earnings: Revenue $18.1B (expected $16.2B) - BEAT. EPS $4.02 vs $3.37 expected - BEAT. Data center revenue up 112% YoY. Guidance strong. Stock gapping up 8% pre-market."
@@ -119,7 +119,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 - Current price position
 - Key zones to watch
 
-**Best for:** Money Monty, Maverick, and Blitz personas
+**Best for:** Money Monty, Maverick, and Blitz companions
 
 **Example result:**
 > "TSLA at $465. Support: $460 (strong), $450 (critical). Resistance: $470 (immediate), $485 (major). Currently testing $470. Break above = target $485. Break below $460 = bail."
@@ -209,9 +209,9 @@ Pre-built questions for common trading scenarios. Faster than typing!
 
 ---
 
-## 🎭 Persona-Specific Prompts
+## 🎭 Companion-Specific Prompts
 
-Quick Prompts **change based on your persona**!
+Quick Prompts **change based on your companion**!
 
 ### Money Monty (Generalist) Sees:
 - Find Strong Catalyst Stocks
@@ -351,7 +351,7 @@ Use multiple prompts for the same stock:
 Just ask: "Explain what [term] means"
 
 ### 4. Explore All Categories
-Try prompts outside your persona:
+Try prompts outside your companion:
 - Blitz user? Try "Dividend Stock Finder"
 - Sage user? Try "Day Trade Options Setup"
 

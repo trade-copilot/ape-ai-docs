@@ -6,7 +6,7 @@ Learn how to manage risk so you can grow wealth without catastrophic losses. The
 **💰 Cost:** Free (knowledge that prevents disasters)
 **📱 Platform:** Any device
 **👤 Best for:** Beginners who want to invest safely and sleep well at night
-**🦍 Recommended Persona:** Sage (wisdom on protecting capital) or Money Monty (balanced risk approach)
+**🦍 Recommended Companion:** Sage (wisdom on protecting capital) or Money Monty (balanced risk approach)
 
 ---
 

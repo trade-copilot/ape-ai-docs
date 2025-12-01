@@ -8,7 +8,7 @@ Create your personal investment philosophy that will guide every decision for th
 
 **👤 Best for:** Beginners ready to commit to long-term investing success&#x20;
 
-**🦍 Recommended Persona:** Sage (wisdom for long-term thinking)
+**🦍 Recommended Companion:** Sage (wisdom for long-term thinking)
 
 ***
 

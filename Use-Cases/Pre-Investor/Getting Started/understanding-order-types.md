@@ -6,7 +6,7 @@ Master the different ways to buy and sell stocks so you never overpay or miss an
 **💰 Cost:** Free (knowledge that saves you money)
 **📱 Platform:** Any device
 **👤 Best for:** Complete beginners about to make their first trade
-**🦍 Recommended Persona:** Sage (patient explanation of concepts)
+**🦍 Recommended Companion:** Sage (patient explanation of concepts)
 
 ---
 

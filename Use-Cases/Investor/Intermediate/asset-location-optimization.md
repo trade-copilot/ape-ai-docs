@@ -6,7 +6,7 @@
 **Cost:** $0 (can save thousands in taxes annually)
 **Platform:** Ape AI (askape.com) + Your brokerage accounts
 **Best for:** Investors with multiple account types (taxable, IRA, 401k, Roth)
-**Persona:** Sage (for tax strategy) + Money (for account analysis)
+**Companion:** Sage (for tax strategy) + Money (for account analysis)
 
 ---
 

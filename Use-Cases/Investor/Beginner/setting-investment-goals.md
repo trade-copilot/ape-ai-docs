@@ -6,7 +6,7 @@
 **Cost:** $0
 **Platform:** Ape AI (askape.com) + Pen and paper / spreadsheet
 **Best for:** New investors who need a clear roadmap and purpose for investing
-**Persona:** Sage (for strategic planning and goal-setting)
+**Companion:** Sage (for strategic planning and goal-setting)
 
 ---
 

@@ -6,7 +6,7 @@
 **Cost:** $0
 **Platform:** Ape AI (askape.com) + Spreadsheet/tracking tool + All your brokerage accounts
 **Best for:** Investors with multiple accounts across different institutions
-**Persona:** Sage (for portfolio strategy) + Money (for account coordination)
+**Companion:** Sage (for portfolio strategy) + Money (for account coordination)
 
 ---
 

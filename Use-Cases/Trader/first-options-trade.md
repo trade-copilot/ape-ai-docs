@@ -6,7 +6,7 @@ Step-by-step guide to placing your first options trade using Ape AI.
 **💰 Risk Level:** High (options are leveraged)
 **📱 Platform:** iOS & Web
 **👤 Best for:** Traders ready for options (not beginners)
-**🦍 Recommended Persona:** Maverick (momentum/options focus) or Money Monty (balanced). Blitz is advanced only.
+**🦍 Recommended Companion:** Maverick (momentum/options focus) or Money Monty (balanced). Blitz is advanced only.
 
 ---
 

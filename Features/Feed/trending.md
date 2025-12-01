@@ -4,7 +4,7 @@ See what's hot right now. Catch momentum before everyone else.
 
 **⏱️ Time to read:** 4 minutes
 **📱🌐 Platform:** Both iOS & Web
-**👤 Best for:** Active traders (Blitz & Maverick personas)
+**👤 Best for:** Active traders (Blitz & Maverick companions)
 
 ---
 
@@ -384,7 +384,7 @@ See what's hot right now. Catch momentum before everyone else.
 
 ---
 
-## 🎭 Trending by Persona
+## 🎭 Trending by Companion
 
 ### Blitz Sees (Day Trader):
 - Intraday top gainers/losers

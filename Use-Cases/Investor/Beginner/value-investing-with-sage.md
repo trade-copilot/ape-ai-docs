@@ -6,7 +6,7 @@
 **Cost:** $0 to learn (plus investment capital when ready)
 **Platform:** Ape AI (askape.com) + Your brokerage
 **Best for:** Investors seeking undervalued companies with long-term potential
-**Persona:** Sage (for value analysis and strategy) + Money (for financial metrics)
+**Companion:** Sage (for value analysis and strategy) + Money (for financial metrics)
 
 ---
 

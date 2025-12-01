@@ -1,4 +1,4 @@
-# Choosing Your Persona
+# Choosing Your Companion
 
 Step-by-step guide to selecting your AI trading personality.
 
@@ -11,11 +11,11 @@ Step-by-step guide to selecting your AI trading personality.
 ## 🎯 When You Choose
 
 ### During Signup (First Time)
-After creating your account, you'll immediately be prompted to choose your persona.
+After creating your account, you'll immediately be prompted to choose your companion.
 
-![Companion Selection Screen](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-selection-screen.png)
+![Companion Selection Screen](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/companion-selection-screen.png)
 
-### After Signup (Changing Persona)
+### After Signup (Changing Companion)
 You can change your companion anytime in Settings.
 
 ---
@@ -33,7 +33,7 @@ You can change your companion anytime in Settings.
 
 You'll see companion cards (3–4 depending on your app version):
 
-![Three Companion Cards](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/three-persona-cards.png)
+![Three Companion Cards](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/three-companion-cards.png)
 
 **Each card shows:**
 - Companion name and emoji
@@ -69,7 +69,7 @@ You'll see companion cards (3–4 depending on your app version):
 
 **Tap the card** that matches your trading style.
 
-![Selected Persona](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-selected.png)
+![Selected Companion](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/companion-selected.png)
 
 ### Step 5: Confirm
 
@@ -79,7 +79,7 @@ A confirmation screen may appear. Tap **Continue** or **Confirm**.
 
 ---
 
-## 🔄 How to Change Your Persona
+## 🔄 How to Change Your Companion
 
 Not happy with your choice? Switch anytime!
 
@@ -87,12 +87,12 @@ Not happy with your choice? Switch anytime!
 
 **📱 iOS:**
 1. Tap **Profile icon** (top left of any screen)
-2. Scroll to **"Choose Ape"** or **"Persona"** section
+2. Scroll to **"Choose Ape"** or **"Companion"** section
 3. Tap to open companion selection
-4. Select a different persona
+4. Select a different companion
 5. Tap **Save** or **Confirm**
 
-<!-- TODO: Screenshot missing: change-persona-settings.png -->
+<!-- TODO: Screenshot missing: change-companion-settings.png -->
 
 **Your AI adapts instantly!**
 
@@ -100,8 +100,8 @@ Not happy with your choice? Switch anytime!
 
 1. Tap **Profile icon** (top left)
 2. Tap **Settings**
-3. Find **"Choose Ape"** or **"Trading Persona"**
-4. Select new persona
+3. Find **"Choose Ape"** or **"Trading Companion"**
+4. Select new companion
 5. Confirm
 
 ---
@@ -194,7 +194,7 @@ Not happy with your choice? Switch anytime!
 ### Mistake #2: Never Changing
 **Problem:** Pick one and never try others
 **Reality:** Your style might change over time
-**Solution:** Experiment! Switch personas based on goals
+**Solution:** Experiment! Switch companions based on goals
 
 ### Mistake #3: Mismatch with Reality
 **Problem:** Choose Blitz but only trade on weekends
@@ -234,7 +234,7 @@ Not happy with your choice? Switch anytime!
 
 ## 🔄 Switching Strategy
 
-### Use Different Personas for Different Goals
+### Use Different Companions for Different Goals
 
 **Example Setup:**
 1. **Main trading account** → Maverick (swing trades)
@@ -256,13 +256,13 @@ Not happy with your choice? Switch anytime!
 ### What to Do Next
 
 **1. Take a Tour**
-Explore the app with your persona:
+Explore the app with your companion:
 - Go to Chat and see Quick Action cards
 - Ask a question and see how your companion responds
 - Check out suggested prompts
 
 **2. Try a Workflow**
-Based on your persona:
+Based on your companion:
 - **Blitz:** [Premarket Day Trading Routine](../../Use-Cases/Advanced/premarket-routine)
 - **Maverick:** [Swing Trade Entry Timing](../../Use-Cases/Advanced/swing-entry)
 - **Sage:** [My First Stock Research](../../Use-Cases/Beginner/first-research)
@@ -276,7 +276,7 @@ Ask your AI questions:
 See if the responses match what you need.
 
 **4. Adjust if Needed**
-Not right? **Change your persona!** No penalty, instant switch.
+Not right? **Change your companion!** No penalty, instant switch.
 
 ---
 
@@ -288,14 +288,14 @@ A: Yes! Anytime, as many times as you want. Go to Profile → Choose Ape.
 **Q: Does changing companion affect my portfolio?**
 A: No! Your positions stay the same. Only the AI's advice style changes.
 
-**Q: Can I use multiple personas?**
+**Q: Can I use multiple companions?**
 A: One at a time, but you can switch based on what you're working on.
 
 **Q: Which companion do most users choose?**
 A: Beginners: Sage. Part‑time/balanced traders: Money. Active momentum traders: Maverick. Blitz is best for experienced day traders.
 
 **Q: Does it cost extra to switch?**
-A: No! All personas are included in your subscription.
+A: No! All companions are included in your subscription.
 
 **Q: Will my companion choice be remembered?**
 A: Yes! It stays active until you manually change it.
@@ -304,7 +304,7 @@ A: Yes! It stays active until you manually change it.
 
 ## 📱 Platform Note
 
-**Current:** Personas are iOS only
+**Current:** Companions are iOS only
 **Coming Soon:** Web app will get companion selection
 
 **For now on Web:** You'll get a general AI experience. Your iOS companion selection may influence web responses if you're logged in on both.
@@ -313,15 +313,15 @@ A: Yes! It stays active until you manually change it.
 
 ## What's Next?
 
-**Learn About Each Persona:**
-- [Meet the Personas →](meet-the-personas) - Deep dive on all 3
+**Learn About Each Companion:**
+- [Meet the Companions →](meet-the-companions) - Deep dive on all 3
 
 **Understand the System:**
-- [What Are Personas? →](what-are-personas) - How personas work
+- [What Are Companions? →](what-are-companions) - How companions work
 
-**Use Your Persona:**
+**Use Your Companion:**
 - [AI Chat Basics →](../Chat/basics) - Start asking questions
-- [Quick Prompts →](../Chat/quick-prompts) - Persona-specific prompts
+- [Quick Prompts →](../Chat/quick-prompts) - Companion-specific prompts
 
 ---
 

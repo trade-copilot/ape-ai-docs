@@ -1,6 +1,6 @@
-# What Are Personas?
+# What Are Companions?
 
-Personas are AI personalities that match your trading style. Think of it like choosing a character in a game—except this character knows trading and adapts to help YOU win.
+Companions are AI personalities that match your trading style. Think of it like choosing a character in a game—except this character knows trading and adapts to help YOU win.
 
 **⏱️ Time to read:** 4 minutes
 **📱 Platform:** iOS & Web
@@ -8,9 +8,9 @@ Personas are AI personalities that match your trading style. Think of it like ch
 
 ---
 
-## 🎭 What is a Persona?
+## 🎭 What is a Companion?
 
-A **persona** is your AI's trading personality and focus. When you choose a persona, you're telling the AI:
+A **companion** is your AI's trading personality and focus. When you choose a companion, you're telling the AI:
 - What kind of trader you are
 - What timeframes you care about
 - What type of analysis you need
@@ -24,7 +24,7 @@ A **persona** is your AI's trading personality and focus. When you choose a pers
 
 ---
 
-## 🦍 The 4 Personas
+## 🦍 The 4 Companions
 
 Note: **Money** is the primary companion for the modern retail trader; **Blitz** is for experienced day traders.
 
@@ -121,20 +121,20 @@ Note: **Money** is the primary companion for the modern retail trader; **Blitz**
 
 ---
 
-## 📱 Where to Find Personas
+## 📱 Where to Find Companions
 
 **iOS:**
 
 During signup:
 1. After creating your account
-2. You'll be prompted to "Choose Your Persona"
+2. You'll be prompted to "Choose Your Companion"
 3. Select the one that matches your style
 4. Tap Continue
 
 After signup:
 1. Tap **Profile icon** (top left)
 2. Go to **Settings**
-3. Select **"Choose Ape"** or **"Persona"**
+3. Select **"Choose Ape"** or **"Companion"**
 4. Change your selection
 
 **Web:**
@@ -147,10 +147,10 @@ During signup:
 After signup:
 1. Click **Profile** (top right)
 2. Go to **Settings**
-3. Select **"Choose Persona"**
+3. Select **"Choose Companion"**
 4. Pick a different one
 
-![Companion Selection Screen](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/persona-selection-screen.png)
+![Companion Selection Screen](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/companion-selection-screen.png)
 
 ---
 
@@ -190,13 +190,13 @@ After signup:
 
 ### 1. You Can Change Anytime
 Not happy with your choice? Switch!
-- Go to Settings → Choose Persona
-- Select a different persona
+- Go to Settings → Choose Companion
+- Select a different companion
 - The AI adapts immediately
 
 ### 2. Try All Four
 - Start with one
-- Try different personas for different accounts
+- Try different companions for different accounts
 - Learn what works for your style
 
 ### 3. Match Your Reality
@@ -222,7 +222,7 @@ Be honest about your trading style:
 
 ---
 
-## 🎯 How Personas Change Your Experience
+## 🎯 How Companions Change Your Experience
 
 ### Example Question: *"Is Tesla a good buy?"*
 
@@ -244,34 +244,34 @@ Be honest about your trading style:
 
 ## ❓ Frequently Asked Questions
 
-**Q: Do I have to choose a persona?**
+**Q: Do I have to choose a companion?**
 A: Yes, it's required during signup. But you can change it anytime!
 
-**Q: Can I use multiple personas?**
+**Q: Can I use multiple companions?**
 A: One at a time. But you can switch whenever you want.
 
 **Q: What if I trade multiple styles?**
-A: Start with your primary style. Switch personas based on what you're focusing on that day/week.
+A: Start with your primary style. Switch companions based on what you're focusing on that day/week.
 
 **Q: Is one companion better than others?**
 A: No! They're designed for different styles. The best companion is the one that matches how YOU trade.
 
-**Q: How many personas are there?**
+**Q: How many companions are there?**
 A: Four: Money Monty (balanced), Sage (value), Maverick (momentum), and Blitz (day trading).
 
 ---
 
 ## What's Next?
 
-**Meet the Personas in Detail:**
-- [Meet the Personas →](meet-the-personas) - Deep dive on each with examples
+**Meet the Companions in Detail:**
+- [Meet the Companions →](meet-the-companions) - Deep dive on each with examples
 
-**Choose Your Persona:**
+**Choose Your Companion:**
 - [Choosing Your Companion →](choosing) - Step-by-step selection guide
 
 **See It In Action:**
-- [AI Chat Basics](../Chat/basics) - How personas change chat
-- [Quick Prompts](../Chat/quick-prompts) - Persona-specific prompts
+- [AI Chat Basics](../Chat/basics) - How companions change chat
+- [Quick Prompts](../Chat/quick-prompts) - Companion-specific prompts
 
 ---
 

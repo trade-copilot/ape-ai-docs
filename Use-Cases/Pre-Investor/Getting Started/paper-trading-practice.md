@@ -6,7 +6,7 @@ Learn to invest without risking real money. Practice strategies, make mistakes, 
 **💰 Cost:** Free (virtual money only)
 **📱 Platform:** Ape AI (iOS & Web) or broker platforms
 **👤 Best for:** Complete beginners who want to practice before risking real money
-**🦍 Recommended Persona:** Sage (patient teaching) or Money Monty (balanced practice trades)
+**🦍 Recommended Companion:** Sage (patient teaching) or Money Monty (balanced practice trades)
 
 ---
 
@@ -143,7 +143,7 @@ Learn to invest without risking real money. Practice strategies, make mistakes, 
 - Ability to buy/sell any stock or ETF
 - Portfolio tracking
 - Performance analytics
-- All Ape AI personas to guide you
+- All Ape AI companions to guide you
 
 ---
 
@@ -209,7 +209,7 @@ placing the order step by step.
 ### Ape AI vs Broker Paper Trading
 
 **Ape AI advantages:**
-- ✅ AI personas guide your learning
+- ✅ AI companions guide your learning
 - ✅ Ask questions and get instant answers
 - ✅ Simple interface designed for beginners
 - ✅ No complex tools to overwhelm you

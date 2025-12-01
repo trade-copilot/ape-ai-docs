@@ -6,7 +6,7 @@
 **Cost:** $0 to learn (plus investment capital when ready)
 **Platform:** Ape AI (askape.com) + Your brokerage
 **Best for:** Investors seeking capital appreciation through fast-growing companies
-**Persona:** Maverick (for growth opportunities) + Money (for financial analysis)
+**Companion:** Maverick (for growth opportunities) + Money (for financial analysis)
 
 ---
 

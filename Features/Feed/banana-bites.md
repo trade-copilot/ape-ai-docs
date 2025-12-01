@@ -483,7 +483,7 @@ Bites appear in your feed with news:
 
 ---
 
-## 📊 Banana Bites by Persona
+## 📊 Banana Bites by Companion
 
 ### Blitz Bites (Day Trader Focus) 🚀
 - Scalping strategies

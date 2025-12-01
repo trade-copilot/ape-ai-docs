@@ -45,7 +45,7 @@ By the end of this workflow, you'll know how to:
 **4. Companion Setup**
 
 * Set companion to **Blitz** (day trader focused; advanced)
-* [How to change →](../../Features/Personas/choosing/)
+* [How to change →](../../Features/Companions/choosing/)
 
 ***
 
@@ -588,7 +588,7 @@ OR
 
 * [Execute Trades Feature Guide →](../../Features/Chat/execute-trades/)
 * [Quick Prompts →](../../Features/Chat/quick-prompts/)
-* [Blitz Companion →](../../Features/Personas/meet-the-personas.md#blitz)
+* [Blitz Companion →](../../Features/Companions/meet-the-companions.md#blitz)
 
 ***
 

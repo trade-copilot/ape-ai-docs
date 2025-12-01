@@ -167,7 +167,7 @@ AI-generated market recap. Know everything in 60 seconds.
 
 ---
 
-## 🎭 Persona-Based Summaries
+## 🎭 Companion-Based Summaries
 
 **Daily Summary adapts to your trading style!**
 
@@ -340,7 +340,7 @@ Summary suggests bullish tech?
 
 ### 2. Personalized
 - Mentions stocks you care about
-- Adapted to your persona
+- Adapted to your companion
 - Relevant to your strategy
 - Not generic market news
 

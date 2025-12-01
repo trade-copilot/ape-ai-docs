@@ -5,7 +5,7 @@ Learn how to analyze if a stock is overpriced, underpriced, or fairly valued.
 **⏱️ Time:** 10-15 minutes
 **📱 Platform:** iOS & Web
 **👤 Best for:** Anyone researching potential investments
-**🦍 Recommended Persona:** Sage (fundamental analysis focus)
+**🦍 Recommended Companion:** Sage (fundamental analysis focus)
 
 ---
 

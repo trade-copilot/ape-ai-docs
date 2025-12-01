@@ -6,7 +6,7 @@ Understand when the stock market is open, pre-market and after-hours trading, an
 **💰 Cost:** Free (knowledge that prevents costly mistakes)
 **📱 Platform:** Any device
 **👤 Best for:** Complete beginners learning when they can trade
-**🦍 Recommended Persona:** Sage (clear explanation of market timing)
+**🦍 Recommended Companion:** Sage (clear explanation of market timing)
 
 ---
 

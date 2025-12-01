@@ -6,7 +6,7 @@ Learn how to select the right brokerage for your first investment account, inclu
 **💰 Cost:** Free (research only)
 **📱 Platform:** Any device
 **👤 Best for:** Beginners choosing their first brokerage
-**🦍 Recommended Persona:** Money Monty (balanced, practical advice)
+**🦍 Recommended Companion:** Money Monty (balanced, practical advice)
 
 ---
 

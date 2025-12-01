@@ -111,7 +111,7 @@ Create and save your own AI prompts for questions you ask repeatedly.
 
 ---
 
-## 📝 Custom Prompt Ideas by Persona
+## 📝 Custom Prompt Ideas by Companion
 
 ### For Blitz (Day Trader) 🚀
 
@@ -398,8 +398,8 @@ A: Yes! Saved to your account, available on iOS and Web.
 **Q: Can I share custom prompts with friends?**
 A: Not yet, but prompt sharing is coming soon!
 
-**Q: Do custom prompts work with all personas?**
-A: Yes! But responses will match your active persona.
+**Q: Do custom prompts work with all companions?**
+A: Yes! But responses will match your active companion.
 
 **Q: Can I use emojis in custom prompts?**
 A: Yes! Make them fun and easy to spot.

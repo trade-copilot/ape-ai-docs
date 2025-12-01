@@ -6,7 +6,7 @@ Understand the mathematical magic that turns small, consistent investments into 
 **💰 Cost:** Free (knowledge worth millions)
 **📱 Platform:** Any device
 **👤 Best for:** Beginners who need to understand WHY starting early matters
-**🦍 Recommended Persona:** Sage (explains the math clearly)
+**🦍 Recommended Companion:** Sage (explains the math clearly)
 
 ---
 

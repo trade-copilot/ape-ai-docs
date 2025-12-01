@@ -6,7 +6,7 @@ Establish a consistent swing trading routine using Ape AI for setup analysis and
 **💰 Risk Level:** Moderate to High
 **📱 Platform:** iOS & Web
 **👤 Best for:** Active traders holding 2-10 day positions
-**🦍 Recommended Persona:** Maverick (momentum/swing focus)
+**🦍 Recommended Companion:** Maverick (momentum/swing focus)
 
 ---
 

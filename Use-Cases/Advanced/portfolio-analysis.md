@@ -2,7 +2,7 @@
 
 Get AI-powered analysis and optimization recommendations for your entire portfolio.
 
-**⏱️ Time:** 20-30 minutes **💰 Risk Level:** N/A (analysis only) **📱 Platform:** iOS & Web **👤 Best for:** Anyone with 3+ holdings **🦍 Recommended Persona:** Sage (portfolio strategy) + Money Monty (balanced view)
+**⏱️ Time:** 20-30 minutes **💰 Risk Level:** N/A (analysis only) **📱 Platform:** iOS & Web **👤 Best for:** Anyone with 3+ holdings **🦍 Recommended Companion:** Sage (portfolio strategy) + Money Monty (balanced view)
 
 ***
 

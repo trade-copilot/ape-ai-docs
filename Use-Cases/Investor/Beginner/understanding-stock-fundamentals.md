@@ -6,7 +6,7 @@ Learn how to analyze stocks using fundamental analysis so you can invest with co
 **💰 Cost:** Free (knowledge that prevents bad investments)
 **📱 Platform:** Any device + Ape AI
 **👤 Best for:** Beginners who want to research individual stocks intelligently
-**🦍 Recommended Persona:** Sage (teaches fundamentals clearly) or Money (practical stock analysis)
+**🦍 Recommended Companion:** Sage (teaches fundamentals clearly) or Money (practical stock analysis)
 
 ---
 

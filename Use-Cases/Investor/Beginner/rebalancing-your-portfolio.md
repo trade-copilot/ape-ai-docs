@@ -6,7 +6,7 @@
 **Cost:** $0 to learn (potential trading costs when rebalancing)
 **Platform:** Ape AI (askape.com) + Your brokerage
 **Best for:** Investors who want to maintain target allocation and manage risk
-**Persona:** Sage (for rebalancing strategy) + Money (for tax implications)
+**Companion:** Sage (for rebalancing strategy) + Money (for tax implications)
 
 ---
 

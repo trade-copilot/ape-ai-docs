@@ -173,7 +173,7 @@ The Feed learns what you care about:
 
 ---
 
-### Persona-Based Content
+### Companion-Based Content
 
 **Money Monty (Generalist) sees more:**
 - Balanced ideas (catalysts, momentum, valuation)

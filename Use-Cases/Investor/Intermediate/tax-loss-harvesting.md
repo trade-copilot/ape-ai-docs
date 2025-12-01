@@ -6,7 +6,7 @@
 **Cost:** $0 (can save thousands in taxes)
 **Platform:** Ape AI (askape.com) + Your brokerage + Tax software
 **Best for:** Investors with taxable brokerage accounts seeking to minimize tax burden
-**Persona:** Money (for identifying loss opportunities) + Sage (for tax strategy)
+**Companion:** Money (for identifying loss opportunities) + Sage (for tax strategy)
 
 ---
 

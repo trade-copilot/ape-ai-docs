@@ -186,7 +186,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 - Risks to watch
 - Time horizon recommendation
 
-**Persona-adapted:** Blitz sees technical, Sage sees fundamentals
+**Companion-adapted:** Blitz sees technical, Sage sees fundamentals
 
 [Learn more →](../Chat/basics)
 
@@ -416,7 +416,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 
 ---
 
-## 🎭 Ticker Page by Persona
+## 🎭 Ticker Page by Companion
 
 ### Blitz (Day Trader) 🚀
 
@@ -448,7 +448,7 @@ The **Ticker Page** is your complete stock analysis dashboard for any ticker.
 - Long-term growth potential
 - Dividend info
 
-**Same page, different focus based on YOUR persona!**
+**Same page, different focus based on YOUR companion!**
 
 ---
 

@@ -6,7 +6,7 @@
 **Cost:** $0 to learn (plus investment capital when ready)
 **Platform:** Ape AI (askape.com) + Your brokerage
 **Best for:** Investors seeking global exposure beyond U.S. markets
-**Persona:** Sage (for allocation strategy) + Money (for international opportunities)
+**Companion:** Sage (for allocation strategy) + Money (for international opportunities)
 
 ---
 

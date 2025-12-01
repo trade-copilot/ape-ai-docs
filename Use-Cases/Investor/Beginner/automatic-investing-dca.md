@@ -6,7 +6,7 @@ Automate your wealth building with systematic monthly investments. Set it once, 
 **💰 Cost:** $100-1,000+ per month (your contribution amount)
 **📱 Platform:** Any brokerage
 **👤 Best for:** Anyone who wants to build wealth without constant effort
-**🦍 Recommended Persona:** Sage (wisdom on systematic wealth building)
+**🦍 Recommended Companion:** Sage (wisdom on systematic wealth building)
 
 ---
 

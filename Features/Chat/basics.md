@@ -141,9 +141,9 @@ Instead of typing, use pre-built prompts:
 
 ## 🧠 How the AI Works
 
-### Persona-Based Responses
+### Companion-Based Responses
 
-Your AI adapts to your [chosen persona](../Personas/what-are-personas):
+Your AI adapts to your [chosen companion](../Companions/what-are-companions):
 
 **Example:** "Should I buy TSLA?"
 
@@ -159,7 +159,7 @@ Your AI adapts to your [chosen persona](../Personas/what-are-personas):
 **Blitz (Day Trader, advanced):**
 > "TSLA near $470. Break with volume → $478 intraday. Consider short‑dated calls; stop at $458."
 
-**Same question, persona‑specific answers—matching your style and timeframe.**
+**Same question, companion‑specific answers—matching your style and timeframe.**
 
 ---
 
@@ -362,9 +362,9 @@ A: Yes, conversations are private to your account.
 - [My First Stock Research →](../../Use-Cases/Beginner/first-research)
 - [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine)
 
-**Learn About Personas:**
-- [What Are Personas? →](../Personas/what-are-personas)
-- [Meet the Personas →](../Personas/meet-the-personas)
+**Learn About Companions:**
+- [What Are Companions? →](../Companions/what-are-companions)
+- [Meet the Companions →](../Companions/meet-the-companions)
 
 ---
 

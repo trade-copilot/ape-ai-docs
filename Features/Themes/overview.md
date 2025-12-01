@@ -251,7 +251,7 @@ Natural language stock screener. Find stocks by describing what you want.
 
 ---
 
-## 💡 Theme Ideas by Persona
+## 💡 Theme Ideas by Companion
 
 ### For Blitz (Day Trader) 🚀
 

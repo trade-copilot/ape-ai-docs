@@ -6,7 +6,7 @@
 **Cost:** $0 to learn (plus investment capital when ready)
 **Platform:** Ape AI (askape.com) + Your brokerage
 **Best for:** Investors seeking passive income and steady portfolio growth
-**Persona:** Money (for dividend stock analysis) + Sage (for portfolio strategy)
+**Companion:** Money (for dividend stock analysis) + Sage (for portfolio strategy)
 
 ---
 
@@ -870,7 +870,7 @@ Hey Money Monty, I'm looking to add a new dividend stock to my portfolio. My cri
 Can you suggest 3-5 stocks that fit and explain why?
 ```
 
-### Best Prompts for Sage Persona
+### Best Prompts for Sage Companion
 
 **For Strategy Planning:**
 ```
