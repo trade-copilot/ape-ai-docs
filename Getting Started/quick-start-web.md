@@ -7,8 +7,10 @@ Get started with Ape AI on your desktop in 5 minutes.
 ## 🌐 Step 1: Access the Web App
 
 1. Open your browser (Chrome, Safari, Firefox, Edge)
-2. Go to **\[app.askape.com]\(https://app.askape.com)**
+2. Go to **\[**[**app.Ape AI.com**](https://app.askape.com/)**]**
 3. You'll see the login/signup page
+
+<figure><img src="../.gitbook/assets/TV - 9 (3).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -19,7 +21,7 @@ Get started with Ape AI on your desktop in 5 minutes.
 3. Verify your email (check your inbox)
 4. Log back in
 
-![Web Signup](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/app-loading.png)
+![Web Signup](<../.gitbook/assets/TV - 11.png>)
 
 **Or sign in with:**
 
@@ -32,7 +34,7 @@ Get started with Ape AI on your desktop in 5 minutes.
 
 Once logged in, you'll see the main dashboard:
 
-![Web Dashboard](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/home-dashboard.jpg)
+![Web Dashboard](<../.gitbook/assets/TV - 12.png>)
 
 **Main sections:**
 
@@ -60,7 +62,7 @@ Let's try the AI Chat:
 5. Wait for the AI to respond
 6. Review entries, risks, and timeframe
 
-![Web Chat](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/chat-interface.png)
+![Web Chat](<../.gitbook/assets/TV - 13.png>)
 
 **Or type your own question:**
 
@@ -86,11 +88,11 @@ Let's look up a stock:
 2. Type a ticker symbol (e.g., **"NVDA"**)
 3. Click the result or press Enter
 
-![Web Stock Search](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/search-modal.png)
+![Web Stock Search](<../.gitbook/assets/TV - 14.png>)
 
 **You'll see the ticker page:**
 
-![Web Ticker Page](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/ticker-page-tsla.png)
+![Web Ticker Page](<../.gitbook/assets/TV - 15.png>)
 
 **Key sections:**
 
@@ -113,7 +115,7 @@ Check what's hot:
 1. Click **Home** in the left sidebar
 2. Scroll through the page
 
-![Web Home/Feed](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/home-dashboard.jpg)
+![Web Home/Feed](<../.gitbook/assets/TV - 16 (1).png>)
 
 **You'll see:**
 
@@ -133,9 +135,11 @@ Track your investments:
 1. Click **Portfolio** in the left sidebar
 2. Click **Connect** a brokerage
 
-![Web Portfolio](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/portfolio-page.png)
+![Web Portfolio](<../.gitbook/assets/TV - 17 (1).png>)
 
 **Two options:**
+
+<figure><img src="../.gitbook/assets/TV - 19.png" alt=""><figcaption></figcaption></figure>
 
 ### Option A: Ape Paper Trading (FREE) 📄
 
@@ -169,7 +173,7 @@ Themes are like custom stock screeners:
 5. Name your theme
 6. Save and track it!
 
-![Create Theme](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/themes-page.png)
+![Create Theme](<../.gitbook/assets/TV - 18 (1).png>)
 
 ***
 

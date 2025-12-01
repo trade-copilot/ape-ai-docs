@@ -17,23 +17,27 @@ Get started with Ape AI on your iPhone in 5 minutes.
 
 ## 🔐 Step 2: Create Your Account
 
-1. On the welcome screen, tap **Sign Up**
+1. On the welcome screen, tap **Join the Troop** (**Sign Up)**
 2. Enter your email and create a password
 3. Verify your email (check your inbox)
 4. Log in to the app
+
+<figure><img src="../.gitbook/assets/TV - 2 (2).png" alt=""><figcaption></figcaption></figure>
 
 **Or sign in with:**
 
 * Apple
 * Google
 
+<figure><img src="../.gitbook/assets/TV - 3 (3).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ## 🎭 Step 3: Choose Your Companion
 
-This is important! Your companion determines how the AI assists you.
+**This is important! Your companion determines how the AI assists you.**
 
-![Companion Selection](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-blitz.png)
+![Persona Selection](<../.gitbook/assets/TV - 1 (7).png>)
 
 **Pick the one that matches your style:**
 
@@ -52,7 +56,7 @@ Tap your choice, then tap **Continue**.
 
 The app has **3 main tabs** at the bottom:
 
-![Bottom Navigation](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/bottom-navigation.png)
+![Bottom Navigation](<../.gitbook/assets/TV - 4 (3).png>)
 
 ### 1. Chat 💬
 
@@ -88,11 +92,11 @@ Let's try the AI Chat:
 
 1. Tap the **Chat** tab (bottom left)
 2. You'll see **Quick Action cards**—swipe through them
-3. Tap **"Find Strong Catalyst Stocks"** or **"Swing Trade Ideas"**
+3. Tap **"Major Support and Resistance"** or **"High Open Interest Options"**
 4. Wait a few seconds for the AI to respond
 5. Review entries, risks, and timeframe
 
-![Chat with Quick Actions](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/chat-quick-prompts.jpg)
+![Chat with Quick Actions](<../.gitbook/assets/TV - 4 (3).png>)
 
 **Or type your own question:**
 
@@ -111,7 +115,7 @@ Let's research a stock:
 2. Type a ticker symbol (e.g., **"AAPL"**)
 3. Tap the result to view the ticker page
 
-![Stock Search](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/discover-tab.png)
+![Stock Search](<../.gitbook/assets/TV - 5 (4).png>)
 
 **You'll see:**
 
@@ -122,7 +126,7 @@ Let's research a stock:
 * Company Story
 * Performance comparison
 
-![Ticker Page](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/ticker-detail-aapl.png)
+![Ticker Page](<../.gitbook/assets/TV - 6 (3).png>)
 
 **Tap any Snapshot Grade card to expand** and see the full AI analysis.
 
@@ -135,9 +139,11 @@ Want to track your investments?
 1. Tap the **Portfolio** tab
 2. Tap **Connect** a brokerage
 
-![Portfolio](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/portfolio-tab-overview.png)
+![Portfolio](<../.gitbook/assets/TV - 10.png>)
 
 **Two options:**
+
+![Portfolio](<../.gitbook/assets/TV - 7 (4).png>)
 
 ### Option A: Ape Paper Trading (FREE) 📄
 
@@ -156,6 +162,8 @@ Perfect for beginners! Practice with virtual money.
 ***
 
 ## ⚡ Quick Tips for iOS
+
+<figure><img src="../.gitbook/assets/TV - 8 (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Gestures
 
