@@ -26,7 +26,7 @@ Ask any question about stocks, get instant analysis, and find trade setups—all
 
 ### 2. Persona‑Based Experience
 
-Choose a trading persona that matches your style:
+Choose a trading companion that matches your style:
 
 * **Money Monty** for balanced, generalist trading (primary) 💰
 * **Maverick** for momentum‑driven swings 📈

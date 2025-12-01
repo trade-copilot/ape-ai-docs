@@ -1028,7 +1028,7 @@ By the end of this workflow, you should have:
 - [ ] Enabled DRIP (or decided to take cash for specific reasons)
 - [ ] Created a dividend tracking system (spreadsheet or app)
 - [ ] Set up monthly/quarterly review reminders
-- [ ] Used Money Monty persona to analyze at least 2 dividend stocks
+- [ ] Used Money Monty companion to analyze at least 2 dividend stocks
 - [ ] Understand common dividend investing mistakes and how to avoid them
 
 **🎉 Congratulations!** You've built the foundation for a dividend portfolio that can grow income for decades!

@@ -56,7 +56,7 @@ Once logged in, you'll see the main dashboard:
 Let's try the AI Chat:
 
 1. Click **Chat** in the left sidebar (or press `/` then type)
-2. You'll see the chat interface with your persona indicator
+2. You'll see the chat interface with your companion indicator
 3. Click the **Prompts** icon (or press `Ctrl+P`) to see Quick Prompts
 4. Select **"Find Strong Catalyst Stocks"** (or "Swing Trade Ideas")
 5. Wait for the AI to respond
@@ -215,7 +215,7 @@ Now that you're set up:
 * [What Are Personas?](../Features/Personas/what-are-personas/)
 * [Meet the Personas](../Features/Personas/meet-the-personas/)
 
-Note: Persona selection is currently iOS-only but coming to web soon!
+Note: Companion selection is currently iOS-only but coming to web soon!
 
 **Learn the Features:**
 

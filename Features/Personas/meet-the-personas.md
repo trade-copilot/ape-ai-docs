@@ -318,7 +318,7 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ---
 
-## 📊 Persona Comparison Table
+## 📊 Companion Comparison Table
 
 | Feature | Money Monty 💰 | Sage 🦧 | Maverick 📊 | Blitz 🚀 |
 |---------|----------|---------|-------------|----------|
@@ -336,7 +336,7 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ---
 
-## 🎯 Which Persona Matches You?
+## 🎯 Which Companion Matches You?
 
 ### Answer These Questions:
 
@@ -377,7 +377,7 @@ Get to know the 4 AI trading personalities that power Ape AI.
 ### You Can Switch Anytime
 - Not happy? Change personas in Settings
 - Try different ones for different goals
-- Match persona to your current focus
+- Match companion to your current focus
 
 ### Mix and Match Strategies
 - Use Sage for retirement account
@@ -393,7 +393,7 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ---
 
-## 🎭 Persona in Action
+## 🎭 Companion in Action
 
 ### Same Question, Different Answers
 
@@ -414,10 +414,10 @@ Get to know the 4 AI trading personalities that power Ape AI.
 ## What's Next?
 
 **Ready to Choose?**
-- [Choosing Your Persona →](choosing) - Step-by-step selection guide
+- [Choosing Your Companion →](choosing) - Step-by-step selection guide
 
 **Learn More:**
-- [What Are Personas? →](what-are-personas) - Persona basics
+- [What Are Personas? →](what-are-personas) - Companion basics
 - [AI Chat Basics →](../Chat/basics) - See personas in action
 
 **Try Workflows:**
@@ -427,4 +427,4 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ---
 
-**Your persona = Your AI's trading DNA. Choose the one that matches YOUR style!** 🦍🚀
+**Your companion = Your AI's trading DNA. Choose the one that matches YOUR style!** 🦍🚀

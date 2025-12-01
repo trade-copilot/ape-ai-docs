@@ -36,9 +36,9 @@ By the end of this workflow, you'll know how to:
 - Enable "Execute from Chat" in Settings
 - [Setup guide →](../../Features/Chat/execute-trades)
 
-**3. Persona Setup**
-- Set persona to **Maverick** (swing trader)
-- [Change persona →](../../Features/Personas/choosing)
+**3. Companion Setup**
+- Set companion to **Maverick** (swing trader)
+- [Change companion →](../../Features/Personas/choosing)
 
 **4. Time Commitment**
 - Check positions 1-2x per day
@@ -596,7 +596,7 @@ A: Normal! Some swings take 2 weeks. Be patient if setup intact.
 
 **Related:**
 - [Execute Trades Feature →](../../Features/Chat/execute-trades)
-- [Maverick Persona →](../../Features/Personas/meet-the-personas.md#maverick)
+- [Maverick Companion →](../../Features/Personas/meet-the-personas.md#maverick)
 - [Quick Prompts →](../../Features/Chat/quick-prompts)
 
 ---

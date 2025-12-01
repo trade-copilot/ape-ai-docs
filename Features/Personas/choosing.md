@@ -4,7 +4,7 @@ Step-by-step guide to selecting your AI trading personality.
 
 **⏱️ Time:** 2 minutes
 **📱 Platform:** iOS only (coming to web)
-**👤 Best for:** First-time users and persona switchers
+**👤 Best for:** First-time users and companion switchers
 
 ---
 
@@ -13,10 +13,10 @@ Step-by-step guide to selecting your AI trading personality.
 ### During Signup (First Time)
 After creating your account, you'll immediately be prompted to choose your persona.
 
-![Persona Selection Screen](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-selection-screen.png)
+![Companion Selection Screen](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-selection-screen.png)
 
 ### After Signup (Changing Persona)
-You can change your persona anytime in Settings.
+You can change your companion anytime in Settings.
 
 ---
 
@@ -29,14 +29,14 @@ You can change your persona anytime in Settings.
 4. Verify your email
 5. Log in
 
-### Step 2: Choose Your Persona Screen
+### Step 2: Choose Your Companion Screen
 
-You'll see persona cards (3–4 depending on your app version):
+You'll see companion cards (3–4 depending on your app version):
 
-![Three Persona Cards](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/three-persona-cards.png)
+![Three Companion Cards](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/three-persona-cards.png)
 
 **Each card shows:**
-- Persona name and emoji
+- Companion name and emoji
 - Trading style description
 - Best for who
 - Key focus
@@ -75,7 +75,7 @@ You'll see persona cards (3–4 depending on your app version):
 
 A confirmation screen may appear. Tap **Continue** or **Confirm**.
 
-**That's it!** Your persona is active immediately.
+**That's it!** Your companion is active immediately.
 
 ---
 
@@ -88,7 +88,7 @@ Not happy with your choice? Switch anytime!
 **📱 iOS:**
 1. Tap **Profile icon** (top left of any screen)
 2. Scroll to **"Choose Ape"** or **"Persona"** section
-3. Tap to open persona selection
+3. Tap to open companion selection
 4. Select a different persona
 5. Tap **Save** or **Confirm**
 
@@ -198,7 +198,7 @@ Not happy with your choice? Switch anytime!
 
 ### Mistake #3: Mismatch with Reality
 **Problem:** Choose Blitz but only trade on weekends
-**Reality:** Persona doesn't match your actual trading
+**Reality:** Companion doesn't match your actual trading
 **Solution:** Be honest about your time and experience
 
 ---
@@ -241,7 +241,7 @@ Not happy with your choice? Switch anytime!
 2. **Retirement IRA** → Sage (buy & hold)
 3. **Small day trading account** → Blitz (practice)
 
-**How:** Switch persona based on which account you're thinking about!
+**How:** Switch companion based on which account you're thinking about!
 
 ### Switching Frequency
 - **Daily:** Too much (pick one and stick)
@@ -258,7 +258,7 @@ Not happy with your choice? Switch anytime!
 **1. Take a Tour**
 Explore the app with your persona:
 - Go to Chat and see Quick Action cards
-- Ask a question and see how your persona responds
+- Ask a question and see how your companion responds
 - Check out suggested prompts
 
 **2. Try a Workflow**
@@ -282,22 +282,22 @@ Not right? **Change your persona!** No penalty, instant switch.
 
 ## ❓ FAQ
 
-**Q: Can I change my persona after choosing?**
+**Q: Can I change my companion after choosing?**
 A: Yes! Anytime, as many times as you want. Go to Profile → Choose Ape.
 
-**Q: Does changing persona affect my portfolio?**
+**Q: Does changing companion affect my portfolio?**
 A: No! Your positions stay the same. Only the AI's advice style changes.
 
 **Q: Can I use multiple personas?**
 A: One at a time, but you can switch based on what you're working on.
 
-**Q: Which persona do most users choose?**
+**Q: Which companion do most users choose?**
 A: Beginners: Sage. Part‑time/balanced traders: Money. Active momentum traders: Maverick. Blitz is best for experienced day traders.
 
 **Q: Does it cost extra to switch?**
 A: No! All personas are included in your subscription.
 
-**Q: Will my persona choice be remembered?**
+**Q: Will my companion choice be remembered?**
 A: Yes! It stays active until you manually change it.
 
 ---
@@ -305,9 +305,9 @@ A: Yes! It stays active until you manually change it.
 ## 📱 Platform Note
 
 **Current:** Personas are iOS only
-**Coming Soon:** Web app will get persona selection
+**Coming Soon:** Web app will get companion selection
 
-**For now on Web:** You'll get a general AI experience. Your iOS persona selection may influence web responses if you're logged in on both.
+**For now on Web:** You'll get a general AI experience. Your iOS companion selection may influence web responses if you're logged in on both.
 
 ---
 
@@ -325,4 +325,4 @@ A: Yes! It stays active until you manually change it.
 
 ---
 
-**Your persona = Your AI's personality. Pick one, try it out, switch if needed. No wrong choice!** 🎭🚀
+**Your companion = Your AI's personality. Pick one, try it out, switch if needed. No wrong choice!** 🎭🚀

@@ -5,7 +5,7 @@
 **Time:** Setup 10 minutes | Learning ongoing
 **Platform:** ✅ Both iOS & Web
 **Best for:** 🌱 First-time investors & traders
-**Prerequisites:** Ape AI account (free), Sage persona recommended for learning
+**Prerequisites:** Ape AI account (free), Sage companion recommended for learning
 
 ---
 
@@ -44,7 +44,7 @@ If you haven't already:
 
 ---
 
-## Step 2: Choose Sage Persona (Recommended for Learning)
+## Step 2: Choose Sage Companion (Recommended for Learning)
 
 When prompted to select a persona:
 

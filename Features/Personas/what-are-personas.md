@@ -16,7 +16,7 @@ A **persona** is your AI's trading personality and focus. When you choose a pers
 - What type of analysis you need
 - How aggressive or conservative you want to be
 
-**Your persona changes:**
+**Your companion changes:**
 - How the AI talks to you
 - What prompts it suggests
 - What trade setups it shows you
@@ -26,7 +26,7 @@ A **persona** is your AI's trading personality and focus. When you choose a pers
 
 ## 🦍 The 4 Personas
 
-Note: **Money** is the primary persona for the modern retail trader; **Blitz** is for experienced day traders.
+Note: **Money** is the primary companion for the modern retail trader; **Blitz** is for experienced day traders.
 
 ### 1. Money Monty (General Trader) 💰
 **"Adapt and thrive. Trade what works."**
@@ -141,7 +141,7 @@ After signup:
 
 During signup:
 1. After email verification
-2. Choose your persona from the 4 options
+2. Choose your companion from the 4 options
 3. Click Continue
 
 After signup:
@@ -150,11 +150,11 @@ After signup:
 3. Select **"Choose Persona"**
 4. Pick a different one
 
-![Persona Selection Screen](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/persona-selection-screen.png)
+![Companion Selection Screen](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/Web/persona-selection-screen.png)
 
 ---
 
-## 🤔 Which Persona Should You Choose?
+## 🤔 Which Companion Should You Choose?
 
 ### Choose **Money Monty** if:
 ✅ You want a balanced approach
@@ -208,7 +208,7 @@ Be honest about your trading style:
 
 ---
 
-## 📊 Persona Comparison
+## 📊 Companion Comparison
 
 | Feature | Money Monty 💰 | Sage 🦧 | Maverick 📊 | Blitz 🚀 |
 |---------|----------|---------|-------------|----------|
@@ -253,8 +253,8 @@ A: One at a time. But you can switch whenever you want.
 **Q: What if I trade multiple styles?**
 A: Start with your primary style. Switch personas based on what you're focusing on that day/week.
 
-**Q: Is one persona better than others?**
-A: No! They're designed for different styles. The best persona is the one that matches how YOU trade.
+**Q: Is one companion better than others?**
+A: No! They're designed for different styles. The best companion is the one that matches how YOU trade.
 
 **Q: How many personas are there?**
 A: Four: Money Monty (balanced), Sage (value), Maverick (momentum), and Blitz (day trading).
@@ -267,7 +267,7 @@ A: Four: Money Monty (balanced), Sage (value), Maverick (momentum), and Blitz (d
 - [Meet the Personas →](meet-the-personas) - Deep dive on each with examples
 
 **Choose Your Persona:**
-- [Choosing Your Persona →](choosing) - Step-by-step selection guide
+- [Choosing Your Companion →](choosing) - Step-by-step selection guide
 
 **See It In Action:**
 - [AI Chat Basics](../Chat/basics) - How personas change chat
@@ -275,4 +275,4 @@ A: Four: Money Monty (balanced), Sage (value), Maverick (momentum), and Blitz (d
 
 ---
 
-**Your persona is your AI's trading personality. Choose the one that matches your style, and the AI will adapt to help you win!** 🦍🚀
+**Your companion is your AI's trading personality. Choose the one that matches your style, and the AI will adapt to help you win!** 🦍🚀

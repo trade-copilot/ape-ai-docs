@@ -37,7 +37,7 @@ Get started with Ape AI on your iPhone in 5 minutes.
 
 **This is important! Your companion determines how the AI assists you.**
 
-![Persona Selection](<../.gitbook/assets/TV - 1 (7).png>)
+![Companion Selection](<../.gitbook/assets/TV - 1 (7).png>)
 
 **Pick the one that matches your style:**
 
@@ -48,7 +48,7 @@ Get started with Ape AI on your iPhone in 5 minutes.
 
 Tap your choice, then tap **Continue**.
 
-> 💡 **Don’t worry**—you can change your persona anytime in settings.
+> 💡 **Don’t worry**—you can change your companion anytime in settings.
 
 ***
 

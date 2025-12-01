@@ -74,8 +74,8 @@ Think of it like a basket of stocks:
 ### Ask Sage About ETFs
 
 1. Go to **Chat** tab
-2. Switch to **Sage** persona (best for long-term investing)
-3. Tap persona avatar → Select **Sage**
+2. Switch to **Sage** companion (best for long-term investing)
+3. Tap companion avatar → Select **Sage**
 
 ### Start the Conversation
 

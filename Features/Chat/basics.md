@@ -44,7 +44,7 @@ AI Chat is your personal trading assistant powered by artificial intelligence. T
 ### Main Elements
 
 **📱 iOS Layout:**
-- **Top:** Your chosen persona mascot
+- **Top:** Your chosen companion
 - **Middle:** Chat conversation history
 - **Bottom:** Text input + icons (Prompts, History, Voice, Send)
 - **Quick Action Cards:** Swipeable prompts at top
@@ -52,7 +52,7 @@ AI Chat is your personal trading assistant powered by artificial intelligence. T
 ![iOS Chat Interface](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/chat-interface-full.png)
 
 **🌐 Web Layout:**
-- **Top:** Persona indicator
+- **Top:** Companion indicator
 - **Middle:** Chat conversation
 - **Bottom:** Text input box
 - **Sidebar:** Prompts button (or Ctrl+P)

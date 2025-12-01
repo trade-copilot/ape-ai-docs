@@ -5,7 +5,7 @@
 **Time:** 60-90 minutes
 **Platform:** ✅ Both (iOS for quick checks, Web for deep prep)
 **Best for:** 🚀 Experienced day traders
-**Prerequisites:** Blitz persona selected, brokerage connected
+**Prerequisites:** Blitz companion selected, brokerage connected
 
 ---
 

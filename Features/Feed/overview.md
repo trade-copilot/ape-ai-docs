@@ -169,7 +169,7 @@ The Feed learns what you care about:
 - Themes you create
 - Questions you ask AI
 - Your portfolio holdings
-- Your persona (Money Monty, Maverick, Sage, Blitz)
+- Your companion (Money Monty, Maverick, Sage, Blitz)
 
 ---
 

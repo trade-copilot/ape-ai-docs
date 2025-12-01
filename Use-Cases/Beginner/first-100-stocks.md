@@ -45,8 +45,8 @@ Learn how to make your first stock investment using Ape AI's guided approach.
 ### Open Chat with Money Monty
 
 1. Go to **Chat** tab
-2. Make sure you have **Money** persona selected (good for balanced beginners)
-3. If not, tap your persona avatar → Select **Money**
+2. Make sure you have **Money** companion selected (good for balanced beginners)
+3. If not, tap your companion avatar → Select **Money**
 
 ### Ask About Your First $100
 

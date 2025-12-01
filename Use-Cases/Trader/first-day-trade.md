@@ -26,7 +26,7 @@ Note: Day trading is advanced and not the default for most modern retail traders
 
 **Before you start:**
 - ✅ Have Ape Paper Trading Account (or real brokerage connected)
-- ✅ Selected Blitz persona (day trader focus; advanced)
+- ✅ Selected Blitz companion (day trader focus; advanced)
 - ✅ Market is open (9:30 AM - 4:00 PM ET)
 - ✅ Have 30 minutes to actively monitor
 

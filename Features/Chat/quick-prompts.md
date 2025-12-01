@@ -140,7 +140,7 @@ Pre-built questions for common trading scenarios. Faster than typing!
 - Fair value estimate
 - Buy/wait/sell assessment
 
-**Best for:** Sage persona (long‑term investors) and Money Monty
+**Best for:** Sage companion (long‑term investors) and Money Monty
 
 **Example result:**
 > "TSLA valuation analysis: P/E 75 (vs industry 15)—pricey; fair value $380–420. Consider waiting for pullback or DCA."
@@ -241,7 +241,7 @@ Quick Prompts **change based on your persona**!
 - Undervalued Screener
 - Company Quality Check
 
-**Your persona determines which prompts appear first!**
+**Your companion determines which prompts appear first!**
 
 ---
 

@@ -132,7 +132,7 @@ AAPL $180 Call expiring 12/20
 ### Open the Ticker
 
 1. Go to **Chat** tab
-2. Switch to **Maverick** persona (best for options/momentum)
+2. Switch to **Maverick** companion (best for options/momentum)
 3. Mention your stock: "I want to trade options on $AAPL"
 
 ---

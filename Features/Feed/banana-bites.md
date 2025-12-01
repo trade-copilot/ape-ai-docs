@@ -506,7 +506,7 @@ Bites appear in your feed with news:
 - Dividend investing
 - Quality companies
 
-**Your persona determines which Bites you see first!**
+**Your companion determines which Bites you see first!**
 
 ---
 

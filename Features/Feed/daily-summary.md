@@ -450,7 +450,7 @@ A: Yes! Scroll down in Feed to see previous days. Or search "Daily Summary" in a
 A: AI (GPT-4 level) generates it by analyzing market data, news, and trends.
 
 **Q: Can I customize what's in the summary?**
-A: Currently no. But it's personalized to your persona automatically.
+A: Currently no. But it's personalized to your companion automatically.
 
 **Q: What if I miss the morning summary?**
 A: It's available all day. Just scroll to top of Feed/Discover tab.
