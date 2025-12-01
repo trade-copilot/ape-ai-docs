@@ -2,7 +2,7 @@
 
 Get started with Ape AI on your iPhone in 5 minutes.
 
----
+***
 
 ## 📱 Step 1: Download the App
 
@@ -13,7 +13,7 @@ Get started with Ape AI on your iPhone in 5 minutes.
 
 > **Requirements:** iOS 18.0 or later | 308.9 MB | Age 18+
 
----
+***
 
 ## 🔐 Step 2: Create Your Account
 
@@ -23,29 +23,30 @@ Get started with Ape AI on your iPhone in 5 minutes.
 4. Log in to the app
 
 **Or sign in with:**
-- Apple
-- Google
 
----
+* Apple
+* Google
 
-## 🎭 Step 3: Choose Your Persona
+***
 
-This is important! Your persona determines how the AI assists you.
+## 🎭 Step 3: Choose Your Companion
 
-![Persona Selection](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-blitz.png)
+This is important! Your companion determines how the AI assists you.
+
+![Companion Selection](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/persona-blitz.png)
 
 **Pick the one that matches your style:**
 
-- **💰 Money Monty** – Balanced generalist (primary), 2–5 trades/week
-- **📈 Maverick** – Momentum swing trader (days to weeks)
-- **🏦 Sage** – Long‑term investor (fundamentals, buy & hold)
-- **🚀 Blitz** – Experienced day trader (intraday, advanced only)
+* **💰 Money Monty** – Balanced generalist (primary), 2–5 trades/week
+* **📈 Maverick** – Momentum swing trader (days to weeks)
+* **🏦 Sage** – Long‑term investor (fundamentals, buy & hold)
+* **🚀 Blitz** – Experienced day trader (intraday, advanced only)
 
 Tap your choice, then tap **Continue**.
 
 > 💡 **Don’t worry**—you can change your persona anytime in settings.
 
----
+***
 
 ## 🗺️ Step 4: Take the Tour
 
@@ -54,26 +55,32 @@ The app has **3 main tabs** at the bottom:
 ![Bottom Navigation](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/bottom-navigation.png)
 
 ### 1. Chat 💬
+
 Your AI trading assistant. Ask anything!
-- Quick Action cards for common prompts
-- Custom questions
-- Trade setups and analysis
+
+* Quick Action cards for common prompts
+* Custom questions
+* Trade setups and analysis
 
 ### 2. Discover 📰
+
 Market intelligence and news
-- Ticker carousel (hot stocks)
-- Personalized news feed
-- Trending stocks
-- Themes (stock lists)
+
+* Ticker carousel (hot stocks)
+* Personalized news feed
+* Trending stocks
+* Themes (stock lists)
 
 ### 3. Portfolio 💼
-Track and analyze your holdings
-- Connect brokerages
-- View positions
-- Ask Maverick (Portfolio AI)
-- Get AI analysis
 
----
+Track and analyze your holdings
+
+* Connect brokerages
+* View positions
+* Ask Maverick (Portfolio AI)
+* Get AI analysis
+
+***
 
 ## 🤖 Step 5: Ask Your First Question
 
@@ -88,12 +95,13 @@ Let's try the AI Chat:
 ![Chat with Quick Actions](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/chat-quick-prompts.jpg)
 
 **Or type your own question:**
-- Tap the text input at bottom
-- Type: *"What stocks have improving fundamentals this month?"*
-- Tap send (arrow icon)
-- Get your answer!
 
----
+* Tap the text input at bottom
+* Type: _"What stocks have improving fundamentals this month?"_
+* Tap send (arrow icon)
+* Get your answer!
+
+***
 
 ## 📈 Step 6: Look Up a Stock
 
@@ -106,18 +114,19 @@ Let's research a stock:
 ![Stock Search](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/discover-tab.png)
 
 **You'll see:**
-- Price chart (swipe timeframes)
-- **AI Snapshot Grades** (A-F ratings) ⭐
-- Market stats
-- Bulls vs Bears sentiment
-- Company Story
-- Performance comparison
+
+* Price chart (swipe timeframes)
+* **AI Snapshot Grades** (A-F ratings) ⭐
+* Market stats
+* Bulls vs Bears sentiment
+* Company Story
+* Performance comparison
 
 ![Ticker Page](https://raw.githubusercontent.com/trade-copilot/ape-ai-docs/main/Screenshots/iOS/ticker-detail-aapl.png)
 
 **Tap any Snapshot Grade card to expand** and see the full AI analysis.
 
----
+***
 
 ## 💼 Step 7: Set Up Portfolio (Optional)
 
@@ -131,65 +140,74 @@ Want to track your investments?
 **Two options:**
 
 ### Option A: Ape Paper Trading (FREE) 📄
+
 Perfect for beginners! Practice with virtual money.
+
 1. See "Ape Paper Trading" at the top
 2. Tap **Claim Account**
 3. Start practicing risk-free!
 
 ### Option B: Connect Real Brokerage 🏦
+
 1. Choose your brokerage from the list
 2. Follow the connection steps
 3. Your positions sync automatically
 
----
+***
 
 ## ⚡ Quick Tips for iOS
 
 ### Gestures
-- **Swipe left/right** on Quick Action cards
-- **Tap to expand** Snapshot Grade cards
-- **Swipe back** from left edge to go back
-- **Pull down to refresh** news and data
+
+* **Swipe left/right** on Quick Action cards
+* **Tap to expand** Snapshot Grade cards
+* **Swipe back** from left edge to go back
+* **Pull down to refresh** news and data
 
 ### Navigation
-- **Bottom tabs** for main sections
-- **Top search icon** for quick stock lookups
-- **Profile icon** (top left) for settings
+
+* **Bottom tabs** for main sections
+* **Top search icon** for quick stock lookups
+* **Profile icon** (top left) for settings
 
 ### Quick Actions
-- Use **Quick Action cards** in Chat for common tasks
-- They're faster than typing
 
----
+* Use **Quick Action cards** in Chat for common tasks
+* They're faster than typing
+
+***
 
 ## 🎯 What's Next?
 
 Now that you're set up:
 
 **Complete Your Profile:**
-- [Choose Your Persona](../Features/Personas/choosing) (if you haven't)
-- [Connect a Brokerage](../Features/Brokerage/connecting)
+
+* [Choose Your Persona](../Features/Personas/choosing/) (if you haven't)
+* [Connect a Brokerage](../Features/Brokerage/connecting/)
 
 **Learn the Features:**
-- [AI Chat Basics](../Features/Chat/basics)
-- [Understanding Snapshot Grades](../Features/Ticker/snapshot-grades)
-- [What Are Themes?](../Features/Themes/overview)
+
+* [AI Chat Basics](../Features/Chat/basics/)
+* [Understanding Snapshot Grades](../Features/Ticker/snapshot-grades/)
+* [What Are Themes?](../Features/Themes/overview/)
 
 **Try a Workflow:**
-- [My First Stock Research](../Use-Cases/Beginner/first-research)
-- [Premarket Day Trading Routine](../Use-Cases/Advanced/premarket-routine)
 
----
+* [My First Stock Research](../Use-Cases/Beginner/first-research/)
+* [Premarket Day Trading Routine](../Use-Cases/Advanced/premarket-routine/)
+
+***
 
 ## ❓ Need Help?
 
-- [iOS-Specific Features](../platforms/ios-guide)
-- [FAQ](../Support/faq)
-- [Troubleshooting](../Support/troubleshooting)
-- [Contact Support](../Support/contact)
+* [iOS-Specific Features](../platforms/ios-guide/)
+* [FAQ](../Support/faq/)
+* [Troubleshooting](../Support/troubleshooting/)
+* [Contact Support](../Support/contact/)
 
----
+***
 
 **Welcome to the ape army! 🦍🚀**
 
-Ready to find some alpha on the web instead? → [Web Quick Start](quick-start-web)
+Ready to find some alpha on the web instead? → [Web Quick Start](../Getting%20Started/quick-start-web/)

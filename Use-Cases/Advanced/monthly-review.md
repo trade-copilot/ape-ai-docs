@@ -2,87 +2,91 @@
 
 Conduct systematic monthly portfolio reviews to optimize performance and manage risk.
 
-**⏱️ Time:** 45-60 minutes monthly
-**💰 Risk Level:** N/A (review only)
-**📱 Platform:** iOS & Web
-**👤 Best for:** All investors with portfolios
-**🦍 Recommended Persona:** Sage (analysis) + Money Monty (balanced view)
+**⏱️ Time:** 45-60 minutes monthly **💰 Risk Level:** N/A (review only) **📱 Platform:** iOS & Web **👤 Best for:** All investors with portfolios **🦍 Recommended Persona:** Sage (analysis) + Money Monty (balanced view)
 
----
+***
 
 ## What You'll Learn
 
-- How to conduct comprehensive monthly reviews
-- How to track performance metrics
-- How to identify when to rebalance
-- How to optimize tax efficiency
-- How to maintain investment discipline
+* How to conduct comprehensive monthly reviews
+* How to track performance metrics
+* How to identify when to rebalance
+* How to optimize tax efficiency
+* How to maintain investment discipline
 
----
+***
 
 ## Why Monthly Reviews Matter
 
 ### The Power of Systematic Review
 
 **Most investors:**
-- ❌ Check portfolio daily (too often)
-- ❌ Make emotional decisions
-- ❌ Chase performance
-- ❌ Never systematically review
-- ❌ Let winners get too large
-- ❌ Hold losers too long
+
+* ❌ Check portfolio daily (too often)
+* ❌ Make emotional decisions
+* ❌ Chase performance
+* ❌ Never systematically review
+* ❌ Let winners get too large
+* ❌ Hold losers too long
 
 **Monthly reviews enable:**
-- ✅ Disciplined decision making
-- ✅ Data-driven rebalancing
-- ✅ Risk management
-- ✅ Tax optimization
-- ✅ Goal tracking
-- ✅ Continuous improvement
+
+* ✅ Disciplined decision making
+* ✅ Data-driven rebalancing
+* ✅ Risk management
+* ✅ Tax optimization
+* ✅ Goal tracking
+* ✅ Continuous improvement
 
 **Result:**
-- Better returns
-- Lower stress
-- Clearer strategy
-- Compound growth
 
----
+* Better returns
+* Lower stress
+* Clearer strategy
+* Compound growth
+
+***
 
 ## Before You Start
 
 ### Prerequisites
 
 ✅ **Portfolio Requirements**
-- Active portfolio with 3+ holdings
-- At least 30 days of history
-- Clear investment goals
-- Defined target allocation
+
+* Active portfolio with 3+ holdings
+* At least 30 days of history
+* Clear investment goals
+* Defined target allocation
 
 ✅ **Tools Needed**
-- Ape AI account with portfolio data
-- Trading journal (spreadsheet or app)
-- Calendar reminder for monthly reviews
-- Pen and paper for notes
+
+* Ape AI account with portfolio data
+* Trading journal (spreadsheet or app)
+* Calendar reminder for monthly reviews
+* Pen and paper for notes
 
 ✅ **Mindset**
-- Objectivity (remove emotions)
-- Discipline (follow the process)
-- Patience (don't over-trade)
-- Long-term focus
+
+* Objectivity (remove emotions)
+* Discipline (follow the process)
+* Patience (don't over-trade)
+* Long-term focus
 
 ### Schedule Your Reviews
 
 **Recommended timing:**
-- **Monthly:** First weekend of each month
-- **Quarterly:** After earnings season ends
-- **Annually:** End of year (tax planning)
+
+* **Monthly:** First weekend of each month
+* **Quarterly:** After earnings season ends
+* **Annually:** End of year (tax planning)
 
 **Time commitment:**
-- Monthly: 45-60 minutes
-- Quarterly: 90-120 minutes
-- Annual: 2-3 hours
 
----
+* Monthly: 45-60 minutes
+* Quarterly: 90-120 minutes
+* Annual: 2-3 hours
+
+***
 
 ## Monthly Review Checklist
 
@@ -127,19 +131,21 @@ Conduct systematic monthly portfolio reviews to optimize performance and manage 
   □ Set goals for next month
 ```
 
----
+***
 
 ## Step 1: Performance Analysis (15 min)
 
 ### Calculate Returns
 
 **Ask Sage:**
+
 ```
 What's my portfolio performance this month?
 Compare to SPY, QQQ, and my goals.
 ```
 
 **Sage's Performance Report:**
+
 ```
 📊 Monthly Performance Report - November 2024
 
@@ -255,19 +261,21 @@ Actions This Month:
 - Learnings: Tech momentum continues
 ```
 
----
+***
 
 ## Step 2: Allocation Review (10 min)
 
 ### Check Current Allocation
 
 **Ask Sage:**
+
 ```
 Show my current asset allocation and
 compare it to my target allocation.
 ```
 
 **Sage's Allocation Report:**
+
 ```
 📊 Asset Allocation Analysis
 
@@ -393,19 +401,21 @@ Overall Risk: HIGH 🟥
 Action: Rebalance within 30 days
 ```
 
----
+***
 
 ## Step 3: Risk Assessment (10 min)
 
 ### Portfolio Risk Metrics
 
 **Ask Sage:**
+
 ```
 Analyze my portfolio risk. What's my beta,
 volatility, and maximum drawdown potential?
 ```
 
 **Sage's Risk Analysis:**
+
 ```
 ⚠️ Portfolio Risk Assessment
 
@@ -535,7 +545,7 @@ Too concentrated, too volatile.
 Immediate rebalancing needed.
 ```
 
----
+***
 
 ## Step 4: Holdings Analysis (15 min)
 
@@ -554,6 +564,7 @@ trim, or sell?"
 ```
 
 **Sage's Position Review:**
+
 ```
 AAPL Position Analysis - Monthly Review
 
@@ -695,19 +706,21 @@ Action: Monitor closely
 Consider exit if breaks $230 support
 ```
 
----
+***
 
 ## Step 5: Action Items (10 min)
 
 ### Create Next Month's Plan
 
 **Ask Sage:**
+
 ```
 Based on my review, what should I do
 this month? Give me a prioritized action plan.
 ```
 
 **Sage's Action Plan:**
+
 ```
 📋 December Action Plan - Prioritized
 
@@ -816,7 +829,7 @@ By Dec 31:
 If achieved: Portfolio risk normalized ✓
 ```
 
----
+***
 
 ## Step 6: Journal Entry (5 min)
 
@@ -874,130 +887,147 @@ Next Review: December 7, 2024
 ━━━━━━━━━━━━━━━━━━━━
 ```
 
----
+***
 
 ## Quarterly vs Monthly Reviews
 
 ### Monthly Review (45-60 min)
 
 **Focus on:**
-- Performance tracking
-- Allocation drift
-- Basic rebalancing
-- Position health checks
-- Tactical adjustments
+
+* Performance tracking
+* Allocation drift
+* Basic rebalancing
+* Position health checks
+* Tactical adjustments
 
 **Don't do:**
-- Major strategy changes
-- Complete portfolio overhaul
-- Emotional reactions
-- Impulsive trades
+
+* Major strategy changes
+* Complete portfolio overhaul
+* Emotional reactions
+* Impulsive trades
 
 ### Quarterly Review (90-120 min)
 
 **Deep dive on:**
-- Full portfolio analysis
-- Tax planning
-- Strategy reassessment
-- Long-term goal check
-- Annual planning
+
+* Full portfolio analysis
+* Tax planning
+* Strategy reassessment
+* Long-term goal check
+* Annual planning
 
 **Additional items:**
-- Earnings review (all holdings)
-- Competitive landscape check
-- Macro environment assessment
-- Risk tolerance reassessment
+
+* Earnings review (all holdings)
+* Competitive landscape check
+* Macro environment assessment
+* Risk tolerance reassessment
 
 ### Annual Review (2-3 hours)
 
 **Comprehensive:**
-- Full year performance
-- Tax-loss harvesting
-- IRA contributions/conversions
-- Asset location optimization
-- Life changes (job, marriage, etc.)
-- Risk tolerance evolution
-- Strategic allocation changes
 
----
+* Full year performance
+* Tax-loss harvesting
+* IRA contributions/conversions
+* Asset location optimization
+* Life changes (job, marriage, etc.)
+* Risk tolerance evolution
+* Strategic allocation changes
+
+***
 
 ## Common Review Mistakes
 
 ### ❌ Don't Do This
 
 **1. Reviewing Too Often**
-- Checking daily/weekly
-- Making constant changes
-- Emotional reactions
-- Overtrading
+
+* Checking daily/weekly
+* Making constant changes
+* Emotional reactions
+* Overtrading
 
 **Better:**
-- Monthly schedule
-- Quarterly deep dives
-- Annual strategy review
-- Discipline
+
+* Monthly schedule
+* Quarterly deep dives
+* Annual strategy review
+* Discipline
 
 **2. Not Documenting**
-- No journal
-- Can't track progress
-- Repeat mistakes
-- No learning
+
+* No journal
+* Can't track progress
+* Repeat mistakes
+* No learning
 
 **Better:**
-- Written journal
-- Track all reviews
-- Note lessons
-- Continuous improvement
+
+* Written journal
+* Track all reviews
+* Note lessons
+* Continuous improvement
 
 **3. Ignoring Allocation Drift**
-- "It's only 5% over"
-- "I'll rebalance later"
-- Letting winners run too much
-- Concentration creep
+
+* "It's only 5% over"
+* "I'll rebalance later"
+* Letting winners run too much
+* Concentration creep
 
 **Better:**
-- Set drift thresholds (5-10%)
-- Rebalance systematically
-- Trim winners
-- Maintain discipline
+
+* Set drift thresholds (5-10%)
+* Rebalance systematically
+* Trim winners
+* Maintain discipline
 
 **4. Emotional Decisions**
-- Panic selling losers
-- Chasing winners
-- FOMO additions
-- Revenge trading
+
+* Panic selling losers
+* Chasing winners
+* FOMO additions
+* Revenge trading
 
 **Better:**
-- Follow the process
-- Data-driven decisions
-- Stick to the plan
-- Remove emotion
+
+* Follow the process
+* Data-driven decisions
+* Stick to the plan
+* Remove emotion
 
 **5. Paralysis by Analysis**
-- Over-analyzing
-- Can't make decisions
-- Waiting for "perfect"
-- Missing opportunities
+
+* Over-analyzing
+* Can't make decisions
+* Waiting for "perfect"
+* Missing opportunities
 
 **Better:**
-- Good enough > perfect
-- Execute the plan
-- Set deadlines
-- Take action
 
----
+* Good enough > perfect
+* Execute the plan
+* Set deadlines
+* Take action
+
+***
 
 ## Advanced Review Techniques
 
 ### Attribution Analysis
 
 **Ask Sage:**
+
 ```
 What drove my performance this month?
 Break down returns by position and sector.
 ```
 
 **Attribution Report:**
+
 ```
 Performance Attribution - November
 
@@ -1031,12 +1061,14 @@ Diversification would smooth returns.
 ### Tax Impact Tracking
 
 **Ask Sage:**
+
 ```
 What's my tax impact from potential
 rebalancing trades?
 ```
 
 **Tax Projection:**
+
 ```
 Tax Impact Analysis - Proposed Trades
 
@@ -1085,21 +1117,23 @@ Or:
 - Reduces tax impact to near $0
 ```
 
----
+***
 
 ## What's Next?
 
 ### Ongoing Portfolio Management
 
 **Related Workflows:**
-- [Portfolio Analysis with AI →](portfolio-analysis)
-- [Rebalancing Strategy →](portfolio-rebalance)
-- [Discover Themes →](discover-themes)
+
+* [Portfolio Analysis with AI →](portfolio-analysis/)
+* [Rebalancing Strategy →](portfolio-rebalance/)
+* [Discover Themes →](discover-themes/)
 
 **Advanced Skills:**
-- [Tax-Efficient Investing →](../../Features/Portfolio/tax-strategy)
-- [Asset Allocation →](../../Features/Portfolio/asset-allocation)
-- [Risk Management →](../../Features/trading/risk-management)
+
+* [Tax-Efficient Investing →](../../Features/Portfolio/tax-strategy/)
+* [Asset Allocation →](../../Features/Portfolio/asset-allocation/)
+* [Risk Management →](../../Features/trading/risk-management/)
 
 ### Ask Sage or Money Monty
 
@@ -1115,22 +1149,31 @@ What metrics should I track monthly vs quarterly?
 How do I balance portfolio optimization with tax efficiency?
 ```
 
----
+***
 
 ## Success Checklist
 
 ✅ I have a monthly review schedule
+
 ✅ I track performance vs benchmarks
+
 ✅ I check allocation drift every month
+
 ✅ I assess risk metrics regularly
+
 ✅ I review each position's thesis
+
 ✅ I create action plans from reviews
+
 ✅ I journal my findings and lessons
+
 ✅ I execute rebalancing when needed
+
 ✅ I optimize for taxes when possible
+
 ✅ I maintain investment discipline
 
----
+***
 
 **Remember:** The monthly review is your portfolio's health checkup. It catches problems early, keeps you disciplined, and ensures your investments stay aligned with your goals. Consistency beats perfection. 📊
 

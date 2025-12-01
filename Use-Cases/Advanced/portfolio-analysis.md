@@ -2,88 +2,93 @@
 
 Get AI-powered analysis and optimization recommendations for your entire portfolio.
 
-**⏱️ Time:** 20-30 minutes
-**💰 Risk Level:** N/A (analysis only)
-**📱 Platform:** iOS & Web
-**👤 Best for:** Anyone with 3+ holdings
-**🦍 Recommended Persona:** Sage (portfolio strategy) + Money Monty (balanced view)
+**⏱️ Time:** 20-30 minutes **💰 Risk Level:** N/A (analysis only) **📱 Platform:** iOS & Web **👤 Best for:** Anyone with 3+ holdings **🦍 Recommended Persona:** Sage (portfolio strategy) + Money Monty (balanced view)
 
----
+***
 
 ## What You'll Learn
 
-- How to get comprehensive AI portfolio analysis
-- How to identify portfolio weaknesses and risks
-- How to optimize asset allocation
-- How to find rebalancing opportunities
-- How to improve diversification
+* How to get comprehensive AI portfolio analysis
+* How to identify portfolio weaknesses and risks
+* How to optimize asset allocation
+* How to find rebalancing opportunities
+* How to improve diversification
 
----
+***
 
 ## Why Portfolio Analysis Matters
 
 ### Beyond Individual Stocks
 
 **Many traders:**
-- ❌ Pick good individual stocks
-- ❌ But have poor portfolio construction
-- ❌ Overlapping positions (same risk)
-- ❌ Unbalanced allocations
-- ❌ Hidden correlations
+
+* ❌ Pick good individual stocks
+* ❌ But have poor portfolio construction
+* ❌ Overlapping positions (same risk)
+* ❌ Unbalanced allocations
+* ❌ Hidden correlations
 
 **Portfolio analysis reveals:**
-- ✅ True diversification level
-- ✅ Sector concentration risks
-- ✅ Correlation between holdings
-- ✅ Overall risk profile
-- ✅ Optimization opportunities
+
+* ✅ True diversification level
+* ✅ Sector concentration risks
+* ✅ Correlation between holdings
+* ✅ Overall risk profile
+* ✅ Optimization opportunities
 
 **The result:**
-- Better risk-adjusted returns
-- Smoother equity curve
-- More resilient in downturns
-- Strategic asset allocation
 
----
+* Better risk-adjusted returns
+* Smoother equity curve
+* More resilient in downturns
+* Strategic asset allocation
+
+***
 
 ## Before You Start
 
 ### Prerequisites
 
 ✅ **Portfolio Requirements**
-- At least 3 holdings (stocks or ETFs)
-- Some holdings for 30+ days
-- Clear investment goals
-- Know your time horizon
+
+* At least 3 holdings (stocks or ETFs)
+* Some holdings for 30+ days
+* Clear investment goals
+* Know your time horizon
 
 ✅ **Knowledge**
-- Basic understanding of diversification
-- Familiarity with your holdings
-- Awareness of your risk tolerance
+
+* Basic understanding of diversification
+* Familiarity with your holdings
+* Awareness of your risk tolerance
 
 ✅ **Access**
-- Ape AI account with connected broker, or
-- Manual portfolio tracking in Ape AI
+
+* Ape AI account with connected broker, or
+* Manual portfolio tracking in Ape AI
 
 ### What You Need
-- 20-30 minutes of focused time
-- Current portfolio data
-- Openness to rebalancing
-- Willingness to act on insights
 
----
+* 20-30 minutes of focused time
+* Current portfolio data
+* Openness to rebalancing
+* Willingness to act on insights
+
+***
 
 ## Step 1: View Your Current Portfolio
 
 ### Access Portfolio Overview
 
 **On Web:**
+
 1. Navigate to **Portfolio** tab
 2. See all your positions
-3. View total value and P&L
+3. View total value and P\&L
 4. Check asset allocation
 
 **On iOS:**
+
 1. Tap **Portfolio** icon (bottom nav)
 2. Scroll through positions
 3. View charts and performance
@@ -92,19 +97,22 @@ Get AI-powered analysis and optimization recommendations for your entire portfol
 ### What You'll See
 
 **Portfolio Summary:**
-- Total portfolio value
-- Cash balance
-- Total gain/loss ($  and %)
-- Day change
+
+* Total portfolio value
+* Cash balance
+* Total gain/loss ($ and %)
+* Day change
 
 **Holdings List:**
-- Each stock/ETF position
-- Quantity owned
-- Current value
-- P&L per position
-- Percentage of portfolio
+
+* Each stock/ETF position
+* Quantity owned
+* Current value
+* P\&L per position
+* Percentage of portfolio
 
 **Example Portfolio View:**
+
 ```
 Total Portfolio Value: $52,450
 Cash: $2,450
@@ -122,7 +130,7 @@ AMD: $3,300 (6.3%) +15.8%
 Cash: $2,450 (4.7%)
 ```
 
----
+***
 
 ## Step 2: Request Portfolio Analysis
 
@@ -131,6 +139,7 @@ Cash: $2,450 (4.7%)
 **Open Chat with Sage:**
 
 **Type this prompt:**
+
 ```
 Analyze my entire portfolio. What are my risks,
 how's my diversification, and what should I
@@ -138,6 +147,7 @@ improve or rebalance?
 ```
 
 **Or be more specific:**
+
 ```
 Review my portfolio allocation. Am I too concentrated
 in any sector? What's my optimal rebalancing strategy?
@@ -146,6 +156,7 @@ in any sector? What's my optimal rebalancing strategy?
 ### What Sage Analyzes
 
 **Sage's Portfolio Deep Dive:**
+
 ```
 📊 Portfolio Analysis Report
 
@@ -323,7 +334,7 @@ Final Grade After Rebalancing: B+
 Much improved risk/reward profile.
 ```
 
----
+***
 
 ## Step 3: Deep Dive on Specific Issues
 
@@ -332,12 +343,14 @@ Much improved risk/reward profile.
 **If Sage flags concentration:**
 
 **Ask for more detail:**
+
 ```
 Why is being 76% in tech stocks risky?
 What could happen in a tech correction?
 ```
 
 **Sage's Risk Explanation:**
+
 ```
 Tech Concentration Risk Explained
 
@@ -409,12 +422,14 @@ Recommendation: Reduce to 50% tech or less.
 ### Correlation Analysis
 
 **Ask Sage:**
+
 ```
 How correlated are my holdings? Show me
 which stocks move together.
 ```
 
 **Sage's Correlation Matrix:**
+
 ```
 Correlation Analysis
 
@@ -463,19 +478,21 @@ Need truly uncorrelated assets:
 Add these to actually diversify!
 ```
 
----
+***
 
 ## Step 4: Get Rebalancing Strategy
 
 ### Create Action Plan
 
 **Ask Sage:**
+
 ```
 Give me a step-by-step rebalancing plan.
 What should I sell, when, and what should I buy?
 ```
 
 **Sage's Rebalancing Roadmap:**
+
 ```
 🎯 Portfolio Rebalancing Action Plan
 
@@ -634,19 +651,21 @@ Success Criteria:
 ✓ Sleep better at night
 ```
 
----
+***
 
 ## Step 5: Individual Position Review
 
 ### Analyze Each Holding
 
 **For any position, ask:**
+
 ```
 Should I hold, trim, or sell my AAPL position?
 Given my portfolio context.
 ```
 
 **Sage's Position-Specific Analysis:**
+
 ```
 AAPL Position Review (Portfolio Context)
 
@@ -732,7 +751,7 @@ Don't Sell Entirely:
 Just right-size it. ✓
 ```
 
----
+***
 
 ## Step 6: Monitor and Track Changes
 
@@ -741,12 +760,14 @@ Just right-size it. ✓
 **Set up tracking:**
 
 **Ask Sage monthly:**
+
 ```
 Review my portfolio allocation.
 Has anything drifted too far from targets?
 ```
 
 **Monthly Monitoring:**
+
 ```
 📊 Monthly Portfolio Check - Month 2
 
@@ -795,12 +816,14 @@ tech exceeds 55% (whichever first)
 **Compare before and after:**
 
 **Ask Sage:**
+
 ```
 How has my portfolio performed since rebalancing?
 Compare risk and returns to before.
 ```
 
 **3-Month Post-Rebalance Report:**
+
 ```
 Portfolio Performance Review
 3 Months After Rebalancing
@@ -852,95 +875,109 @@ Conclusion:
 Keep it up! ✓
 ```
 
----
+***
 
 ## Common Portfolio Issues
 
 ### Issue #1: Over-Concentration
 
 **Problem:**
-- 60%+ in one sector
-- 30%+ in one stock
-- 5 or fewer total holdings
+
+* 60%+ in one sector
+* 30%+ in one stock
+* 5 or fewer total holdings
 
 **Why it's risky:**
-- Sector crashes hurt badly
-- Single stock can drop 50%+
-- Not truly diversified
+
+* Sector crashes hurt badly
+* Single stock can drop 50%+
+* Not truly diversified
 
 **Solution:**
-- Trim large positions to 15-20% max
-- Add uncorrelated assets
-- Minimum 10-15 holdings
+
+* Trim large positions to 15-20% max
+* Add uncorrelated assets
+* Minimum 10-15 holdings
 
 ### Issue #2: Redundant Holdings
 
 **Problem:**
-- Owning QQQ + VOO + individual tech stocks
-- Owning both SPY and VOO
-- Overlap without knowing
+
+* Owning QQQ + VOO + individual tech stocks
+* Owning both SPY and VOO
+* Overlap without knowing
 
 **Why it's inefficient:**
-- Not adding diversification
-- Extra fees
-- Complexity without benefit
+
+* Not adding diversification
+* Extra fees
+* Complexity without benefit
 
 **Solution:**
-- Check ETF overlap tools
-- Eliminate redundant positions
-- Simplify holdings
+
+* Check ETF overlap tools
+* Eliminate redundant positions
+* Simplify holdings
 
 ### Issue #3: "Diworsification"
 
 **Problem:**
-- 30+ holdings
-- Too many small positions
-- Can't track them all
-- Decision paralysis
+
+* 30+ holdings
+* Too many small positions
+* Can't track them all
+* Decision paralysis
 
 **Why it's bad:**
-- No meaningful allocation to anything
-- High complexity
-- Can't beat market with 30 positions
-- Hard to manage
+
+* No meaningful allocation to anything
+* High complexity
+* Can't beat market with 30 positions
+* Hard to manage
 
 **Solution:**
-- Consolidate to 10-20 holdings
-- Minimum 3-5% per position
-- Focus on quality over quantity
+
+* Consolidate to 10-20 holdings
+* Minimum 3-5% per position
+* Focus on quality over quantity
 
 ### Issue #4: No Rebalancing
 
 **Problem:**
-- Winners grow to 40%+ of portfolio
-- Never trimming
-- Never adding to losers
-- Drift from target allocation
+
+* Winners grow to 40%+ of portfolio
+* Never trimming
+* Never adding to losers
+* Drift from target allocation
 
 **Why it matters:**
-- Concentration risk increases
-- Not "buying low, selling high"
-- Portfolio becomes unbalanced
+
+* Concentration risk increases
+* Not "buying low, selling high"
+* Portfolio becomes unbalanced
 
 **Solution:**
-- Rebalance quarterly or annually
-- Trim when > 5% above target
-- Add when > 5% below target
-- Systematic process
 
----
+* Rebalance quarterly or annually
+* Trim when > 5% above target
+* Add when > 5% below target
+* Systematic process
+
+***
 
 ## Advanced Portfolio Analysis
 
 ### Risk-Adjusted Returns
 
 **Ask Sage:**
+
 ```
 What's my portfolio's Sharpe Ratio and
 risk-adjusted performance?
 ```
 
 **Sage's Risk Metrics:**
+
 ```
 Risk-Adjusted Performance Analysis
 
@@ -986,12 +1023,14 @@ Target Sharpe: > 0.80
 ### Tax Efficiency Analysis
 
 **Ask Sage:**
+
 ```
 How tax-efficient is my portfolio?
 Am I generating unnecessary taxes?
 ```
 
 **Tax Efficiency Report:**
+
 ```
 Portfolio Tax Efficiency Analysis
 
@@ -1055,21 +1094,23 @@ Potential Savings: $700-800/year
 Improved After-Tax Returns ✓
 ```
 
----
+***
 
 ## What's Next?
 
 ### Ongoing Portfolio Management
 
 **Related Workflows:**
-- [Monthly Portfolio Review →](monthly-review)
-- [Rebalancing Strategy →](portfolio-rebalance)
-- [Tax-Loss Harvesting →](../../Features/Portfolio/tax-strategy)
+
+* [Monthly Portfolio Review →](monthly-review/)
+* [Rebalancing Strategy →](portfolio-rebalance/)
+* [Tax-Loss Harvesting →](../../Features/Portfolio/tax-strategy/)
 
 **Advanced Skills:**
-- [Asset Allocation →](../../Features/Portfolio/asset-allocation)
-- [Risk Management →](../../Features/trading/risk-management)
-- [Portfolio Construction →](../../Features/Portfolio/construction)
+
+* [Asset Allocation →](../../Features/Portfolio/asset-allocation/)
+* [Risk Management →](../../Features/trading/risk-management/)
+* [Portfolio Construction →](../../Features/Portfolio/construction/)
 
 ### Ask Sage or Money Monty
 
@@ -1085,22 +1126,31 @@ What's the ideal number of holdings for diversification?
 How do I balance growth and safety as I get older?
 ```
 
----
+***
 
 ## Success Checklist
 
 ✅ I reviewed my entire portfolio with AI analysis
+
 ✅ I identified concentration risks
+
 ✅ I understand my sector allocation
+
 ✅ I have a rebalancing plan
+
 ✅ I'm tracking allocation drift monthly
+
 ✅ I know my risk metrics (beta, Sharpe)
+
 ✅ I'm optimizing for taxes
+
 ✅ I have 10-20 holdings (not too few, not too many)
+
 ✅ I rebalance at least annually
+
 ✅ My allocation matches my risk tolerance and goals
 
----
+***
 
 **Remember:** Portfolio construction matters as much as individual stock picking. A well-balanced, properly diversified portfolio outperforms a concentrated portfolio of "good" stocks. Think holistically. 📊
 

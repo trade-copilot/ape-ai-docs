@@ -2,175 +2,193 @@
 
 Master trading around earnings reports using Ape AI's analysis and strategic preparation.
 
-**⏱️ Time:** 30-60 minutes per earnings play
-**💰 Risk Level:** High (binary events)
-**📱 Platform:** iOS & Web
-**👤 Best for:** Experienced traders comfortable with volatility
-**🦍 Recommended Persona:** Maverick (momentum/catalyst focus)
+**⏱️ Time:** 30-60 minutes per earnings play **💰 Risk Level:** High (binary events) **📱 Platform:** iOS & Web **👤 Best for:** Experienced traders comfortable with volatility **🦍 Recommended Companion:** Maverick (momentum/catalyst focus)
 
----
+***
 
 ## What You'll Learn
 
-- How to prepare for earnings season
-- How to identify earnings opportunities
-- How to analyze earnings reports quickly
-- How to trade the post-earnings move
-- How to manage earnings risk
+* How to prepare for earnings season
+* How to identify earnings opportunities
+* How to analyze earnings reports quickly
+* How to trade the post-earnings move
+* How to manage earnings risk
 
----
+***
 
 ## Understanding Earnings Trading
 
 ### What is Earnings Season?
 
 **Quarterly cycle:**
-- Q1 Earnings: April-May
-- Q2 Earnings: July-August
-- Q3 Earnings: October-November
-- Q4 Earnings: January-February
+
+* Q1 Earnings: April-May
+* Q2 Earnings: July-August
+* Q3 Earnings: October-November
+* Q4 Earnings: January-February
 
 **Peak weeks:**
-- 2-3 week period when most companies report
-- 500+ companies reporting per week
-- High volatility environment
-- Outsized moves (±10-20% common)
+
+* 2-3 week period when most companies report
+* 500+ companies reporting per week
+* High volatility environment
+* Outsized moves (±10-20% common)
 
 ### Why Earnings Matter
 
 **Quarterly earnings reports include:**
-- Revenue (sales)
-- EPS (earnings per share)
-- Forward guidance
-- Business updates
-- Q&A with analysts
+
+* Revenue (sales)
+* EPS (earnings per share)
+* Forward guidance
+* Business updates
+* Q\&A with analysts
 
 **Stock reactions:**
-- Beat expectations → Usually up ✅
-- Miss expectations → Usually down ❌
-- Beat but guide lower → Often down ⚠️
-- Miss but guide higher → Sometimes up 🤔
+
+* Beat expectations → Usually up ✅
+* Miss expectations → Usually down ❌
+* Beat but guide lower → Often down ⚠️
+* Miss but guide higher → Sometimes up 🤔
 
 **But it's not always logical!**
-- Market expectations > actual numbers
-- Guidance matters more than past quarter
-- Sector sentiment affects reaction
-- Technical setup influences move
 
----
+* Market expectations > actual numbers
+* Guidance matters more than past quarter
+* Sector sentiment affects reaction
+* Technical setup influences move
+
+***
 
 ## Before You Start
 
 ### Prerequisites
 
 ✅ **Trading Experience**
-- 6+ months stock trading experience
-- Comfortable with high volatility
-- Understand options (if trading them)
-- Fast decision making ability
+
+* 6+ months stock trading experience
+* Comfortable with high volatility
+* Understand options (if trading them)
+* Fast decision making ability
 
 ✅ **Account Requirements**
-- Minimum $10,000 account
-- Ability to trade pre-market/after-hours
-- Fast execution broker
-- Margin approved (optional)
+
+* Minimum $10,000 account
+* Ability to trade pre-market/after-hours
+* Fast execution broker
+* Margin approved (optional)
 
 ✅ **Knowledge**
-- Understand P/E ratios and EPS
-- Know how to read earnings reports
-- Familiar with guidance
-- Comfortable with binary risk
+
+* Understand P/E ratios and EPS
+* Know how to read earnings reports
+* Familiar with guidance
+* Comfortable with binary risk
 
 ✅ **Risk Management**
-- Risk only 1-2% per earnings play
-- Max 2-3 earnings trades at once
-- Comfortable with 100% loss (options)
-- Have clear exit plan
+
+* Risk only 1-2% per earnings play
+* Max 2-3 earnings trades at once
+* Comfortable with 100% loss (options)
+* Have clear exit plan
 
 ### What You Need
-- Earnings calendar
-- Access to earnings calls
-- Quick news feeds
-- Ability to act fast
 
----
+* Earnings calendar
+* Access to earnings calls
+* Quick news feeds
+* Ability to act fast
+
+***
 
 ## Earnings Trading Strategies
 
 ### Strategy #1: Avoid Entirely (Safest)
 
 **Best for:**
-- Beginners
-- Risk-averse traders
-- Long-term investors
-- Small accounts
+
+* Beginners
+* Risk-averse traders
+* Long-term investors
+* Small accounts
 
 **Approach:**
-- Don't hold through earnings
-- Exit positions 1-2 days before
-- Wait for post-earnings setup
-- Reduce volatility exposure
+
+* Don't hold through earnings
+* Exit positions 1-2 days before
+* Wait for post-earnings setup
+* Reduce volatility exposure
 
 **Pros:**
-- ✅ No binary risk
-- ✅ Sleep well at night
-- ✅ Avoid unpredictable moves
+
+* ✅ No binary risk
+* ✅ Sleep well at night
+* ✅ Avoid unpredictable moves
 
 **Cons:**
-- ❌ Miss big winners
-- ❌ Less exciting
-- ❌ Fewer opportunities
+
+* ❌ Miss big winners
+* ❌ Less exciting
+* ❌ Fewer opportunities
 
 ### Strategy #2: Post-Earnings Continuation (Recommended)
 
 **Best for:**
-- Intermediate traders
-- Swing traders
-- Risk-managed approach
+
+* Intermediate traders
+* Swing traders
+* Risk-managed approach
 
 **Approach:**
-- Wait for earnings release
-- Let volatility settle (1-4 hours)
-- Enter on clear direction
-- Ride the momentum
+
+* Wait for earnings release
+* Let volatility settle (1-4 hours)
+* Enter on clear direction
+* Ride the momentum
 
 **Pros:**
-- ✅ Clarity on direction
-- ✅ Better risk/reward
-- ✅ Defined setup
-- ✅ Less binary
+
+* ✅ Clarity on direction
+* ✅ Better risk/reward
+* ✅ Defined setup
+* ✅ Less binary
 
 **Cons:**
-- ❌ May miss initial move
-- ❌ Requires quick analysis
-- ❌ Early morning/late night
+
+* ❌ May miss initial move
+* ❌ Requires quick analysis
+* ❌ Early morning/late night
 
 **This guide focuses on Strategy #2**
 
 ### Strategy #3: Pre-Earnings Play (Advanced)
 
 **Best for:**
-- Experienced traders only
-- Options traders
-- High risk tolerance
+
+* Experienced traders only
+* Options traders
+* High risk tolerance
 
 **Approach:**
-- Enter before earnings
-- Small position size
-- Accept binary outcome
-- Have plan for both scenarios
+
+* Enter before earnings
+* Small position size
+* Accept binary outcome
+* Have plan for both scenarios
 
 **Pros:**
-- ✅ Capture full move
-- ✅ Better options pricing (pre-IV)
+
+* ✅ Capture full move
+* ✅ Better options pricing (pre-IV)
 
 **Cons:**
-- ❌ 50/50 gamble
-- ❌ High stress
-- ❌ Can lose 100%
-- ❌ IV crush on options
 
----
+* ❌ 50/50 gamble
+* ❌ High stress
+* ❌ Can lose 100%
+* ❌ IV crush on options
+
+***
 
 ## Step 1: Identify Earnings Opportunities (Week Before)
 
@@ -179,31 +197,36 @@ Master trading around earnings reports using Ape AI's analysis and strategic pre
 **Which companies to watch:**
 
 **Tier 1: Must-Watch (Always)**
-- AAPL, MSFT, GOOGL, AMZN, META (Mega-cap tech)
-- NVDA, AMD, TSLA (High beta, big movers)
-- SPY components having bad/good quarters
+
+* AAPL, MSFT, GOOGL, AMZN, META (Mega-cap tech)
+* NVDA, AMD, TSLA (High beta, big movers)
+* SPY components having bad/good quarters
 
 **Tier 2: Sector Leaders**
-- Leading stocks in hot sectors
-- Stocks you're already tracking
-- Companies with upcoming catalysts
-- High-volume, liquid names
+
+* Leading stocks in hot sectors
+* Stocks you're already tracking
+* Companies with upcoming catalysts
+* High-volume, liquid names
 
 **Tier 3: Speculative**
-- Small caps with big moves
-- Biotech with binary events
-- Turnaround stories
-- Contrarian plays
+
+* Small caps with big moves
+* Biotech with binary events
+* Turnaround stories
+* Contrarian plays
 
 **Avoid:**
-- ❌ Low volume stocks (< 1M shares/day)
-- ❌ Stocks you don't understand
-- ❌ Penny stocks
-- ❌ Illiquid options (if trading options)
+
+* ❌ Low volume stocks (< 1M shares/day)
+* ❌ Stocks you don't understand
+* ❌ Penny stocks
+* ❌ Illiquid options (if trading options)
 
 ### Use Ape AI to Find Opportunities
 
 **Ask Maverick:**
+
 ```
 What are the most important earnings reports
 this week? Show me the biggest market movers
@@ -211,6 +234,7 @@ and any high-probability setups.
 ```
 
 **Maverick's Earnings Preview:**
+
 ```
 📅 Earnings Week Ahead - Key Reports
 
@@ -277,12 +301,14 @@ Strategy Recommendations:
 **For your top 3-5 earnings plays:**
 
 **Ask Sage for fundamental check:**
+
 ```
 Analyze TSLA's fundamentals ahead of earnings.
 Is it likely to beat? What should I watch for?
 ```
 
 **Sage's Earnings Preview:**
+
 ```
 TSLA Earnings Preview - Q4 2024
 
@@ -354,7 +380,7 @@ If meet/miss → Avoid or short
 Don't guess beforehand.
 ```
 
----
+***
 
 ## Step 2: Pre-Earnings Setup (Day Before)
 
@@ -363,6 +389,7 @@ Don't guess beforehand.
 **For each earnings play:**
 
 **TSLA Example:**
+
 ```
 TSLA Earnings Trade Plan
 ━━━━━━━━━━━━━━━━━━━━
@@ -419,23 +446,26 @@ Risk Management:
 **Before earnings release:**
 
 **Set alerts for:**
-- 4:00pm: Earnings release time
-- 5:30pm: Earnings call starts
-- Key price levels (support/resistance)
+
+* 4:00pm: Earnings release time
+* 5:30pm: Earnings call starts
+* Key price levels (support/resistance)
 
 **Prepare to monitor:**
-- Earnings press release (company IR site)
-- Benzinga/Bloomberg for quick analysis
-- Ape AI for Maverick's take
-- StockTwits/Twitter for sentiment
+
+* Earnings press release (company IR site)
+* Benzinga/Bloomberg for quick analysis
+* Ape AI for Maverick's take
+* StockTwits/Twitter for sentiment
 
 **Have ready:**
-- Broker app open
-- Quick access to place orders
-- Calculator for position sizing
-- Journal ready for notes
 
----
+* Broker app open
+* Quick access to place orders
+* Calculator for position sizing
+* Journal ready for notes
+
+***
 
 ## Step 3: Earnings Release (Real-Time)
 
@@ -444,6 +474,7 @@ Risk Management:
 **When earnings drop (usually 4:00-4:05pm):**
 
 **1. Check the numbers FAST:**
+
 ```
 TSLA Q4 Earnings - JUST RELEASED
 
@@ -455,14 +486,16 @@ Initial Reaction: BULLISH ✓
 ```
 
 **2. Check stock reaction:**
-- After-hours price: $250 (+3.3%)
-- Volume: Heavy (bullish confirmation)
-- Trend: Spiking higher
+
+* After-hours price: $250 (+3.3%)
+* Volume: Heavy (bullish confirmation)
+* Trend: Spiking higher
 
 **3. Scan guidance quickly:**
-- 2025 deliveries: 2.2M (vs 2.0M est) ✅
-- Margin outlook: Improving ✅
-- Cybertruck: On track ✅
+
+* 2025 deliveries: 2.2M (vs 2.0M est) ✅
+* Margin outlook: Improving ✅
+* Cybertruck: On track ✅
 
 **First 5 min verdict: BEAT, good guidance, bullish reaction**
 
@@ -474,6 +507,7 @@ is this a buy or avoid?
 ```
 
 **Maverick's Instant Analysis:**
+
 ```
 🚨 TSLA Earnings Flash Analysis
 
@@ -519,22 +553,26 @@ Action: BUY pullback tomorrow AM ✓
 **5:30pm: Earnings call starts**
 
 **Focus on:**
-- CEO tone (confident or defensive?)
-- Guidance details
-- Analyst questions (concerns?)
-- Management responses
+
+* CEO tone (confident or defensive?)
+* Guidance details
+* Analyst questions (concerns?)
+* Management responses
 
 **Watch for:**
-- 🚩 Red flags: Lowered guidance, concerns raised, defensive tone
-- ✅ Green flags: Raised guidance, excitement, strong outlook
+
+* 🚩 Red flags: Lowered guidance, concerns raised, defensive tone
+* ✅ Green flags: Raised guidance, excitement, strong outlook
 
 **Ask Maverick for call summary:**
+
 ```
 Summarize TSLA earnings call key points.
 Did anything change your analysis?
 ```
 
 **After call update:**
+
 ```
 TSLA Call Update - 6:30pm
 
@@ -557,7 +595,7 @@ Verdict: Still BULLISH ✓
 Trade plan unchanged.
 ```
 
----
+***
 
 ## Step 4: Next Morning Execution (Opening)
 
@@ -566,6 +604,7 @@ Trade plan unchanged.
 **Check pre-market action:**
 
 **7:00am: Pre-market update**
+
 ```
 TSLA Pre-Market
 ━━━━━━━━━━━━━━━━━━━━
@@ -587,12 +626,14 @@ Plan:
 ```
 
 **Ask Maverick for entry plan:**
+
 ```
 TSLA gapping to $254 pre-market after beat.
 What's my entry strategy?
 ```
 
 **Maverick's Entry Plan:**
+
 ```
 TSLA Entry Strategy - Gap Up Open
 
@@ -650,6 +691,7 @@ Patience wins here. ✓
 **9:30am: Market opens**
 
 **Watch first 15 minutes:**
+
 ```
 9:30: TSLA opens $253.50
 9:35: Spike to $255.20
@@ -660,6 +702,7 @@ Patience wins here. ✓
 **9:45am: Entry opportunity**
 
 **Scenario: Gap and fade to $250**
+
 ```
 9:50am: TSLA pulls back to $250.50
 
@@ -694,6 +737,7 @@ Reward: $475-975 (2:1 to 4:1)
 **10:00am: Position established**
 
 **Journal entry:**
+
 ```
 TSLA Earnings Trade - ENTERED
 
@@ -723,7 +767,7 @@ Plan:
 - Trust the setup
 ```
 
----
+***
 
 ## Step 5: Managing the Earnings Trade
 
@@ -732,34 +776,39 @@ Plan:
 **What to watch:**
 
 **Day 1 (Entry day):**
-- Does it hold the gap?
-- Is volume supporting the move?
-- Any analyst upgrades?
-- Sector following through?
+
+* Does it hold the gap?
+* Is volume supporting the move?
+* Any analyst upgrades?
+* Sector following through?
 
 **Positive signs:**
-- ✅ Closes near highs
-- ✅ Volume stays elevated
-- ✅ Sector strong
-- ✅ No negative news
+
+* ✅ Closes near highs
+* ✅ Volume stays elevated
+* ✅ Sector strong
+* ✅ No negative news
 
 **Warning signs:**
-- ⚠️ Fading all day
-- ⚠️ Volume drying up
-- ⚠️ Sector weak
-- ⚠️ Negative analyst comments
+
+* ⚠️ Fading all day
+* ⚠️ Volume drying up
+* ⚠️ Sector weak
+* ⚠️ Negative analyst comments
 
 ### Days 2-5: Position Management
 
 **Daily check-in:**
 
 **Ask Maverick:**
+
 ```
 Update on my TSLA earnings trade.
 Still holding or take profit?
 ```
 
 **Day 3 Update:**
+
 ```
 TSLA Trade Update - Day 3
 
@@ -792,6 +841,7 @@ Stay patient. Setup working. ✓
 ### Exiting the Trade
 
 **Scenario A: Hit Target 1 ($260)**
+
 ```
 Day 4: TSLA hits $260
 
@@ -808,6 +858,7 @@ Remaining position:
 ```
 
 **Scenario B: Hit Stop ($246)**
+
 ```
 Day 2: TSLA breaks down to $246
 
@@ -824,130 +875,151 @@ Journal:
 - Next trade
 ```
 
----
+***
 
 ## Common Earnings Scenarios
 
 ### Scenario 1: Beat But Stock Drops
 
 **What happened:**
-- Company beats earnings
-- Guidance is weak
-- Stock drops 5% anyway
+
+* Company beats earnings
+* Guidance is weak
+* Stock drops 5% anyway
 
 **Why:**
-- Guidance > past results
-- High expectations not met
-- "Sell the news" after run-up
-- Sector weakness
+
+* Guidance > past results
+* High expectations not met
+* "Sell the news" after run-up
+* Sector weakness
 
 **What to do:**
-- ✅ Avoid or go short
-- ❌ Don't fight the tape
-- ❌ Don't average down
+
+* ✅ Avoid or go short
+* ❌ Don't fight the tape
+* ❌ Don't average down
 
 **Learning:**
-- Price action > Fundamentals
-- Market forward-looking
-- Respect the move
+
+* Price action > Fundamentals
+* Market forward-looking
+* Respect the move
 
 ### Scenario 2: Miss But Stock Rallies
 
 **What happened:**
-- Company misses earnings
-- Stock up 3% next day
+
+* Company misses earnings
+* Stock up 3% next day
 
 **Why:**
-- Miss was expected (priced in)
-- Guidance was raised
-- Sector momentum strong
-- Short squeeze
+
+* Miss was expected (priced in)
+* Guidance was raised
+* Sector momentum strong
+* Short squeeze
 
 **What to do:**
-- ✅ Can still trade long if setup good
-- ✅ Watch for follow-through
-- ⚠️ Be cautious (can reverse)
+
+* ✅ Can still trade long if setup good
+* ✅ Watch for follow-through
+* ⚠️ Be cautious (can reverse)
 
 ### Scenario 3: Huge Gap (±15%+)
 
 **What happened:**
-- Massive earnings surprise
-- Stock gaps 15%+ overnight
+
+* Massive earnings surprise
+* Stock gaps 15%+ overnight
 
 **Why:**
-- Major guidance change
-- Unexpected catalyst
-- Sector-wide implications
+
+* Major guidance change
+* Unexpected catalyst
+* Sector-wide implications
 
 **What to do:**
-- ⚠️ Don't chase immediately
-- ⚠️ Wait for consolidation
-- ✅ Enter on pullback
-- ✅ Or wait for breakout from consolidation
+
+* ⚠️ Don't chase immediately
+* ⚠️ Wait for consolidation
+* ✅ Enter on pullback
+* ✅ Or wait for breakout from consolidation
 
 **Risk:**
-- Mean reversion likely
-- First move might be fake
-- Better entry will come
 
----
+* Mean reversion likely
+* First move might be fake
+* Better entry will come
+
+***
 
 ## Earnings Season Calendar Strategy
 
 ### Peak Weeks Approach
 
 **Week 1-2 of Earnings Season:**
-- Market testing waters
-- Early reports set tone
-- Moderate volatility
+
+* Market testing waters
+* Early reports set tone
+* Moderate volatility
 
 **Strategy:**
-- Selective plays
-- Smaller size
-- Test the environment
+
+* Selective plays
+* Smaller size
+* Test the environment
 
 **Week 3-4 (Peak):**
-- 300-500 reports per week
-- Highest volatility
-- Most opportunities
+
+* 300-500 reports per week
+* Highest volatility
+* Most opportunities
 
 **Strategy:**
-- Most active
-- Full position sizing
-- Best setups
+
+* Most active
+* Full position sizing
+* Best setups
 
 **Week 5-6 (Tail End):**
-- Stragglers reporting
-- Volatility fading
-- Fewer opportunities
+
+* Stragglers reporting
+* Volatility fading
+* Fewer opportunities
 
 **Strategy:**
-- Wind down
-- Cherry-pick only
-- Smaller size again
+
+* Wind down
+* Cherry-pick only
+* Smaller size again
 
 ### Sector Rotation During Earnings
 
 **Watch sector leadership:**
 
 **Early Earnings:**
-- Financials (JPM, BAC, GS)
-- Set tone for risk appetite
+
+* Financials (JPM, BAC, GS)
+* Set tone for risk appetite
 
 **Mid Earnings:**
-- Tech mega-caps (AAPL, MSFT, GOOGL, etc.)
-- Drive market direction
+
+* Tech mega-caps (AAPL, MSFT, GOOGL, etc.)
+* Drive market direction
 
 **Late Earnings:**
-- Retail (WMT, TGT, AMZN)
-- Consumer health check
+
+* Retail (WMT, TGT, AMZN)
+* Consumer health check
 
 **Strategy:**
-- Follow the leadership
-- Weak sector = avoid
-- Strong sector = focus
 
----
+* Follow the leadership
+* Weak sector = avoid
+* Strong sector = focus
+
+***
 
 ## Risk Management for Earnings
 
@@ -963,6 +1035,7 @@ Why: Higher volatility, binary risk
 ```
 
 **Example:**
+
 ```
 Account: $50,000
 Normal risk: $1,000 (2%)
@@ -987,42 +1060,48 @@ Max total risk: 3-4% of account
 ```
 
 **Why:**
-- Correlated moves (tech all moves together)
-- Multiple binary events
-- Can't manage too many
-- Preserve capital
+
+* Correlated moves (tech all moves together)
+* Multiple binary events
+* Can't manage too many
+* Preserve capital
 
 ### Stop Losses Are Mandatory
 
 **Always use stops on earnings trades:**
 
 **Technical stop:**
-- Below gap fill level
-- Below key support
-- Below recent low
+
+* Below gap fill level
+* Below key support
+* Below recent low
 
 **Percentage stop:**
-- 2-3% from entry (tight)
-- Wider if large gap up
+
+* 2-3% from entry (tight)
+* Wider if large gap up
 
 **Time stop:**
-- Exit if no progress in 3-5 days
-- Don't let winner become loser
-- Move on to next opportunity
 
----
+* Exit if no progress in 3-5 days
+* Don't let winner become loser
+* Move on to next opportunity
+
+***
 
 ## Tools and Resources
 
 ### Earnings Calendars
 
 **Free Resources:**
-- Earnings Whispers (earnings calendar)
-- Yahoo Finance (earnings dates)
-- Investing.com (earnings calendar)
-- Your broker (usually has calendar)
+
+* Earnings Whispers (earnings calendar)
+* Yahoo Finance (earnings dates)
+* Investing.com (earnings calendar)
+* Your broker (usually has calendar)
 
 **Ape AI:**
+
 ```
 Ask Maverick:
 What are the key earnings this week?
@@ -1031,39 +1110,44 @@ What are the key earnings this week?
 ### Real-Time Earnings Data
 
 **News Sources:**
-- Benzinga Pro (paid, fast)
-- Bloomberg Terminal (paid, pro)
-- Twitter/X (free, follow @EarningsWhisper)
-- Company investor relations site (official)
+
+* Benzinga Pro (paid, fast)
+* Bloomberg Terminal (paid, pro)
+* Twitter/X (free, follow @EarningsWhisper)
+* Company investor relations site (official)
 
 ### Analysis Tools
 
 **Ape AI:**
-- Maverick for quick takes
-- Sage for fundamental preview
-- "Why Pop or Drop" for catalysts
-- "Bagholder Risks" for what to watch
+
+* Maverick for quick takes
+* Sage for fundamental preview
+* "Why Pop or Drop" for catalysts
+* "Bagholder Risks" for what to watch
 
 **External:**
-- SeekingAlpha (transcripts)
-- Koyfin (earnings data)
-- TradingView (charts)
 
----
+* SeekingAlpha (transcripts)
+* Koyfin (earnings data)
+* TradingView (charts)
+
+***
 
 ## What's Next?
 
 ### Master Earnings Trading
 
 **Related Workflows:**
-- [Swing Trading Routine →](swing-trading-routine)
-- [Weekend Research →](weekend-research)
-- [First Options Trade →](first-options-trade) (earnings plays with options)
+
+* [Swing Trading Routine →](swing-trading-routine/)
+* [Weekend Research →](weekend-research/)
+* [First Options Trade →](first-options-trade/) (earnings plays with options)
 
 **Advanced Skills:**
-- [Options Strategies →](../../Features/trading/options-strategies)
-- [Risk Management →](../../Features/trading/risk-management)
-- [Technical Analysis →](../../Features/trading/technical-analysis)
+
+* [Options Strategies →](../../Features/trading/options-strategies/)
+* [Risk Management →](../../Features/trading/risk-management/)
+* [Technical Analysis →](../../Features/trading/technical-analysis/)
 
 ### Ask Maverick
 
@@ -1079,22 +1163,13 @@ What's the best timeframe for holding post-earnings trades?
 Should I use options or stocks for earnings trades?
 ```
 
----
+***
 
 ## Success Checklist
 
-✅ I research earnings BEFORE the report
-✅ I have a plan for both beat and miss scenarios
-✅ I wait for post-earnings clarity (no guessing)
-✅ I use smaller position sizes (1-1.5% risk)
-✅ I set stops immediately after entry
-✅ I don't chase huge gaps
-✅ I take partial profits at targets
-✅ I limit earnings exposure to 2-3 positions max
-✅ I journal every earnings trade
-✅ I respect price action over fundamentals
+✅ I research earnings BEFORE the report ✅ I have a plan for both beat and miss scenarios ✅ I wait for post-earnings clarity (no guessing) ✅ I use smaller position sizes (1-1.5% risk) ✅ I set stops immediately after entry ✅ I don't chase huge gaps ✅ I take partial profits at targets ✅ I limit earnings exposure to 2-3 positions max ✅ I journal every earnings trade ✅ I respect price action over fundamentals
 
----
+***
 
 **Remember:** Earnings are binary events. You can do perfect analysis and still be wrong. The key is position sizing, having a plan, and respecting price action. Don't gamble—trade with an edge. 📊
 
