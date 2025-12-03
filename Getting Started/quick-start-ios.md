@@ -37,7 +37,7 @@ Get started with Ape AI on your iPhone in 5 minutes.
 
 **This is important! Your companion determines how the AI assists you.**
 
-![Companion Selection](<../.gitbook/assets/TV - 1 (7).png>)
+![Companion Selection](<../.gitbook/assets/TV - 1 (6) (1).png>)
 
 **Pick the one that matches your style:**
 
