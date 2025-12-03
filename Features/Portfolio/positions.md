@@ -283,7 +283,7 @@ Monitor your holdings, manage risk, know when to exit.
    * Has anything changed?
    * Should I cut losses?
 
-**Ask Maverick:** "Should I hold or sell \[TICKER]?"
+**Portfolio AI:** "Should I hold or sell \[TICKER]?"
 
 ***
 
@@ -330,7 +330,7 @@ Monitor your holdings, manage risk, know when to exit.
 
 ***
 
-### Ask Maverick About Positions
+### Ask Portfolio AI About Positions
 
 **Portfolio AI can answer:**
 

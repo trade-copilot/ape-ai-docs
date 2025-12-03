@@ -1,6 +1,6 @@
 # What is Ape AI?
 
-Ape AI is your AI-powered trading copilot for iOS and Web. Think of it as having a smart trading assistant in your pocket that helps you research stocks, find trade setups, and manage your portfolio—all powered by AI.
+Ape AI is your AI-powered trading companion for iOS and Web. Think of it as having a smart trading assistant in your pocket that helps you research stocks, find trade setups, and manage your portfolio—all powered by AI.
 
 ***
 
@@ -139,7 +139,7 @@ Every stock gets **4 AI grades**: Fundamental, Technical, Sentiment, and Risk—
 
 ✅ Want portfolio analysis and “what to do next
 
-&#x20;✅ Trade on‑the‑go (mobile + desktop)
+✅ Trade on‑the‑go (mobile + desktop)
 
 ### Might not be for you if you:
 

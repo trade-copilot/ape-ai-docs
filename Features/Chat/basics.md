@@ -32,7 +32,7 @@ AI Chat is your personal trading assistant powered by artificial intelligence. T
 
 ### Web
 
-1. Go to app.Ape AI.com
+1. Go to app.askape.com
 2. Click **Chat** in left sidebar
 3. Chat interface opens
 
@@ -197,11 +197,15 @@ Then gives you a personalized answer.
 
 ### 1. Be Specific
 
-❌ **Vague:** "Tell me about TSLA" ✅ **Specific:** "Is TSLA a good swing trade entry at $465?"
+❌ **Vague:** "Tell me about TSLA"&#x20;
+
+✅ **Specific:** "Is TSLA a good swing trade entry at $465?"
 
 ### 2. Include Your Timeframe
 
-❌ "Should I buy AAPL?" ✅ "Should I buy AAPL for a 2-week swing trade?"
+❌ "Should I buy AAPL?"&#x20;
+
+✅ "Should I buy AAPL for a 2-week swing trade?"
 
 ### 3. Mention Your Risk Tolerance
 
@@ -290,11 +294,25 @@ Make chatting faster on web:
 
 ### AI is NOT:
 
-❌ A magic crystal ball (can't predict the future) ❌ 100% accurate (markets are unpredictable) ❌ Financial advice (you make final decisions) ❌ A replacement for your own research
+❌ A magic crystal ball (can't predict the future)&#x20;
+
+❌ 100% accurate (markets are unpredictable)&#x20;
+
+❌ Financial advice (you make final decisions)&#x20;
+
+❌ A replacement for your own research
 
 ### AI CAN:
 
-✅ Analyze data quickly ✅ Provide informed perspectives ✅ Find opportunities you might miss ✅ Explain complex concepts ✅ Help with strategy decisions
+✅ Analyze data quickly&#x20;
+
+✅ Provide informed perspectives&#x20;
+
+✅ Find opportunities you might miss&#x20;
+
+✅ Explain complex concepts&#x20;
+
+✅ Help with strategy decisions
 
 **Always do your own due diligence!**
 

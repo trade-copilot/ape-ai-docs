@@ -2,135 +2,146 @@
 
 Establish a consistent swing trading routine using Ape AI for setup analysis and trade management.
 
-**⏱️ Time:** 30-45 minutes daily
-**💰 Risk Level:** Moderate to High
-**📱 Platform:** iOS & Web
-**👤 Best for:** Active traders holding 2-10 day positions
-**🦍 Recommended Companion:** Maverick (momentum/swing focus)
+**⏱️ Time:** 30-45 minutes daily **💰 Risk Level:** Moderate to High **📱 Platform:** iOS & Web **👤 Best for:** Active traders holding 2-10 day positions **🦍 Recommended Companion:** Maverick (momentum/swing focus)
 
----
+***
 
 ## What You'll Learn
 
-- How to build a consistent daily swing trading routine
-- How to use Ape AI for swing trade setups
-- How to manage multiple swing positions
-- How to prepare for the next trading day
-- How to balance swing trading with a full-time job
+* How to build a consistent daily swing trading routine
+* How to use Ape AI for swing trade setups
+* How to manage multiple swing positions
+* How to prepare for the next trading day
+* How to balance swing trading with a full-time job
 
----
+***
 
 ## What is Swing Trading?
 
 ### Swing Trading vs Other Styles
 
 **Swing Trading:**
-- Hold period: 2-10 days typically
-- Captures short-term trends/swings
-- Not watching all day
-- Technical + catalyst driven
-- 5-15 trades per month
+
+* Hold period: 2-10 days typically
+* Captures short-term trends/swings
+* Not watching all day
+* Technical + catalyst driven
+* 5-15 trades per month
 
 **vs Day Trading:**
-- Day trading: In and out same day
-- Requires full attention during market hours
-- More trades, smaller moves
-- Higher stress, faster decisions
+
+* Day trading: In and out same day
+* Requires full attention during market hours
+* More trades, smaller moves
+* Higher stress, faster decisions
 
 **vs Investing:**
-- Investing: Hold months to years
-- Fundamental driven
-- Less active management
-- Longer-term outlook
+
+* Investing: Hold months to years
+* Fundamental driven
+* Less active management
+* Longer-term outlook
 
 **Why Swing Trading:**
-- ✅ Works with a full-time job
-- ✅ Less stressful than day trading
-- ✅ Captures bigger moves than scalping
-- ✅ Can use both stocks and options
-- ✅ Better risk/reward than day trading
-- ✅ More opportunities than long-term investing
 
----
+* ✅ Works with a full-time job
+* ✅ Less stressful than day trading
+* ✅ Captures bigger moves than scalping
+* ✅ Can use both stocks and options
+* ✅ Better risk/reward than day trading
+* ✅ More opportunities than long-term investing
+
+***
 
 ## Before You Start
 
 ### Prerequisites
 
 ✅ **Trading Knowledge**
-- 3+ months stock trading experience
-- Understand technical analysis basics
-- Familiar with support/resistance
-- Know how to read volume
+
+* 3+ months stock trading experience
+* Understand technical analysis basics
+* Familiar with support/resistance
+* Know how to read volume
 
 ✅ **Account Setup**
-- Minimum $5,000 account (recommended)
-- Portfolio Margin or $25k+ (if day trading too)
-- Access to extended hours (optional)
-- Fast broker execution
+
+* Minimum $5,000 account (recommended)
+* Portfolio Margin or $25k+ (if day trading too)
+* Access to extended hours (optional)
+* Fast broker execution
 
 ✅ **Risk Management**
-- Risk 1-2% per position
-- Max 3-5 positions at once
-- Position sizing calculator ready
-- Stop losses mandatory
+
+* Risk 1-2% per position
+* Max 3-5 positions at once
+* Position sizing calculator ready
+* Stop losses mandatory
 
 ✅ **Time Commitment**
-- 30 min pre-market (6:30-9:30am ET)
-- 15 min at open (9:30-10:00am ET)
-- 15 min at close (3:45-4:15pm ET)
-- Weekend research (1-2 hours)
+
+* 30 min pre-market (6:30-9:30am ET)
+* 15 min at open (9:30-10:00am ET)
+* 15 min at close (3:45-4:15pm ET)
+* Weekend research (1-2 hours)
 
 ### Tools You'll Need
-- Ape AI (for analysis and setups)
-- Watchlist with 20-30 stocks
-- Price alerts set up
-- Trading journal
-- Risk calculator
 
----
+* Ape AI (for analysis and setups)
+* Watchlist with 20-30 stocks
+* Price alerts set up
+* Trading journal
+* Risk calculator
+
+***
 
 ## Daily Routine Overview
 
 ### Timeline for Swing Traders
 
 **Pre-Market (6:30-9:00am ET):**
-- 15 min: Review overnight news
-- 10 min: Check existing positions
-- 15 min: Scan for new setups
-- 10 min: Prepare entry/exit orders
+
+* 15 min: Review overnight news
+* 10 min: Check existing positions
+* 15 min: Scan for new setups
+* 10 min: Prepare entry/exit orders
 
 **Market Open (9:30-10:00am ET):**
-- First 30 min: Monitor price action
-- Execute planned entries
-- Adjust stops if needed
-- No impulsive trades
+
+* First 30 min: Monitor price action
+* Execute planned entries
+* Adjust stops if needed
+* No impulsive trades
 
 **During Market Hours:**
-- Set price alerts for key levels
-- Don't watch constantly
-- Check 2-3 times max
-- Focus on your job/life
+
+* Set price alerts for key levels
+* Don't watch constantly
+* Check 2-3 times max
+* Focus on your job/life
 
 **Market Close (3:45-4:15pm ET):**
-- Review P&L
-- Update trading journal
-- Plan for tomorrow
-- Adjust watchlist
+
+* Review P\&L
+* Update trading journal
+* Plan for tomorrow
+* Adjust watchlist
 
 **After Hours (6:00-8:00pm):**
-- Deep research if needed
-- Earnings review
-- Scan for new ideas
-- Relax and disconnect
+
+* Deep research if needed
+* Earnings review
+* Scan for new ideas
+* Relax and disconnect
 
 **Weekend (Saturday/Sunday):**
-- 1-2 hours: Weekly review
-- Scan for setups
-- Plan week ahead
-- Journal review
 
----
+* 1-2 hours: Weekly review
+* Scan for setups
+* Plan week ahead
+* Journal review
+
+***
 
 ## Step 1: Pre-Market Routine (6:30-9:00am)
 
@@ -139,30 +150,35 @@ Establish a consistent swing trading routine using Ape AI for setup analysis and
 **Check these sources:**
 
 **1. Macro Events**
-- Futures direction (SPY, QQQ, DIA)
-- Economic calendar (Fed, jobs data, CPI)
-- International markets (Europe, Asia)
-- Sector rotation
+
+* Futures direction (SPY, QQQ, DIA)
+* Economic calendar (Fed, jobs data, CPI)
+* International markets (Europe, Asia)
+* Sector rotation
 
 **2. Stock-Specific News**
-- Earnings releases (pre-market)
-- Analyst upgrades/downgrades
-- FDA approvals, deals, M&A
-- Insider buying/selling
+
+* Earnings releases (pre-market)
+* Analyst upgrades/downgrades
+* FDA approvals, deals, M\&A
+* Insider buying/selling
 
 **3. Market Sentiment**
-- VIX level (fear gauge)
-- Bond yields
-- Dollar strength
-- Crypto movements
+
+* VIX level (fear gauge)
+* Bond yields
+* Dollar strength
+* Crypto movements
 
 **Ask Maverick:**
+
 ```
 What are the key market movers this morning?
 Any pre-market earnings or news I should know about?
 ```
 
 **Maverick's Morning Brief:**
+
 ```
 🌅 Pre-Market Brief - [Date]
 
@@ -196,25 +212,29 @@ What to Watch:
 **For each open position:**
 
 **Review:**
-- Current price vs entry
-- Approaching stop or target?
-- Thesis still valid?
-- Any news overnight?
-- Adjust stops to breakeven?
+
+* Current price vs entry
+* Approaching stop or target?
+* Thesis still valid?
+* Any news overnight?
+* Adjust stops to breakeven?
 
 **In Ape AI:**
+
 1. Go to **Portfolio** tab
 2. View each swing position
 3. Tap ticker for latest analysis
 4. Check for price alerts triggered
 
 **Ask Maverick about each position:**
+
 ```
 I'm holding AAPL from $175, now at $178.
 Should I hold or take profit today?
 ```
 
 **Maverick's Position Review:**
+
 ```
 AAPL Position Check - Day 3
 
@@ -245,30 +265,35 @@ Let it run to target with protected profit.
 **Use your watchlist strategically:**
 
 **In Ape AI Watchlist:**
+
 1. Go to **Watchlist** tab
 2. Review your 20-30 swing candidates
 3. Look for setups approaching entry
 
 **What to look for:**
-- Stocks near breakout levels
-- Pullbacks to support in uptrends
-- Volume increasing
-- Catalyst upcoming (earnings, FDA, etc.)
-- Technical patterns forming (flags, triangles)
+
+* Stocks near breakout levels
+* Pullbacks to support in uptrends
+* Volume increasing
+* Catalyst upcoming (earnings, FDA, etc.)
+* Technical patterns forming (flags, triangles)
 
 **Ask Maverick for swing setups:**
+
 ```
 Scan my watchlist for swing trade setups
 for today. I'm looking for 3-7 day holds.
 ```
 
 **Or target specific stocks:**
+
 ```
 Is TSLA setting up for a swing trade?
 Looking for 5+ day hold.
 ```
 
 **Maverick's Setup Scanner:**
+
 ```
 📊 Swing Trade Setups - [Date]
 
@@ -303,12 +328,14 @@ Wait for: Break above $180 or dip to $172
 **For each planned entry:**
 
 **Set up conditional orders:**
-- Buy stop at breakout level
-- Or limit order at pullback level
-- Already have stop loss calculated
-- Already have target calculated
+
+* Buy stop at breakout level
+* Or limit order at pullback level
+* Already have stop loss calculated
+* Already have target calculated
 
 **Example Pre-Market Order Prep:**
+
 ```
 MSFT Setup:
 - Buy stop: $387.00 (if breaks out)
@@ -327,29 +354,32 @@ Already in position: AAPL (no action today)
 
 **💡 Tip:** Have all orders ready to go BEFORE market open. Don't scramble during opening volatility!
 
----
+***
 
 ## Step 2: Market Open Routine (9:30-10:00am)
 
 ### The First 30 Minutes
 
 **9:30-9:35am: Observe**
-- Don't trade immediately
-- Watch how market opens
-- Is it following through on pre-market?
-- Any surprise moves?
+
+* Don't trade immediately
+* Watch how market opens
+* Is it following through on pre-market?
+* Any surprise moves?
 
 **9:35-9:45am: Execute Plan**
-- If setup triggers, execute
-- If price action weak, stand aside
-- Follow your pre-market plan
-- No impulsive changes
+
+* If setup triggers, execute
+* If price action weak, stand aside
+* Follow your pre-market plan
+* No impulsive changes
 
 **9:45-10:00am: Confirm & Set Alerts**
-- Set stops on new positions
-- Set price alerts for watchlist
-- Final check on existing positions
-- Then STEP AWAY
+
+* Set stops on new positions
+* Set price alerts for watchlist
+* Final check on existing positions
+* Then STEP AWAY
 
 ### Executing Your Planned Entries
 
@@ -362,6 +392,7 @@ Already in position: AAPL (no action today)
 5. IMMEDIATELY set stop loss
 
 **After Entry:**
+
 ```
 Entered: MSFT at $387.20
 Quantity: 25 shares
@@ -380,20 +411,22 @@ Risk: $130 (1.3% of account)
 **After opening rush:**
 
 **Set price alerts for:**
-- Existing position targets
-- Existing position stops (backup)
-- Watchlist breakout levels
-- Watchlist breakdown levels
+
+* Existing position targets
+* Existing position stops (backup)
+* Watchlist breakout levels
+* Watchlist breakdown levels
 
 **Then:**
-- ✅ Close trading app
-- ✅ Focus on work/life
-- ✅ Trust your plan
-- ⚠️ Don't watch intraday noise
+
+* ✅ Close trading app
+* ✅ Focus on work/life
+* ✅ Trust your plan
+* ⚠️ Don't watch intraday noise
 
 **💡 Key Rule:** After 10:00am, you're DONE for the day unless an alert triggers. Go live your life!
 
----
+***
 
 ## Step 3: Intraday Management (10am-3:45pm)
 
@@ -402,6 +435,7 @@ Risk: $130 (1.3% of account)
 **Set and forget strategy:**
 
 **Use Price Alerts:**
+
 ```
 MSFT position:
 - Alert at $398 (target)
@@ -414,6 +448,7 @@ AMD watchlist:
 ```
 
 **When alert triggers:**
+
 1. Check price action
 2. Refer to your plan
 3. Execute if needed
@@ -422,18 +457,21 @@ AMD watchlist:
 ### Mid-Day Check (12:00pm - Optional)
 
 **Only if you have 5 minutes:**
-- Quick portfolio glance
-- Any major news?
-- Positions near targets/stops?
-- No action unless critical
+
+* Quick portfolio glance
+* Any major news?
+* Positions near targets/stops?
+* No action unless critical
 
 **Ask Maverick for update:**
+
 ```
 Quick update on my swing positions.
 Any action needed?
 ```
 
 **Maverick's Mid-Day Update:**
+
 ```
 📊 Mid-Day Position Check
 
@@ -456,6 +494,7 @@ No urgent actions. Positions healthy. ✓
 **Alert: MSFT hit $398 (profit target)**
 
 **Steps:**
+
 1. Open app
 2. Check current price ($398.20)
 3. Sell 50% of position
@@ -465,13 +504,14 @@ No urgent actions. Positions healthy. ✓
 **Alert: AMD hit $382 (stop loss)**
 
 **Steps:**
+
 1. Open app
 2. Confirm price below stop
 3. Sell entire position immediately
 4. Accept the loss
 5. Move on
 
----
+***
 
 ## Step 4: Market Close Routine (3:45-4:15pm)
 
@@ -480,26 +520,30 @@ No urgent actions. Positions healthy. ✓
 **15 minutes before close (3:45pm):**
 
 **Check:**
-- Are you holding positions overnight?
-- Any earnings after hours?
-- Any positions too risky to hold?
-- Exit anything you're uncomfortable with
+
+* Are you holding positions overnight?
+* Any earnings after hours?
+* Any positions too risky to hold?
+* Exit anything you're uncomfortable with
 
 **Ask yourself:**
-- "If I wasn't in this position, would I enter now?"
-- If NO → Consider closing
+
+* "If I wasn't in this position, would I enter now?"
+* If NO → Consider closing
 
 ### After Close (4:00-4:15pm)
 
 **Portfolio Review:**
 
 **In Ape AI:**
+
 1. Go to **Portfolio** tab
 2. Review each position
-3. Check P&L for the day
+3. Check P\&L for the day
 4. Note what worked/didn't work
 
 **Daily Journal Entry:**
+
 ```
 Date: [Today]
 Market: SPY +0.3%, QQQ +0.5%
@@ -544,6 +588,7 @@ What could I improve?
 ```
 
 **Maverick's Daily Feedback:**
+
 ```
 📊 Daily Trade Review
 
@@ -572,7 +617,7 @@ Tomorrow's Focus:
 - Keep discipline, good day overall
 ```
 
----
+***
 
 ## Step 5: Weekly Routine (Weekend)
 
@@ -581,6 +626,7 @@ Tomorrow's Focus:
 **Weekly Review:**
 
 **1. Performance Analysis**
+
 ```
 Week of [Date]:
 - Trades taken: 4
@@ -595,12 +641,14 @@ Week of [Date]:
 **2. Watchlist Refresh**
 
 **Ask Maverick:**
+
 ```
 Scan for the best swing trade setups for next week.
 I want 3-7 day holds with 2:1+ risk/reward.
 ```
 
 **Maverick's Weekly Scan:**
+
 ```
 📊 Top 10 Swing Setups - Week Ahead
 
@@ -628,12 +676,14 @@ Market Outlook:
 ```
 
 **3. Update Your Watchlist**
-- Remove dead setups
-- Add new ideas from scan
-- Organize by priority
-- Set price alerts
+
+* Remove dead setups
+* Add new ideas from scan
+* Organize by priority
+* Set price alerts
 
 **4. Plan Your Week**
+
 ```
 Next Week Game Plan:
 
@@ -657,57 +707,57 @@ Strategy:
 - Focus on tech sector strength
 ```
 
----
+***
 
 ## Common Swing Trading Scenarios
 
 ### Scenario 1: Position Goes Against You
 
 **What happened:**
-- Entered MSFT at $387
-- Broke down to $380 the next day
-- Down 1.8%
 
-**What to do:**
-✅ Check if stop loss hit
-✅ If yes: Exit immediately, no questions
-✅ If no: Re-evaluate thesis
-- News changed?
-- Technical breakdown?
-- Still valid or hope?
+* Entered MSFT at $387
+* Broke down to $380 the next day
+* Down 1.8%
+
+**What to do:** ✅ Check if stop loss hit ✅ If yes: Exit immediately, no questions ✅ If no: Re-evaluate thesis
+
+* News changed?
+* Technical breakdown?
+* Still valid or hope?
 
 **If thesis broken:**
-- Exit even if stop not hit
-- Preserve capital
-- Find better setup
+
+* Exit even if stop not hit
+* Preserve capital
+* Find better setup
 
 ### Scenario 2: Quick Profit in 1 Day
 
 **What happened:**
-- Entered NVDA at $500
-- Gapped up to $515 next day
-- Hit profit target in 1 day
 
-**What to do:**
-✅ Take profit!
-✅ Don't wait for "more"
-✅ Target hit = exit
-✅ Find next setup
+* Entered NVDA at $500
+* Gapped up to $515 next day
+* Hit profit target in 1 day
+
+**What to do:** ✅ Take profit! ✅ Don't wait for "more" ✅ Target hit = exit ✅ Find next setup
 
 **Why:**
-- Fast profits are best profits
-- Don't get greedy
-- Reduces overnight risk
-- Frees capital for next trade
+
+* Fast profits are best profits
+* Don't get greedy
+* Reduces overnight risk
+* Frees capital for next trade
 
 ### Scenario 3: Holding Over Weekend
 
 **What happened:**
-- Position up 3% on Friday
-- Target not hit yet
-- Weekend coming
+
+* Position up 3% on Friday
+* Target not hit yet
+* Weekend coming
 
 **Decision framework:**
+
 ```
 Hold over weekend if:
 ✅ Up 3%+ with trailing stop at breakeven
@@ -725,23 +775,21 @@ Close before weekend if:
 ### Scenario 4: Multiple Positions Near Targets
 
 **What happened:**
-- 3 positions all near profit targets
-- Portfolio up 5% this week
-- Should you close all?
 
-**What to do:**
-✅ Take partial profits on all
-✅ Trail stops on rest
-✅ Lock in gains
-⚠️ Don't let winners become losers
+* 3 positions all near profit targets
+* Portfolio up 5% this week
+* Should you close all?
+
+**What to do:** ✅ Take partial profits on all ✅ Trail stops on rest ✅ Lock in gains ⚠️ Don't let winners become losers
 
 **Risk management:**
-- Protect profits
-- Reduce exposure
-- Bank some gains
-- Let a little run
 
----
+* Protect profits
+* Reduce exposure
+* Bank some gains
+* Let a little run
+
+***
 
 ## Risk Management for Swing Traders
 
@@ -767,34 +815,39 @@ Risk as % of account: 1.5% ✓
 ```
 
 **Position sizing rules:**
-- Risk 1-2% of account per trade
-- Max 3-5 positions at once
-- Never more than 10% total risk
-- Reduce size if uncertain
+
+* Risk 1-2% of account per trade
+* Max 3-5 positions at once
+* Never more than 10% total risk
+* Reduce size if uncertain
 
 ### Stop Loss Strategy
 
 **Types of stops:**
 
 **1. Technical Stop**
-- Below support level
-- Below key moving average
-- Below recent swing low
+
+* Below support level
+* Below key moving average
+* Below recent swing low
 
 **2. Percentage Stop**
-- 2-3% from entry (tight)
-- 5-7% from entry (normal)
-- 8-10% from entry (wide)
+
+* 2-3% from entry (tight)
+* 5-7% from entry (normal)
+* 8-10% from entry (wide)
 
 **3. Time Stop**
-- Exit if no progress in 3-5 days
-- Setup invalidated by time
-- Capital better used elsewhere
+
+* Exit if no progress in 3-5 days
+* Setup invalidated by time
+* Capital better used elsewhere
 
 **4. Trailing Stop**
-- Trail by 50% of gain
-- Or trail under each higher low
-- Locks in profits
+
+* Trail by 50% of gain
+* Or trail under each higher low
+* Locks in profits
 
 ### Portfolio Heat Management
 
@@ -815,72 +868,82 @@ Action: Can add 1 small position only
 ```
 
 **Don't exceed:**
-- 5% total portfolio risk at once
-- 5 open positions at once
-- 3 positions in same sector
 
----
+* 5% total portfolio risk at once
+* 5 open positions at once
+* 3 positions in same sector
+
+***
 
 ## Tools and Resources
 
 ### Use Ape AI Features
 
 **Watchlist Management:**
-- Add 20-30 swing candidates
-- Organize by priority
-- Set price alerts on all
-- Review weekly
+
+* Add 20-30 swing candidates
+* Organize by priority
+* Set price alerts on all
+* Review weekly
 
 **Chat with Maverick:**
-- Daily setup scans
-- Position reviews
-- Exit guidance
-- Strategy feedback
+
+* Daily setup scans
+* Position reviews
+* Exit guidance
+* Strategy feedback
 
 **Portfolio Tracking:**
-- Real-time P&L
-- Position exposure
-- Risk metrics
-- Performance history
+
+* Real-time P\&L
+* Position exposure
+* Risk metrics
+* Performance history
 
 ### External Tools
 
 **Charting:**
-- TradingView (free/pro)
-- Think or Swim
-- Webull
+
+* TradingView (free/pro)
+* Think or Swim
+* Webull
 
 **Scanning:**
-- Finviz (stock screener)
-- TradingView screener
-- Your broker's scanner
+
+* Finviz (stock screener)
+* TradingView screener
+* Your broker's scanner
 
 **Journaling:**
-- Edgewonk
-- TraderSync
-- Excel/Google Sheets
+
+* Edgewonk
+* TraderSync
+* Excel/Google Sheets
 
 **News:**
-- Benzinga Pro
-- Twitter/X (fintwit)
-- Yahoo Finance
-- CNBC
 
----
+* Benzinga Pro
+* Twitter/X (fintwit)
+* Yahoo Finance
+* CNBC
+
+***
 
 ## What's Next?
 
 ### Improve Your Swing Trading
 
 **Related Workflows:**
-- [Weekend Research Routine →](weekend-research) - Deep dive for Sunday prep
-- [Earnings Season Trading →](earnings-prep) - Trade earnings setups
-- [Managing Options Positions →](managing-options) - Add options to swings
+
+* [Weekend Research Routine →](weekend-research/) - Deep dive for Sunday prep
+* [Earnings Season Trading →](earnings-prep/) - Trade earnings setups
+* [Managing Options Positions →](managing-options/) - Add options to swings
 
 **Advanced Topics:**
-- [Portfolio Rebalancing →](../Advanced/portfolio-rebalance)
-- [Risk Management Systems →](../../Features/trading/risk-management)
-- [Technical Analysis Guide →](../../Features/trading/technical-analysis)
+
+* [Portfolio Rebalancing →](../Advanced/portfolio-rebalance/)
+* [Risk Management Systems →](../../Features/trading/risk-management/)
+* [Technical Analysis Guide →](../../Features/trading/technical-analysis/)
 
 ### Ask Maverick
 
@@ -896,22 +959,31 @@ What's the ideal number of swing positions to manage?
 Should I swing trade stocks, options, or both?
 ```
 
----
+***
 
 ## Success Checklist
 
-✅ I have a consistent pre-market routine
-✅ I prepare entries before market opens
-✅ I don't watch charts all day
-✅ I use price alerts for management
-✅ I journal every trade
-✅ I risk 1-2% per position max
-✅ I have 3-5 positions max at once
-✅ I take profits at targets
-✅ I cut losses at stops
+✅ I have a consistent pre-market routine&#x20;
+
+✅ I prepare entries before market opens&#x20;
+
+✅ I don't watch charts all day&#x20;
+
+✅ I use price alerts for management&#x20;
+
+✅ I journal every trade&#x20;
+
+✅ I risk 1-2% per position max&#x20;
+
+✅ I have 3-5 positions max at once&#x20;
+
+✅ I take profits at targets&#x20;
+
+✅ I cut losses at stops&#x20;
+
 ✅ I review my week every weekend
 
----
+***
 
 **Remember:** Swing trading is about consistency, not perfection. You don't need to catch every move. Focus on high-probability setups, manage risk religiously, and let the edge play out over time. 📈
 

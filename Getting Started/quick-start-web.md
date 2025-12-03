@@ -7,7 +7,7 @@ Get started with Ape AI on your desktop in 5 minutes.
 ## 🌐 Step 1: Access the Web App
 
 1. Open your browser (Chrome, Safari, Firefox, Edge)
-2. Go to **\[**[**app.Ape AI.com**](https://app.askape.com/)**]**
+2. Go to **\[**[**app.askape.com**](https://app.askape.com/)**]**
 3. You'll see the login/signup page
 
 <figure><img src="../.gitbook/assets/TV - 9 (3).png" alt=""><figcaption></figcaption></figure>

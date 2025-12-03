@@ -2,72 +2,74 @@
 
 Deep dive research to prepare for the week ahead and find high-probability swing setups.
 
-**⏱️ Time:** 2-3 hours (Saturday or Sunday)
-**💰 Risk Level:** Zero (research only)
-**📱 Platform:** iOS & Web
-**👤 Best for:** Swing traders and active investors
-**🦍 Recommended Companion:** Sage (research) + Maverick (setups)
+**⏱️ Time:** 2-3 hours (Saturday or Sunday) **💰 Risk Level:** Zero (research only) **📱 Platform:** iOS & Web **👤 Best for:** Swing traders and active investors **🦍 Recommended Companion:** Sage (research) + Maverick (setups)
 
----
+***
 
 ## What You'll Learn
 
-- How to conduct comprehensive weekend market research
-- How to find the best swing trade setups for next week
-- How to analyze macro trends and sector rotation
-- How to prepare your watchlist and trading plan
-- How to review your previous week's performance
+* How to conduct comprehensive weekend market research
+* How to find the best swing trade setups for next week
+* How to analyze macro trends and sector rotation
+* How to prepare your watchlist and trading plan
+* How to review your previous week's performance
 
----
+***
 
 ## Why Weekend Research Matters
 
 ### The Edge of Preparation
 
 **What separates profitable traders:**
-- 🎯 **Prepared traders** know their setups before Monday open
-- ❌ **Reactive traders** scramble to find trades during market hours
+
+* 🎯 **Prepared traders** know their setups before Monday open
+* ❌ **Reactive traders** scramble to find trades during market hours
 
 **Weekend research gives you:**
-- ✅ Clear game plan for the week
-- ✅ High-probability setups identified
-- ✅ Risk management planned
-- ✅ No emotional decisions
-- ✅ Confidence in your trades
-- ✅ More time to analyze without pressure
+
+* ✅ Clear game plan for the week
+* ✅ High-probability setups identified
+* ✅ Risk management planned
+* ✅ No emotional decisions
+* ✅ Confidence in your trades
+* ✅ More time to analyze without pressure
 
 **Markets are closed = Clear thinking**
-- No price action distraction
-- No FOMO from green candles
-- No panic from red candles
-- Rational analysis only
 
----
+* No price action distraction
+* No FOMO from green candles
+* No panic from red candles
+* Rational analysis only
+
+***
 
 ## Weekend Research Timeline
 
 ### Recommended Schedule
 
 **Saturday Morning (Optional):**
-- 1-2 hours: Weekly review and journaling
-- Reflect on past week
-- Calculate statistics
-- Identify what worked/didn't work
+
+* 1-2 hours: Weekly review and journaling
+* Reflect on past week
+* Calculate statistics
+* Identify what worked/didn't work
 
 **Sunday Evening (Primary):**
-- 2-3 hours: Deep research and planning
-- Market overview
-- Sector analysis
-- Individual stock setups
-- Build trading plan
+
+* 2-3 hours: Deep research and planning
+* Market overview
+* Sector analysis
+* Individual stock setups
+* Build trading plan
 
 **Why Sunday evening:**
-- Fresh information from the week
-- Ready for Monday pre-market
-- Less distraction than Saturday
-- Focused mindset
 
----
+* Fresh information from the week
+* Ready for Monday pre-market
+* Less distraction than Saturday
+* Focused mindset
+
+***
 
 ## Step 1: Review Previous Week (30-45 min)
 
@@ -76,6 +78,7 @@ Deep dive research to prepare for the week ahead and find high-probability swing
 **Open your trading journal:**
 
 **Calculate key metrics:**
+
 ```
 Week Performance Report
 ━━━━━━━━━━━━━━━━━━━━
@@ -96,17 +99,19 @@ Total Max Risk: 6.2%
 ```
 
 **Ask yourself:**
-- What was my win rate this week?
-- Did I follow my trading plan?
-- Were my stops too tight/wide?
-- Did I take profits too early/late?
-- Any emotional mistakes?
+
+* What was my win rate this week?
+* Did I follow my trading plan?
+* Were my stops too tight/wide?
+* Did I take profits too early/late?
+* Any emotional mistakes?
 
 ### Trade-by-Trade Review
 
 **For each trade, analyze:**
 
 **Trade #1: NVDA (Winner +5.8%)**
+
 ```
 Entry: $495
 Exit: $524
@@ -126,6 +131,7 @@ Lesson: Trust the setup, scale into winners
 ```
 
 **Trade #2: TSLA (Loser -2.4%)**
+
 ```
 Entry: $242
 Exit: $236 (stop hit)
@@ -152,6 +158,7 @@ Review my trading week. I had 6 trades,
 ```
 
 **Sage's Analysis:**
+
 ```
 📊 Weekly Performance Review
 
@@ -187,22 +194,25 @@ Next Week Focus:
 **Look for patterns in your trading:**
 
 **What's working:**
-- Tech breakouts (3 winners)
-- 30-45 DTE options (profitable)
-- Entries at support (better R:R)
+
+* Tech breakouts (3 winners)
+* 30-45 DTE options (profitable)
+* Entries at support (better R:R)
 
 **What's not working:**
-- Biotech trades (0/2 losers)
-- Trading against trend (losers)
-- News-driven entries (impulsive)
+
+* Biotech trades (0/2 losers)
+* Trading against trend (losers)
+* News-driven entries (impulsive)
 
 **Action items:**
-- ✅ Focus on tech sector
-- ✅ Stick to trend trades
-- ❌ Avoid biotech for now
-- ❌ Ignore most news
 
----
+* ✅ Focus on tech sector
+* ✅ Stick to trend trades
+* ❌ Avoid biotech for now
+* ❌ Ignore most news
+
+***
 
 ## Step 2: Macro Market Overview (30 min)
 
@@ -211,12 +221,14 @@ Next Week Focus:
 **Start with macro context:**
 
 **Ask Sage:**
+
 ```
 What's the current market environment and outlook
 for the coming week? Any major events or themes?
 ```
 
 **Sage's Market Overview:**
+
 ```
 🌎 Macro Market Overview - Week of [Date]
 
@@ -301,41 +313,47 @@ Strategy:
 ### Federal Reserve & Interest Rates
 
 **Key questions:**
-- Are we in a rate cutting or hiking cycle?
-- What's priced in by the market?
-- Any Fed speakers this week?
-- How are bonds reacting?
+
+* Are we in a rate cutting or hiking cycle?
+* What's priced in by the market?
+* Any Fed speakers this week?
+* How are bonds reacting?
 
 **10-Year Treasury Yield:**
-- Rising yields = headwind for growth stocks
-- Falling yields = tailwind for growth stocks
-- Current: 4.2% (stable)
+
+* Rising yields = headwind for growth stocks
+* Falling yields = tailwind for growth stocks
+* Current: 4.2% (stable)
 
 ### International Markets
 
 **Check global sentiment:**
-- Europe (DAX, FTSE): Leading or lagging?
-- Asia (Nikkei, Hang Seng): Risk-on or risk-off?
-- Emerging markets: Strong or weak?
+
+* Europe (DAX, FTSE): Leading or lagging?
+* Asia (Nikkei, Hang Seng): Risk-on or risk-off?
+* Emerging markets: Strong or weak?
 
 **Currency and Commodities:**
-- Dollar strength: Headwind for US exports
-- Gold: Fear gauge (rising = uncertainty)
-- Oil: Energy sector and inflation indicator
 
----
+* Dollar strength: Headwind for US exports
+* Gold: Fear gauge (rising = uncertainty)
+* Oil: Energy sector and inflation indicator
+
+***
 
 ## Step 3: Sector Rotation Analysis (20 min)
 
 ### Which Sectors Are Leading?
 
 **Ask Maverick:**
+
 ```
 What sectors are showing the strongest momentum?
 Where is money flowing this week?
 ```
 
 **Maverick's Sector Flow:**
+
 ```
 💰 Sector Rotation - Week Ahead
 
@@ -398,16 +416,18 @@ Strategy:
 **Compare sectors to SPY:**
 
 **Leaders (Outperforming SPY):**
-- XLK (Tech): SPY +1.2%, XLK +2.8% → +1.6% alpha ✓
-- SMH (Semis): SPY +1.2%, SMH +3.5% → +2.3% alpha ✓
+
+* XLK (Tech): SPY +1.2%, XLK +2.8% → +1.6% alpha ✓
+* SMH (Semis): SPY +1.2%, SMH +3.5% → +2.3% alpha ✓
 
 **Laggards (Underperforming SPY):**
-- XLE (Energy): SPY +1.2%, XLE -1.2% → -2.4% alpha ❌
-- XLU (Utilities): SPY +1.2%, XLU -0.8% → -2.0% alpha ❌
+
+* XLE (Energy): SPY +1.2%, XLE -1.2% → -2.4% alpha ❌
+* XLU (Utilities): SPY +1.2%, XLU -0.8% → -2.0% alpha ❌
 
 **Insight:** Trade with the flow, not against it. Focus on leading sectors.
 
----
+***
 
 ## Step 4: Individual Stock Screening (45-60 min)
 
@@ -416,26 +436,30 @@ Strategy:
 **What you're looking for:**
 
 **Technical Requirements:**
-- Clear trend (uptrend for longs)
-- Volume confirmation
-- Breakout setup or pullback to support
-- Risk/reward minimum 2:1
-- Liquid (1M+ shares/day)
+
+* Clear trend (uptrend for longs)
+* Volume confirmation
+* Breakout setup or pullback to support
+* Risk/reward minimum 2:1
+* Liquid (1M+ shares/day)
 
 **Fundamental Requirements (optional):**
-- Positive earnings
-- Revenue growth
-- Strong sector
-- Upcoming catalyst
+
+* Positive earnings
+* Revenue growth
+* Strong sector
+* Upcoming catalyst
 
 **Timeframe:**
-- 3-7 day hold target
-- Not day trades
-- Not months-long holds
+
+* 3-7 day hold target
+* Not day trades
+* Not months-long holds
 
 ### Use Ape AI for Screening
 
 **Ask Maverick:**
+
 ```
 Scan the market for the top 10 swing trade
 setups for this week. I want 3-7 day holds
@@ -443,6 +467,7 @@ in leading sectors with 2:1+ risk/reward.
 ```
 
 **Maverick's Top Setups:**
+
 ```
 📊 Top 10 Swing Setups - Week of [Date]
 
@@ -523,12 +548,14 @@ Summary:
 **Example Deep Dive: NVDA**
 
 **Ask Sage:**
+
 ```
 Is NVDA a good value at current levels?
 Or should I wait for a pullback?
 ```
 
 **Sage's Valuation Check:**
+
 ```
 NVDA Valuation Assessment
 
@@ -565,12 +592,14 @@ Current levels: Acceptable entry.
 **Add top setups to watchlist:**
 
 **In Ape AI:**
+
 1. Go to **Watchlist** tab
 2. Add top 10-15 setups
 3. Organize by priority
 4. Set price alerts
 
 **Watchlist Organization:**
+
 ```
 Priority Tier 1 (Highest Conviction):
 - NVDA (breakout watch at $735)
@@ -589,11 +618,12 @@ Priority Tier 3 (Watch List):
 ```
 
 **Set Price Alerts:**
-- NVDA: Alert at $735 (entry)
-- MSFT: Alert at $410, $408 (entry zone)
-- AAPL: Alert at $172 (support test)
 
----
+* NVDA: Alert at $735 (entry)
+* MSFT: Alert at $410, $408 (entry zone)
+* AAPL: Alert at $172 (support test)
+
+***
 
 ## Step 5: Earnings Calendar Review (15 min)
 
@@ -602,12 +632,14 @@ Priority Tier 3 (Watch List):
 **Check the calendar:**
 
 **Ask Maverick:**
+
 ```
 What are the most important earnings
 reports this week? Any on my watchlist?
 ```
 
 **Maverick's Earnings Calendar:**
+
 ```
 📅 Key Earnings - Week Ahead
 
@@ -659,26 +691,29 @@ If misses, wait for dust to settle.
 **Rules for swing trading earnings:**
 
 **Option 1: Avoid Entirely (Safest)**
-- Don't hold through earnings
-- Too much volatility
-- 50/50 outcome usually
-- Better setups exist
+
+* Don't hold through earnings
+* Too much volatility
+* 50/50 outcome usually
+* Better setups exist
 
 **Option 2: Play Post-Earnings (Recommended)**
-- Wait for earnings release
-- Let volatility settle
-- Enter on clear direction
-- Better risk/reward
+
+* Wait for earnings release
+* Let volatility settle
+* Enter on clear direction
+* Better risk/reward
 
 **Option 3: Trade the Setup (Advanced)**
-- Enter before earnings if A+ setup
-- Size smaller (50% normal)
-- Willing to accept binary outcome
-- Have plan for both scenarios
+
+* Enter before earnings if A+ setup
+* Size smaller (50% normal)
+* Willing to accept binary outcome
+* Have plan for both scenarios
 
 **For beginners: Avoid or wait until after.**
 
----
+***
 
 ## Step 6: Create Your Trading Plan (30 min)
 
@@ -761,6 +796,7 @@ Success Criteria:
 **For each setup, pre-plan:**
 
 **NVDA:**
+
 ```
 Entry Order: Buy stop $735
 Quantity: 50 shares
@@ -770,6 +806,7 @@ Notes: Wait for volume confirmation on breakout
 ```
 
 **MSFT:**
+
 ```
 Entry Order: Limit buy $409
 Quantity: 35 shares
@@ -778,7 +815,7 @@ Target: $425
 Notes: Good til canceled, patient entry
 ```
 
----
+***
 
 ## Step 7: Review and Reflect (15 min)
 
@@ -786,23 +823,33 @@ Notes: Good til canceled, patient entry
 
 Before closing your research session:
 
-✅ **Performance reviewed** (last week analyzed)
-✅ **Macro outlook** (bullish, bearish, or neutral)
-✅ **Sector rotation** (which sectors to focus on)
-✅ **Top setups identified** (10-15 on watchlist)
-✅ **Earnings checked** (aware of reports this week)
-✅ **Trading plan written** (clear game plan for Monday)
-✅ **Alerts set** (won't miss entries)
+✅ **Performance reviewed** (last week analyzed)&#x20;
+
+✅ **Macro outlook** (bullish, bearish, or neutral)&#x20;
+
+✅ **Sector rotation** (which sectors to focus on)&#x20;
+
+✅ **Top setups identified** (10-15 on watchlist)&#x20;
+
+✅ **Earnings checked** (aware of reports this week)&#x20;
+
+✅ **Trading plan written** (clear game plan for Monday)&#x20;
+
+✅ **Alerts set** (won't miss entries)&#x20;
+
+
+
 ✅ **Risk calculated** (position sizes determined)
 
 ### Mental Preparation
 
 **Ask yourself:**
-- Am I prepared for the week?
-- Do I have 3-5 high-quality setups?
-- Is my risk managed?
-- Am I emotionally ready?
-- Can I follow my plan?
+
+* Am I prepared for the week?
+* Do I have 3-5 high-quality setups?
+* Is my risk managed?
+* Am I emotionally ready?
+* Can I follow my plan?
 
 **If yes to all:** You're ready! ✓
 
@@ -811,20 +858,22 @@ Before closing your research session:
 ### Sunday Night Wind-Down
 
 **After research:**
-- 📝 Close laptop
-- 🧘 Do something relaxing
-- 💤 Get good sleep
-- 🎯 Wake up Monday ready to execute
+
+* 📝 Close laptop
+* 🧘 Do something relaxing
+* 💤 Get good sleep
+* 🎯 Wake up Monday ready to execute
 
 **Don't:**
-- ❌ Keep researching all night
-- ❌ Second-guess your plan
-- ❌ Look at Sunday night futures
-- ❌ Stress about Monday
+
+* ❌ Keep researching all night
+* ❌ Second-guess your plan
+* ❌ Look at Sunday night futures
+* ❌ Stress about Monday
 
 **Your job is done. Trust your preparation.**
 
----
+***
 
 ## Advanced Weekend Research
 
@@ -833,12 +882,14 @@ Before closing your research session:
 **Additional analysis:**
 
 **1. Options Flow Analysis**
-- Unusual options activity
-- Dark pool prints
-- Large block trades
-- Institutional positioning
+
+* Unusual options activity
+* Dark pool prints
+* Large block trades
+* Institutional positioning
 
 **2. Sentiment Analysis**
+
 ```
 Ask Maverick for sentiment:
 What's the current market sentiment?
@@ -846,86 +897,98 @@ Bullish, bearish, or neutral?
 ```
 
 **3. Insider Trading**
-- Recent insider buys (bullish)
-- Recent insider sells (bearish)
-- Cluster of activity (signal)
+
+* Recent insider buys (bullish)
+* Recent insider sells (bearish)
+* Cluster of activity (signal)
 
 **4. Short Interest**
-- High short interest = squeeze potential
-- Decreasing SI = shorts covering (bullish)
-- Increasing SI = shorts piling on (bearish)
+
+* High short interest = squeeze potential
+* Decreasing SI = shorts covering (bullish)
+* Increasing SI = shorts piling on (bearish)
 
 **5. Technical Patterns**
-- Cup and handle
-- Bull/bear flags
-- Ascending/descending triangles
-- Head and shoulders
 
----
+* Cup and handle
+* Bull/bear flags
+* Ascending/descending triangles
+* Head and shoulders
+
+***
 
 ## Tools and Resources
 
 ### Research Tools
 
 **Market Data:**
-- Ape AI (primary)
-- Finviz (free screener)
-- TradingView (charting)
-- Barchart (unusual activity)
+
+* Ape AI (primary)
+* Finviz (free screener)
+* TradingView (charting)
+* Barchart (unusual activity)
 
 **News & Analysis:**
-- Seeking Alpha
-- Benzinga
-- Bloomberg
-- CNBC
+
+* Seeking Alpha
+* Benzinga
+* Bloomberg
+* CNBC
 
 **Economic Calendar:**
-- Investing.com
-- Forex Factory
-- Trading Economics
+
+* Investing.com
+* Forex Factory
+* Trading Economics
 
 **Earnings:**
-- Earnings Whispers
-- Yahoo Finance
-- Your broker's calendar
+
+* Earnings Whispers
+* Yahoo Finance
+* Your broker's calendar
 
 ### Ape AI Features for Research
 
 **Chat with Sage:**
-- Macro analysis
-- Valuation research
-- Fundamental deep dives
-- Economic impact analysis
+
+* Macro analysis
+* Valuation research
+* Fundamental deep dives
+* Economic impact analysis
 
 **Chat with Maverick:**
-- Swing setups
-- Technical analysis
-- Momentum scans
-- Entry/exit timing
+
+* Swing setups
+* Technical analysis
+* Momentum scans
+* Entry/exit timing
 
 **Ticker Pages:**
-- "Pricey or Cheap" analysis
-- "Bagholder Risks" assessment
-- "Why Pop or Drop" catalysts
-- "How It Makes Money" business model
 
----
+* "Pricey or Cheap" analysis
+* "Bagholder Risks" assessment
+* "Why Pop or Drop" catalysts
+* "How It Makes Money" business model
+
+***
 
 ## What's Next?
 
 ### Monday Morning Execution
 
 **After your weekend research:**
-- [Premarket Swing Trading Routine →](swing-trading-routine)
-- [Daily Trading Routine →](first-day-trade)
-- [Managing Multiple Positions →](managing-positions)
+
+* [Premarket Swing Trading Routine →](swing-trading-routine/)
+* [Daily Trading Routine →](first-day-trade/)
+* [Managing Multiple Positions →](managing-positions/)
 
 ### Improve Your Research
 
 **Related Skills:**
-- [Fundamental Analysis →](../../Features/tickers/fundamental-analysis)
-- [Technical Analysis →](../../Features/trading/technical-analysis)
-- [Risk Management →](../../Features/trading/risk-management)
+
+* [Fundamental Analysis →](../../Features/tickers/fundamental-analysis/)
+* [Technical Analysis →](../../Features/trading/technical-analysis/)
+* [Risk Management →](../../Features/trading/risk-management/)
 
 ### Ask Sage or Maverick
 
@@ -939,22 +1002,31 @@ How do I know if a stock is worth adding
 to my watchlist vs passing on it?
 ```
 
----
+***
 
 ## Success Checklist
 
-✅ I spend 2-3 hours researching every weekend
-✅ I review my previous week's trades
+✅ I spend 2-3 hours researching every weekend&#x20;
+
+✅ I review my previous week's trades&#x20;
+
 ✅ I analyze macro market conditions
-✅ I identify sector rotation
-✅ I find 10-15 high-quality setups
-✅ I check the earnings calendar
-✅ I write a detailed trading plan
-✅ I set price alerts before Monday
-✅ I prepare my entry orders
+
+✅ I identify sector rotation&#x20;
+
+✅ I find 10-15 high-quality setups&#x20;
+
+✅ I check the earnings calendar&#x20;
+
+✅ I write a detailed trading plan&#x20;
+
+✅ I set price alerts before Monday&#x20;
+
+✅ I prepare my entry orders&#x20;
+
 ✅ I feel confident and ready for the week
 
----
+***
 
 **Remember:** The best trades come from preparation, not improvisation. Spend your weekend doing the work so that Monday-Friday you simply execute your plan. Markets reward the prepared. 📊
 

@@ -2,47 +2,48 @@
 
 Learn how to analyze if a stock is overpriced, underpriced, or fairly valued.
 
-**⏱️ Time:** 10-15 minutes
-**📱 Platform:** iOS & Web
-**👤 Best for:** Anyone researching potential investments
-**🦍 Recommended Companion:** Sage (fundamental analysis focus)
+**⏱️ Time:** 10-15 minutes **📱 Platform:** iOS & Web **👤 Best for:** Anyone researching potential investments **🦍 Recommended Companion:** Sage (fundamental analysis focus)
 
----
+***
 
 ## What You'll Learn
 
-- How to determine if a stock is expensive or cheap
-- How to use valuation metrics (P/E, PEG, Price-to-Sales)
-- How to compare a stock to its peers and history
-- How to make informed buy/sell/hold decisions
+* How to determine if a stock is expensive or cheap
+* How to use valuation metrics (P/E, PEG, Price-to-Sales)
+* How to compare a stock to its peers and history
+* How to make informed buy/sell/hold decisions
 
----
+***
 
 ## Step 1: Discover a Stock
 
 ### Through Social Media or News
 
 **On iOS/Web:**
+
 1. See a stock mentioned on Reddit, Twitter, or news
 2. Note the ticker symbol (e.g., TSLA, AAPL, NVDA)
 
 ### Find the Stock in Ape AI
 
 **Option 1: Search**
-- Tap **Search** icon (🔍) at top
-- Type the ticker or company name
-- Tap the result
+
+* Tap **Search** icon (🔍) at top
+* Type the ticker or company name
+* Tap the result
 
 **Option 2: Through Discovery**
-- Go to **Discover** tab
-- Browse **Banana Bites** for trending stocks
-- Tap on a story to see the ticker
+
+* Go to **Discover** tab
+* Browse **Banana Bites** for trending stocks
+* Tap on a story to see the ticker
 
 **Option 3: From Chat**
-- Mention the ticker in chat: "Tell me about $TSLA"
-- Tap the ticker link in AI response
 
----
+* Mention the ticker in chat: "Tell me about $TSLA"
+* Tap the ticker link in AI response
+
+***
 
 ## Step 2: View the Ticker Page
 
@@ -51,41 +52,45 @@ Learn how to analyze if a stock is overpriced, underpriced, or fairly valued.
 When you open the ticker page, you'll see:
 
 **Header Section:**
-- Company logo and name
-- Current price and change
-- Market status (Open/Closed)
-- Volume traded
+
+* Company logo and name
+* Current price and change
+* Market status (Open/Closed)
+* Volume traded
 
 **Price Chart:**
-- Historical price movement
-- Time periods: 1D, 1W, 1M, YTD, 1Y, 5Y, All
-- Interactive chart
+
+* Historical price movement
+* Time periods: 1D, 1W, 1M, YTD, 1Y, 5Y, All
+* Interactive chart
 
 **Market Stats:**
-- 52-week range
-- Market cap
-- P/E ratio
-- Average volume
+
+* 52-week range
+* Market cap
+* P/E ratio
+* Average volume
 
 **💡 Quick check:** Is the current price near the 52-week high or low?
-- Near high = Recently strong, potentially expensive
-- Near low = Recently weak, potentially cheap
-- Middle = Neutral positioning
 
----
+* Near high = Recently strong, potentially expensive
+* Near low = Recently weak, potentially cheap
+* Middle = Neutral positioning
+
+***
 
 ## Step 3: Click "Pricey or Cheap" Prompt
 
 ### Access Valuation Analysis
 
 **On Ticker Page:**
-1. Scroll to **"[Company]'s Story"** section
-2. You'll see 4 analysis cards:
-   - 💰 How It Makes Money
-   - 📈 Why It Could Pop or Drop
-   - ⚠️ Bagholder Risks
-   - 💵 **Pricey or Cheap** ← Click this one
 
+1. Scroll to **"\[Company]'s Story"** section
+2. You'll see 4 analysis cards:
+   * 💰 How It Makes Money
+   * 📈 Why It Could Pop or Drop
+   * ⚠️ Bagholder Risks
+   * 💵 **Pricey or Cheap** ← Click this one
 3. Tap **"Pricey or Cheap"**
 
 ### What You'll See
@@ -93,28 +98,32 @@ When you open the ticker page, you'll see:
 The AI generates a comprehensive valuation analysis including:
 
 **Current Valuation Metrics:**
-- P/E Ratio (Price-to-Earnings)
-- EV/EBITDA (Enterprise Value multiple)
-- Price-to-Sales ratio
-- FCF Yield (Free Cash Flow)
-- PEG Ratio (P/E to Growth)
+
+* P/E Ratio (Price-to-Earnings)
+* EV/EBITDA (Enterprise Value multiple)
+* Price-to-Sales ratio
+* FCF Yield (Free Cash Flow)
+* PEG Ratio (P/E to Growth)
 
 **Historical Comparison:**
-- Current vs 5-year average
-- Current vs 10-year average
-- Trend direction
+
+* Current vs 5-year average
+* Current vs 10-year average
+* Trend direction
 
 **Peer Comparison:**
-- How it compares to sector average
-- How it compares to similar companies
-- Relative positioning
+
+* How it compares to sector average
+* How it compares to similar companies
+* Relative positioning
 
 **Conclusion:**
-- Clear verdict: Expensive, Fairly Valued, or Cheap
-- Reasoning for the conclusion
-- Context and caveats
 
----
+* Clear verdict: Expensive, Fairly Valued, or Cheap
+* Reasoning for the conclusion
+* Context and caveats
+
+***
 
 ## Step 4: Show the Chat Result
 
@@ -165,11 +174,12 @@ Consider:
 ```
 
 **What This Means:**
-- **Expensive** = Currently overvalued, risky entry
-- **Fairly Valued** = Reasonable price, balanced risk/reward
-- **Cheap** = Potentially undervalued, better entry opportunity
 
----
+* **Expensive** = Currently overvalued, risky entry
+* **Fairly Valued** = Reasonable price, balanced risk/reward
+* **Cheap** = Potentially undervalued, better entry opportunity
+
+***
 
 ## Step 5: Ask Follow-Up Questions
 
@@ -178,6 +188,7 @@ Consider:
 After reading the valuation analysis, ask Sage for clarification:
 
 **Understanding the Metrics:**
+
 ```
 What does a P/E ratio of 181 actually mean for Tesla?
 ```
@@ -187,6 +198,7 @@ Why is FCF yield important for valuation?
 ```
 
 **Getting Context:**
+
 ```
 Should I wait for TSLA to get cheaper before buying?
 ```
@@ -196,6 +208,7 @@ What would be a fair price to buy TSLA at?
 ```
 
 **Comparing Alternatives:**
+
 ```
 Show me cheaper EV stocks with similar growth potential
 ```
@@ -207,6 +220,7 @@ Compare TSLA valuation to RIVN and LCID
 ### Sage's Follow-Up Analysis
 
 **Example Response:**
+
 ```
 P/E ratio of 181 means you're paying $181 for every
 $1 of earnings Tesla generates.
@@ -237,7 +251,7 @@ Better risk/reward in:
 - GM (P/E: 5.1, dividend 1.1%)
 ```
 
----
+***
 
 ## Understanding Valuation Metrics
 
@@ -248,15 +262,17 @@ Better risk/reward in:
 **What it is:** Stock price ÷ Earnings per share
 
 **How to interpret:**
-- **Low (< 15):** Potentially undervalued or slow growth
-- **Medium (15-25):** Fairly valued
-- **High (> 25):** Expensive or high growth expected
-- **Very High (> 50):** Speculative, risky
+
+* **Low (< 15):** Potentially undervalued or slow growth
+* **Medium (15-25):** Fairly valued
+* **High (> 25):** Expensive or high growth expected
+* **Very High (> 50):** Speculative, risky
 
 **Limitations:**
-- Doesn't work for unprofitable companies
-- Varies wildly by industry
-- Can be manipulated with accounting
+
+* Doesn't work for unprofitable companies
+* Varies wildly by industry
+* Can be manipulated with accounting
 
 **💡 Tip:** Always compare to industry average and company's history!
 
@@ -265,11 +281,13 @@ Better risk/reward in:
 **What it is:** P/E ratio ÷ Expected growth rate
 
 **How to interpret:**
-- **< 1.0:** Undervalued relative to growth
-- **1.0-1.5:** Fairly valued
-- **> 2.0:** Overvalued relative to growth
+
+* **< 1.0:** Undervalued relative to growth
+* **1.0-1.5:** Fairly valued
+* **> 2.0:** Overvalued relative to growth
 
 **Example:**
+
 ```
 NVDA:
 - P/E: 60
@@ -283,64 +301,72 @@ NVDA:
 **What it is:** Market cap ÷ Annual revenue
 
 **When to use:**
-- Companies not yet profitable
-- Comparing growth stocks
-- Tech/biotech sectors
+
+* Companies not yet profitable
+* Comparing growth stocks
+* Tech/biotech sectors
 
 **How to interpret:**
-- **< 2:** Cheap
-- **2-5:** Reasonable
-- **> 10:** Expensive, growth expected
+
+* **< 2:** Cheap
+* **2-5:** Reasonable
+* **> 10:** Expensive, growth expected
 
 **4. EV/EBITDA**
 
 **What it is:** Enterprise Value ÷ Earnings before interest, taxes, depreciation, amortization
 
 **Why it's useful:**
-- Accounts for debt
-- Better for comparing companies
-- Used by professional investors
+
+* Accounts for debt
+* Better for comparing companies
+* Used by professional investors
 
 **How to interpret:**
-- **< 10:** Potentially cheap
-- **10-15:** Fairly valued
-- **> 20:** Expensive
+
+* **< 10:** Potentially cheap
+* **10-15:** Fairly valued
+* **> 20:** Expensive
 
 **5. FCF Yield (Free Cash Flow)**
 
 **What it is:** Free cash flow ÷ Market cap
 
 **Why it matters:**
-- Shows real cash generation
-- Better than earnings (can't fake cash)
-- Indicates financial health
+
+* Shows real cash generation
+* Better than earnings (can't fake cash)
+* Indicates financial health
 
 **How to interpret:**
-- **> 5%:** Strong value
-- **2-5%:** Reasonable
-- **< 2%:** Expensive or high growth
 
----
+* **> 5%:** Strong value
+* **2-5%:** Reasonable
+* **< 2%:** Expensive or high growth
+
+***
 
 ## Comparing to Peers and History
 
 ### Peer Comparison
 
 **Ask Sage:**
+
 ```
 Compare AAPL valuation to MSFT, GOOGL, and META
 ```
 
 **What you'll get:**
 
-| Metric | AAPL | MSFT | GOOGL | META | Sector Avg |
-|--------|------|------|-------|------|------------|
-| P/E | 30.2 | 35.1 | 25.3 | 28.7 | 22.5 |
-| P/S | 7.8 | 12.3 | 6.1 | 8.9 | 5.2 |
-| PEG | 1.8 | 2.1 | 1.5 | 1.9 | 1.7 |
-| FCF Yield | 4.2% | 3.8% | 5.1% | 4.6% | 3.9% |
+| Metric    | AAPL | MSFT | GOOGL | META | Sector Avg |
+| --------- | ---- | ---- | ----- | ---- | ---------- |
+| P/E       | 30.2 | 35.1 | 25.3  | 28.7 | 22.5       |
+| P/S       | 7.8  | 12.3 | 6.1   | 8.9  | 5.2        |
+| PEG       | 1.8  | 2.1  | 1.5   | 1.9  | 1.7        |
+| FCF Yield | 4.2% | 3.8% | 5.1%  | 4.6% | 3.9%       |
 
 **Analysis:**
+
 ```
 AAPL vs Peers:
 - Mid-range P/E (not cheapest, not most expensive)
@@ -354,12 +380,14 @@ Verdict: Fairly valued within tech leaders
 ### Historical Comparison
 
 **Check valuation trend:**
+
 ```
 Is AAPL trading at a premium or discount to its
 5-year average P/E?
 ```
 
 **Response:**
+
 ```
 AAPL Historical P/E:
 
@@ -385,7 +413,7 @@ Good entry: < 25 P/E ($140-145/share)
 Current: $175 (slightly expensive)
 ```
 
----
+***
 
 ## Making the Decision
 
@@ -394,43 +422,50 @@ Current: $175 (slightly expensive)
 After analyzing valuation, use this framework:
 
 **Scenario 1: Stock is CHEAP**
-- P/E below historical average
-- Trading near 52-week lows
-- Peers more expensive
+
+* P/E below historical average
+* Trading near 52-week lows
+* Peers more expensive
 
 **Your options:**
-- ✅ **Buy:** If fundamentals still strong
-- ⚠️ **Research why it's cheap:** Value trap?
-- ✅ **Watch:** Add to watchlist, wait for catalyst
+
+* ✅ **Buy:** If fundamentals still strong
+* ⚠️ **Research why it's cheap:** Value trap?
+* ✅ **Watch:** Add to watchlist, wait for catalyst
 
 **Scenario 2: Stock is FAIRLY VALUED**
-- P/E near historical average
-- In line with peers
-- No major red flags
+
+* P/E near historical average
+* In line with peers
+* No major red flags
 
 **Your options:**
-- ✅ **Buy small position:** If you like the story
-- ✅ **Dollar-cost average:** Buy gradually
-- ✅ **Wait for dip:** Better entry later
+
+* ✅ **Buy small position:** If you like the story
+* ✅ **Dollar-cost average:** Buy gradually
+* ✅ **Wait for dip:** Better entry later
 
 **Scenario 3: Stock is EXPENSIVE**
-- P/E well above average
-- Premium to peers
-- Near 52-week highs
+
+* P/E well above average
+* Premium to peers
+* Near 52-week highs
 
 **Your options:**
-- ⚠️ **Buy only if very bullish:** Higher risk
-- ⚠️ **Smaller position:** Reduce exposure
-- ✅ **Wait for pullback:** Patience pays off
-- ✅ **Look for alternatives:** Cheaper options
 
----
+* ⚠️ **Buy only if very bullish:** Higher risk
+* ⚠️ **Smaller position:** Reduce exposure
+* ✅ **Wait for pullback:** Patience pays off
+* ✅ **Look for alternatives:** Cheaper options
+
+***
 
 ## Real-World Examples
 
 ### Example 1: Finding Value
 
 **Stock:** Ford (F)
+
 ```
 Current Price: $12.50
 P/E Ratio: 6.2
@@ -458,6 +493,7 @@ Verdict: Value opportunity for patient investors
 ### Example 2: Growth Premium
 
 **Stock:** NVIDIA (NVDA)
+
 ```
 Current Price: $850
 P/E Ratio: 72
@@ -485,6 +521,7 @@ Verdict: Expensive but growth may justify premium
 ### Example 3: Bubble Warning
 
 **Stock:** Speculative Tech Co
+
 ```
 Current Price: $45
 P/E Ratio: 450
@@ -504,18 +541,20 @@ Red flags:
 Verdict: Bubble territory - avoid or short
 ```
 
----
+***
 
 ## Advanced Valuation Techniques
 
 ### DCF (Discounted Cash Flow) Analysis
 
 **Ask Sage:**
+
 ```
 What's a fair value for AAPL using DCF analysis?
 ```
 
 **Sage's DCF breakdown:**
+
 ```
 Apple DCF Valuation:
 
@@ -545,6 +584,7 @@ Margin of safety: Buy below $153 (10% discount)
 ### Sum-of-Parts Valuation
 
 **For conglomerates or multi-business companies:**
+
 ```
 Break down by business segment
 Value each separately
@@ -552,95 +592,111 @@ Add up for total value
 Compare to current market cap
 ```
 
----
+***
 
 ## Red Flags to Watch For
 
 ### Valuation Red Flags
 
 ❌ **P/E over 100 with slowing growth**
-- Disconnect from fundamentals
-- Bubble risk
+
+* Disconnect from fundamentals
+* Bubble risk
 
 ❌ **Price-to-Sales over 20 for mature company**
-- Unless hyper-growth (>50%/year)
-- Unrealistic expectations
+
+* Unless hyper-growth (>50%/year)
+* Unrealistic expectations
 
 ❌ **Trading at 3x historical average with no change**
-- No fundamental improvement to justify
-- Mean reversion likely
+
+* No fundamental improvement to justify
+* Mean reversion likely
 
 ❌ **Massive premium to peers with similar business**
-- Unjustified valuation gap
-- Competition will compress multiples
+
+* Unjustified valuation gap
+* Competition will compress multiples
 
 ❌ **Negative free cash flow with high valuation**
-- Can't sustain without funding
-- Dilution or debt risk
+
+* Can't sustain without funding
+* Dilution or debt risk
 
 ### Quality Red Flags
 
 ❌ **Deteriorating margins**
-- Pricing power loss
-- Competition increasing
+
+* Pricing power loss
+* Competition increasing
 
 ❌ **Slowing revenue growth**
-- Business maturation
-- Market saturation
+
+* Business maturation
+* Market saturation
 
 ❌ **Increasing debt**
-- Financial stress
-- Interest burden
 
----
+* Financial stress
+* Interest burden
+
+***
 
 ## Common Mistakes to Avoid
 
 ### ❌ Don't Do This
 
 **1. Using P/E alone for decision**
-- Look at multiple metrics
-- Consider growth and quality
-- Compare to peers and history
+
+* Look at multiple metrics
+* Consider growth and quality
+* Compare to peers and history
 
 **2. Ignoring the business quality**
-- Cheap can be a value trap
-- Quality companies deserve premium
-- Bad business at any price is expensive
+
+* Cheap can be a value trap
+* Quality companies deserve premium
+* Bad business at any price is expensive
 
 **3. Buying just because it's "cheap"**
-- Understand WHY it's cheap
-- Is it fixable or terminal decline?
-- Cheap can get cheaper
+
+* Understand WHY it's cheap
+* Is it fixable or terminal decline?
+* Cheap can get cheaper
 
 **4. Avoiding expensive stocks completely**
-- Growth can justify high multiples
-- Best companies often expensive
-- Consider PEG ratio, not just P/E
+
+* Growth can justify high multiples
+* Best companies often expensive
+* Consider PEG ratio, not just P/E
 
 **5. Focusing only on valuation**
-- Technicals matter too
-- Sentiment drives short-term price
-- Catalysts create opportunities
 
----
+* Technicals matter too
+* Sentiment drives short-term price
+* Catalysts create opportunities
+
+***
 
 ## What's Next?
 
 ### After Your Research
 
 **If Stock is Cheap and Quality:**
+
 ```
 Ready to buy? → [First $100 in Stocks](first-100-stocks)
 ```
 
 **If Expensive but Love the Story:**
+
 ```
 Set a price alert → Wait for better entry
 Add to watchlist → Monitor for dip
 ```
 
 **If Unsure:**
+
 ```
 Ask Sage: "Given this valuation, what's my
 risk/reward if I buy now?"
@@ -649,22 +705,29 @@ risk/reward if I buy now?"
 ### Keep Researching
 
 **Expand your analysis:**
-- [Understanding Company Fundamentals →](../../Features/tickers/fundamental-analysis)
-- [Reading Financial Statements →](../../Features/tickers/financial-statements)
-- [Bagholder Risks Analysis →](../../Features/tickers/risk-analysis)
 
----
+* [Understanding Company Fundamentals →](../../Features/tickers/fundamental-analysis/)
+* [Reading Financial Statements →](../../Features/tickers/financial-statements/)
+* [Bagholder Risks Analysis →](../../Features/tickers/risk-analysis/)
+
+***
 
 ## Success Checklist
 
-✅ I found the ticker page
-✅ I read the "Pricey or Cheap" analysis
+✅ I found the ticker page&#x20;
+
+✅ I read the "Pricey or Cheap" analysis&#x20;
+
 ✅ I understand the key valuation metrics
-✅ I compared to peers and history
-✅ I know if it's expensive or cheap
-✅ I understand WHY the valuation is where it is
+
+&#x20;✅ I compared to peers and history&#x20;
+
+✅ I know if it's expensive or cheap&#x20;
+
+✅ I understand WHY the valuation is where it is&#x20;
+
 ✅ I made an informed buy/wait/pass decision
 
----
+***
 
 **Remember:** Price is what you pay, value is what you get. Never overpay for an asset, no matter how much you love it. Patience in finding good value is what separates successful investors from the rest! 💎

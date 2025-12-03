@@ -1,4 +1,4 @@
-# Contact Support
+# Support
 
 Need help? We're here for you! Reach out to the Ape AI support team.
 
@@ -49,7 +49,7 @@ The fastest way to get help is through our Help Center, which opens a direct sup
 1. Open the Ape AI app
 2. Tap your **Profile icon** (top left of chat screen)
 
-![iOS Profile Page](<../.gitbook/assets/TV - 43.png>)
+![iOS Profile Page](<.gitbook/assets/TV - 43.png>)
 
 **Step 2: Tap Help Center**
 
@@ -76,7 +76,7 @@ The fastest way to get help is through our Help Center, which opens a direct sup
 2. Click your **profile icon** (top right, shows your initial)
 3. Select **"Profile"** from the dropdown
 
-![Web Profile Page](<../.gitbook/assets/TV - 44.png>)
+![Web Profile Page](<.gitbook/assets/TV - 44.png>)
 
 **Step 2: Click Help Center**
 
@@ -207,7 +207,7 @@ Common reasons users contact support:
 * Data not loading
 * Login problems
 
-**Tip:** Check the [FAQ](faq/) and [Troubleshooting](troubleshooting/) pages first - your answer might already be there!
+**Tip:** Check the [FAQ](Support/faq/) and [Troubleshooting](Support/troubleshooting/) pages first - your answer might already be there!
 
 ***
 
@@ -230,9 +230,9 @@ Join our Discord for:
 
 Follow us for updates and announcements:
 
-* **Twitter/X:** @askape
-* **LinkedIn:** Ape AI
-* **Instagram:** @askape
+* **Twitter/X:** [@askapeAI](https://x.com/askApeAI)
+* **LinkedIn:** [Ape AI](https://www.linkedin.com/company/apeai)
+* **Instagram:** [@askape](https://www.instagram.com/askapeai?igsh=eW1zeXA3aXNkcjEx\&utm_source=qr)
 
 **Note:** DMs on social media are NOT monitored for support. Please use email.
 
@@ -300,13 +300,13 @@ Thank you!
 
 **Need immediate answers?**
 
-* [FAQ →](faq/) - Common questions answered
-* [Troubleshooting →](troubleshooting/) - Fix common issues yourself
+* [FAQ →](Support/faq/) - Common questions answered
+* [Troubleshooting →](Support/troubleshooting/) - Fix common issues yourself
 
 **Learn more:**
 
 * \[Getting Started →]\(../Getting Started/quick-start-ios) - Setup guides
-* [Feature Guides →](../Features/Chat/basics/) - How to use features
+* [Feature Guides →](Features/Chat/basics/) - How to use features
 
 ***
 

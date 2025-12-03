@@ -1167,7 +1167,25 @@ Should I use options or stocks for earnings trades?
 
 ## Success Checklist
 
-✅ I research earnings BEFORE the report ✅ I have a plan for both beat and miss scenarios ✅ I wait for post-earnings clarity (no guessing) ✅ I use smaller position sizes (1-1.5% risk) ✅ I set stops immediately after entry ✅ I don't chase huge gaps ✅ I take partial profits at targets ✅ I limit earnings exposure to 2-3 positions max ✅ I journal every earnings trade ✅ I respect price action over fundamentals
+✅ I research earnings BEFORE the report&#x20;
+
+✅ I have a plan for both beat and miss scenarios&#x20;
+
+✅ I wait for post-earnings clarity (no guessing)&#x20;
+
+✅ I use smaller position sizes (1-1.5% risk)&#x20;
+
+✅ I set stops immediately after entry&#x20;
+
+✅ I don't chase huge gaps&#x20;
+
+✅ I take partial profits at targets&#x20;
+
+✅ I limit earnings exposure to 2-3 positions max&#x20;
+
+✅ I journal every earnings trade&#x20;
+
+✅ I respect price action over fundamentals
 
 ***
 

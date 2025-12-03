@@ -144,7 +144,7 @@ Step-by-step guide to linking your trading account to Ape AI.
 3. Enter your broker username & password
 4. Complete 2FA if required
 
-**⚠️ Important:** You're logging into your broker, not giving Ape AI your password
+**⚠️ Important:** **You're logging into your broker, not giving Ape AI your password**
 
 ***
 
@@ -181,7 +181,7 @@ Step-by-step guide to linking your trading account to Ape AI.
 
 **Step 1: Go to Settings**
 
-1. Log into app.Ape AI.com
+1. Log into app.askape.com
 2. Click **Profile icon** (top right)
 3. Click **"Settings"**
 4. Go to **"Integrations"** or **"Brokerages"** tab

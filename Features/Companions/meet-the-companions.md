@@ -61,11 +61,25 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ### Best for Traders Who:
 
-✅ Want a balanced approach ✅ Consider both technicals and fundamentals ✅ Trade 2–5 times per week ✅ Are time‑constrained and want quick clarity ✅ Follow social/news but want signal over noise ✅ Have \~0.5–3 years experience and are building skills
+✅ Want a balanced approach
+
+✅ Consider both technicals and fundamentals
+
+✅ Trade 2–5 times per week
+
+✅ Are time‑constrained and want quick clarity
+
+✅ Follow social/news but want signal over noise
+
+✅ Have \~0.5–3 years experience and are building skills
 
 ### Not for You If:
 
-❌ You only day trade (use Blitz) ❌ You only focus on long-term (use Sage) ❌ You want ultra-aggressive momentum (use Maverick)
+❌ You only day trade (use Blitz)
+
+❌ You only focus on long-term (use Sage)
+
+❌ You want ultra-aggressive momentum (use Maverick)
 
 ***
 
@@ -138,11 +152,29 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ### Best for Investors Who:
 
-✅ Invest for retirement or long-term goals ✅ Focus on company fundamentals ✅ Want to sleep well at night ✅ Prefer buy-and-hold over trading ✅ Care about valuation and quality ✅ Are new to investing ✅ Have full-time jobs (can't day trade)
+✅ Invest for retirement or long-term goals&#x20;
+
+✅ Focus on company fundamentals&#x20;
+
+✅ Want to sleep well at night
+
+✅ Prefer buy-and-hold over trading
+
+✅ Care about valuation and quality&#x20;
+
+✅ Are new to investing&#x20;
+
+✅ Have full-time jobs (can't day trade)
 
 ### Not for You If:
 
-❌ You want quick profits ❌ You day trade or swing trade ❌ You get bored holding for months ❌ You only care about technicals
+❌ You want quick profits&#x20;
+
+❌ You day trade or swing trade&#x20;
+
+❌ You get bored holding for months&#x20;
+
+❌ You only care about technicals
 
 ***
 
@@ -214,11 +246,31 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ### Best for Traders Who:
 
-✅ Trade based on momentum and trends ✅ Can act fast on opportunities ✅ Focus on technical setups ✅ Want bigger moves in shorter time ✅ Monitor markets actively ✅ Handle volatility well ✅ Like aggressive, fast trades
+✅ Trade based on momentum and trends
+
+✅ Can act fast on opportunities&#x20;
+
+✅ Focus on technical setups&#x20;
+
+✅ Want bigger moves in shorter time&#x20;
+
+✅ Monitor markets actively&#x20;
+
+✅ Handle volatility well&#x20;
+
+✅ Like aggressive, fast trades
 
 ### Not for You If:
 
-❌ You prefer long-term holding ❌ You can't watch markets regularly ❌ You're very risk-averse ❌ You're a complete beginner ❌ You hate volatility
+❌ You prefer long-term holding&#x20;
+
+❌ You can't watch markets regularly&#x20;
+
+❌ You're very risk-averse&#x20;
+
+❌ You're a complete beginner&#x20;
+
+❌ You hate volatility
 
 ***
 
@@ -289,11 +341,29 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 ### Best for Traders Who:
 
-✅ Trade multiple times per day ✅ Focus on technicals and charts ✅ Close positions by market close ✅ Have time to watch markets all day ✅ Trade options frequently ✅ Want aggressive, fast plays
+✅ Trade multiple times per day&#x20;
+
+✅ Focus on technicals and charts&#x20;
+
+✅ Close positions by market close&#x20;
+
+✅ Have time to watch markets all day&#x20;
+
+✅ Trade options frequently&#x20;
+
+✅ Want aggressive, fast plays
 
 ### Not for You If:
 
-❌ You only check markets once a day ❌ You prefer buy-and-hold ❌ You can't watch markets during the day ❌ You're risk-averse ❌ You're a complete beginner
+❌ You only check markets once a day&#x20;
+
+❌ You prefer buy-and-hold&#x20;
+
+❌ You can't watch markets during the day&#x20;
+
+❌ You're risk-averse&#x20;
+
+❌ You're a complete beginner
 
 ***
 

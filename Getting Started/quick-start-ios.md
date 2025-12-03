@@ -7,7 +7,7 @@ Get started with Ape AI on your iPhone in 5 minutes.
 ## 📱 Step 1: Download the App
 
 1. Open the **App Store** on your iPhone
-2. Search for **"Ape AI"**
+2. Search for **"ApeAI" (one word!)**
 3. Tap **Get** to download
 4. Open the app once installed
 
@@ -60,7 +60,7 @@ The app has **3 main tabs** at the bottom:
 
 ### 1. Chat 💬
 
-Your AI trading assistant. Ask anything!
+Your AI trading companion. Ask anything!
 
 * Quick Action cards for common prompts
 * Custom questions
@@ -81,7 +81,7 @@ Track and analyze your holdings
 
 * Connect brokerages
 * View positions
-* Ask Maverick (Portfolio AI)
+* Ask your companion
 * Get AI analysis
 
 ***
@@ -132,7 +132,25 @@ Let's research a stock:
 
 ***
 
-## 💼 Step 7: Set Up Portfolio (Optional)
+## 🎨 Step 7: Create Your First Theme
+
+Themes are like custom stock screeners:
+
+1. Go to **Discover** tab
+2. Scroll down and tap **More Themes**
+3. Click **"Create a theme"**
+4. Type your criteria in natural language:
+   * _"Tech stocks under $50 with positive earnings"_
+   * _"Dividend stocks with 5%+ yield"_
+   * _"EV companies with strong momentum"_
+5. Name your theme
+6. Save and track it!
+
+<figure><img src="../.gitbook/assets/IMG_8527.png" alt="" width="188"><figcaption></figcaption></figure>
+
+***
+
+## 💼 Step 8: Set Up Portfolio (Optional)
 
 Want to track your investments?
 
@@ -149,7 +167,7 @@ Want to track your investments?
 
 Perfect for beginners! Practice with virtual money.
 
-1. See "Ape Paper Trading" at the top
+1. See "APE AI Paper Trading" at the top
 2. Tap **Claim Account**
 3. Start practicing risk-free!
 
@@ -181,7 +199,7 @@ Perfect for beginners! Practice with virtual money.
 ### Quick Actions
 
 * Use **Quick Action cards** in Chat for common tasks
-* They're faster than typing
+* They're faster than typing!
 
 ***
 

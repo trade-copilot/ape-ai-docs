@@ -180,7 +180,15 @@ Scroll down to **Performance Comparison**
 
 After your research, you should know:
 
-✅ **What the company does** (How It Makes Money) ✅ **If it's overvalued or not** (Pricey or Cheap + AI analysis) ✅ **What bulls and bears think** (Sentiment) ✅ **What could go wrong** (Bagholder Risks) ✅ **How it's performed** (vs S\&P 500)
+✅ **What the company does** (How It Makes Money)&#x20;
+
+✅ **If it's overvalued or not** (Pricey or Cheap + AI analysis)&#x20;
+
+✅ **What bulls and bears think** (Sentiment)&#x20;
+
+✅ **What could go wrong** (Bagholder Risks)&#x20;
+
+✅ **How it's performed** (vs S\&P 500)
 
 **Now ask yourself:**
 
@@ -250,7 +258,15 @@ After your research, you should know:
 
 ## Common Mistakes to Avoid
 
-❌ **Buying based on hype alone** - Twitter trends aren't research ❌ **Ignoring the valuation** - Overpriced stocks can fall even if the company is good ❌ **Only reading Bulls Say** - Always check Bears Say too ❌ **Skipping risk analysis** - Every stock has risks ❌ **Investing money you can't afford to lose** - Only invest what you can lose
+❌ **Buying based on hype alone** - Twitter trends aren't research&#x20;
+
+❌ **Ignoring the valuation** - Overpriced stocks can fall even if the company is good&#x20;
+
+❌ **Only reading Bulls Say** - Always check Bears Say too&#x20;
+
+❌ **Skipping risk analysis** - Every stock has risks&#x20;
+
+❌ **Investing money you can't afford to lose** - Only invest what you can lose
 
 ***
 

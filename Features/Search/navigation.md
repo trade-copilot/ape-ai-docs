@@ -32,7 +32,7 @@ Get around Ape AI. iOS vs Web navigation explained.
 
 * Your holdings
 * Performance
-* Ask Maverick
+* Portfolio AI
 * Positions list
 
 **Tap any tab to switch**

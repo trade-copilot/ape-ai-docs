@@ -2,105 +2,112 @@
 
 Find high-conviction investment ideas using Ape AI's thematic stock discovery.
 
-**⏱️ Time:** 15-30 minutes
-**💰 Risk Level:** Varies by theme
-**📱 Platform:** iOS & Web
-**👤 Best for:** Investors seeking thematic exposure
-**🦍 Recommended Companion:** Sage (research) + Maverick (momentum)
+**⏱️ Time:** 15-30 minutes **💰 Risk Level:** Varies by theme **📱 Platform:** iOS & Web **👤 Best for:** Investors seeking thematic exposure **🦍 Recommended Companion:** Sage (research) + Maverick (momentum)
 
----
+***
 
 ## What You'll Learn
 
-- How to discover stocks by themes and narratives
-- How to find trending social stocks
-- How to identify sector-specific opportunities
-- How to build thematic portfolios
-- How to track emerging trends
+* How to discover stocks by themes and narratives
+* How to find trending social stocks
+* How to identify sector-specific opportunities
+* How to build thematic portfolios
+* How to track emerging trends
 
----
+***
 
 ## What Are Themes?
 
 ### Thematic Investing Explained
 
 **Traditional investing:**
-- Pick individual stocks
-- Sector-based allocation
-- Market cap tiers (large, mid, small)
+
+* Pick individual stocks
+* Sector-based allocation
+* Market cap tiers (large, mid, small)
 
 **Thematic investing:**
-- Group stocks by narrative or trend
-- Cross-sector opportunities
-- Future-focused positioning
-- Conviction-based allocation
+
+* Group stocks by narrative or trend
+* Cross-sector opportunities
+* Future-focused positioning
+* Conviction-based allocation
 
 **Examples of themes:**
-- AI & Machine Learning
-- Electric Vehicles
-- Cloud Computing
-- Biotech Innovation
-- Social Media Trending
-- Dividend Aristocrats
-- Small Cap Growth
-- Reddit/WallStreetBets Favorites
+
+* AI & Machine Learning
+* Electric Vehicles
+* Cloud Computing
+* Biotech Innovation
+* Social Media Trending
+* Dividend Aristocrats
+* Small Cap Growth
+* Reddit/WallStreetBets Favorites
 
 ### Why Use Themes?
 
 **Advantages:**
-- ✅ Find stocks you'd never discover alone
-- ✅ Invest in trends you believe in
-- ✅ Quick idea generation
-- ✅ Build conviction through narratives
-- ✅ Diversify within a theme
+
+* ✅ Find stocks you'd never discover alone
+* ✅ Invest in trends you believe in
+* ✅ Quick idea generation
+* ✅ Build conviction through narratives
+* ✅ Diversify within a theme
 
 **Best for:**
-- Researching new opportunities
-- Finding exposure to macro trends
-- Building conviction portfolios
-- Discovering undervalued gems
 
----
+* Researching new opportunities
+* Finding exposure to macro trends
+* Building conviction portfolios
+* Discovering undervalued gems
+
+***
 
 ## Before You Start
 
 ### Prerequisites
 
 ✅ **Knowledge**
-- Basic understanding of sectors and industries
-- Awareness of current market trends
-- Clear investment thesis or interests
-- Research skills
+
+* Basic understanding of sectors and industries
+* Awareness of current market trends
+* Clear investment thesis or interests
+* Research skills
 
 ✅ **Account**
-- Ape AI account (web or iOS)
-- No brokerage connection needed for research
-- Watchlist feature for tracking
+
+* Ape AI account (web or iOS)
+* No brokerage connection needed for research
+* Watchlist feature for tracking
 
 ✅ **Mindset**
-- Open to new ideas
-- Willing to research unfamiliar companies
-- Long-term investment horizon
-- Theme conviction (believe in the trend)
+
+* Open to new ideas
+* Willing to research unfamiliar companies
+* Long-term investment horizon
+* Theme conviction (believe in the trend)
 
 ### What You Need
-- 15-30 minutes for research
-- Interest in a specific theme or trend
-- Willingness to dig deeper on stocks
 
----
+* 15-30 minutes for research
+* Interest in a specific theme or trend
+* Willingness to dig deeper on stocks
+
+***
 
 ## Step 1: Explore Existing Themes
 
 ### Find Themes in Ape AI
 
 **On Web:**
+
 1. Go to **Discover** tab
 2. Look for **Themes** section
 3. Browse curated theme collections
 4. Tap into any theme
 
 **On iOS:**
+
 1. Tap **Discover** (bottom nav)
 2. Scroll to **Themes**
 3. Swipe through theme cards
@@ -109,57 +116,65 @@ Find high-conviction investment ideas using Ape AI's thematic stock discovery.
 ### Popular Theme Categories
 
 **Technology Themes:**
-- AI & Machine Learning
-- Cloud Computing
-- Cybersecurity
-- Semiconductors
-- Software as a Service (SaaS)
+
+* AI & Machine Learning
+* Cloud Computing
+* Cybersecurity
+* Semiconductors
+* Software as a Service (SaaS)
 
 **Future Trends:**
-- Electric Vehicles
-- Clean Energy
-- Space Exploration
-- Quantum Computing
-- Metaverse/VR
+
+* Electric Vehicles
+* Clean Energy
+* Space Exploration
+* Quantum Computing
+* Metaverse/VR
 
 **Traditional Value:**
-- Dividend Aristocrats
-- Value Stocks
-- Berkshire Holdings
-- Warren Buffett Style
+
+* Dividend Aristocrats
+* Value Stocks
+* Berkshire Holdings
+* Warren Buffett Style
 
 **Social/Momentum:**
-- Reddit Trending
-- WallStreetBets Favorites
-- Meme Stocks
-- Most Shorted Stocks
-- High Short Interest
+
+* Reddit Trending
+* WallStreetBets Favorites
+* Meme Stocks
+* Most Shorted Stocks
+* High Short Interest
 
 **Market Cap Themes:**
-- Small Caps Under $1B
-- Mid-Caps Growth
-- Mega-Cap Tech
-- Micro-Caps (Hidden Gems)
+
+* Small Caps Under $1B
+* Mid-Caps Growth
+* Mega-Cap Tech
+* Micro-Caps (Hidden Gems)
 
 **Sector-Specific:**
-- Biotech Pipeline
-- Fintech Disruptors
-- Consumer Brands
-- Real Estate Tech
 
----
+* Biotech Pipeline
+* Fintech Disruptors
+* Consumer Brands
+* Real Estate Tech
+
+***
 
 ## Step 2: Discovering Trending Social Stocks
 
 ### Find Reddit/Social Chatter
 
 **Ask Maverick:**
+
 ```
 What stocks are trending on social media right now?
 Show me Reddit and Twitter favorites.
 ```
 
 **Maverick's Social Trending Report:**
+
 ```
 📱 Social Media Trending Stocks
 
@@ -271,6 +286,7 @@ How to Use This:
 **In Discover Tab:**
 
 **Find "Reddit Trending" Theme:**
+
 ```
 📊 Reddit Trending Stocks
 
@@ -307,13 +323,14 @@ Actions:
 - Ask AI about any stock
 ```
 
----
+***
 
 ## Step 3: Discover AI Stocks Under $1B
 
 ### Custom Theme Search
 
 **Ask Sage:**
+
 ```
 Find AI and machine learning companies
 with market caps under $1 billion.
@@ -321,6 +338,7 @@ Show me hidden gems in the AI space.
 ```
 
 **Sage's AI Small-Cap Research:**
+
 ```
 🤖 AI Stocks Under $1B Market Cap
 
@@ -464,6 +482,7 @@ Then decide if worth the risk.
 **In Discover → Themes:**
 
 **Find preset theme:**
+
 ```
 📊 Small Caps Under $1B
 
@@ -504,19 +523,21 @@ Ask AI:
 the best risk/reward for 2025?"
 ```
 
----
+***
 
 ## Step 4: Create Custom Themes
 
 ### Build Your Own Theme
 
 **Ask Sage or Maverick:**
+
 ```
 Create a custom theme for me: "Undervalued
 dividend stocks in healthcare with P/E < 15"
 ```
 
 **Sage's Custom Theme Builder:**
+
 ```
 🎯 Custom Theme Created:
 "Undervalued Healthcare Dividend Stocks"
@@ -620,6 +641,7 @@ Access anytime in Themes → Custom
 **Ask Sage to create:**
 
 **Growth Themes:**
+
 ```
 "High growth SaaS companies with
 revenue growth > 30% and positive cash flow"
@@ -631,6 +653,7 @@ and market caps under $10B"
 ```
 
 **Value Themes:**
+
 ```
 "Beaten down quality stocks: P/E < 12,
 ROE > 15%, and down 30%+ from highs"
@@ -642,6 +665,7 @@ Buffett owns"
 ```
 
 **Momentum Themes:**
+
 ```
 "Stocks breaking 52-week highs with
 increasing volume"
@@ -652,6 +676,7 @@ increasing volume"
 ```
 
 **Contrarian Themes:**
+
 ```
 "Most hated stocks: analyst ratings below
 3.0 but improving fundamentals"
@@ -662,7 +687,7 @@ increasing volume"
 upcoming catalysts"
 ```
 
----
+***
 
 ## Step 5: Research Theme Stocks
 
@@ -671,12 +696,14 @@ upcoming catalysts"
 **For any stock in a theme:**
 
 **Tap the ticker → Ask Sage:**
+
 ```
 Why is PLTR (Palantir) in the AI theme?
 Is it a good long-term investment?
 ```
 
 **Sage's Theme Stock Analysis:**
+
 ```
 PLTR Analysis - AI Theme Stock
 
@@ -764,12 +791,14 @@ matters. Be patient for better entry.
 ### Compare Theme Stocks
 
 **Ask Sage:**
+
 ```
 Compare the top 3 AI stocks: NVDA, PLTR, and C3.AI.
 Which is the best investment right now?
 ```
 
 **Comparative Analysis:**
+
 ```
 AI Stock Comparison: NVDA vs PLTR vs C3.AI
 
@@ -853,7 +882,7 @@ Or just buy NVDA and call it a day.
 Quality over quantity in AI.
 ```
 
----
+***
 
 ## Step 6: Build a Thematic Portfolio
 
@@ -862,12 +891,14 @@ Quality over quantity in AI.
 **Once you've researched:**
 
 **Ask Sage:**
+
 ```
 Help me build a diversified AI portfolio
 with $20,000. Include large, mid, and small caps.
 ```
 
 **Sage's Thematic Portfolio Construction:**
+
 ```
 🤖 $20,000 AI Portfolio - Diversified
 
@@ -992,70 +1023,78 @@ HIGH RISK thematic portfolio.
 Only suitable for believers in AI revolution.
 ```
 
----
+***
 
 ## Common Theme Strategies
 
 ### Momentum Theme Strategy
 
 **For trending stocks:**
-- Enter on breakouts
-- Set tight stops (5-7%)
-- Take profits quickly (20-30%)
-- Don't fall in love with positions
-- Rotate as momentum shifts
+
+* Enter on breakouts
+* Set tight stops (5-7%)
+* Take profits quickly (20-30%)
+* Don't fall in love with positions
+* Rotate as momentum shifts
 
 **Best themes for momentum:**
-- Reddit Trending
-- Most Shorted
-- High Short Interest
-- Breakout Stocks
+
+* Reddit Trending
+* Most Shorted
+* High Short Interest
+* Breakout Stocks
 
 ### Value Theme Strategy
 
 **For undervalued stocks:**
-- Be patient with entries
-- Build positions over time
-- Hold for 1-3 years
-- Reinvest dividends
-- Rebalance annually
+
+* Be patient with entries
+* Build positions over time
+* Hold for 1-3 years
+* Reinvest dividends
+* Rebalance annually
 
 **Best themes for value:**
-- Dividend Aristocrats
-- Low P/E Value
-- Buffett Holdings
-- Contrarian Plays
+
+* Dividend Aristocrats
+* Low P/E Value
+* Buffett Holdings
+* Contrarian Plays
 
 ### Growth Theme Strategy
 
 **For high-growth stocks:**
-- Pay up for quality
-- Smaller position sizes (volatile)
-- 3-5 year hold minimum
-- Add on pullbacks
-- Don't panic sell
+
+* Pay up for quality
+* Smaller position sizes (volatile)
+* 3-5 year hold minimum
+* Add on pullbacks
+* Don't panic sell
 
 **Best themes for growth:**
-- AI & Machine Learning
-- Cloud Computing
-- SaaS Leaders
-- Disruptive Tech
 
----
+* AI & Machine Learning
+* Cloud Computing
+* SaaS Leaders
+* Disruptive Tech
+
+***
 
 ## What's Next?
 
 ### Continue Exploring Themes
 
 **Related Workflows:**
-- [Portfolio Analysis →](portfolio-analysis)
-- [Monthly Review →](monthly-review)
-- [Weekend Research →](../Trader/weekend-research)
+
+* [Portfolio Analysis →](portfolio-analysis/)
+* [Monthly Review →](monthly-review/)
+* [Weekend Research →](../Trader/weekend-research/)
 
 **Advanced Skills:**
-- [Thematic Portfolio Construction →](../../Features/Portfolio/thematic-investing)
-- [Sector Rotation →](../../Features/trading/sector-rotation)
-- [Trend Following →](../../Features/trading/trend-following)
+
+* [Thematic Portfolio Construction →](../../Features/Portfolio/thematic-investing/)
+* [Sector Rotation →](../../Features/trading/sector-rotation/)
+* [Trend Following →](../../Features/trading/trend-following/)
 
 ### Ask Sage or Maverick
 
@@ -1071,22 +1110,31 @@ How do I balance thematic investing with diversification?
 Which themes have the best 5-year outlook?
 ```
 
----
+***
 
 ## Success Checklist
 
-✅ I explored multiple themes in Ape AI
-✅ I discovered stocks I wouldn't find alone
-✅ I researched theme stocks thoroughly
+✅ I explored multiple themes in Ape AI&#x20;
+
+✅ I discovered stocks I wouldn't find alone&#x20;
+
+✅ I researched theme stocks thoroughly&#x20;
+
 ✅ I understand the theme narrative and thesis
-✅ I built a diversified thematic portfolio
-✅ I know my risk level (momentum vs value vs growth)
-✅ I have a rebalancing plan
-✅ I'm tracking theme performance
-✅ I know when to exit (theme breaks or better opportunities)
+
+&#x20;✅ I built a diversified thematic portfolio&#x20;
+
+✅ I know my risk level (momentum vs value vs growth)&#x20;
+
+✅ I have a rebalancing plan&#x20;
+
+✅ I'm tracking theme performance&#x20;
+
+✅ I know when to exit (theme breaks or better opportunities)&#x20;
+
 ✅ My thematic allocation fits my overall portfolio
 
----
+***
 
 **Remember:** Themes are tools for idea generation, not buy signals. Always do your own research, understand the companies, and manage your risk. The best theme is useless if you overpay or over-allocate. 📊
 

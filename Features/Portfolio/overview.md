@@ -342,11 +342,11 @@ The **Portfolio** is your command center for tracking investments.
 
 ## 🤖 AI-Powered Features
 
-### Ask Maverick
+### Portfolio AI
 
 **Your personal portfolio AI assistant.**
 
-**Tap "Ask Maverick" button to:**
+**Tap "Portfolio AI" button to:**
 
 * Get portfolio analysis
 * Ask questions about holdings

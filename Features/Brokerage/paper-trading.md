@@ -58,7 +58,7 @@ Your FREE virtual trading account. Real market conditions, zero risk.
 
 **🌐 Web:**
 
-1. Go to app.Ape AI.com
+1. Go to app.askape.com
 2. Click **Portfolio** in left sidebar
 3. Scroll to **Brokerages** section
 
@@ -130,19 +130,19 @@ You'll see **"Ape Paper Trading"** at the TOP of the brokerage list.
 
 ### Get AI Analysis on Paper Trades
 
-**Use Ask Maverick:**
+**Use Companion:**
 
 📱 iOS / 🌐 Web:
 
 1. Go to **Portfolio**
-2. Tap/click **"Ask Maverick"**
+2. Tap/click **"Ask (Companion)"**
 3. Ask questions about your paper trades:
    * _"How is my paper portfolio doing?"_
    * _"Should I sell my AAPL position?"_
    * _"What did I learn from this trade?"_
    * _"Am I too concentrated in tech?"_
 
-Maverick analyzes your paper trades just like real ones!
+Your selected companion analyzes your paper trades just like real ones!
 
 ***
 
