@@ -155,11 +155,11 @@ Every stock gets **4 AI grades**: Fundamental, Technical, Sentiment, and Risk—
 
 Choose your path:
 
-**📱 iPhone User?** [Download on iOS →](../Getting%20Started/quick-start-ios/)
+**📱 iPhone User?** [Download on iOS →](https://apps.apple.com/us/app/ape-ai-stock-market-assistant/id6740998643)
 
 **🌐 Desktop User?** [Start on Web →](../Getting%20Started/quick-start-web/)
 
-**🤔 Still have questions?** [Check FAQ →](../Support/faq/)
+**🤔 Still have questions?** [Check FAQ →](https://askape.com/)
 
 ***
 

@@ -1102,15 +1102,15 @@ Improved After-Tax Returns ✓
 
 **Related Workflows:**
 
-* [Monthly Portfolio Review →](monthly-review/)
-* [Rebalancing Strategy →](portfolio-rebalance/)
-* [Tax-Loss Harvesting →](../../Features/Portfolio/tax-strategy/)
+* [Monthly Portfolio Review →](monthly-review.md)
+* [Rebalancing Strategy →](../Investor/Beginner/rebalancing-your-portfolio.md)
+* [Tax-Loss Harvesting →](../Investor/Intermediate/tax-loss-harvesting.md)
 
 **Advanced Skills:**
 
-* [Asset Allocation →](../../Features/Portfolio/asset-allocation/)
-* [Risk Management →](../../Features/trading/risk-management/)
-* [Portfolio Construction →](../../Features/Portfolio/construction/)
+* [Asset Allocation →](../Investor/Intermediate/asset-location-optimization.md)
+* [Risk Management →](../Pre-Investor/Education/risk-management-101.md)
+* [Portfolio Construction →](../Investor/Beginner/build-diversified-portfolio.md)
 
 ### Ask Sage or Money Monty
 

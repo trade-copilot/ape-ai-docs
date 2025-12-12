@@ -207,8 +207,6 @@ Common reasons users contact support:
 * Data not loading
 * Login problems
 
-**Tip:** Check the [FAQ](Support/faq/) and [Troubleshooting](Support/troubleshooting/) pages first - your answer might already be there!
-
 ***
 
 ## 🤝 Community Support
@@ -300,13 +298,12 @@ Thank you!
 
 **Need immediate answers?**
 
-* [FAQ →](Support/faq/) - Common questions answered
-* [Troubleshooting →](Support/troubleshooting/) - Fix common issues yourself
+* [FAQ →](https://askape.com/) - Common questions answered
 
 **Learn more:**
 
-* \[Getting Started →]\(../Getting Started/quick-start-ios) - Setup guides
-* [Feature Guides →](Features/Chat/basics/) - How to use features
+* [Getting Started](use-cases/pre-investor/getting-started/) - Setup guides
+* [Feature Guides →](features/) - How to use features
 
 ***
 

@@ -498,15 +498,14 @@ See what's hot right now. Catch momentum before everyone else.
 
 **Explore More Feed Features:**
 
-* [Feed Overview →](overview/) - All Feed components
-* [Personalized News →](news/) - Breaking news
-* [Daily Summary →](daily-summary/) - Market recap
-* [Banana Bites →](banana-bites/) - Learn while you scroll
+* [Feed Overview →](../../features/feed/) - All Feed components
+* [Personalized News →](news.md) - Breaking news
+* [Daily Summary →](daily-summary.md) - Market recap
+* [Banana Bites →](banana-bites.md) - Learn while you scroll
 
 **Use Trending in Workflows:**
 
-* [Following WSB Trends →](../../Use-Cases/Trader/wsb-trends/) - Trade social momentum
-* [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine/) - Use Pre-Market Movers
+* [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine.md) - Use Pre-Market Movers
 
 ***
 

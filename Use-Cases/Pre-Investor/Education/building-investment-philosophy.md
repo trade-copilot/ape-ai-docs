@@ -2,11 +2,11 @@
 
 Create your personal investment philosophy that will guide every decision for the next 30+ years. Your roadmap to wealth.
 
-**⏱️ Time:** 30-40 minutes&#x20;
+**⏱️ Time:** 30-40 minutes
 
-**💰 Cost:** Free (the most valuable document you'll ever write) **📱 Platform:** Any device (pen and paper recommended!)&#x20;
+**💰 Cost:** Free (the most valuable document you'll ever write) **📱 Platform:** Any device (pen and paper recommended!)
 
-**👤 Best for:** Beginners ready to commit to long-term investing success&#x20;
+**👤 Best for:** Beginners ready to commit to long-term investing success
 
 **🦍 Recommended Companion:** Sage (wisdom for long-term thinking)
 
@@ -994,9 +994,9 @@ Date: January 1, 2024
 
 **Start investing:**
 
-* [Your First $100 in ETFs →](../../Investor/Beginner/first-100-etfs/)
-* [Your First $100 in Stocks →](../../Investor/Beginner/first-100-stocks/)
-* [Build a Diversified Portfolio →](../../Investor/Beginner/build-portfolio/)
+* [Your First $100 in ETFs →](../../Beginner/first-100-etfs.md)
+* [Your First $100 in Stocks →](../../Beginner/first-100-stocks.md)
+* [Build a Diversified Portfolio →](../../Investor/Beginner/dividend-investing-strategy.md)
 
 **Practice first (recommended):**
 
@@ -1065,4 +1065,4 @@ make sense? Here it is: [paste your statement]
 
 **You've got this.** 🚀
 
-**Now go invest:** [Your First $100 in ETFs →](../../Investor/Beginner/first-100-etfs/)
+**Now go invest:** [Your First $100 in ETFs →](../../Beginner/first-100-etfs.md)

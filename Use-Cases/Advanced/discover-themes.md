@@ -1086,15 +1086,15 @@ Only suitable for believers in AI revolution.
 
 **Related Workflows:**
 
-* [Portfolio Analysis →](portfolio-analysis/)
-* [Monthly Review →](monthly-review/)
-* [Weekend Research →](../Trader/weekend-research/)
+* [Portfolio Analysis →](../../Features/Portfolio/ask-maverick.md)
+* [Monthly Review →](monthly-review.md)
+* [Weekend Research →](../Trader/weekend-research.md)
 
 **Advanced Skills:**
 
-* [Thematic Portfolio Construction →](../../Features/Portfolio/thematic-investing/)
+* [Thematic Portfolio Construction →](../Investor/Beginner/build-diversified-portfolio.md)
 * [Sector Rotation →](../../Features/trading/sector-rotation/)
-* [Trend Following →](../../Features/trading/trend-following/)
+* [Trend Following →](../../Features/Feed/trending.md)
 
 ### Ask Sage or Maverick
 

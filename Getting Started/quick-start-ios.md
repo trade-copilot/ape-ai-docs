@@ -209,14 +209,14 @@ Now that you're set up:
 
 **Complete Your Profile:**
 
-* [Choose Your Companion](../Features/Companions/choosing/) (if you haven't)
-* [Connect a Brokerage](../Features/Brokerage/connecting/)
+* [Choose Your Companion](../features/companions/) (if you haven't)
+* [Connect a Brokerage](../Features/Brokerage/connecting.md)
 
 **Learn the Features:**
 
-* [AI Chat Basics](../Features/Chat/basics/)
-* [Understanding Snapshot Grades](../Features/Ticker/snapshot-grades/)
-* [What Are Themes?](../Features/Themes/overview/)
+* [AI Chat Basics](../features/)
+* [Understanding Snapshot Grades](../Features/Ticker/snapshot-grades.md)
+* [What Are Themes?](../features/themes/)
 
 **Try a Workflow:**
 
@@ -227,10 +227,7 @@ Now that you're set up:
 
 ## ❓ Need Help?
 
-* [iOS-Specific Features](../platforms/ios-guide/)
-* [FAQ](../Support/faq/)
-* [Troubleshooting](../Support/troubleshooting/)
-* [Contact Support](../Support/contact/)
+* [Contact Support](../support.md)
 
 ***
 

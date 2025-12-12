@@ -575,18 +575,17 @@ Monitor your holdings, manage risk, know when to exit.
 
 **Improve Position Management:**
 
-* [Ask Maverick →](ask-maverick/) - Get AI advice on positions
-* [AI Analysis Tools →](ai-tools/) - Advanced portfolio analysis
+* [Portfolio AI→](ask-maverick.md) - Get AI advice on positions
+* [AI Analysis Tools →](ai-tools.md) - Advanced portfolio analysis
 
 **Learn Workflows:**
 
-* [Portfolio Health Check →](../../Use-Cases/Portfolio/health-check/) - Review your positions
-* [Getting AI Ideas →](../../Use-Cases/Portfolio/ai-ideas/) - Find new positions
+* [Portfolio Health Check →](ask-maverick.md) - Review your positions
 
 **Understand Stocks:**
 
-* [Ticker Page Overview →](../Ticker/overview/) - Deep dive on holdings
-* [AI Snapshot Grades →](../Ticker/snapshot-grades/) - How AI grades stocks
+* [Ticker Page Overview →](../Ticker/overview.md) - Deep dive on holdings
+* [AI Snapshot Grades →](../Ticker/snapshot-grades.md) - How AI grades stocks
 
 ***
 

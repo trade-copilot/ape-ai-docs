@@ -94,8 +94,8 @@ Find any stock in seconds. Search by ticker or company name.
 
 ## What's Next?
 
-* [Navigation Guide →](navigation/) - Get around the app
-* [Ticker Page →](../Ticker/overview/) - What you see after searching
+* [Navigation Guide →](navigation.md) - Get around the app
+* [Ticker Page →](../Ticker/overview.md) - What you see after searching
 
 ***
 

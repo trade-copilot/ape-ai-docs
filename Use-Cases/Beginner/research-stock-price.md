@@ -706,9 +706,9 @@ risk/reward if I buy now?"
 
 **Expand your analysis:**
 
-* [Understanding Company Fundamentals →](../../Features/tickers/fundamental-analysis/)
-* [Reading Financial Statements →](../../Features/tickers/financial-statements/)
-* [Bagholder Risks Analysis →](../../Features/tickers/risk-analysis/)
+* [Understanding Company Fundamentals →](../../Features/Ticker/company-story.md)
+* [Reading Financial Statements →](research-stock-price.md)
+* [Bagholder Risks Analysis →](../Pre-Investor/Education/risk-management-101.md)
 
 ***
 

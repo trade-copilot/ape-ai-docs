@@ -501,15 +501,10 @@ Breaking financial news filtered for what actually matters to YOU.
 
 **Explore More Feed Features:**
 
-* [Feed Overview →](overview/) - What's in the Feed
-* [Daily Summary →](daily-summary/) - AI market recap
-* [Banana Bites →](banana-bites/) - Educational content
-* [Trending Stocks →](trending/) - What's hot
-
-**Use News in Workflows:**
-
-* [Morning Market Check →](../../Use-Cases/daily/morning/) - Start with news
-* [Following WSB Trends →](../../Use-Cases/Trader/wsb-trends/) - Social + News
+* [Feed Overview →](../../features/feed/) - What's in the Feed
+* [Daily Summary →](daily-summary.md) - AI market recap
+* [Banana Bites →](banana-bites.md) - Educational content
+* [Trending Stocks →](trending.md) - What's hot
 
 ***
 

@@ -372,22 +372,21 @@ Here's what a real morning looks like:
 
 **Improve Your Skills:**
 
-* [Understanding Snapshot Grades](../learning/snapshot-grades/)
-* [Swing Trade Entry Timing](swing-entry/)
-* [Options Trade with AI](options-ai/)
+* [Understanding Snapshot Grades](../../Features/Ticker/snapshot-grades.md)
+* [Swing Trade Entry Timing](../Trader/swing-trade-from-chat.md)
+* [Options Trade with AI](../Trader/first-options-trade.md)
 
 **Manage Your Portfolio:**
 
-* [Portfolio Health Check](../Portfolio/health-check/)
-* [Ask Maverick](../../Features/Portfolio/ask-maverick/) questions
+* [Portfolio Health Check](../../Features/Portfolio/ask-maverick.md)
 
 ***
 
 ## Questions?
 
-* [Day Trading FAQ](../../Support/faq.md#day-trading)
-* [AI Chat Tips](../../Features/Chat/custom-prompts/)
-* [Contact Support](../../Support/contact/)
+* [Day Trading FAQ](../Trader/day-trade-from-chat.md)
+* [AI Chat Tips](../../Features/Chat/basics.md)
+* [Contact Support](../../support.md)
 
 ***
 

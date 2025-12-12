@@ -488,14 +488,13 @@ Portfolio AI **explains WHY behind advice:**
 
 **Explore Portfolio Features:**
 
-* [Portfolio Overview →](overview/) - Your holdings dashboard
-* [Tracking Positions →](positions/) - Manage holdings
-* [AI Analysis Tools →](ai-tools/) - Advanced features
+* [Portfolio Overview →](overview.md) - Your holdings dashboard
+* [Tracking Positions →](positions.md) - Manage holdings
+* [AI Analysis Tools →](../../Use-Cases/Advanced/portfolio-analysis.md) - Advanced features
 
 **Use in Workflows:**
 
-* [Portfolio Health Check →](../../Use-Cases/Portfolio/health-check/) - Full review with Maverick
-* [Getting AI Ideas →](../../Use-Cases/Portfolio/ai-ideas/) - Find new trades
+* [Portfolio Health Check →](ask-maverick.md) - Full review with AI
 
 ***
 

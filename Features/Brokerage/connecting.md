@@ -23,7 +23,7 @@ Step-by-step guide to linking your trading account to Ape AI.
 * ✅ 2FA device (if your broker uses it)
 * ✅ 5 minutes
 
-**Check if your broker is supported:** [See Supported Brokerages →](supported/)
+**Check if your broker is supported:** [See Supported Brokerages →](supported.md)
 
 ***
 
@@ -334,7 +334,7 @@ Step-by-step guide to linking your trading account to Ape AI.
 
 **Solutions:**
 
-* Check [Supported Brokerages](supported/) for your broker's feature list
+* Check [Supported Brokerages](supported.md) for your broker's feature list
 * Enable trading in Settings if you want execution
 * Contact Ape AI support for clarification
 
@@ -552,14 +552,14 @@ Step-by-step guide to linking your trading account to Ape AI.
 
 **After Connecting:**
 
-* [Portfolio Overview →](../Portfolio/overview/) - See your holdings
-* [Ask Maverick →](../Portfolio/ask-maverick/) - AI portfolio analysis
-* [Execute Trades →](../Chat/execute-trades/) - Trade from chat
+* [Portfolio Overview →](../Portfolio/overview.md) - See your holdings
+* [Ask Maverick →](../Portfolio/ask-maverick.md) - AI portfolio analysis
+* [Execute Trades →](../Chat/execute-trades.md) - Trade from chat
 
 **Not Sure Yet?**
 
-* [Why Connect? →](why-connect/) - Benefits explained
-* [Ape Paper Trading →](paper-trading/) - Start risk-free
+* [Why Connect? →](why-connect.md) - Benefits explained
+* [Ape Paper Trading →](<../../Use-Cases/Pre-Investor/Getting Started/paper-trading-practice.md>) - Start risk-free
 
 ***
 

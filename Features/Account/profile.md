@@ -102,7 +102,7 @@ Your account settings and preferences in one place.
 * Enable/disable trading
 * Disconnect brokerages
 
-[Learn more →](../Brokerage/connecting/)
+[Learn more →](../Brokerage/connecting.md)
 
 ***
 
@@ -116,7 +116,7 @@ Your account settings and preferences in one place.
 * Upgrade/downgrade
 * Cancel subscription
 
-[Learn more →](subscription/)
+[Learn more →](subscription.md)
 
 ***
 
@@ -182,8 +182,8 @@ Your account settings and preferences in one place.
 
 ## What's Next?
 
-* [Subscription Plans →](subscription/) - Upgrade options
-* [Brokerages →](../Brokerage/connecting/) - Connect accounts
+* [Subscription Plans →](subscription.md) - Upgrade options
+* [Brokerages →](../../features/brokerage/) - Connect accounts
 
 ***
 

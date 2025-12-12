@@ -255,9 +255,9 @@ Alternatively:
 
 **Want to learn more?**
 
-* [Profile Settings →](profile/) - Manage your account
-* [Why Connect Brokerage →](../Brokerage/why-connect/) - Unlock trade execution
-* [Execute Trades from Chat →](../Chat/execute-trades/) - See how it works
+* [Profile Settings →](profile.md) - Manage your account
+* [Why Connect Brokerage →](../Brokerage/why-connect.md) - Unlock trade execution
+* [Execute Trades from Chat →](../Chat/execute-trades.md) - See how it works
 
 ***
 

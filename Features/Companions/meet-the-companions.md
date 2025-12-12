@@ -484,18 +484,18 @@ Get to know the 4 AI trading personalities that power Ape AI.
 
 **Ready to Choose?**
 
-* [Choosing Your Companion →](choosing/) - Step-by-step selection guide
+* [Choosing Your Companion →](choosing.md) - Step-by-step selection guide
 
 **Learn More:**
 
-* [What Are Companions? →](what-are-companions/) - Companion basics
-* [AI Chat Basics →](../Chat/basics/) - See companions in action
+* [What Are Companions? →](what-are-companions.md) - Companion basics
+* [AI Chat Basics →](../Chat/basics.md) - See companions in action
 
 **Try Workflows:**
 
-* [Premarket Day Trading Routine](../../Use-Cases/Advanced/premarket-routine/) - Blitz style
-* [Momentum Trade Entry](../../Use-Cases/Advanced/momentum-entry/) - Maverick style
-* [My First Stock Research](../../Use-Cases/Beginner/first-research/) - Sage style
+* [Premarket Day Trading Routine](../../Use-Cases/Advanced/premarket-routine.md) - Blitz style
+* [Momentum Trade Entry](../../Use-Cases/Beginner/first-trade-from-chat.md) - Maverick style
+* [My First Stock Research](../../Use-Cases/Beginner/first-research.md) - Sage style
 
 ***
 

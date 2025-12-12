@@ -212,21 +212,21 @@ Now that you're set up:
 
 **Choose Your Companion:**
 
-* [What Are Companions?](../Features/Companions/what-are-companions/)
-* [Meet the Companions](../Features/Companions/meet-the-companions/)
+* [What Are Companions?](../features/companions/)
+* [Meet the Companions](../Features/Companions/meet-the-companions.md)
 
 Note: Companion selection is currently iOS-only but coming to web soon!
 
 **Learn the Features:**
 
-* [AI Chat Basics](../Features/Chat/basics/)
-* [Understanding Snapshot Grades](../Features/Ticker/snapshot-grades/)
-* [What Are Themes?](../Features/Themes/overview/)
+* [AI Chat Basics](../Features/Chat/basics.md)
+* [Understanding Snapshot Grades](../Features/Ticker/snapshot-grades.md)
+* [What Are Themes?](../features/themes/)
 
 **Try a Workflow:**
 
-* [My First Stock Research](../Use-Cases/Beginner/first-research/)
-* [Premarket Day Trading Routine](../Use-Cases/Advanced/premarket-routine/)
+* [My First Stock Research](../Use-Cases/Beginner/first-research.md)
+* [Premarket Day Trading Routine](../Use-Cases/Advanced/premarket-routine.md)
 
 ***
 
@@ -237,16 +237,13 @@ The iOS app syncs with web! Use both:
 * **Web** for deep research and analysis
 * **iOS** for quick checks on-the-go
 
-→ [Download iOS App](../Getting%20Started/quick-start-ios/)
+→ [Download iOS App](https://apps.apple.com/us/app/ape-ai-stock-market-assistant/id6740998643)
 
 ***
 
 ## ❓ Need Help?
 
-* [Web-Specific Features](../platforms/web-guide/)
-* [Keyboard Shortcuts Guide](../platforms/web-guide.md#keyboard-shortcuts)
-* [FAQ](../Support/faq/)
-* [Troubleshooting](../Support/troubleshooting/)
+* [Troubleshooting](../support.md)
 
 ***
 

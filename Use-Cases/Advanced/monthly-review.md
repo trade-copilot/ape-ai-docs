@@ -1125,15 +1125,15 @@ Or:
 
 **Related Workflows:**
 
-* [Portfolio Analysis with AI →](portfolio-analysis/)
-* [Rebalancing Strategy →](portfolio-rebalance/)
-* [Discover Themes →](discover-themes/)
+* [Portfolio Analysis with AI →](../../Features/Portfolio/ask-maverick.md)
+* [Rebalancing Strategy →](../Investor/Beginner/rebalancing-your-portfolio.md)
+* [Discover Themes →](../../Features/Themes/overview.md)
 
 **Advanced Skills:**
 
-* [Tax-Efficient Investing →](../../Features/Portfolio/tax-strategy/)
-* [Asset Allocation →](../../Features/Portfolio/asset-allocation/)
-* [Risk Management →](../../Features/trading/risk-management/)
+* [Tax-Efficient Investing →](../Investor/Intermediate/tax-loss-harvesting.md)
+* [Asset Allocation →](../Investor/Intermediate/asset-location-optimization.md)
+* [Risk Management →](../Pre-Investor/Education/risk-management-101.md)
 
 ### Ask Sage or Money Monty
 

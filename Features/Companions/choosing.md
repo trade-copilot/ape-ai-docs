@@ -286,9 +286,9 @@ Not happy with your choice? Switch anytime!
 
 **2. Try a Workflow** Based on your companion:
 
-* **Blitz:** [Premarket Day Trading Routine](../../Use-Cases/Advanced/premarket-routine/)
-* **Maverick:** [Swing Trade Entry Timing](../../Use-Cases/Advanced/swing-entry/)
-* **Sage:** [My First Stock Research](../../Use-Cases/Beginner/first-research/)
+* **Blitz:** [Premarket Day Trading Routine](../../Use-Cases/Advanced/premarket-routine.md)
+* **Maverick:** [Swing Trade Entry Timing](../../Use-Cases/Trader/swing-trade-from-chat.md)
+* **Sage:** [My First Stock Research](../../Use-Cases/Beginner/first-research.md)
 
 **3. Test It Out** Ask your AI questions:
 
@@ -330,16 +330,16 @@ See if the responses match what you need.
 
 **Learn About Each Companion:**
 
-* [Meet the Companions →](meet-the-companions/) - Deep dive on all 3
+* [Meet the Companions →](meet-the-companions.md) - Deep dive on all 3
 
 **Understand the System:**
 
-* [What Are Companions? →](what-are-companions/) - How companions work
+* [What Are Companions? →](what-are-companions.md) - How companions work
 
 **Use Your Companion:**
 
-* [AI Chat Basics →](../Chat/basics/) - Start asking questions
-* [Quick Prompts →](../Chat/quick-prompts/) - Companion-specific prompts
+* [AI Chat Basics →](../Chat/basics.md) - Start asking questions
+* [Quick Prompts →](../Chat/quick-prompts.md) - Companion-specific prompts
 
 ***
 

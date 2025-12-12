@@ -309,16 +309,16 @@ Be honest about your trading style:
 
 **Meet the Companions in Detail:**
 
-* [Meet the Companions →](meet-the-companions/) - Deep dive on each with examples
+* [Meet the Companions →](meet-the-companions.md) - Deep dive on each with examples
 
 **Choose Your Companion:**
 
-* [Choosing Your Companion →](choosing/) - Step-by-step selection guide
+* [Choosing Your Companion →](choosing.md) - Step-by-step selection guide
 
 **See It In Action:**
 
-* [AI Chat Basics](../Chat/basics/) - How companions change chat
-* [Quick Prompts](../Chat/quick-prompts/) - Companion-specific prompts
+* [AI Chat Basics](../Chat/basics.md) - How companions change chat
+* [Quick Prompts](../Chat/quick-prompts.md) - Companion-specific prompts
 
 ***
 

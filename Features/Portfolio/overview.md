@@ -538,14 +538,13 @@ The **Portfolio** is your command center for tracking investments.
 
 **Explore Portfolio Features:**
 
-* [Tracking Positions →](positions/) - Manage your holdings
-* [Ask Maverick →](ask-maverick/) - Portfolio AI assistant
-* [AI Analysis Tools →](ai-tools/) - Advanced portfolio analysis
+* [Tracking Positions →](positions.md) - Manage your holdings
+* [Portfolio AI →](ask-maverick.md) - Portfolio AI assistant
+* [AI Analysis Tools →](ai-tools.md) - Advanced portfolio analysis
 
 **Improve Your Portfolio:**
 
-* [Portfolio Health Check →](../../Use-Cases/Portfolio/health-check/) - Review your holdings
-* [Getting AI Ideas →](../../Use-Cases/Portfolio/ai-ideas/) - Find new opportunities
+* [Portfolio Health Check →](ask-maverick.md) - Review your holdings
 
 ***
 

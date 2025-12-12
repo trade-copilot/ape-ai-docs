@@ -458,14 +458,13 @@ Perfect for repeatable options trading!
 
 **Explore More Chat Features:**
 
-* [Chat Basics →](basics/) - How to use AI Chat
-* [Quick Prompts →](quick-prompts/) - Pre-built prompts
-* [Execute Trades →](execute-trades/) - Trade from chat
+* [Chat Basics →](basics.md) - How to use AI Chat
+* [Quick Prompts →](quick-prompts.md) - Pre-built prompts
+* [Execute Trades →](execute-trades.md) - Trade from chat
 
 **Try These Workflows:**
 
-* [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine/) - Uses custom prompts
-* [Morning Market Check →](../../Use-Cases/daily/morning/) - Build morning routine
+* [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine.md) - Uses custom prompts
 
 ***
 

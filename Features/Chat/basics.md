@@ -138,7 +138,7 @@ Instead of typing, use pre-built prompts:
 * Or press **Ctrl+P**
 * Select a prompt from the list
 
-[More on Quick Prompts →](quick-prompts/)
+[More on Quick Prompts →](quick-prompts.md)
 
 ### Voice Input (iOS)
 
@@ -154,7 +154,7 @@ Instead of typing, use pre-built prompts:
 
 ### Companion-Based Responses
 
-Your AI adapts to your [chosen companion](../Companions/what-are-companions/):
+Your AI adapts to your [chosen companion](../../features/companions/):
 
 **Example:** "Should I buy TSLA?"
 
@@ -342,19 +342,19 @@ Make chatting faster on web:
 
 ### Quick Prompts
 
-Pre-built questions for common scenarios. [Learn more →](quick-prompts/)
+Pre-built questions for common scenarios. [Learn more →](quick-prompts.md)
 
 ### Custom Prompts
 
-Write your own prompts and save them. [Learn more →](custom-prompts/)
+Write your own prompts and save them. [Learn more →](custom-prompts.md)
 
 ### Execute Trades from Chat
 
-AI finds setups, you execute from chat. [Learn more →](execute-trades/)
+AI finds setups, you execute from chat. [Learn more →](execute-trades.md)
 
-### Ask Maverick (Portfolio)
+### Portfolio AI
 
-AI specifically for portfolio questions. [Learn more →](../Portfolio/ask-maverick/)
+AI specifically for portfolio questions. [Learn more →](../Portfolio/ask-maverick.md)
 
 ***
 
@@ -378,19 +378,19 @@ AI specifically for portfolio questions. [Learn more →](../Portfolio/ask-maver
 
 **Explore Chat Features:**
 
-* [Quick Prompts →](quick-prompts/) - Pre-built questions
-* [Custom Prompts →](custom-prompts/) - Create your own
-* [Execute Trades →](execute-trades/) - Trade from chat
+* [Quick Prompts →](quick-prompts.md) - Pre-built questions
+* [Custom Prompts →](custom-prompts.md) - Create your own
+* [Execute Trades →](execute-trades.md) - Trade from chat
 
 **Try Workflows:**
 
-* [My First Stock Research →](../../Use-Cases/Beginner/first-research/)
-* [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine/)
+* [My First Stock Research →](../../Use-Cases/Beginner/first-research.md)
+* [Premarket Routine →](../../Use-Cases/Advanced/premarket-routine.md)
 
 **Learn About Companions:**
 
-* [What Are Companions? →](../Companions/what-are-companions/)
-* [Meet the Companions →](../Companions/meet-the-companions/)
+* [What Are Companions? →](../Companions/meet-the-companions.md)
+* [Meet the Companions →](../../features/companions/)
 
 ***
 

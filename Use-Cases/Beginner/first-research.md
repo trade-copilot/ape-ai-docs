@@ -208,7 +208,7 @@ After your research, you should know:
 2. **Check multiple sources** - Ape AI is one tool, not the only tool
 3. **Read the risks** - Don't just focus on the upside
 4. **Compare to alternatives** - Check Related Companies on the ticker page
-5. **Start small** - First investment? Use [Paper Trading](../../Features/Brokerage/paper-trading/) first!
+5. **Start small** - First investment? Use [Paper Trading](<../Pre-Investor/Getting Started/paper-trading-practice.md>) first!
 
 ***
 
@@ -238,21 +238,21 @@ After your research, you should know:
 
 **Practice with paper trading:**
 
-* [Get Ape Paper Trading Account](../../Features/Brokerage/paper-trading/)
+* [Get Ape Paper Trading Account](<../Pre-Investor/Getting Started/paper-trading-practice.md>)
 * Place a practice trade
 * Watch how it performs
 
 **Research more stocks:**
 
 * Try the same process with other tickers
-* Use [Themes](../../Features/Themes/creating/) to find similar stocks
+* Use [Themes](../../features/themes/) to find similar stocks
 * Ask AI: _"What are stocks similar to TSLA?"_
 
 **Learn more about analysis:**
 
-* [Understanding Snapshot Grades](../learning/snapshot-grades/)
-* [Bulls vs Bears Explained](../../Features/Ticker/bulls-bears/)
-* [Company Story Deep Dive](../../Features/Ticker/company-story/)
+* [Understanding Snapshot Grades](../../Features/Ticker/snapshot-grades.md)
+* [Bulls vs Bears Explained](../../Features/Ticker/bulls-bears.md)
+* [Company Story Deep Dive](../../Features/Ticker/company-story.md)
 
 ***
 
@@ -274,14 +274,13 @@ After your research, you should know:
 
 **Still not sure about something?**
 
-* [FAQ](../../Support/faq/)
-* [Contact Support](../../Support/contact/)
-* Ask in \[Discord community]\(https://discord.gg/Ape AI)
+* [Contact Support](../../support.md)
+* Ask in Discord
 
 **Want to try another workflow?**
 
-* [Finding My First Investment](first-investment/) - Build a long-term portfolio
-* [Learning with Paper Trading](paper-trading/) - Practice risk-free
+* [Finding My First Investment](first-research.md) - Build a long-term portfolio
+* [Learning with Paper Trading](<../Pre-Investor/Getting Started/paper-trading-practice.md>) - Practice risk-free
 
 ***
 

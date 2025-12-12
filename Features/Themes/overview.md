@@ -72,7 +72,7 @@ Natural language stock screener. Find stocks by describing what you want.
 
 **One tap to add these to your feed.**
 
-[Learn more about Suggested Themes →](suggested/)
+[Learn more about Suggested Themes →](suggested.md)
 
 ***
 
@@ -91,7 +91,7 @@ Natural language stock screener. Find stocks by describing what you want.
 
 **Literally anything you can describe, AI can find.**
 
-[Learn how to Create Themes →](creating/)
+[Learn how to Create Themes →](creating.md)
 
 ***
 
@@ -473,13 +473,12 @@ Natural language stock screener. Find stocks by describing what you want.
 
 **Explore Themes:**
 
-* [Suggested Themes →](suggested/) - Pre-built themes to try
-* [Creating Themes →](creating/) - Step-by-step creation guide
+* [Suggested Themes →](suggested.md) - Pre-built themes to try
+* [Creating Themes →](creating.md) - Step-by-step creation guide
 
 **Use Themes in Workflows:**
 
-* [Getting AI Trade Ideas →](../../Use-Cases/Portfolio/ai-ideas/) - Generate ideas from themes
-* [Swing Trade Entry Timing →](../../Use-Cases/Advanced/swing-entry/) - Find setups with themes
+* [Swing Trade Entry Timing →](../../Use-Cases/Trader/swing-trade-from-chat.md) - Find setups with themes
 
 ***
 

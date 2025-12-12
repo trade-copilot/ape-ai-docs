@@ -184,8 +184,8 @@ Your selected companion analyzes your paper trades just like real ones!
 
 **Resources:**
 
-* [Learning Options Trading](../../Use-Cases/learning/options-learning/)
-* [Learning with Paper Trading Workflow](../../Use-Cases/Beginner/paper-trading/)
+* [Learning Options Trading](../../Use-Cases/Trader/learning-options-paper.md)
+* [Learning with Paper Trading Workflow](../../Use-Cases/Beginner/paper-trading.md)
 
 ***
 
@@ -352,18 +352,18 @@ Use Ape AI to learn:
 
 **Start Trading:**
 
-* [Learning with Paper Trading Workflow](../../Use-Cases/Beginner/paper-trading/) - Step-by-step guide
-* [My First Stock Research](../../Use-Cases/Beginner/first-research/) - Find what to trade
+* [Learning with Paper Trading Workflow](../../Use-Cases/Beginner/paper-trading.md) - Step-by-step guide
+* [My First Stock Research](../../Use-Cases/Beginner/first-research.md) - Find what to trade
 
 **Learn Strategies:**
 
-* [Premarket Day Trading Routine](../../Use-Cases/Advanced/premarket-routine/)
-* [Swing Trade Entry Timing](../../Use-Cases/Advanced/swing-entry/)
+* [Premarket Day Trading Routine](../../Use-Cases/Advanced/premarket-routine.md)
+* [Swing Trade Entry Timing](../../Use-Cases/Trader/swing-trading-routine.md)
 
 **Connect Real Brokerages (When Ready):**
 
-* [Supported Brokerages](supported/)
-* [Connecting Your Brokerage](connecting/)
+* [Supported Brokerages](supported.md)
+* [Connecting Your Brokerage](connecting.md)
 
 ***
 
@@ -385,9 +385,8 @@ Use Ape AI to learn:
 
 ## 📞 Need Help?
 
-* [Paper Trading FAQ](../../Support/faq.md#paper-trading)
-* [Troubleshooting](../../Support/troubleshooting/)
-* [Contact Support](../../Support/contact/)
+* [Paper Trading FAQ](paper-trading.md)
+* [Contact Support](../../support.md)
 
 ***
 
